@@ -158,13 +158,15 @@ def main() -> int:
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--max-detail-pages", type=int, default=200)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--skip-github", action="store_true")
+    parser.add_argument("--skip-google", action="store_true")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
     config = yaml.safe_load((ROOT / "config/sources.yml").read_text(encoding="utf-8")) or {}
     discovered: list[dict] = []
 
-    for source in config.get("extra_github_discovery", []) or []:
+    for source in ([] if args.skip_github else (config.get("extra_github_discovery", []) or [])):
         if not source.get("enabled", True):
             continue
         try:
@@ -175,7 +177,7 @@ def main() -> int:
             LOG.warning("extra GitHub %s failed: %s", source, exc)
 
     search_config = config.get("serpapi_google_jobs") or {}
-    if search_config.get("enabled", False):
+    if not args.skip_google and search_config.get("enabled", False):
         try:
             found = google_jobs(search_config)
             LOG.info("Google Jobs via SerpAPI: %d", len(found))
