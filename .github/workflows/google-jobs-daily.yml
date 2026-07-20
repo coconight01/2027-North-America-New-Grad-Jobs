@@ -72,13 +72,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          if git diff --quiet && [ -z "$(git status --porcelain)" ]; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- README.md data
+          if git diff --cached --quiet; then
             echo "No Google Jobs changes."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/jobs.csv data/jobs.json data/google_jobs_status.json
           git commit -m "chore: update jobs from Google Jobs"
           git pull --rebase origin main
           git push origin HEAD:main
