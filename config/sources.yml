@@ -1,0 +1,50 @@
+# Employer ATS boards and community GitHub discovery feeds.
+# A failed source is logged and skipped; it does not stop the whole update.
+
+greenhouse:
+  - {company: IMC Trading, board: imc}
+  - {company: Twitch, board: twitch}
+  - {company: Nuro, board: nuro}
+  - {company: xAI, board: xai}
+  - {company: Scale AI, board: scaleai}
+  - {company: Anduril, board: andurilindustries}
+  - {company: SpaceX, board: spacex}
+  - {company: Datadog, board: datadog}
+  - {company: Lyft, board: lyft}
+  - {company: SimpliSafe, board: simplisafe}
+  - {company: Babel Street, board: babelstreet}
+  - {company: Scout Motors, board: scoutmotors}
+
+lever:
+  - {company: Palantir, site: palantir}
+  - {company: Match Group, site: matchgroup}
+  - {company: PingWind, site: pingwind}
+  - {company: Voltus, site: voltus}
+  - {company: ShyftLabs, site: shyftlabs}
+
+ashby:
+  - {company: Pylon, board: pylon-labs}
+  - {company: Netic, board: netic}
+  - {company: Northslope, board: northslope-technologies}
+  - {company: Ellipsis Labs, board: ellipsislabs}
+  - {company: Faros AI, board: faros-ai}
+  - {company: Lightfield, board: Lightfield}
+  - {company: Notion, board: notion}
+  - {company: Apex Technology, board: apex-technology-inc}
+
+smartrecruiters:
+  - {company: Western Digital, slug: WesternDigital}
+
+github_discovery:
+  - {repo: SimplifyJobs/New-Grad-Positions, ref: dev, path: README.md, max_rows: 800}
+  - {repo: vanshb03/New-Grad-2027, ref: dev, path: README.md, max_rows: 800}
+  - {repo: zapplyjobs/New-Grad-Jobs-2027, ref: main, path: README.md, max_rows: 500}
+  - {repo: zapplyjobs/New-Grad-Software-Engineering-Jobs-2027, ref: main, path: README.md, max_rows: 500}
+  - {repo: zapplyjobs/New-Grad-Data-Science-Jobs-2027, ref: main, path: README.md, max_rows: 400}
+  - {repo: zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027, ref: main, path: README.md, max_rows: 400}
+  - {repo: zapplyjobs/Canada-Jobs-2027, ref: main, path: README.md, max_rows: 400}
+  - {repo: aprameyak/2027-tech-jobs, ref: main, path: README.md, max_rows: 400}
+  - {repo: HackedRico/2027-cyber-jobs, ref: main, path: README.md, max_rows: 300}
+  - {repo: DereC4/internships-and-newgrad, ref: main, path: README.md, max_rows: 300}
+  - {repo: Edamame-Labs/2027-new-grad-jobs, ref: main, path: README.md, max_rows: 300}
+  - {repo: ambicuity/New-Grad-Jobs, ref: main, path: README.md, max_rows: 500}
