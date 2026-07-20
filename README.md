@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-20** · Open roles: **290**
+> Last automated update: **2026-07-20** · Open roles: **289**
 
 Automatically discovers roles from public ATS feeds and GitHub job repositories, then visits eligible job pages to extract visa language, salary ranges, and common skills.
 
@@ -318,7 +318,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Ziplines** | [Subject Matter Expert - SME - AI for Financial Planning & Analysis - Late Summer 2026](https://jobs.ashbyhq.com/ziplines/bf8798a6-6ea0-4642-bf26-b8a31bf79eb7) | USA | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Wesco** | [2027 Information Technology Development Program (Starts June 2027)](https://jobright.ai/jobs/info/6a5e5262050c423c792ee7f9) | Pittsburgh, PA, United States | ❔ | Not listed | — | 2026-07-20 |
 | **Thermo Fisher Scientific** | [FSP Associate Research Scientist: Analytical Outsourcing](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/New-Brunswick-New-Jersey-USA/FSP-Associate-Research-Scientist--Analytical-Outsourcing_R-01360541) | New Brunswick, NJ | ❔ | Not listed | — | 2026-07-20 |
-| **TSTC** | [Junior Data Analyst](https://jobs.lever.co/totalsystech/e96d1334-8c05-443a-a866-1c9b00bc9638) | Remote - Arlington, VA | ❔ | Not listed | — | 2026-07-20 |
 | **Snowflake** | [AI Research Scientist - New Grad - Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | Bellevue, WA | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Raytheon** | [Dyrektor/ka ds. Rozwoju i Wdrożeń Danych i AI - Zdalnie](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771) | Remote | ❔ | Not listed | — | 2026-07-20 |
 | **Radiance Technologies** | [Junior Data Analyst](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/All-Remote-Locations/Junior-Data-Analyst_HR102245) | Remote | ❔ | Not listed | — | 2026-07-20 |
