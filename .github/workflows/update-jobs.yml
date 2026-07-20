@@ -23,9 +23,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    env:
-      # Optional. When absent, Google Jobs discovery is skipped and all free sources still run.
-      SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -40,8 +37,8 @@ jobs:
       - name: Discover and enrich jobs
         run: python scripts/update_jobs.py --workers 6 --max-detail-pages 300
 
-      - name: Discover from expanded GitHub lists and Google Jobs
-        run: python scripts/extra_discovery.py --workers 6 --max-detail-pages 250
+      - name: Discover from expanded GitHub lists
+        run: python scripts/extra_discovery.py --workers 6 --max-detail-pages 250 --skip-google
 
       - name: Commit changes
         run: |
