@@ -19,20 +19,29 @@ jobs:
     env:
       SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
     steps:
+      - name: Google Jobs not configured
+        if: env.SERPAPI_KEY == ''
+        run: echo "SERPAPI_KEY is not configured; skipping optional Google Jobs discovery."
+
       - uses: actions/checkout@v4
+        if: env.SERPAPI_KEY != ''
 
       - uses: actions/setup-python@v5
+        if: env.SERPAPI_KEY != ''
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: env.SERPAPI_KEY != ''
         run: python -m pip install -r requirements.txt
 
       - name: Discover Google Jobs
+        if: env.SERPAPI_KEY != ''
         run: python scripts/extra_discovery.py --workers 5 --max-detail-pages 120 --skip-github
 
       - name: Commit changes
+        if: env.SERPAPI_KEY != ''
         run: |
           if git diff --quiet; then
             echo "No Google Jobs changes."
