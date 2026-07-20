@@ -71,5 +71,6 @@ serpapi_google_jobs:
     - {q: '"2027" "new grad" software engineer', location: 'United States', gl: us}
     - {q: '"2027 start" graduate software engineer', location: 'United States', gl: us}
     - {q: '"2027" graduate machine learning engineer', location: 'United States', gl: us}
+    - {q: '"2027 start" ("ML systems" OR "AI infrastructure" OR "distributed systems") engineer', location: 'United States', gl: us}
     - {q: '"2027" quantitative researcher graduate', location: 'United States', gl: us}
     - {q: '"2027" new grad software engineer', location: 'Canada', gl: ca}
