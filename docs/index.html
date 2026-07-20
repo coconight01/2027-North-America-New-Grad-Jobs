@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>2027 North America New Grad Jobs</title>
+  <style>
+    :root{color-scheme:light dark;--bg:#f6f8fa;--card:#fff;--text:#1f2328;--muted:#59636e;--border:#d0d7de;--link:#0969da;--head:#f6f8fa}
+    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--text:#e6edf3;--muted:#8b949e;--border:#30363d;--link:#58a6ff;--head:#21262d}}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    main{max-width:1500px;margin:0 auto;padding:28px 18px 60px}h1{margin:0 0 4px;font-size:30px}.sub{color:var(--muted);margin-bottom:20px}
+    .controls{display:grid;grid-template-columns:minmax(220px,2fr) repeat(3,minmax(140px,1fr));gap:10px;margin-bottom:14px}
+    input,select{width:100%;padding:10px 12px;border:1px solid var(--border);border-radius:7px;background:var(--card);color:var(--text);font:inherit}
+    .summary{color:var(--muted);margin:8px 0 14px}.table-wrap{overflow:auto;border:1px solid var(--border);border-radius:9px;background:var(--card)}
+    table{width:100%;border-collapse:collapse;min-width:1050px}th,td{padding:11px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}th{position:sticky;top:0;background:var(--head);z-index:1;white-space:nowrap}tr:last-child td{border-bottom:0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.visa{font-size:17px}.skills{max-width:300px}.company{font-weight:600}.empty{padding:32px;text-align:center;color:var(--muted)}
+    @media(max-width:850px){.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}h1{font-size:25px}}
+  </style>
+</head>
+<body>
+<main>
+  <h1>2027 North America New Grad Jobs</h1>
+  <div class="sub">All job links open in a new tab. Roles explicitly requiring U.S. citizenship or a security clearance are excluded.</div>
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search company, role, location, or skills…">
+    <select id="category"><option value="">All categories</option></select>
+    <select id="visa"><option value="">All visa statuses</option><option value="Yes">Sponsorship stated</option><option value="No">No sponsorship</option><option value="Unknown">Unknown</option></select>
+    <select id="country"><option value="">All locations</option><option value="United States">United States</option><option value="Canada">Canada</option></select>
+  </div>
+  <div id="summary" class="summary">Loading jobs…</div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Category</th><th>Visa</th><th>Salary</th><th>Skills</th><th>Added</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</main>
+<script>
+const DATA_URL='https://raw.githubusercontent.com/coconight01/2027-North-America-New-Grad-Jobs/main/data/jobs.json';
+let jobs=[];
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const visaIcon=v=>v==='Yes'?'✅':v==='No'?'❌':'❔';
+function countryOf(j){const s=((j.country||'')+' '+(j.location||'')).toLowerCase();return s.includes('canada')||/(ontario|quebec|british columbia|alberta|toronto|vancouver|montreal|waterloo)/.test(s)?'Canada':'United States'}
+function render(){
+  const q=document.querySelector('#search').value.trim().toLowerCase(),cat=document.querySelector('#category').value,visa=document.querySelector('#visa').value,country=document.querySelector('#country').value;
+  const filtered=jobs.filter(j=>j.status==='Open').filter(j=>!cat||j.category===cat).filter(j=>!visa||(j.sponsorship||'Unknown')===visa).filter(j=>!country||countryOf(j)===country).filter(j=>!q||[j.company,j.role,j.location,j.skills,j.category].join(' ').toLowerCase().includes(q));
+  document.querySelector('#summary').textContent=`Showing ${filtered.length} of ${jobs.filter(j=>j.status==='Open').length} open roles · last data refresh ${jobs.reduce((m,j)=>j.last_verified>m?j.last_verified:m,'Unknown')}`;
+  const tbody=document.querySelector('#rows');
+  tbody.innerHTML=filtered.length?filtered.map(j=>`<tr><td class="company">${esc(j.company)}</td><td><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.role)}</a></td><td>${esc(j.location)}</td><td>${esc(j.category)}</td><td class="visa" title="${esc(j.sponsorship||'Unknown')}">${visaIcon(j.sponsorship)}</td><td>${esc(j.salary||'Not listed')}</td><td class="skills">${esc(j.skills||'—')}</td><td>${esc(j.date_added||'')}</td></tr>`).join(''):`<tr><td colspan="8" class="empty">No matching jobs.</td></tr>`;
+}
+fetch(DATA_URL,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(data=>{
+  jobs=data.filter(j=>j.citizenship_required!=='Yes');
+  const cats=[...new Set(jobs.map(j=>j.category).filter(Boolean))].sort();document.querySelector('#category').innerHTML+=[...cats].map(x=>`<option>${esc(x)}</option>`).join('');render();
+}).catch(e=>{document.querySelector('#summary').textContent=`Could not load job data: ${e.message}`;document.querySelector('#rows').innerHTML='<tr><td colspan="8" class="empty">Please refresh shortly.</td></tr>'});
+for(const id of ['search','category','visa','country'])document.querySelector('#'+id).addEventListener(id==='search'?'input':'change',render);
+</script>
+</body>
+</html>
