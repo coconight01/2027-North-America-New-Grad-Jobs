@@ -48,3 +48,28 @@ github_discovery:
   - {repo: DereC4/internships-and-newgrad, ref: main, path: README.md, max_rows: 300}
   - {repo: Edamame-Labs/2027-new-grad-jobs, ref: main, path: README.md, max_rows: 300}
   - {repo: ambicuity/New-Grad-Jobs, ref: main, path: README.md, max_rows: 500}
+
+# Path-aware sources handled by scripts/extra_discovery.py.
+# `assume_2027` is used only for repositories explicitly branded as 2027 new-grad lists.
+extra_github_discovery:
+  - {repo: speedyapply/2027-SWE-College-Jobs, ref: main, path: NEW_GRAD_USA.md, max_rows: 650, assume_2027: true}
+  - {repo: speedyapply/2027-AI-College-Jobs, ref: main, path: NEW_GRAD_USA.md, max_rows: 550, assume_2027: true}
+
+  # Broad daily feeds: only rows that explicitly mention 2027 pass the strict filter.
+  - {repo: jobright-ai/2026-Software-Engineer-New-Grad, ref: master, path: README.md, max_rows: 500}
+  - {repo: jobright-ai/2026-Engineering-New-Grad, ref: master, path: README.md, max_rows: 400}
+  - {repo: jobright-ai/2026-Data-Analysis-New-Grad, ref: master, path: README.md, max_rows: 300}
+  - {repo: jobright-ai/2026-Product-Management-New-Grad, ref: master, path: README.md, max_rows: 300}
+
+# Optional Google Jobs discovery through SerpAPI.
+# It is skipped automatically until the repository secret SERPAPI_KEY is set.
+serpapi_google_jobs:
+  enabled: true
+  api_key_env: SERPAPI_KEY
+  max_pages: 1
+  queries:
+    - {q: '"2027" "new grad" software engineer', location: 'United States', gl: us}
+    - {q: '"2027 start" graduate software engineer', location: 'United States', gl: us}
+    - {q: '"2027" graduate machine learning engineer', location: 'United States', gl: us}
+    - {q: '"2027" quantitative researcher graduate', location: 'United States', gl: us}
+    - {q: '"2027" new grad software engineer', location: 'Canada', gl: ca}
