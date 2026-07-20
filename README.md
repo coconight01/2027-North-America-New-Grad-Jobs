@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-20** · Open roles: **285**
+> Last automated update: **2026-07-20** · Open roles: **290**
 
 Automatically discovers roles from public ATS feeds and GitHub job repositories, then visits eligible job pages to extract visa language, salary ranges, and common skills.
 
@@ -16,7 +16,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | Company | Role | Location | Visa | Salary | Skills | Added |
 |---|---|---|---|---|---|---|
 | **Zettabyte** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a) | USA | ❔ | Not listed | JavaScript | 2026-07-20 |
-| **Wyetech** | [Software Engineer 1](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) | Maryland, USA | ❔ | Not listed | — | 2026-07-20 |
 | **Western Digital** | [Summer 2027 - Software Engineering In...](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | San Jose, CA | ❔ | Not listed | Python, C++, Java, Go, JavaScript, SQL, Linux, Data Structures, Algorithms, Networking | 2026-07-20 |
 | **Waymark** | [Junior Software Engineer](https://job-boards.greenhouse.io/waymark/jobs/4711827005) | Remote - USA | ❔ | $106,000–$137,000 | TypeScript, React | 2026-07-20 |
 | **WHOOP** | [Software Engineer I - Backend](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133) | Boston, MA | ❔ | Not listed | JavaScript | 2026-07-20 |
@@ -216,7 +215,7 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **GlobalFoundries** | [Global Tapeout and Mask Operations - Biz App and Data Engineer - 2026 New College Graduate](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) | USA +2 | ❔ | Not listed | — | 2026-07-20 |
 | **Flashpoint** | [Data Engineer I](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705) | Remote - USA | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Capital Technology Group** | [Junior Data Engineer](https://boards.greenhouse.io/capitaltg/jobs/5181750007?gh_jid=5181750007) | Remote | ❔ | Not listed | — | 2026-07-20 |
-| **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Remote | ❔ | Not listed | — | 2026-07-20 |
+| **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Remote | ❔ | Not listed | Machine Learning | 2026-07-20 |
 | **Amazon** | [Data Engineer I - Amazon Publisher Monetization - Analytics](https://www.amazon.jobs/jobs/10414428/apply) | Seattle, WA | ❔ | $178k/yr | Python, SQL, AWS | 2026-07-20 |
 
 ## Infrastructure / Systems
@@ -271,6 +270,12 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Kpler** | [Junior Data Analyst - Nat Gas/LNG](https://jobs.lever.co/kpler/781e5529-48f6-4ece-ae44-b96ec3c5c9d4) | Houston, TX | ❔ | Not listed | Python, SQL | 2026-07-20 |
 | **Jane Street** | [Quantitative Trader Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573523002) | New York City, NY | ❔ | $398k/yr | Machine Learning, Deep Learning | 2026-07-20 |
 | **Jane Street** | [Quantitative Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573726002) | New York City, NY | ❔ | $398k/yr | Python, Machine Learning, Deep Learning | 2026-07-20 |
+| **IMC Trading** | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | Chicago, United States | ❔ | Not listed | Python, C++, Algorithms, Verilog | 2026-07-20 |
+| **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Chicago, United States | ❔ | Not listed | Python, PyTorch, TensorFlow, JAX, Machine Learning, Deep Learning | 2026-07-20 |
+| **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-20 |
+| **IMC Trading** | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-20 |
+| **IMC Trading** | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | Chicago, United States | ❔ | Not listed | Python, Algorithms | 2026-07-20 |
+| **IMC Trading** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | Chicago, United States | ❔ | Not listed | Python, C++, Java, Data Structures, Algorithms | 2026-07-20 |
 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | New York City, NY | ❔ | $412k/yr | Python, Machine Learning, Algorithms, Verilog | 2026-07-20 |
 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 PhDs](https://jobright.ai/jobs/info/6a5508722084cd792b4759a7) | New York, NY, United States | ❔ | Not listed | Python, Machine Learning, Algorithms | 2026-07-20 |
 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | New York, NY, United States | ❔ | Not listed | Python, C++, Machine Learning, Algorithms | 2026-07-20 |
