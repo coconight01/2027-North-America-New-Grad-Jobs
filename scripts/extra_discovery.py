@@ -16,6 +16,15 @@ from update_jobs import (
 MARKDOWN_LINK = re.compile(r"\[([^\]]*)\]\((https?://[^)]+)\)")
 HTML_LINK = re.compile(r'href=["\'](https?://[^"\']+)["\']', re.I)
 BLOCKED_LINKS = ("github.com/", "simplify.jobs/p/")
+# Only companies whose linked postings have been manually verified to require
+# U.S. citizenship/security clearance across the relevant entry-level roles.
+VERIFIED_CITIZENSHIP_ONLY_COMPANIES = {"wyetech"}
+
+def normalized_company(value):
+    return re.sub(r"[^a-z0-9]+", "", (value or "").casefold())
+
+def verified_citizenship_only(item):
+    return normalized_company(item.get("company", "")) in VERIFIED_CITIZENSHIP_ONLY_COMPANIES
 
 def application_link(line):
     links=[url for _,url in MARKDOWN_LINK.findall(line)]+HTML_LINK.findall(line)
@@ -49,7 +58,7 @@ def github_table(source):
         if len(cells)>=5:
             salary=text_cell(cells[3])
             if "$" in salary or re.search(r"\b\d{2,3}k/(?:yr|year)\b",salary,re.I): item["salary"]=salary
-        if not citizen_required(item): rows.append(item)
+        if not citizen_required(item) and not verified_citizenship_only(item): rows.append(item)
     return rows
 
 def google_jobs(source):
@@ -70,7 +79,7 @@ def google_jobs(source):
                 if not apply_url: continue
                 description=" ".join([result.get("description","")," ".join(result.get("extensions") or [])])
                 item=job(result.get("company_name","Unknown"),result.get("title",""),result.get("location","Unknown"),apply_url,"Google Jobs via SerpAPI",description)
-                if not citizen_required(item): rows.append(item)
+                if not citizen_required(item) and not verified_citizenship_only(item): rows.append(item)
             next_token=(data.get("serpapi_pagination") or {}).get("next_page_token")
             if not next_token: break
     return rows
@@ -89,7 +98,7 @@ def main():
         try:
             found=google_jobs(search); LOG.info("Google Jobs via SerpAPI: %d",len(found)); discovered.extend(found)
         except Exception as e: LOG.warning("Google Jobs discovery failed: %s",e)
-    candidates=dedupe([x for x in discovered if eligible(x,False)])
+    candidates=dedupe([x for x in discovered if eligible(x,False) and not verified_citizenship_only(x)])
     if candidates:
         targets=candidates[:a.max_detail_pages]
         with ThreadPoolExecutor(max_workers=max(1,a.workers)) as ex:
@@ -97,8 +106,8 @@ def main():
             for f in as_completed(futures):
                 try: candidates[futures[f]]=f.result()
                 except Exception as e: LOG.warning("extra enrichment failed: %s",e)
-        candidates=dedupe([x for x in candidates if not citizen_required(x)])
-    merged=dedupe(load_csv(ROOT/"data/jobs.csv")+candidates)
+        candidates=dedupe([x for x in candidates if not citizen_required(x) and not verified_citizenship_only(x)])
+    merged=dedupe([x for x in load_csv(ROOT/"data/jobs.csv")+candidates if not verified_citizenship_only(x)])
     if a.dry_run:
         print(f"Discovered {len(candidates)} eligible extra jobs; merged total {len(merged)}")
         for x in candidates[:30]: print(x["company"],"-",x["role"],"-",x["location"])
