@@ -23,12 +23,7 @@ jobs:
     env:
       SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
     steps:
-      - name: Google Jobs not configured
-        if: env.SERPAPI_KEY == ''
-        run: echo "SERPAPI_KEY is not configured; skipping optional Google Jobs discovery."
-
       - uses: actions/checkout@v4
-        if: env.SERPAPI_KEY != ''
         with:
           fetch-depth: 0
 
@@ -47,19 +42,47 @@ jobs:
         run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py
 
       - name: Discover Google Jobs
+        id: google_discovery
         if: env.SERPAPI_KEY != ''
+        continue-on-error: true
         run: python scripts/extra_discovery.py --workers 5 --max-detail-pages 120 --skip-github
 
-      - name: Commit changes
-        if: env.SERPAPI_KEY != ''
+      - name: Record Google Jobs status
+        env:
+          DISCOVERY_OUTCOME: ${{ steps.google_discovery.outcome }}
         run: |
-          if git diff --quiet; then
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          configured = bool(os.environ.get("SERPAPI_KEY", "").strip())
+          outcome = os.environ.get("DISCOVERY_OUTCOME", "skipped")
+          status = {
+              "configured": configured,
+              "discovery_outcome": outcome,
+              "checked_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+          }
+          Path("data").mkdir(exist_ok=True)
+          Path("data/google_jobs_status.json").write_text(
+              json.dumps(status, indent=2) + "\n", encoding="utf-8"
+          )
+          print(status)
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet && [ -z "$(git status --porcelain)" ]; then
             echo "No Google Jobs changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/jobs.csv data/jobs.json
+          git add README.md data/jobs.csv data/jobs.json data/google_jobs_status.json
           git commit -m "chore: update jobs from Google Jobs"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Fail when Google discovery failed
+        if: env.SERPAPI_KEY != '' && steps.google_discovery.outcome == 'failure'
+        run: exit 1
