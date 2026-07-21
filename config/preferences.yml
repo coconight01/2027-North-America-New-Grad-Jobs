@@ -1,0 +1,65 @@
+hard_filters:
+  # Explicitly stated no-sponsorship roles are removed.
+  exclude_no_sponsorship: true
+
+  # Remove a role only when the entire stated annual range is below this.
+  # Unknown salary is retained and ranked lower.
+  min_annual_salary: 100000
+
+  # Electrical / mechanical / ASIC / RTL / FPGA / verification and similar
+  # pure-hardware roles are removed. Software, ML systems, compiler, runtime,
+  # CUDA and infrastructure roles remain eligible.
+  exclude_pure_hardware: true
+
+ranking:
+  base_score: 40
+  target_annual_salary: 200000
+
+  sponsorship_yes_bonus: 18
+  sponsorship_unknown_penalty: 8
+  salary_unknown_penalty: 5
+
+  # PhD-only roles stay visible as stretch roles. When the remaining role is
+  # exceptionally aligned with the target keywords, the penalty is smaller.
+  phd_penalty: 42
+  phd_strong_fit_penalty: 12
+  phd_rescue_fit_score: 34
+
+  explicit_2027_bonus: 5
+
+  category_weights:
+    Infrastructure / Systems: 24
+    AI / Machine Learning: 20
+    Quantitative Finance: 18
+    Software Engineering: 13
+    Data Engineering: 8
+    Cybersecurity: 4
+    Product Management: 0
+    Hardware Engineering: -30
+    Other: 0
+
+  keyword_weights:
+    ml systems: 12
+    machine learning systems: 12
+    llm systems: 12
+    ai infrastructure: 12
+    ml infrastructure: 12
+    machine learning infrastructure: 12
+    distributed training: 11
+    distributed systems: 9
+    llm inference: 12
+    llm training: 11
+    inference: 6
+    training platform: 8
+    vllm: 10
+    nccl: 10
+    cuda: 8
+    gpu: 5
+    pytorch: 5
+    jax: 5
+    compiler: 8
+    runtime: 7
+    parallelism: 8
+    performance: 5
+    quantitative: 5
+    quant: 4
