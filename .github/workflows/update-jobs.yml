@@ -37,15 +37,18 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Validate collector syntax
-        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py scripts/order_jobs.py
+        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py scripts/bigtech_discovery.py scripts/order_jobs.py
 
       - name: Discover and enrich jobs
         run: python scripts/update_jobs.py --workers 6 --max-detail-pages 300
 
+      - name: Discover official Amazon and Apple roles
+        run: python scripts/bigtech_discovery.py
+
       - name: Discover from expanded GitHub lists
         run: python scripts/extra_discovery.py --workers 6 --max-detail-pages 250 --skip-google
 
-      - name: Apply date-first display order
+      - name: Qualify new-grad roles and apply date-first order
         run: python scripts/order_jobs.py
 
       - name: Commit changes
