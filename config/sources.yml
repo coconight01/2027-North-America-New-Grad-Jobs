@@ -74,3 +74,6 @@ serpapi_google_jobs:
     - {q: '"2027 start" ("ML systems" OR "AI infrastructure" OR "distributed systems") engineer', location: 'United States', gl: us}
     - {q: '"2027" quantitative researcher graduate', location: 'United States', gl: us}
     - {q: '"2027" new grad software engineer', location: 'Canada', gl: ca}
+    - q: '("Google" OR "Meta" OR "Amazon" OR "Apple" OR "Microsoft" OR "Netflix") ("2027" OR "new grad" OR "university graduate" OR "early career") ("software engineer" OR "machine learning engineer")'
+      location: 'United States'
+      gl: us
