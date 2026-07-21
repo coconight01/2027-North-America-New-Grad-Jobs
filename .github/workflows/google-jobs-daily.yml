@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/google-jobs-daily.yml"
+      - "scripts/order_jobs.py"
 
 permissions:
   contents: write
@@ -39,13 +40,17 @@ jobs:
 
       - name: Validate collector syntax
         if: env.SERPAPI_KEY != ''
-        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py
+        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py scripts/order_jobs.py
 
       - name: Discover Google Jobs
         id: google_discovery
         if: env.SERPAPI_KEY != ''
         continue-on-error: true
         run: python scripts/extra_discovery.py --workers 5 --max-detail-pages 120 --skip-github
+
+      - name: Apply date-first display order
+        if: env.SERPAPI_KEY != ''
+        run: python scripts/order_jobs.py
 
       - name: Record Google Jobs status
         env:
