@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-20** · Open roles: **289**
+> Last automated update: **2026-07-21** · Open roles: **289**
 
 Automatically discovers roles from public ATS feeds and GitHub job repositories, then visits eligible job pages to extract visa language, salary ranges, and common skills.
 
@@ -15,6 +15,7 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 
 | Company | Role | Location | Visa | Salary | Skills | Added |
 |---|---|---|---|---|---|---|
+| **True Anomaly** | [Flight Software Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) | Denver, CO +1 | ❔ | Not listed | — | 2026-07-21 |
 | **Zettabyte** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a) | USA | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Western Digital** | [Summer 2027 - Software Engineering In...](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | San Jose, CA | ❔ | Not listed | Python, C++, Java, Go, JavaScript, SQL, Linux, Data Structures, Algorithms, Networking | 2026-07-20 |
 | **Waymark** | [Junior Software Engineer](https://job-boards.greenhouse.io/waymark/jobs/4711827005) | Remote - USA | ❔ | $106,000–$137,000 | TypeScript, React | 2026-07-20 |
@@ -26,7 +27,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Twitch** | [Software Engineer - Memberships I](https://job-boards.greenhouse.io/twitch/jobs/8610471002) | San Francisco, CA +1 | ❔ | $110,500–$160,000 | Python, Java, Go, TypeScript, React, AWS, Distributed Systems, Data Structures, Algorithms | 2026-07-20 |
 | **Twitch** | [Software Engineer I - Commerce Engineering](https://job-boards.greenhouse.io/twitch/jobs/8457711002) | Seattle, WA +1 | ❔ | $110,500–$160,000 | Go, TypeScript, React, AWS, Data Structures, Algorithms | 2026-07-20 |
 | **Twitch** | [Software Engineer I - Commerce Engineering](https://job-boards.greenhouse.io/twitch/jobs/8459320002) | Seattle, WA | ❔ | $110,500–$160,000 | Go, TypeScript, React, AWS, Data Structures, Algorithms | 2026-07-20 |
-| **True Anomaly** | [Flight Software Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) | Denver, CO +1 | ❔ | Not listed | — | 2026-07-20 |
 | **Travelers** | [Software Engineer I](https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I_R-51276-1) | Atlanta, GA +2 | ❔ | Not listed | — | 2026-07-20 |
 | **Travelers** | [Software Engineer I - AI Driven](https://travelers.wd5.myworkdayjobs.com/en-US/external/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831) | Atlanta, GA | ❔ | Not listed | — | 2026-07-20 |
 | **TransPerfect** | [Junior Frontend Engineer](https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-Myrtle-Beach-SC/Junior-Frontend-Engineer_R2025-244108) | US-Myrtle Beach, SC | ❔ | Not listed | — | 2026-07-20 |
@@ -142,6 +142,7 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 
 | Company | Role | Location | Visa | Salary | Skills | Added |
 |---|---|---|---|---|---|---|
+| **Nuro** | [Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Mountain View, California (HQ) | ❔ | Not listed | — | 2026-07-21 |
 | **Vocal Media** | [Junior Program Manager - AI Studio](https://jobs.lever.co/get-vocal-pbc/1b3b3d72-1b63-4c73-81ce-be788f3230c4) | Remote | ❔ | $70,000–$75,000 | Databases | 2026-07-20 |
 | **USC - University of Southern California** | [Associate Data Scientist](https://usc.wd5.myworkdayjobs.com/en-US/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Associate-Data-Scientist_REQ20174846) | Los Angeles, CA | ❔ | Not listed | — | 2026-07-20 |
 | **TikTok** | [Machine Learning Engineer Graduate - Local Services Search - 2026 Start - BS/MS](https://lifeattiktok.com/search/7639825798757222661) | Seattle, WA | ❔ | $200k/yr | Linux, Machine Learning, Deep Learning, Data Structures, Algorithms | 2026-07-20 |
@@ -168,7 +169,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Quora** | [Machine Learning Engineer - New Grad - Quora - Remote](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4) | Remote - USA +1 | ❔ | Not listed | JavaScript, Machine Learning | 2026-07-20 |
 | **PGTEK** | [Associate Cloud AI Engineer - TS/SCI clearance - Travel](https://apply.workable.com/pgtek/j/DB958E1A45) | Washington, DC +5 | ❔ | Not listed | — | 2026-07-20 |
 | **Oklahoma State Government** | [Data Scientist I](https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Data-Scientist-I_JR62520) | Oklahoma City, OK | ❔ | Not listed | — | 2026-07-20 |
-| **Nuro** | [Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Mountain View, California (HQ) | ❔ | Not listed | — | 2026-07-20 |
 | **Netic** | [Forward Deployed Engineer (FDE) - New Grad - 2026-2027](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8) | San Francisco | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Netic** | [Full-Stack Software Engineer (Product) - New Grad - 2026-2027](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) | San Francisco | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Netic** | [Software Engineer (Agent Platform) - New Grad - 2026-2027](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f) | San Francisco | ❔ | Not listed | JavaScript | 2026-07-20 |
@@ -222,8 +222,11 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 
 | Company | Role | Location | Visa | Salary | Skills | Added |
 |---|---|---|---|---|---|---|
+| **True Anomaly** | [Platform Engineer - AI - Levels I - II - III](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007) | Denver, CO +1 | ❔ | Not listed | — | 2026-07-21 |
+| **Scale AI** | [AI Advisory Consultant](https://job-boards.greenhouse.io/scaleai/jobs/4715970005) | San Francisco, CA; New York, NY | ❔ | $141,600–$177,000 | — | 2026-07-21 |
+| **Scale AI** | [AI Advisory Principal](https://job-boards.greenhouse.io/scaleai/jobs/4715976005) | San Francisco, CA; New York, NY | ❔ | $207,200–$259,000 | — | 2026-07-21 |
+| **Anduril** | [Director, Business Development, Maritime (Strategy)](https://boards.greenhouse.io/andurilindustries/jobs/4962962007?gh_jid=4962962007) | Washington, District of Columbia, United States | ❔ | $191,000–$253,000 | Networking | 2026-07-21 |
 | **Washington University in St. Louis** | [Systems Engineer I - Time Limited/Remote - WUIT - Cloud Security](https://wustl.wd1.myworkdayjobs.com/en-US/external/job/Washington-University-Medical-Campus/Systems-Engineer-I--Time-Limited-Remote----WUIT--Cloud-Security_JR94771) | Washington, DC | ❔ | Not listed | — | 2026-07-20 |
-| **True Anomaly** | [Platform Engineer - AI - Levels I - II - III](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007) | Denver, CO +1 | ❔ | Not listed | — | 2026-07-20 |
 | **TikTok** | [Research Scientist Graduate - Compute Platform - Database Acceleration - 2026 Start - PhD](https://lifeattiktok.com/search/7631070662808160565) | San Jose, CA | ❌ | $200k/yr | C++, Rust, Databases | 2026-07-20 |
 | **TikTok** | [Research Scientist - Data and State Acceleration - Global Frontier Tech Recruitment Program - 2027 Start - PhD](https://lifeattiktok.com/search/7629234781608724741) | San Jose, CA | ❔ | $200k/yr | C++, Java, PyTorch, Distributed Systems | 2026-07-20 |
 | **TikTok** | [Data Knowledge System Research Scientist - Data Platform-Global Live - Global Frontier Tech Recruitment Program - 2027 Start - PhD](https://lifeattiktok.com/search/7628363726332102965) | San Jose, CA | ❔ | $200k/yr | Python, Java, Machine Learning, Distributed Systems, Databases | 2026-07-20 |
@@ -233,8 +236,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Solar Turbines** | [2027 Entry Level IT Analyst](https://jobright.ai/jobs/info/6a5894f268d16a30e241420b) | San Diego, CA, United States | ❔ | Not listed | — | 2026-07-20 |
 | **SimpliSafe** | [Software Engineer I - Video Platform](https://job-boards.greenhouse.io/simplisafe/jobs/8049510) | Boston, MA | ❔ | Not listed | Machine Learning | 2026-07-20 |
 | **SharkNinja** | [Fall 2026: CodeShark, DTC Digital Experience Web Development (August through December 2026)](https://jobright.ai/jobs/info/6a4ead1b9469c0662034c3f3) | Needham, MA, United States | ❔ | Not listed | JavaScript, TypeScript, React | 2026-07-20 |
-| **Scale AI** | [AI Advisory Consultant](https://job-boards.greenhouse.io/scaleai/jobs/4715970005) | San Francisco, CA; New York, NY | ❔ | $141,600–$177,000 | — | 2026-07-20 |
-| **Scale AI** | [AI Advisory Principal](https://job-boards.greenhouse.io/scaleai/jobs/4715976005) | San Francisco, CA; New York, NY | ❔ | $207,200–$259,000 | — | 2026-07-20 |
 | **REPAY - Realtime Electronic Payments** | [Associate Cloud Infrastructure Engineer](https://repay.wd1.myworkdayjobs.com/en-US/repaycareers/job/Atlanta-Headquarters/Associate-Cloud-Infrastructure-Engineer_JR634) | Remote - Atlanta, GA +2 | ❔ | Not listed | — | 2026-07-20 |
 | **Pylon** | [Software Engineer, New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | San Francisco | ❔ | Not listed | JavaScript | 2026-07-20 |
 | **Northslope** | [Forward Deployed Software Engineer, New Grad](https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e) | New York | ❔ | Not listed | JavaScript | 2026-07-20 |
@@ -250,19 +251,24 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Anduril** | [2027 Early Career Manufacturing Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | ❔ | $86,000–$114,000 | Networking | 2026-07-20 |
 | **Anduril** | [2027 Early Career Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | ❔ | $86,000–$114,000 | Networking | 2026-07-20 |
 | **Anduril** | [2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | ❔ | $112,000–$149,000 | Python, C++, Java, Rust, Data Structures, Algorithms, Networking | 2026-07-20 |
-| **Anduril** | [Director, Business Development, Maritime (Strategy)](https://boards.greenhouse.io/andurilindustries/jobs/4962962007?gh_jid=4962962007) | Washington, District of Columbia, United States | ❔ | $191,000–$253,000 | Networking | 2026-07-20 |
 
 ## Quantitative Finance
 
 | Company | Role | Location | Visa | Salary | Skills | Added |
 |---|---|---|---|---|---|---|
+| **Palantir** | [American Tech Fellowship for Veterans](https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728) | North America | ❔ | Not listed | Python, C++, Java, Rust, JavaScript, TypeScript, SQL, Linux, Docker, Verilog | 2026-07-21 |
+| **IMC Trading** | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | Chicago, United States | ❔ | Not listed | Python, C++, Algorithms, Verilog | 2026-07-21 |
+| **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Chicago, United States | ❔ | Not listed | Python, PyTorch, TensorFlow, JAX, Machine Learning, Deep Learning | 2026-07-21 |
+| **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-21 |
+| **IMC Trading** | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-21 |
+| **IMC Trading** | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | Chicago, United States | ❔ | Not listed | Python, Algorithms | 2026-07-21 |
+| **IMC Trading** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | Chicago, United States | ❔ | Not listed | Python, C++, Java, Data Structures, Algorithms | 2026-07-21 |
 | **WorldQuant** | [Junior Quantitative Analyst](https://job-boards.greenhouse.io/worldquant/jobs/4616499006) | Austin, TX +5 | ❔ | Not listed | Python, C++, Linux, Machine Learning, Data Structures, Algorithms | 2026-07-20 |
 | **Trexquant** | [Quantitative Researcher - Early Career - USA](https://apply.workable.com/trexquant/j/974C6CE712) | New York City, NY +1 | ❔ | Not listed | — | 2026-07-20 |
 | **Tower Research Capital** | [Quantitative Trader - 2027](https://www.tower-research.com/open-positions?gh_jid=8024142) | Chicago, IL +1 | ❔ | Not listed | — | 2026-07-20 |
 | **Tower Research Capital** | [Quantitative Trader - 2027](https://jobright.ai/jobs/info/6a509ca82e2ceb72963b34f6) | New York, NY, United States | ❔ | Not listed | Python, C++, Linux, Machine Learning, Algorithms | 2026-07-20 |
 | **Susquehanna International Group** | [Quantitative Researcher – Master's: 2027](https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129) | New York, NY, United States | ✅ | Not listed | Python, C++, Machine Learning | 2026-07-20 |
 | **Susquehanna International Group** | [Quantitative Systematic Trader – Master's: 2027](https://jobright.ai/jobs/info/6a42c1296c326942b4e8409f) | New York, NY, United States | ✅ | Not listed | Python, C++, Machine Learning | 2026-07-20 |
-| **Palantir** | [American Tech Fellowship for Veterans](https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728) | North America | ❔ | Not listed | Python, C++, Java, Rust, JavaScript, TypeScript, SQL, Linux, Docker, Verilog | 2026-07-20 |
 | **Optiver** | [Graduate Quantitative Researcher - PhD - 2027 Start](https://www.optiver.com/join-us/jobs/8451763002?gh_jid=8451763002) | Austin, TX +1 | ❔ | $201k/yr | Machine Learning, Deep Learning, Algorithms | 2026-07-20 |
 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6a59ea6663a8f619507c41eb) | Chicago, IL, United States | ❔ | Not listed | Machine Learning, Deep Learning | 2026-07-20 |
 | **Old Mission Capital** | [Quantitative Trader - 2027 Graduate Program - February Start](https://www.oldmissioncapital.com/careers?gh_jid=7796031003) | Chicago, IL +1 | ❔ | Not listed | — | 2026-07-20 |
@@ -270,12 +276,6 @@ Automatically discovers roles from public ATS feeds and GitHub job repositories,
 | **Kpler** | [Junior Data Analyst - Nat Gas/LNG](https://jobs.lever.co/kpler/781e5529-48f6-4ece-ae44-b96ec3c5c9d4) | Houston, TX | ❔ | Not listed | Python, SQL | 2026-07-20 |
 | **Jane Street** | [Quantitative Trader Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573523002) | New York City, NY | ❔ | $398k/yr | Machine Learning, Deep Learning | 2026-07-20 |
 | **Jane Street** | [Quantitative Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573726002) | New York City, NY | ❔ | $398k/yr | Python, Machine Learning, Deep Learning | 2026-07-20 |
-| **IMC Trading** | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | Chicago, United States | ❔ | Not listed | Python, C++, Algorithms, Verilog | 2026-07-20 |
-| **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Chicago, United States | ❔ | Not listed | Python, PyTorch, TensorFlow, JAX, Machine Learning, Deep Learning | 2026-07-20 |
-| **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-20 |
-| **IMC Trading** | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | Chicago, United States | ❔ | Not listed | Python, C++ | 2026-07-20 |
-| **IMC Trading** | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | Chicago, United States | ❔ | Not listed | Python, Algorithms | 2026-07-20 |
-| **IMC Trading** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | Chicago, United States | ❔ | Not listed | Python, C++, Java, Data Structures, Algorithms | 2026-07-20 |
 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | New York City, NY | ❔ | $412k/yr | Python, Machine Learning, Algorithms, Verilog | 2026-07-20 |
 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 PhDs](https://jobright.ai/jobs/info/6a5508722084cd792b4759a7) | New York, NY, United States | ❔ | Not listed | Python, Machine Learning, Algorithms | 2026-07-20 |
 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | New York, NY, United States | ❔ | Not listed | Python, C++, Machine Learning, Algorithms | 2026-07-20 |
