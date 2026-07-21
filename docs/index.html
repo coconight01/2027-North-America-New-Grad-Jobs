@@ -9,20 +9,21 @@
     @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--text:#e6edf3;--muted:#8b949e;--border:#30363d;--link:#58a6ff;--head:#21262d;--top:#3fb950;--strong:#58a6ff;--stretch:#d29922}}
     *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
     main{max-width:1700px;margin:0 auto;padding:28px 18px 60px}h1{margin:0 0 4px;font-size:30px}.sub{color:var(--muted);margin-bottom:8px}.policy{margin:0 0 20px;padding:11px 13px;border:1px solid var(--border);border-radius:8px;background:var(--card)}
-    .controls{display:grid;grid-template-columns:minmax(240px,2fr) repeat(4,minmax(135px,1fr));gap:10px;margin-bottom:14px}
+    .controls{display:grid;grid-template-columns:minmax(240px,2fr) repeat(5,minmax(130px,1fr));gap:10px;margin-bottom:14px}
     input,select{width:100%;padding:10px 12px;border:1px solid var(--border);border-radius:7px;background:var(--card);color:var(--text);font:inherit}
     .summary{color:var(--muted);margin:8px 0 14px}.table-wrap{overflow:auto;border:1px solid var(--border);border-radius:9px;background:var(--card)}
-    table{width:100%;border-collapse:collapse;min-width:1350px}th,td{padding:11px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}th{position:sticky;top:0;background:var(--head);z-index:1;white-space:nowrap}tr:last-child td{border-bottom:0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.visa{font-size:17px}.reason{max-width:390px;color:var(--muted)}.company{font-weight:600}.empty{padding:32px;text-align:center;color:var(--muted)}.score{font-weight:700;white-space:nowrap}.Top{color:var(--top)}.Strong{color:var(--strong)}.Stretch{color:var(--stretch)}
-    @media(max-width:950px){.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}h1{font-size:25px}}
+    table{width:100%;border-collapse:collapse;min-width:1400px}th,td{padding:11px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}th{position:sticky;top:0;background:var(--head);z-index:1;white-space:nowrap}tr:last-child td{border-bottom:0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.visa{font-size:17px}.reason{max-width:360px;color:var(--muted)}.company{font-weight:600}.empty{padding:32px;text-align:center;color:var(--muted)}.score{font-weight:700;white-space:nowrap}.Top{color:var(--top)}.Strong{color:var(--strong)}.Stretch{color:var(--stretch)}.phd{white-space:nowrap}
+    @media(max-width:1100px){.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}h1{font-size:25px}}
   </style>
 </head>
 <body>
 <main>
   <h1>Yuhan's 2027 North America New Grad Jobs</h1>
-  <div class="sub">Personalized ranking for ML systems, AI infrastructure, distributed systems, software, and quant roles. Every job link opens in a new tab.</div>
-  <div class="policy"><b>Hard filters:</b> explicit no-sponsorship, citizenship/security-clearance, pure hardware, and stated salary ranges entirely below $100k. PhD-required roles are down-ranked unless they are an exceptional technical match. Unknown visa or salary remains visible but receives a penalty.</div>
+  <div class="sub">Default order: newest posting/first-discovery date first. Within the same date, non-PhD-only and better-compensated roles come earlier. Every job link opens in a new tab.</div>
+  <div class="policy"><b>Hard filters:</b> explicit no-sponsorship, citizenship/security-clearance, pure hardware, and stated salary ranges entirely below $100k. PhD-required roles remain as stretch options but are pushed behind comparable master's-friendly roles.</div>
   <div class="controls">
     <input id="search" type="search" placeholder="Search company, role, location, skills, or ranking reason…">
+    <select id="sort"><option value="latest">Latest first</option><option value="fit">Best fit first</option><option value="salary">Highest stated salary</option></select>
     <select id="category"><option value="">All categories</option></select>
     <select id="priority"><option value="">All priorities</option><option>Top</option><option>Strong</option><option>Consider</option><option>Stretch</option></select>
     <select id="visa"><option value="">All visa statuses</option><option value="Yes">Sponsorship stated</option><option value="Unknown">Unknown</option></select>
@@ -31,7 +32,7 @@
   <div id="summary" class="summary">Loading jobs…</div>
   <div class="table-wrap">
     <table>
-      <thead><tr><th>Fit</th><th>Company</th><th>Role</th><th>Location</th><th>Category</th><th>Visa</th><th>Salary</th><th>PhD</th><th>Why ranked here</th><th>Added</th></tr></thead>
+      <thead><tr><th>Posted</th><th>Fit</th><th>Company</th><th>Role</th><th>Location</th><th>Category</th><th>Visa</th><th>Salary</th><th>PhD</th><th>Why ranked here</th></tr></thead>
       <tbody id="rows"></tbody>
     </table>
   </div>
@@ -41,21 +42,40 @@ const DATA_URL='https://raw.githubusercontent.com/coconight01/2027-North-America
 let jobs=[];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const visaIcon=v=>v==='Yes'?'✅':'❔';
-const number=v=>Number(v)||0;
+const number=v=>{const n=Number(v);return Number.isFinite(n)?n:0};
+const posted=j=>j.posted_date||j.date_added||'0000-00-00';
+const phdOnly=j=>String(j.phd_required||'').toLowerCase()==='yes';
+const knownLowPay=j=>number(j.salary_max_annual)>0&&number(j.salary_max_annual)<200000;
 function countryOf(j){const s=((j.country||'')+' '+(j.location||'')).toLowerCase();return s.includes('canada')||/(ontario|quebec|british columbia|alberta|toronto|vancouver|montreal|waterloo)/.test(s)?'Canada':'United States'}
-function sorted(items){return [...items].sort((a,b)=>number(b.personalized_score)-number(a.personalized_score)||number(b.salary_max_annual)-number(a.salary_max_annual)||String(b.date_added||'').localeCompare(String(a.date_added||'')))}
+function latestCompare(a,b){
+  const byDate=posted(b).localeCompare(posted(a));
+  if(byDate)return byDate;
+  const byPhd=Number(phdOnly(a))-Number(phdOnly(b));
+  if(byPhd)return byPhd;
+  const byLowPay=Number(knownLowPay(a))-Number(knownLowPay(b));
+  if(byLowPay)return byLowPay;
+  const byScore=number(b.personalized_score)-number(a.personalized_score);
+  if(byScore)return byScore;
+  const bySalary=number(b.salary_max_annual)-number(a.salary_max_annual);
+  if(bySalary)return bySalary;
+  return String(a.company||'').localeCompare(String(b.company||''));
+}
+function fitCompare(a,b){return number(b.personalized_score)-number(a.personalized_score)||latestCompare(a,b)}
+function salaryCompare(a,b){return number(b.salary_max_annual)-number(a.salary_max_annual)||latestCompare(a,b)}
 function render(){
   const q=document.querySelector('#search').value.trim().toLowerCase();
+  const sort=document.querySelector('#sort').value;
   const cat=document.querySelector('#category').value;
   const priority=document.querySelector('#priority').value;
   const visa=document.querySelector('#visa').value;
   const country=document.querySelector('#country').value;
   const open=jobs.filter(j=>j.status==='Open');
-  const filtered=sorted(open.filter(j=>!cat||j.category===cat).filter(j=>!priority||j.priority===priority).filter(j=>!visa||(j.sponsorship||'Unknown')===visa).filter(j=>!country||countryOf(j)===country).filter(j=>!q||[j.company,j.role,j.location,j.skills,j.category,j.personalized_reason,j.priority].join(' ').toLowerCase().includes(q)));
+  const filtered=open.filter(j=>!cat||j.category===cat).filter(j=>!priority||j.priority===priority).filter(j=>!visa||(j.sponsorship||'Unknown')===visa).filter(j=>!country||countryOf(j)===country).filter(j=>!q||[j.company,j.role,j.location,j.skills,j.category,j.personalized_reason,j.priority].join(' ').toLowerCase().includes(q));
+  filtered.sort(sort==='fit'?fitCompare:sort==='salary'?salaryCompare:latestCompare);
   const top=filtered.filter(j=>j.priority==='Top').length,strong=filtered.filter(j=>j.priority==='Strong').length;
-  document.querySelector('#summary').textContent=`Showing ${filtered.length} of ${open.length} open roles · ${top} Top · ${strong} Strong · last refresh ${jobs.reduce((m,j)=>j.last_verified>m?j.last_verified:m,'Unknown')}`;
+  document.querySelector('#summary').textContent=`Showing ${filtered.length} of ${open.length} open roles · ${top} Top · ${strong} Strong · ATS publication date when available, otherwise first discovery`;
   const tbody=document.querySelector('#rows');
-  tbody.innerHTML=filtered.length?filtered.map(j=>`<tr><td class="score ${esc(j.priority)}">${esc(j.personalized_score)} · ${esc(j.priority)}</td><td class="company">${esc(j.company)}</td><td><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.role)}</a></td><td>${esc(j.location)}</td><td>${esc(j.category)}</td><td class="visa" title="${esc(j.sponsorship||'Unknown')}">${visaIcon(j.sponsorship)}</td><td>${esc(j.salary||'Not listed')}</td><td>${j.phd_required==='Yes'?'⚠️ Required':'—'}</td><td class="reason">${esc(j.personalized_reason||'—')}</td><td>${esc(j.date_added||'')}</td></tr>`).join(''):`<tr><td colspan="10" class="empty">No matching jobs.</td></tr>`;
+  tbody.innerHTML=filtered.length?filtered.map(j=>`<tr><td>${esc(posted(j))}</td><td class="score ${esc(j.priority)}">${esc(j.personalized_score)} · ${esc(j.priority)}</td><td class="company">${esc(j.company)}</td><td><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.role)}</a></td><td>${esc(j.location)}</td><td>${esc(j.category)}</td><td class="visa" title="${esc(j.sponsorship||'Unknown')}">${visaIcon(j.sponsorship)}</td><td>${esc(j.salary||'Not listed')}</td><td class="phd">${phdOnly(j)?'⚠️ Required':'—'}</td><td class="reason">${esc(j.personalized_reason||'—')}</td></tr>`).join(''):`<tr><td colspan="10" class="empty">No matching jobs.</td></tr>`;
 }
 fetch(DATA_URL,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(data=>{
   jobs=data.filter(j=>j.citizenship_required!=='Yes'&&j.sponsorship!=='No');
@@ -63,7 +83,7 @@ fetch(DATA_URL,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.s
   document.querySelector('#category').innerHTML+=cats.map(x=>`<option>${esc(x)}</option>`).join('');
   render();
 }).catch(e=>{document.querySelector('#summary').textContent=`Could not load job data: ${e.message}`;document.querySelector('#rows').innerHTML='<tr><td colspan="10" class="empty">Please refresh shortly.</td></tr>'});
-for(const id of ['search','category','priority','visa','country'])document.querySelector('#'+id).addEventListener(id==='search'?'input':'change',render);
+for(const id of ['search','sort','category','priority','visa','country'])document.querySelector('#'+id).addEventListener(id==='search'?'input':'change',render);
 </script>
 </body>
 </html>
