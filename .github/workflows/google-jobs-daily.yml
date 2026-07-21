@@ -20,7 +20,7 @@ concurrency:
 jobs:
   google-jobs:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     env:
       SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
     steps:
@@ -48,8 +48,8 @@ jobs:
         continue-on-error: true
         run: python scripts/extra_discovery.py --workers 5 --max-detail-pages 120 --skip-github
 
-      - name: Apply date-first display order
-        if: env.SERPAPI_KEY != ''
+      - name: Apply new-grad qualification and date-first order
+        if: env.SERPAPI_KEY != '' && steps.google_discovery.outcome == 'success'
         run: python scripts/order_jobs.py
 
       - name: Record Google Jobs status
