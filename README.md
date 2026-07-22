@@ -10,8 +10,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-07-22 | **RTX** | [Leadership Development Program - Engineering, Software (Starts June 2027)](https://jobright.ai/jobs/info/6a399f07649fdf1629302036) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Astranis Space Technologies** | [Guidance, Navigation, and Control Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a3434dd1232144fb155ec07) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **RTX** | [Leadership Development Program - Engineering, Software (Starts June 2027)](https://jobright.ai/jobs/info/6a399f07649fdf1629302036) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
