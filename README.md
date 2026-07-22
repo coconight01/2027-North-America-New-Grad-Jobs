@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-21** · Open roles: **273**
+> Last automated update: **2026-07-22** · Open roles: **276**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,6 +10,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-07-22 | **RTX** | [Leadership Development Program - Engineering, Software (Starts June 2027)](https://jobright.ai/jobs/info/6a399f07649fdf1629302036) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **Astranis Space Technologies** | [Guidance, Navigation, and Control Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a3434dd1232144fb155ec07) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
@@ -19,6 +21,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-21 | **Nuro** | [Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Not listed | Mountain View, California (HQ) | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Apple** | [IS&T Early Career Engineering Program Manager Opportunities](https://jobs.apple.com/en-us/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Health Advances** | [Analyst (SF Sept 2027)](https://jobright.ai/jobs/info/6a5e9ebaf29acc1a11748aba) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-21 | **Wesco** | [2027 Information Technology Development Program (Starts June 2027)](https://jobright.ai/jobs/info/6a5e5262050c423c792ee7f9) | Not listed | Pittsburgh, PA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Susquehanna International Group** | [Quantitative Systematic Trader – PhD: 2027](https://jobright.ai/jobs/info/6a42c1306c326942b4e840a2) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **ByteDance** | [Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5256778a74e077472f4263) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | PhD only |
