@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-22** · Open roles: **294**
+> Last automated update: **2026-07-22** · Open roles: **295**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -11,11 +11,13 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-07-22 | **Astranis Space Technologies** | [Guidance, Navigation, and Control Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a3434dd1232144fb155ec07) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a51ca0aae4052672fe9adf1) | Not listed | Reno, NV, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **M&S Consulting** | [Developer I - Salesforce Integration - Tier 2 Security Clearance](http://mandsc.applytojob.com/apply/bQOBIRNOGY/Developer-I-Salesforce-Integration-Tier-2-Security-Clearance) | Not listed | USA | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **RTX** | [Leadership Development Program - Engineering, Software (Starts June 2027)](https://jobright.ai/jobs/info/6a399f07649fdf1629302036) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Boeing** | [DSP Algorithms Engineer - Entry-Level](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239) | Not listed | USA +1 | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **Conagra Brands** | [Engineering Development Associate - 2027](https://jobright.ai/jobs/info/6a60df54eaa37f43e7586048) | Not listed | Omaha, NE, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Handshake** | [iOS Engineer I](https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-07-22 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a51ca0aae4052672fe9adf1) | Not listed | Reno, NV, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **RSM US LLP** | [Tax Technology Associate - Fall 2027](https://jobright.ai/jobs/info/6a60f3e7d51f6101c8fb9a9e) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Cincinnati Children’s** | [Business Systems Analyst I - ERP Training Developer](https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I---ERP-Training-Developer_JR221931) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-22 | **ITA-International** | [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/junior-power-platform-developer/job) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-07-22 | **AmerisourceBergen** | [Automation Developer I](https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Carrollton-TX/Automation-Developer-I_R2521185) | Not listed | Remote - Carrollton, TX | ❔ | ◐ Likely | — |
@@ -36,7 +38,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-21 | **Astranis Space Technologies** | [Network Planning Sales Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a509e4df08ee8320766a6ec) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **RTX** | [Leadership Development Program - Engineering, Systems (Starts June 2027)](https://jobright.ai/jobs/info/6a47e93ff9cbb100d1ab12ac) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Nuro** | [Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Not listed | Mountain View, California (HQ) | ❔ | ✅ Confirmed | — |
-| 2026-07-21 | **Apple** | [IS&T Early Career Engineering Program Manager Opportunities](https://jobs.apple.com/en-us/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Health Advances** | [Analyst (SF Sept 2027)](https://jobright.ai/jobs/info/6a5e9ebaf29acc1a11748aba) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Wesco** | [2027 Information Technology Development Program (Starts June 2027)](https://jobright.ai/jobs/info/6a5e5262050c423c792ee7f9) | Not listed | Pittsburgh, PA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Susquehanna International Group** | [Quantitative Systematic Trader – PhD: 2027](https://jobright.ai/jobs/info/6a42c1306c326942b4e840a2) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | PhD only |
@@ -91,6 +92,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Abridge** | [Software Engineer - Early Career](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [C++/Linux Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005697) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Antares** | [Reactor Software Engineer I/II](https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42) | Not listed | Los Angeles, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Aurora** | [Software Engineer I - Data Eng infra](https://aurora.tech/jobs/8628066002?gh_jid=8628066002) | Not listed | Mountain View, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Blue Origin** | [Software Development Engineer I - Early Career - 2026 Starts](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
@@ -126,7 +128,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Backend](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Frontend - Growth](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Zettabyte** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a) | Not listed | USA | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Flashpoint** | [Data Engineer I](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Iambic Therapeutics** | [Biological Structures Data Engineer I/II](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Teamworks** | [Data Engineer I](https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3) | Not listed | USA | ❔ | ✅ Confirmed | — |
