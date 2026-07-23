@@ -10,12 +10,12 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-07-23 | **ByteDance** | [Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a616347d51f6101c8fbb6c8) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a4c2ad84f64ba41dcb5ec48) | Not listed | Edison,New Jersey,United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44044e57ffc22029405ea2) | Not listed | Columbus, OH, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e22df1ab552f90d077a1) | Not listed | Fairfax, VA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **ByteDance** | [Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a616347d51f6101c8fbb6c8) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e21a497c084dcfb59eab) | Not listed | Manchester,New Hampshire,United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a53cd95e726ec56126a8127) | Not listed | Lancaster, PA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e22df1ab552f90d077a1) | Not listed | Fairfax, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **ByteDance** | [Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a4ed23d9469c0662034ccdf) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-22 | **Astranis Space Technologies** | [Guidance, Navigation, and Control Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a3434dd1232144fb155ec07) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a51ca0aae4052672fe9adf1) | Not listed | Reno, NV, United States | ❔ | ✅ Confirmed | — |
