@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-22** · Open roles: **295**
+> Last automated update: **2026-07-23** · Open roles: **301**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,14 +10,20 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-07-23 | **ByteDance** | [Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a616347d51f6101c8fbb6c8) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a4c2ad84f64ba41dcb5ec48) | Not listed | Edison,New Jersey,United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44044e57ffc22029405ea2) | Not listed | Columbus, OH, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e21a497c084dcfb59eab) | Not listed | Manchester,New Hampshire,United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a53cd95e726ec56126a8127) | Not listed | Lancaster, PA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e22df1ab552f90d077a1) | Not listed | Fairfax, VA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **ByteDance** | [Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a4ed23d9469c0662034ccdf) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-22 | **Astranis Space Technologies** | [Guidance, Navigation, and Control Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a3434dd1232144fb155ec07) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a51ca0aae4052672fe9adf1) | Not listed | Reno, NV, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **M&S Consulting** | [Developer I - Salesforce Integration - Tier 2 Security Clearance](http://mandsc.applytojob.com/apply/bQOBIRNOGY/Developer-I-Salesforce-Integration-Tier-2-Security-Clearance) | Not listed | USA | ❔ | ✅ Confirmed | — |
+| 2026-07-22 | **RSM US LLP** | [Tax Technology Associate - Fall 2027](https://jobright.ai/jobs/info/6a60f3e7d51f6101c8fb9a9e) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **RTX** | [Leadership Development Program - Engineering, Software (Starts June 2027)](https://jobright.ai/jobs/info/6a399f07649fdf1629302036) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Boeing** | [DSP Algorithms Engineer - Entry-Level](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239) | Not listed | USA +1 | ❔ | ✅ Confirmed | — |
-| 2026-07-22 | **Conagra Brands** | [Engineering Development Associate - 2027](https://jobright.ai/jobs/info/6a60df54eaa37f43e7586048) | Not listed | Omaha, NE, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Handshake** | [iOS Engineer I](https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-07-22 | **RSM US LLP** | [Tax Technology Associate - Fall 2027](https://jobright.ai/jobs/info/6a60f3e7d51f6101c8fb9a9e) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-22 | **Cincinnati Children’s** | [Business Systems Analyst I - ERP Training Developer](https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I---ERP-Training-Developer_JR221931) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-22 | **ITA-International** | [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/junior-power-platform-developer/job) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-07-22 | **AmerisourceBergen** | [Automation Developer I](https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Carrollton-TX/Automation-Developer-I_R2521185) | Not listed | Remote - Carrollton, TX | ❔ | ◐ Likely | — |
