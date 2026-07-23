@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-23** · Open roles: **332**
+> Last automated update: **2026-07-23** · Open roles: **334**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -14,19 +14,22 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44044e57ffc22029405ea2) | Not listed | Columbus, OH, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e22df1ab552f90d077a1) | Not listed | Fairfax, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a53cd95e726ec56126a8127) | Not listed | Lancaster, PA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e21a497c084dcfb59eab) | Not listed | Manchester,New Hampshire,United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Collins Aerospace** | [2027- Fulltime Systems Engineer Display Products I_ Onsite](https://jobright.ai/jobs/info/6a61dffdab14335fc0f1a36f) | Not listed | Cedar Rapids, IA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **General Motors** | [Software Engineer - Autonomous Vehicles Software Systems - Early Career](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) | Not listed | Sunnyvale, CA +1 | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a563e87f7517b519ad545a3) | Not listed | Brooklyn Park, MN, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **ByteDance** | [Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a616347d51f6101c8fbb6c8) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CrowdStrike** | [Engineer I - Data Scientist - New Grad - Hybrid](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) | Not listed | Sunnyvale, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Handshake** | [Forward Deployed Engineer I - Handshake AI](https://jobs.ashbyhq.com/handshake/99a2dfed-a319-4136-8cd3-5747ab9793c3) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e21a497c084dcfb59eab) | Not listed | Manchester,New Hampshire,United States | ❔ | ✅ Confirmed | — |
-| 2026-07-23 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a563e87f7517b519ad545a3) | Not listed | Brooklyn Park, MN, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Amazon** | [EFA Network Software Engineer I - Annapurna Labs](https://www.amazon.jobs/jobs/10481932/apply) | $178k/yr | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - TensorRT Performance - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071) | $172k/yr | Remote - Santa Clara, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **Appian** | [Software Engineer (2027 Graduates)](https://job-boards.greenhouse.io/appian/jobs/8041241) | $115,000–$118,000 | McLean, Virginia | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **Appian** | [Information Security Engineer (2027 G...](https://job-boards.greenhouse.io/appian/jobs/8035744) | $115,000–$118,000 | McLean, Virginia | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **Appian** | [Product Manager (2027 Graduates)](https://job-boards.greenhouse.io/appian/jobs/8069612) | $110,000–$113,000 | McLean, Virginia | ❔ | ✅ Confirmed | — |
+| 2026-07-23 | **ByteDance** | [Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a4ed23d9469c0662034ccdf) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a45729d971cd25b06f88dbb) | Not listed | Austin, Texas, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a456a5f48d2f00f2a86d806) | Not listed | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-07-23 | **ByteDance** | [Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a4ed23d9469c0662034ccdf) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **Franklin Templeton** | [Junior Quant Developer](https://franklintempleton.wd5.myworkdayjobs.com/en-US/primary-external-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-23 | **HarbourVest** | [Junior Quantitative Investment Engineer](https://harbourvest.wd5.myworkdayjobs.com/en-US/hvp/job/Boston/Junior-Quantitative-Investment-Engineer_R2464) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-23 | **New Relic** | [Associate Software Engineer- Infrastructure](https://job-boards.greenhouse.io/newrelic/jobs/5294386008) | Not listed | Oregon, USA +18 | ❔ | ◐ Likely | — |
@@ -76,7 +79,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-21 | **RTX** | [Leadership Development Program - Engineering, Systems (Starts June 2027)](https://jobright.ai/jobs/info/6a47e93ff9cbb100d1ab12ac) | Not listed | US-VA-ARLINGTON-1000 ~ 1000 Wilson Blvd ~ WILSON, Fl 23, United States of America | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Nuro** | [Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Not listed | Mountain View, California (HQ) | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Health Advances** | [Analyst (SF Sept 2027)](https://jobright.ai/jobs/info/6a5e9ebaf29acc1a11748aba) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-21 | **Wesco** | [2027 Information Technology Development Program (Starts June 2027)](https://jobright.ai/jobs/info/6a5e5262050c423c792ee7f9) | Not listed | Pittsburgh, PA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **Susquehanna International Group** | [Quantitative Systematic Trader – PhD: 2027](https://jobright.ai/jobs/info/6a42c1306c326942b4e840a2) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **ByteDance** | [Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5256778a74e077472f4263) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | PhD only |
@@ -90,10 +92,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Twitch** | [Software Engineer I - Discovery](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | $193,300–$261,500 | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Susquehanna International Group** | [Quantitative Researcher – Master's: 2027](https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | — |
@@ -129,6 +131,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Abridge** | [Software Engineer - Early Career](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [C++/Linux Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005697) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Antares** | [Reactor Software Engineer I/II](https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42) | Not listed | Los Angeles, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Aurora** | [Software Engineer I - Data Eng infra](https://aurora.tech/jobs/8628066002?gh_jid=8628066002) | Not listed | Mountain View, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Blue Origin** | [Software Development Engineer I - Early Career - 2026 Starts](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
@@ -164,7 +167,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Backend](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Frontend - Growth](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Zettabyte** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a) | Not listed | USA | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Flashpoint** | [Data Engineer I](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Iambic Therapeutics** | [Biological Structures Data Engineer I/II](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Teamworks** | [Data Engineer I](https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3) | Not listed | USA | ❔ | ✅ Confirmed | — |
@@ -196,8 +198,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 PhDs](https://jobright.ai/jobs/info/6a5508722084cd792b4759a7) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6a59ea6663a8f619507c41eb) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **Tower Research Capital** | [Quantitative Trader - 2027](https://jobright.ai/jobs/info/6a509ca82e2ceb72963b34f6) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-07-20 | **Google** | [Student Researcher, PhD, Fall 2026](https://jobright.ai/jobs/info/6a5e4d3ef3674a0545d2816d) | Not listed | Waterloo, ON, Canada | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **Google** | [Student Researcher, PhD, Fall 2026](https://jobright.ai/jobs/info/6a5e4d3ef3674a0545d2816c) | Not listed | Mountain View, CA, USA | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-20 | **Google** | [Student Researcher, PhD, Fall 2026](https://jobright.ai/jobs/info/6a5e4d3ef3674a0545d2816d) | Not listed | Waterloo, ON, Canada | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **3Red Partners** | [Graduate C++ Developer (2027 Incoming Graduate, Full-Time)](https://jobright.ai/jobs/info/6a5a56a04da96a42cfd95477) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a5a44324da96a42cfd94f83) | Not listed | Chicago, Illinois, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-20 | **Lila Sciences** | [ML Scientist I / II - Foundation Models for Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4222051009) | $176,000–$304,000 | San Francisco, CA | ❔ | ◐ Likely | — |
@@ -340,7 +342,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-06-02 | **CLO Virtual Fashion** | [Research Scientist - R&D - 2026](https://jobs.lever.co/clovirtualfashion/b1435027-5dd6-470d-9b82-619450f4542e) | $100,000–$175,000 | Los Angeles, CA | ❔ | ◐ Likely | — |
 | 2026-05-06 | **Worldscape Technology** | [Junior Game Developer](https://jobs.lever.co/worldscape-technology/53fd0503-de34-4991-aa18-729da709c04e) | Not listed | Redmond, WA | ❔ | ◐ Likely | — |
 | 2026-04-06 | **CGS** | [HR Data Analytics & Reporting Specialist - HRDARS - Junior](https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed) | Not listed | Washington, DC | ❔ | ◐ Likely | — |
-| 2026-01-07 | **Palantir** | [American Tech Fellowship for Veterans](https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728) | Not listed | North America | ❔ | ❔ Review | — |
+| 2025-06-17 | **Palantir** | [American Tech Fellowship](https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0) | Not listed | North America | ❔ | ❔ Review | — |
 | 2025-06-13 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | $135,000–$145,000/year | New York, NY | ❔ | ✅ Confirmed | — |
 
 ## New-grad semantics
