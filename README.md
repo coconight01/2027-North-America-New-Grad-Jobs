@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-25** · Open roles: **364**
+> Last automated update: **2026-07-25** · Open roles: **365**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,9 +10,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-07-25 | **Qualus** | [Power Systems Engineer I - Arc Flash Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a63d4dd979290281c70471f) | Not listed | West Chester, OH, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-25 | **Anduril Industries** | [2027 Early Career Software Engineer](https://jobright.ai/jobs/info/6a2b27080ad4053b108cb17d) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Performance Trust Capital Partners** | [2027 Client Insights & Analytics Summer Analyst](https://jobright.ai/jobs/info/6a63b84a8d53603449603e18) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-25 | **Qualus** | [Power Systems Engineer I - Arc Flash Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a63d4dd979290281c70471f) | Not listed | West Chester, OH, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-25 | **ByteDance** | [Student Researcher (LLM - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a643e778d53603449605ecb) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-25 | **Anduril Industries** | [2027 Early Career Software Engineer](https://jobright.ai/jobs/info/6a2b27080ad4053b108cb17d) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a342022ce501060b5cef868) | Not listed | Westborough, MA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **ByteDance** | [Research Scientist in Vision Foundation Model - Seed - Graduates - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a45434f48d2f00f2a86cf4c) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-24 | **RRS Group & Co** | [2027 Quantitative Analytics Development Program](https://jobright.ai/jobs/info/6a635b888d53603449601ec0) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
@@ -122,9 +123,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Twitch** | [Software Engineer I - Discovery](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | $193,300–$261,500 | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
