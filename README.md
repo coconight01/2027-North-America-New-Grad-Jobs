@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-26** · Open roles: **390**
+> Last automated update: **2026-07-26** · Open roles: **391**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -13,6 +13,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-26 | **ByteDance** | [Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a5256668ef95364ead8deda) | Not listed | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-26 | **HNTB** | [Returning New Grad Engineer I - Winter/Summer 2027 - Northeast Division (For Current/Former HNTB Interns Only)](https://jobright.ai/jobs/info/6a60291b33ef5c58b4001f2b) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-26 | **Family Health Centers of San Diego** | [QA Software Engineer I](https://fhcsd.wd1.myworkdayjobs.com/en-US/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801) | Not listed | San Diego, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-26 | **ByteDance** | [Research Scientist - AI Agent Memory Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a661cb4979290281c709053) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-26 | **ByteDance** | [Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5338e4e726ec56126a623f) | Not listed | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-26 | **ByteDance** | [Software Development Engineer - AI/LLM Network - Global Frontier Tech Research Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a528e8f8a74e077472f51c9) | Not listed | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
