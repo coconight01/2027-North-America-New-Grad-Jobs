@@ -10,9 +10,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-07-28 | **Conagra Brands** | [Demand Science Rotational Analyst - Summer 2027](https://jobright.ai/jobs/info/6a67c13e872eb74f9eadac92) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **RSM US LLP** | [Microsoft Business Central Associate - Fall 2027](https://jobright.ai/jobs/info/6a679bf02bf1fb2b71925f6b) | Not listed | Washington, DC, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **RSM US LLP** | [Microsoft D365 Business Central Associate - Fall 2027](https://jobright.ai/jobs/info/6a67d573872eb74f9eadb2af) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **Conagra Brands** | [Demand Science Rotational Analyst - Summer 2027](https://jobright.ai/jobs/info/6a67c13e872eb74f9eadac92) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **Northrop Grumman** | [2027 Associate Software Engineer / So...](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | Not listed | Florida | ❔ | ◐ Likely | — |
 | 2026-07-27 | **LetsGetChecked** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-27 | **ByteDance** | [Algorithm Application Scientist - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PHD)](https://jobright.ai/jobs/info/6a546c94c8eb0843027afe32) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
