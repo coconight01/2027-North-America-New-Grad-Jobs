@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-28** · Open roles: **412**
+> Last automated update: **2026-07-28** · Open roles: **416**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,25 +10,29 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-07-28 | **Astranis Space Technologies** | [Radiation Effects Associate Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a4c66a7971cd25b06f9a7a1) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **Conagra Brands** | [Demand Science Rotational Analyst - Summer 2027](https://jobright.ai/jobs/info/6a67c13e872eb74f9eadac92) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **RSM US LLP** | [Microsoft Business Central Associate - Fall 2027](https://jobright.ai/jobs/info/6a679bf02bf1fb2b71925f6b) | Not listed | Washington, DC, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **RSM US LLP** | [Microsoft D365 Business Central Associate - Fall 2027](https://jobright.ai/jobs/info/6a67d573872eb74f9eadb2af) | Not listed | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **ByteDance** | [Student Researcher (Multimodal Interaction and World Model - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a688772c1787161d1444cab) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **CACI** | [Cloud Software and Support Engineer - Early Career](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648) | Not listed | Remote - Hanover, MD | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **Cox** | [Software Engineer I - 18525](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **Mitratech** | [Software Engineer I - AssureHire - Go](https://job-boards.greenhouse.io/mitratech/jobs/8060928) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **Rocket Companies** | [Software Engineer I](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Remote---Michigan/Software-Engineer-I_R-083975) | Not listed | Remote - Michigan, USA +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **RunSybil** | [Software Engineer I](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-28 | **Astranis Space Technologies** | [Radiation Effects Associate Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a4c66a7971cd25b06f9a7a1) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
-| 2026-07-28 | **ByteDance** | [Student Researcher (Multimodal Interaction and World Model - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a688772c1787161d1444cab) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **Caterpillar** | [2027 IT Analyst - Entry Level](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332) | Not listed | Irving Texas + 1 ... | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **HNTB** | [Returning New Grad Engineer I - Winter/Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only)](https://jobright.ai/jobs/info/6a68db035d01972698ee4c8b) | Not listed | Philadelphia, PA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **RTX** | [Methods Engineer I (Summer 2027)](https://jobright.ai/jobs/info/6a68db1505bae84301b58d7a) | Not listed | East Hartford, CT, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-28 | **NewsBreak** | [Applied AI Engineer - Advertising Agents - New Grad](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) | $135,000–$155,000 | Mountain View, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-28 | **PPG** | [2027 Burbank PhD Program - Aerospace Product Developer](https://jobright.ai/jobs/info/6a68e46a3b549b0b531d29c3) | Not listed | Burbank, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-28 | **ByteDance** | [Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a57a157efb06a45240db8bd) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-28 | **ByteDance** | [Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a564abaefb06a45240d4dc5) | Not listed | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-28 | **Lila Sciences** | [ML Scientist I/II - Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4324969009) | $176,000–$304,000 | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **BlackRock** | [Associate - Quantitative Developer - Model Portfolio Solutions - MPS - Multi-Asset Strategies & Solutions - MASS](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Associate--Quantitative-Developer--Model-Portfolio-Solutions--MPS---Multi-Asset-Strategies---Solutions--MASS-_R265714) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **NAVEX** | [Junior Software Engineer](https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/4334) | Not listed | Houston, TX +2 | ❔ | ◐ Likely | — |
 | 2026-07-28 | **Northrop Grumman** | [2027 Associate Software Engineer / So...](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | Not listed | Florida | ❔ | ◐ Likely | — |
 | 2026-07-28 | **Revvity** | [Associate Software Development Engineer - Remote US](https://revvity.wd103.myworkdayjobs.com/en-US/external/job/US-Remote---MA/Associate-Software-Development-Engineer--Remote-US-_JR-044961) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **RSM** | [Cyber ServiceNow Developer Associate - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | Not listed | Chicago, IL +1 | ❔ | ◐ Likely | — |
-| 2026-07-28 | **Hanwha Renewables** | [Associate Developer](https://job-boards.greenhouse.io/hanwharenewables/jobs/4321557009) | $115,000–$125,000 | Remote | ❔ | ◐ Likely | — |
 | 2026-07-27 | **LetsGetChecked** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-27 | **ByteDance** | [Algorithm Application Scientist - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PHD)](https://jobright.ai/jobs/info/6a546c94c8eb0843027afe32) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-26 | **ByteDance** | [Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a5256668ef95364ead8deda) | Not listed | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
@@ -209,6 +213,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Abridge** | [Software Engineer - Early Career](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [C++/Linux Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Adtran** | [Software Engineer I](https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005697) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Antares** | [Reactor Software Engineer I/II](https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42) | Not listed | Los Angeles, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Aurora** | [Software Engineer I - Data Eng infra](https://aurora.tech/jobs/8628066002?gh_jid=8628066002) | Not listed | Mountain View, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Blue Origin** | [Software Development Engineer I - Early Career - 2026 Starts](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
@@ -244,7 +249,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Backend](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **WHOOP** | [Software Engineer I - Frontend - Growth](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Zettabyte** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a) | Not listed | USA | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Andrew Morgan Consulting** | [Data Engineer I](https://andrew-morgan.com/current-openings?gh_jid=5274924008) | Not listed | Remote | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Flashpoint** | [Data Engineer I](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Iambic Therapeutics** | [Biological Structures Data Engineer I/II](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) | Not listed | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Teamworks** | [Data Engineer I](https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3) | Not listed | USA | ❔ | ✅ Confirmed | — |
