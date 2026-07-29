@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-29** · Open roles: **428**
+> Last automated update: **2026-07-29** · Open roles: **429**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -17,6 +17,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-29 | **RSM US LLP** | [Cyber ServiceNow Developer Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf0b872eb74f9eadab70) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **RSM US LLP** | [Cyber Testing Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf1b3b5e6b116a550568) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **RSM US LLP** | [Cyber Testing Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf1ed0fb4c3df393e7bb) | Not listed | Des Moines, IA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-29 | **Dennis Group** | [Automation / Controls Engineer I (December 2026 Start)](https://jobright.ai/jobs/info/6a5a1b0a63a8f619507c52fa) | Not listed | Springfield, MA 01103, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Vultr** | [Associate Platform Engineer - Cloud Native](https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-29 | **Fiserv** | [Manager - Software Development I - Clover App Market](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Sunnyvale-California/Software-Engineering-Manager_R-10369664) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-29 | **KBR** | [Junior Salesforce Developer](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Remote---US/Junior-Salesforce-Developer_R2127251) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
