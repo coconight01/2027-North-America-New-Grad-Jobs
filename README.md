@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-30** · Open roles: **430**
+> Last automated update: **2026-07-30** · Open roles: **438**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -11,6 +11,14 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-07-30 | **Sony Music Entertainment** | [Data Strategy & Analytics Rotation Trainee 2026-2027](https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-30 | **Canadian Tire Corporation** | [Process Improvement Engineering Student (4 months) - Fall 2026](https://jobright.ai/jobs/info/6a6a69a548355b3f12bf0e32) | Not listed | Toronto, ON, Canada | ❔ | ✅ Confirmed | — |
+| 2026-07-30 | **Solar Turbines** | [2027 Entry Level Fleet Engineer](https://jobright.ai/jobs/info/6a6ab5cdc00ae03109f7f7c8) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-30 | **Solar Turbines** | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6891f95f2a9115e18d887c) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-30 | **ByteDance** | [Student Researcher (Multimodal Interaction and World Model - Seed) – 2027 Start (PhD)](https://jobright.ai/jobs/info/6a480270f9cbb100d1ab19ab) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-30 | **PGIM** | [[Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgimcareers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-ProgramR-124649?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649) | Not listed | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | ❔ | ◐ Likely | — |
+| 2026-07-30 | **PGIM** | [[Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgimcareers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-ProgramR-124634?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) | Not listed | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | ❔ | ◐ Likely | — |
+| 2026-07-30 | **Prudential Financial** | [[Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-ProgramR-124649-1?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1) | Not listed | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | ❔ | ◐ Likely | — |
+| 2026-07-30 | **Prudential Financial** | [[Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-ProgramR-124634-2?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2) | Not listed | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-29 | **Premier Research Labs** | [Junior Web Developer / Business Systems Analyst](http://prlabs.applytojob.com/apply/83TfKLPFXK/Junior-Web-Developer-Business-Systems-Analyst) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Dennis Group** | [Automation / Controls Engineer I (December 2026 Start)](https://jobright.ai/jobs/info/6a5a1b0a63a8f619507c52fa) | Not listed | Springfield, MA 01103, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Solar Turbines** | [2027 Entry Level Rotation - Solutions Platforms Engineered](https://jobright.ai/jobs/info/6a6964bb34acfa6657c8c21d) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
@@ -188,8 +196,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
