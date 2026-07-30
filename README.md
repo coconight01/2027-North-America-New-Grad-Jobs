@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-29** · Open roles: **429**
+> Last automated update: **2026-07-30** · Open roles: **430**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,14 +10,15 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-07-30 | **Sony Music Entertainment** | [Data Strategy & Analytics Rotation Trainee 2026-2027](https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Premier Research Labs** | [Junior Web Developer / Business Systems Analyst](http://prlabs.applytojob.com/apply/83TfKLPFXK/Junior-Web-Developer-Business-Systems-Analyst) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
+| 2026-07-29 | **Dennis Group** | [Automation / Controls Engineer I (December 2026 Start)](https://jobright.ai/jobs/info/6a5a1b0a63a8f619507c52fa) | Not listed | Springfield, MA 01103, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Solar Turbines** | [2027 Entry Level Rotation - Solutions Platforms Engineered](https://jobright.ai/jobs/info/6a6964bb34acfa6657c8c21d) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **ByteDance** | [Student Researcher (Vision Foundation Model - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a546c868576ec69c01531f7) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Crusoe** | [Software Engineer I - Storage](https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **RSM US LLP** | [Cyber ServiceNow Developer Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf0b872eb74f9eadab70) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **RSM US LLP** | [Cyber Testing Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf1b3b5e6b116a550568) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **RSM US LLP** | [Cyber Testing Associate - Summer 2027](https://jobright.ai/jobs/info/6a67bf1ed0fb4c3df393e7bb) | Not listed | Des Moines, IA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-29 | **Dennis Group** | [Automation / Controls Engineer I (December 2026 Start)](https://jobright.ai/jobs/info/6a5a1b0a63a8f619507c52fa) | Not listed | Springfield, MA 01103, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-29 | **Vultr** | [Associate Platform Engineer - Cloud Native](https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-29 | **Fiserv** | [Manager - Software Development I - Clover App Market](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Sunnyvale-California/Software-Engineering-Manager_R-10369664) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-29 | **KBR** | [Junior Salesforce Developer](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Remote---US/Junior-Salesforce-Developer_R2127251) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
@@ -60,8 +61,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-25 | **Performance Trust Capital Partners** | [2027 Client Insights & Analytics Summer Analyst](https://jobright.ai/jobs/info/6a63b84a8d53603449603e18) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Astranis Space Technologies** | [Avionics Engineer Associate (Fall 2026)](https://jobright.ai/jobs/info/6a55833fae07d60a8d011bd0) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Blissway** | [Embedded Systems Engineer - Recent Graduate](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8) | Not listed | Denver, CO | ❔ | ✅ Confirmed | — |
-| 2026-07-25 | **Henderson Engineers** | [Graduate Designer 2026-2027](https://jobright.ai/jobs/info/6a649003e8d8d22e3292cf9a) | Not listed | Lenexa, KS, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Henderson Engineers** | [Graduate Designer 2026-2027](https://jobright.ai/jobs/info/6a648fcf8d53603449606963) | Not listed | Plano, TX, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-25 | **Henderson Engineers** | [Graduate Designer 2026-2027](https://jobright.ai/jobs/info/6a649003e8d8d22e3292cf9a) | Not listed | Lenexa, KS, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a342022ce501060b5cef868) | Not listed | Westborough, MA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **Qualus** | [Power Systems Engineer I - Arc Flash Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a63d4dd979290281c70471f) | Not listed | West Chester, OH, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-25 | **ByteDance** | [Student Researcher (LLM - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a643e778d53603449605ecb) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -187,9 +188,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Susquehanna International Group** | [Quantitative Researcher – Master's: 2027](https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | — |
