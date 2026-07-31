@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-31** · Open roles: **445**
+> Last automated update: **2026-07-31** · Open roles: **446**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -11,6 +11,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-07-31 | **Solar Turbines** | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **CVS Health** | [Spring 2027 Family Nurse Practitioner...](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Connecticut/Spring-2027-Family-Nurse-Practitioner-Student-Rotations-NATIONWIDE-MinuteClinic_R0991295) | Not listed | Field Connecticut... | ❔ | ◐ Likely | — |
 | 2026-07-30 | **Canadian Tire Corporation** | [Process Improvement Engineering Student (4 months) - Fall 2026](https://jobright.ai/jobs/info/6a6a69a548355b3f12bf0e32) | Not listed | Toronto, ON, Canada | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **JPMorganChase** | [2027 Corporate Analyst Development Program - Summer Analyst (Chicago)](https://jobright.ai/jobs/info/6a5a906ec8e3a473cb8ac63c) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **JPMorganChase** | [2027 Corporate Analyst Development Program - Summer Analyst (New York Metro)](https://jobright.ai/jobs/info/6a65084a5c7e2d715ebb1316) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
@@ -203,9 +204,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Susquehanna International Group** | [Quantitative Researcher – Master's: 2027](https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129) | Not listed | New York, NY, United States | ✅ | ✅ Confirmed | — |
