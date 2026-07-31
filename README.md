@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-30** · Open roles: **444**
+> Last automated update: **2026-07-31** · Open roles: **445**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,15 +10,16 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-07-31 | **Solar Turbines** | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **Canadian Tire Corporation** | [Process Improvement Engineering Student (4 months) - Fall 2026](https://jobright.ai/jobs/info/6a6a69a548355b3f12bf0e32) | Not listed | Toronto, ON, Canada | ❔ | ✅ Confirmed | — |
-| 2026-07-30 | **Solar Turbines** | [2027 Entry Level Fleet Engineer](https://jobright.ai/jobs/info/6a6ab5cdc00ae03109f7f7c8) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-30 | **Sony Music Entertainment** | [Data Strategy & Analytics Rotation Trainee 2026-2027](https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **JPMorganChase** | [2027 Corporate Analyst Development Program - Summer Analyst (Chicago)](https://jobright.ai/jobs/info/6a5a906ec8e3a473cb8ac63c) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **JPMorganChase** | [2027 Corporate Analyst Development Program - Summer Analyst (New York Metro)](https://jobright.ai/jobs/info/6a65084a5c7e2d715ebb1316) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-30 | **Linde** | [R&D Engineer- Campus 2026-2027](https://jobright.ai/jobs/info/6a6b8e0eca1f9338465fb152) | Not listed | Burr Ridge, IL, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-30 | **Solar Turbines** | [2027 Entry Level Fleet Engineer](https://jobright.ai/jobs/info/6a6ab5cdc00ae03109f7f7c8) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-30 | **Sony Music Entertainment** | [Data Strategy & Analytics Rotation Trainee 2026-2027](https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **ByteDance** | [Research Scientist - AI Compute & DPU - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5531b3f2c46727285f0860) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-07-30 | **ByteDance** | [Student Researcher (Multimodal Interaction and World Model - Seed) – 2027 Start (PhD)](https://jobright.ai/jobs/info/6a480270f9cbb100d1ab19ab) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-30 | **Old Mission** | [Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)](https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-30 | **Linde** | [R&D Engineer- Campus 2026-2027](https://jobright.ai/jobs/info/6a6b8e0eca1f9338465fb152) | Not listed | Burr Ridge, IL, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-30 | **ByteDance** | [Student Researcher (Multimodal Interaction and World Model - Seed) – 2027 Start (PhD)](https://jobright.ai/jobs/info/6a480270f9cbb100d1ab19ab) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-30 | **PGIM** | [[Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgimcareers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-ProgramR-124649?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649) | Not listed | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-30 | **PGIM** | [[Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgimcareers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-ProgramR-124634?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) | Not listed | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-30 | **Prudential Financial** | [[Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-ProgramR-124649-1?utmsource=Simplify&ref=Simplify)](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1) | Not listed | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | ❔ | ◐ Likely | — |
@@ -120,12 +121,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-24 | **BlueCross BlueShield of Tennessee** | [Pharmacy Data Analyst I](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Pharmacy-Data-Analyst-I_R-50709) | Not listed | Remote - Chattanooga, TN | ❔ | ◐ Likely | — |
 | 2026-07-24 | **Engelhart** | [Junior Quantitative Developer](https://job-boards.greenhouse.io/engelhart/jobs/8068980) | $150,000–$180,000 | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-24 | **ICONIQ Capital** | [UI Frontend Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645574002) | $100,000–$130,000 | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a4c2ad84f64ba41dcb5ec48) | Not listed | Edison,New Jersey,United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44044e57ffc22029405ea2) | Not listed | Columbus, OH, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e22df1ab552f90d077a1) | Not listed | Fairfax, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a53cd95e726ec56126a8127) | Not listed | Lancaster, PA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a44e21a497c084dcfb59eab) | Not listed | Manchester,New Hampshire,United States | ❔ | ✅ Confirmed | — |
-| 2026-07-23 | **Collins Aerospace** | [2027- Fulltime Systems Engineer Display Products I_ Onsite](https://jobright.ai/jobs/info/6a61dffdab14335fc0f1a36f) | Not listed | Cedar Rapids, IA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **General Motors** | [Software Engineer - Autonomous Vehicles Software Systems - Early Career](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) | Not listed | Sunnyvale, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Qualus** | [Field Service Technician I - Apparatus Boot Camp Winter 2027](https://jobright.ai/jobs/info/6a563e87f7517b519ad545a3) | Not listed | Brooklyn Park, MN, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **ByteDance** | [Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a616347d51f6101c8fbb6c8) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -142,6 +141,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a456a5f48d2f00f2a86d806) | Not listed | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **Franklin Templeton** | [Junior Quant Developer](https://franklintempleton.wd5.myworkdayjobs.com/en-US/primary-external-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-23 | **HarbourVest** | [Junior Quantitative Investment Engineer](https://harbourvest.wd5.myworkdayjobs.com/en-US/hvp/job/Boston/Junior-Quantitative-Investment-Engineer_R2464) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
+| 2026-07-23 | **CDM Smith** | [Environmental Engineer - Water Services - (Fall 2026 Grads!)](https://jobright.ai/jobs/info/6a4c2ad84f64ba41dcb5ec48) | Not listed | Edison,New Jersey,United States | ❔ | ◐ Likely | — |
+| 2026-07-23 | **Collins Aerospace** | [2027- Fulltime Systems Engineer Display Products I_ Onsite](https://jobright.ai/jobs/info/6a61dffdab14335fc0f1a36f) | Not listed | Cedar Rapids, IA, United States | ❔ | ◐ Likely | — |
 | 2026-07-23 | **New Relic** | [Associate Software Engineer- Infrastructure](https://job-boards.greenhouse.io/newrelic/jobs/5294386008) | Not listed | Oregon, USA +18 | ❔ | ◐ Likely | — |
 | 2026-07-23 | **Clearwater Analytics** | [Quantitative Developer - Associate - FX](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quantitative-Developer--Associate---FX_R10839) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-23 | **Hayden AI** | [Associate Data Scientist](https://jobs.ashbyhq.com/haydenai/6951fb04-478b-46f5-b918-123a69a28925) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
