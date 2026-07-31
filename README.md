@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-31** · Open roles: **707**
+> Last automated update: **2026-07-31** · Open roles: **710**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -11,17 +11,23 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-07-31 | **Flow Traders** | [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **Foxconn Industrial Internet - FII** | [Data Analyst](http://foxconnassemblyllc.applytojob.com/apply/Lt6pOemhLL/Data-Analyst) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Per Scholas** | [Technical Instructor - AWS Machine Learning](https://job-boards.greenhouse.io/perscholashires/jobs/4683174006) | Not listed | USA | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **US Ghost Adventures** | [AI Content Creation](http://usghostadventures.applytojob.com/apply/22dcazkGTe/AI-Content-Creation) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Foxconn Industrial Internet - FII** | [Full Stack Web Developer](http://foxconnassemblyllc.applytojob.com/apply/pZ5w10bcXa/Full-Stack-Web-Developer) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Nooks** | [Software Engineer - New Grad](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **northwoodspace** | [Software Engineer - General - new grad / early career](https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | Not listed | Los Angeles, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Snap Finance** | [Software Engineer I](https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796) | Not listed | Arizona, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Squarepoint Capital** | [Quantitative Researcher - Volatility](https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-31 | **Foxconn Industrial Internet - FII** | [Data Analyst](http://foxconnassemblyllc.applytojob.com/apply/Lt6pOemhLL/Data-Analyst) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
-| 2026-07-31 | **US Ghost Adventures** | [AI Content Creation](http://usghostadventures.applytojob.com/apply/22dcazkGTe/AI-Content-Creation) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **Genworth** | [Genworth IT Development Program Analyst – 2027](https://jobright.ai/jobs/info/6a6cc98032f9300c3a3e51b1) | Not listed | Richmond, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Abnormal Security** | [Software Engineer I - Data Platform](https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003) | $122,400–$176,000 | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **CLEAR** | [Software Engineer - Infrastructure](https://job-boards.greenhouse.io/clear/jobs/7901600) | $105,000-$125,000 | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **Riot Games** | [Manager - Software Engineering - Tools & Frameworks - Developer Connections](https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273) | $206,700.00 - $289,600.00 | Los Angeles, CA +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Latitude AI** | [Embedded Software Engineer II - C++ Realtime Platform](https://job-boards.greenhouse.io/latitude/jobs/8053843) | $150,320–$225,480 | Remote - Detroit, MI +2 | ✅ | ◐ Likely | — |
+| 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - Chicago](https://job-boards.greenhouse.io/dvtrading/jobs/4687386005) | $100,000 - $200,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - New York](https://job-boards.greenhouse.io/dvtrading/jobs/4687460005) | $100,000 - $200,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **ClickHouse** | [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004) | $141,000 - $230,000 | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Scopely** | [Data Scientist - Marketing](https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008) | $141,800 - $202,500 | San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660238838679832837) | $200k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660311850698656053) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CHAOS Industries** | [Field Software Engineer](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007) | $140,000–$240,000 | Los Angeles, CA +1 | ❔ | ◐ Likely | — |
@@ -29,22 +35,28 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Stripe** | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8009143) | $156,800–$235,200 | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Software Engineer - AI Agent](https://lifeattiktok.com/search/7626968373985429765) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Software Engineer - Multiple Positions](https://lifeattiktok.com/search/7660244549499603253) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **DV Trading** | [Software Developer - Chicago](https://job-boards.greenhouse.io/dvtrading/jobs/4687398005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **DV Trading** | [Software Developer - New York](https://job-boards.greenhouse.io/dvtrading/jobs/4687462005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Anti-Fraud Risk Data Analyst - Multiple Positions](https://lifeattiktok.com/search/7636944382403823877) | $200k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Data Analyst - Multiple Positions](https://lifeattiktok.com/search/7660279063341058357) | $200k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Anrok** | [Engineering Manager - Platform and AI Infrastructure](https://jobs.ashbyhq.com/anrok/0663a54c-00f9-402f-a28d-a6d513f27d17) | Not listed | Remote - San Francisco, CA +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Lavendo** | [Developer Advocate - AI Infrastructure - SF](https://jobs.ashbyhq.com/lavendo/a9e4c285-cf15-4d7f-975d-20faed3b184b) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Thumbtack** | [Software Engineer - AI/ML Infrastructure - US-Based](https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - Chicago](https://job-boards.greenhouse.io/dvtrading/jobs/4687386005) | $100,000 - $200,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - New York](https://job-boards.greenhouse.io/dvtrading/jobs/4687460005) | $100,000 - $200,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - London](https://job-boards.greenhouse.io/dvtrading/jobs/4687461005) | Not listed | Chicago, IL +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Fidelity Investments** | [Manager - Quant Data Analytics and Insights](https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Boston-MA/Manager--Quant-Data-Analytics-and-Insights_2133133) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Realtor.com** | [Manager - Software Engineering - RDC Next](https://boards.greenhouse.io/rdccareers/jobs/7765068003?gh_jid=7765068003) | Not listed | Austin, TX | ❔ | ◐ Likely | — |
+| 2026-07-31 | **SMX** | [Robotic Process Automation - RPA Developer - 5409](https://www.smxtech.com/careers?gh_jid=7790390003) | Not listed | USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **RZR Global** | [Machine Learning Engineer](https://job-boards.greenhouse.io/rzr/jobs/4217715009) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Anrok** | [Software Engineer - Infrastructure](https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Apex Technology** | [Full Stack Developer - Business Systems](https://jobs.ashbyhq.com/apex-technology-inc/85b66226-b505-43aa-9b44-d8d3deb721ed) | Not listed | Los Angeles, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Apex Technology** | [Software Engineer - Business Systems](https://jobs.ashbyhq.com/apex-technology-inc/bb3d35b3-643a-43fe-94f9-7d3034bc1dd3) | Not listed | Los Angeles, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Applied Intuition** | [Software Engineer - Infrastructure Tooling](https://jobs.ashbyhq.com/applied/c3543196-e23c-4f4b-b460-fca476ffead6) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Boeing** | [Software Systems Engineer - Associate or Experienced](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215) | Not listed | Colorado Springs, CO | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Booz Allen** | [Hybrid Cloud Systems Engineer](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/Hybrid-Cloud-Systems-Engineer_R0245418) | Not listed | San Diego, CA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Cotiviti** | [Generative AI Scientist - Model Risk & Validation](https://careers-cotiviti.icims.com/jobs/19583/generative-ai-scientist---%28model-risk-%26-validation%29/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Decisions** | [Data Analyst](https://decisions.com/jobs-listing/5173358007?gh_jid=5173358007) | Not listed | Remote - USA +1 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **EquipmentShare** | [Data Analyst - People](https://www.equipmentshare.com/careers/openings?gh_jid=8091776) | Not listed | Kansas City, MO | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Highmark Health** | [Cloud Database Administrator](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Cloud-Database-Administrator_J284057) | Not listed | Pennsylvania, USA +43 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **LexisNexis Risk Solutions** | [Site Reliability Engineer II](https://relx.wd3.myworkdayjobs.com/en-US/risksolutions/job/Home-based-Georgia/Site-Reliability-Engineer-II_R114365) | Not listed | Pittsburgh, PA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Nuro** | [Software Engineer - Data Platform](https://nuro.ai/careersitem?gh_jid=7895644) | Not listed | Mountain View, CA | ❔ | ◐ Likely | — |
@@ -53,27 +65,23 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Saronic Technologies** | [Systems Software Engineer](https://jobs.ashbyhq.com/saronic/e7e93e6e-1c61-45e6-8209-e6276564535d) | Not listed | Austin, TX | ❔ | ◐ Likely | — |
 | 2026-07-31 | **ServiceNow** | [Software Engineer - Agentic AI Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000126417779-software-engineer-agentic-ai-systems-moveworks?oga=true) | Not listed | Mountain View, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Smartleaf** | [Software Engineer - Platform Team](https://jobs.ashbyhq.com/smartleaf/b3cbac93-9e7d-422c-afc2-03850324ea86) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **SMX** | [Robotic Process Automation - RPA Developer - 5409](https://www.smxtech.com/careers?gh_jid=7790390003) | Not listed | USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Scopely** | [Data Scientist - Marketing](https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008) | $141,800 - $202,500 | San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Arizent** | [Data & AI Engineer](https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Baseten** | [Engineering Manager - Forward Deployed Engineering - LLM](https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e) | Not listed | San Francisco, CA +3 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **ClickHouse** | [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014113004) | Not listed | Remote - USA +1 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **EvolutionIQ** | [Workers Comp - Lost Time Claims Subject Matter Expert - User Research - AI SaaS](https://job-boards.greenhouse.io/evolutioniq/jobs/5992141004) | Not listed | Remote - New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **fal** | [Machine Learning Engineer - Reliability](https://jobs.ashbyhq.com/fal-ai/1d9325cf-28da-4b78-af0d-eb0abe7b501d) | Not listed | Remote | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Lessen** | [Machine Learning Engineer II](https://jobs.lever.co/lessen/7e37348a-54fc-4e5b-942d-216a0673f7dc) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
+| 2026-07-31 | **JustAnswer** | [Associate AI Conversation Designer - German](https://job-boards.greenhouse.io/justanswer/jobs/8587759002) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Lynker Corporation** | [Marine Sensor Data Scientist - AI/ML](https://careers-lynker.icims.com/jobs/1633/marine-sensor-data-scientist-%e2%80%93-ai-ml/job) | Not listed | Miami, FL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **MyKargo** | [Agentic AI Engineer](https://job-boards.greenhouse.io/kargo/jobs/6100171004) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Pear VC** | [Founding AI Engineer - Manhattan Labs](https://jobs.ashbyhq.com/pear-vc/f48cecb3-841e-4e38-87db-0ad1115a7a46) | Not listed | Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Pulsora** | [AI Engineer - United States](https://jobs.ashbyhq.com/pulsora%20inc/030c8e56-a7df-4986-b8af-104a1c9ec701) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Pulsora** | [Applied AI Engineer - US](https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Quantcast** | [Machine Learning Engineer](https://jobs.ashbyhq.com/quantcast/2a6d8f0e-e0f3-4114-944b-2736b26072c4) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **RZR Global** | [Machine Learning Engineer](https://job-boards.greenhouse.io/rzr/jobs/4217715009) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Socure** | [Data Scientist II - Big Data R&D - Identity Graph & KYC](https://jobs.ashbyhq.com/socure/df93769c-ab37-4741-88bb-0f9d1ff4954b) | Not listed | San Francisco, CA +3 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Vytalize Health** | [AI Engineer](https://jobs.ashbyhq.com/vytalize%20health/6ecd6562-db2f-470b-b836-b69a4f6a30b2) | Not listed | Remote | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Zapier** | [Engineer - Applied AI](https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8) | Not listed | San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Andrew Morgan Consulting** | [OneStream Developer](https://andrew-morgan.com/current-openings?gh_jid=5288472008) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Cotiviti** | [Software Engineer-Java / Drools/ Bitbucket](https://careers-cotiviti.icims.com/jobs/19558/software-engineer-java---drools--bitbucket/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Riot Games** | [Manager - Software Engineering - Tools & Frameworks - Developer Connections](https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273) | $206,700.00 - $289,600.00 | Los Angeles, CA +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **DV Trading** | [Software Developer - Chicago](https://job-boards.greenhouse.io/dvtrading/jobs/4687398005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **DV Trading** | [Software Developer - New York](https://job-boards.greenhouse.io/dvtrading/jobs/4687462005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Applied Intuition** | [Android Software Engineer - Applications](https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Astronomer** | [Software Engineer - Applications](https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CarGurus** | [Software Development Engineer II - Developer Experience Architecture](https://careers.cargurus.com/us/en/job/8050961?gh_jid=8050961) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
@@ -133,26 +141,19 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Syncreon Consulting** | [Data Engineer - Snowflake - Databrick - DBT - ETL- W2 position - Independent consultant](https://jobs.smartrecruiters.com/SyncreonConsulting/744000140494861-data-engineer-snowflake-databrick-dbt-etl-w2-position-independent-consultant?oga=true) | Not listed | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Baseten** | [Applied AI Inference Engineer](https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa) | Not listed | Remote - San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Alpaca** | [Cyber & AI Risk Analyst](https://job-boards.greenhouse.io/alpaca/jobs/6127040004) | Not listed | Remote - USA +1 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **ClickHouse** | [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004) | $141,000 - $230,000 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **August** | [AI Deployment Strategist](https://jobs.ashbyhq.com/august/dfe8c589-c411-4d2d-a79e-70bc3bdd600c) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Baseten** | [AI Solutions Engineer](https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433) | Not listed | Remote - San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Brellium** | [Deployment Associate - AI Solutions](https://jobs.ashbyhq.com/brellium/65f55c9f-4614-4b41-a64b-0cdb6a55792e) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Chamber Cardio** | [Data Analyst](https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711) | Not listed | Washington, DC | ❔ | ◐ Likely | — |
-| 2026-07-31 | **ClickHouse** | [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014113004) | Not listed | Remote - USA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CommUnityCare** | [Care Model Front End Instructor](https://communitycare-centralhealth.icims.com/jobs/10765/care-model-front-end-instructor/job) | Not listed | Austin, TX | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Cotiviti** | [Generative AI Scientist - Model Risk & Validation](https://careers-cotiviti.icims.com/jobs/19583/generative-ai-scientist---%28model-risk-%26-validation%29/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CVS Health** | [Spring 2027 Family Nurse Practitioner...](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Connecticut/Spring-2027-Family-Nurse-Practitioner-Student-Rotations-NATIONWIDE-MinuteClinic_R0991295) | Not listed | Field Connecticut... | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Decisions** | [Data Analyst](https://decisions.com/jobs-listing/5173358007?gh_jid=5173358007) | Not listed | Remote - USA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Emory Healthcare** | [Data Analyst II](https://non-clinical-emory.icims.com/jobs/169212/data-analyst-ii/job) | Not listed | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Emory Healthcare** | [Data Analyst II- Supply Chain](https://non-clinical-emory.icims.com/jobs/150075/data-analyst-ii--supply-chain/job) | Not listed | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Emory University** | [Data Analyst - Rollins School of Public Health](https://staff-emory.icims.com/jobs/170084/data-analyst---rollins-school-of-public-health/job) | Not listed | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Encord** | [Commercial Associate - Physical AI](https://jobs.ashbyhq.com/encord/d585cd56-a9f1-4f7b-b205-1ec21a7b8876) | Not listed | San Francisco, CA +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **EquipmentShare** | [Data Analyst - People](https://www.equipmentshare.com/careers/openings?gh_jid=8091776) | Not listed | Kansas City, MO | ❔ | ◐ Likely | — |
-| 2026-07-31 | **EvolutionIQ** | [Workers Comp - Lost Time Claims Subject Matter Expert - User Research - AI SaaS](https://job-boards.greenhouse.io/evolutioniq/jobs/5992141004) | Not listed | Remote - New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Faherty Brand** | [Wholesale Planner - AI & Analytics](https://fahertybrand.com/pages/faherty-applications?gh_jid=5183723007) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Hayden AI** | [Deep Learning Engineer](https://jobs.ashbyhq.com/haydenai/f9da378a-156e-4fa4-8d8c-34580a05b4c9) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Jobgether** | [Customer Success Data Analyst](https://jobs.lever.co/jobgether/c78fdb98-d2a1-40ba-b121-0bc0157df8db) | Not listed | USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **JustAnswer** | [Associate AI Conversation Designer - German](https://job-boards.greenhouse.io/justanswer/jobs/8587759002) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Lilly** | [Applied Bioinformatics Engineer - Pipelines & AI](https://lilly.wd115.myworkdayjobs.com/en-US/lly/job/US-Boston-MA/Applied-Bioinformatics-Engineer--Pipelines---AI_R-105458) | Not listed | Boston, MA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **MDCalc** | [QA Engineer - AI Products](https://jobs.ashbyhq.com/mdcalc/cf02b1b2-0963-46cd-bde4-022f007ec311) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Mercor** | [Enterprise AI Associate](https://jobs.ashbyhq.com/mercor/50a58426-2e97-43a5-99b1-d0d9cdc88100) | Not listed | San Francisco, CA +1 | ❔ | ◐ Likely | — |
@@ -169,70 +170,72 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **TransUnion** | [Marketing Data Analyst](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Marketing-Data-Analyst_19041413-1) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Vultr** | [Product Specialist Public Sector Sovereign Cloud - FedRAMP](https://jobs.ashbyhq.com/vultr/0e7c9531-28f4-44df-9b18-e4540b77fd2b) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **YWCA** | [Client Data Analyst - Programs & Impact](https://jobs.lever.co/ywcaworks/bc040e15-0596-47fc-97a0-9eedae1936b6) | Not listed | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Zapier** | [Engineer - Applied AI](https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8) | Not listed | San Francisco, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **SMX** | [Cloud Analyst - Secret - 4495](https://www.smxtech.com/careers?gh_jid=7813061003) | Not listed | Boston, MA +3 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Adaptive Search Relevance](https://www.amazon.jobs/jobs/10471616/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Kiro](https://www.amazon.jobs/jobs/10486697/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [SDE II - EC2 Instance Networking - EC2 Nitro](https://www.amazon.jobs/jobs/10486805/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - IDEAS](https://www.amazon.jobs/jobs/10473342/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [SDE - Responsible AI](https://www.amazon.jobs/jobs/10482591/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Front-End Engineer II - Amazon Quick](https://www.amazon.jobs/jobs/10486826/apply) | $186k/yr | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Front-End Engineer II - AWS Applied AI Solutions](https://www.amazon.jobs/jobs/10480393/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Distributed Services](https://www.amazon.jobs/jobs/10486541/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Cohere Health** | [Site Reliability Engineer ll](https://job-boards.greenhouse.io/coherehealth/jobs/7807972003) | $100,000–$110,000/year | USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Dev Engineer - AEP - Amazon External Payments - Amazon External Payments](https://www.amazon.jobs/jobs/10487269/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer - Amazon Connect](https://www.amazon.jobs/jobs/10479215/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - Aurora Storage](https://www.amazon.jobs/jobs/10476454/apply) | $186k/yr | Redmond, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - AWS catalog](https://www.amazon.jobs/jobs/10487773/apply) | $186k/yr | East Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - AWS Security Incident Response](https://www.amazon.jobs/jobs/10483813/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - Lambda MicroVMs - Serverless Compute](https://www.amazon.jobs/jobs/10476532/apply) | $186k/yr | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Developer Engineer - Amazon WorkSpaces Core Managed Instances](https://www.amazon.jobs/jobs/10484211/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Amazon OpenSearch - OpenSearch Core](https://www.amazon.jobs/jobs/10487557/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Aurora Open Source engines](https://www.amazon.jobs/jobs/10473326/apply) | $186k/yr | Redmond, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Config - AWS Config](https://www.amazon.jobs/jobs/10487481/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Elastic Load Balancing - Control Plane](https://www.amazon.jobs/jobs/10479435/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Multi Region Journal](https://www.amazon.jobs/jobs/10470158/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Prime Video Sports News and Linear](https://www.amazon.jobs/jobs/10473446/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Privacy](https://www.amazon.jobs/jobs/10480882/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer II - Amazon MSK](https://www.amazon.jobs/jobs/10482679/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Throttling](https://www.amazon.jobs/jobs/10482688/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Manager - AWS DynamoDB Global Tables](https://www.amazon.jobs/jobs/10479049/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Ads Security](https://www.amazon.jobs/jobs/10486387/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Distributed Services](https://www.amazon.jobs/jobs/10486541/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Activate](https://www.amazon.jobs/jobs/10475820/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Cohere Health** | [Site Reliability Engineer ll](https://job-boards.greenhouse.io/coherehealth/jobs/7807972003) | $100,000–$110,000/year | USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Dev Engineer - AEP - Amazon External Payments - Amazon External Payments](https://www.amazon.jobs/jobs/10487269/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - Shield](https://www.amazon.jobs/jobs/10480588/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Developer Engineer - Amazon WorkSpaces Core Managed Instances](https://www.amazon.jobs/jobs/10484211/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Ads Data Manager](https://www.amazon.jobs/jobs/10476935/apply) | $186k/yr | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Amazon Catalog services team - Amazon Catalog services team](https://www.amazon.jobs/jobs/10478987/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Amazon OpenSearch - OpenSearch Core](https://www.amazon.jobs/jobs/10487557/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Aurora Open Source engines](https://www.amazon.jobs/jobs/10473326/apply) | $186k/yr | Redmond, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Agentic AI](https://www.amazon.jobs/jobs/10486378/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Config - AWS Config](https://www.amazon.jobs/jobs/10487481/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Elastic Load Balancing - Control Plane](https://www.amazon.jobs/jobs/10479435/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Lambda](https://www.amazon.jobs/jobs/10477461/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - AWS OpenSearch Service](https://www.amazon.jobs/jobs/10477971/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Core Shopping](https://www.amazon.jobs/jobs/10472843/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - IAM](https://www.amazon.jobs/jobs/10485640/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - IDEAS](https://www.amazon.jobs/jobs/10473342/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Kiro](https://www.amazon.jobs/jobs/10486697/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Multi Region Journal](https://www.amazon.jobs/jobs/10470158/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Prime Video Sports News and Linear](https://www.amazon.jobs/jobs/10473446/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Privacy](https://www.amazon.jobs/jobs/10480882/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer II - Amazon MSK](https://www.amazon.jobs/jobs/10482679/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Lambda](https://www.amazon.jobs/jobs/10477458/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Throttling](https://www.amazon.jobs/jobs/10482688/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer II - SCOT Forecasting and Labs](https://www.amazon.jobs/jobs/10484891/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Manager - AWS DynamoDB Global Tables](https://www.amazon.jobs/jobs/10479049/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Engineer - ECS](https://www.amazon.jobs/jobs/10486016/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Machine Learning Engineer - OIS-Core Engine](https://www.amazon.jobs/jobs/10485323/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [SDE - Responsible AI](https://www.amazon.jobs/jobs/10482591/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | $186k/yr | Sunnyvale, CA +3 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Waymark** | [Data/AI Scientist II](https://job-boards.greenhouse.io/waymark/jobs/4718610005) | $123,000 - $164,000 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Samsara** | [Software Engineer II](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) | $113,645–$191,000 | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Vestmark** | [Software Engineer](https://job-boards.greenhouse.io/vestmark/jobs/8009953) | $80,000–$110,000 | Boston, MA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Fanduel** | [Campaign Analytics - Data Analyst](https://www.fanduel.careers/open-positions?gh_jid=8055746) | $ 90,000 - $112,000 | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Jr. Software Development Engineer - Atlanta - GA - Jr. Developer Program](https://www.amazon.jobs/jobs/10468069/apply) | $186k/yr | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer 2 - REX](https://www.amazon.jobs/jobs/10477113/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - Amazon Connect - AWS](https://www.amazon.jobs/jobs/10482693/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - AWS Applied AI Solutions](https://www.amazon.jobs/jobs/10482044/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II-TEST - Agentic Workspaces](https://www.amazon.jobs/jobs/10487824/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Adaptive Search Relevance](https://www.amazon.jobs/jobs/10471616/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Ads Security](https://www.amazon.jobs/jobs/10486387/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Agentic Workspaces](https://www.amazon.jobs/jobs/10482153/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Amazon WorkSpaces Applications](https://www.amazon.jobs/jobs/10484190/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Amazon WorkSpaces Applications](https://www.amazon.jobs/jobs/10484189/apply) | $186k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Apache Flink](https://www.amazon.jobs/jobs/10482676/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - AWS IAM Identity Center - IAM Identity Center - Unified SignIn and Sessions](https://www.amazon.jobs/jobs/10481995/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - AWS Partnerships](https://www.amazon.jobs/jobs/10466825/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - CloudFront](https://www.amazon.jobs/jobs/10481664/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Developer Agents and Experiences - Production Engineering](https://www.amazon.jobs/jobs/10486685/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - Devices - Emerging Product](https://www.amazon.jobs/jobs/10480784/apply) | $186k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer - EC2 Core Provisioning](https://www.amazon.jobs/jobs/10482975/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer - Measurement - Ad Tech - and Data Science](https://www.amazon.jobs/jobs/10484131/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer II - Amazon Security](https://www.amazon.jobs/jobs/10486573/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Activate](https://www.amazon.jobs/jobs/10475820/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer II - AWS Managed Services](https://www.amazon.jobs/jobs/10483782/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Development Engineer II - SKG Team](https://www.amazon.jobs/jobs/10485387/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Engineer - Discovery](https://www.amazon.jobs/jobs/10482685/apply) | $186k/yr | San Francisco, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Vestmark** | [Software Engineer](https://job-boards.greenhouse.io/vestmark/jobs/8009953) | $80,000–$110,000 | Boston, MA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Developer Agents and Experiences - Production Engineering](https://www.amazon.jobs/jobs/10486685/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Software Development Engineer - Measurement - Ad Tech - and Data Science](https://www.amazon.jobs/jobs/10484131/apply) | $186k/yr | Austin, TX | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Engineer II - AWS Continuum for code vulnerabilities](https://www.amazon.jobs/jobs/10483913/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Ascend** | [Software Engineer](https://job-boards.greenhouse.io/ascend21/jobs/5351565008) | $140,000–$175,000 | San Francisco, CA | ❔ | ◐ Likely | — |
@@ -241,21 +244,21 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Mercury** | [Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/6101145004) | $122,400–$158,400 | Remote - San Francisco, CA +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Rivian** | [Software Integration Engineer - Vehicle Systems](https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc) | $124k/yr | Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Rivian** | [Systems Architecture Software Engineer](https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9) | $124k/yr | Palo Alto, CA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Keller Postman** | [Marketing Data Analyst](https://job-boards.greenhouse.io/kellerpostman/jobs/5194516007) | $90,000 to $100,000 per year | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Natera** | [Software Engineer III - Voice AI](https://job-boards.greenhouse.io/natera/jobs/6001268004) | $105,700–$132,100 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $196k/yr | New York City, NY +2 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Legion Technologies** | [Cloud Release Quality Manager](https://job-boards.greenhouse.io/legion/jobs/7801711003) | $100,000–$120,000 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Bracebridge Capital** | [Machine Learning Analyst](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) | $110,000 - $145,000 | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Fanduel** | [Data Scientist - Experimentation](https://www.fanduel.careers/open-positions?gh_jid=8028963) | $98,000 - 122,000 | New York City, NY | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Legion Technologies** | [Cloud Release Quality Manager](https://job-boards.greenhouse.io/legion/jobs/7801711003) | $100,000–$120,000 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **The Brattle Group** | [Data and AI Engineer](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) | $105,000 - $115,000 annually | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Pathward** | [Artificial Intelligence Analyst - I](https://job-boards.greenhouse.io/pathward/jobs/5992061004) | $60,000 – $100,500 | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Front-End Engineer - Core Shopping](https://www.amazon.jobs/jobs/10487767/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Neuralink** | [Software Design Control Engineer](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003) | $71,000 - $119,000 | Austin, TX +1 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Anduril** | [People Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007) | $112,000 - $149,000 | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [ASIC Design Verification Engineer - Google Cloud](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Design Verification Engineer - TPU Cloud Compute](https://www.google.com/about/careers/applications/jobs/results/131330438437184198) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Hardware Validation Engineer - Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Waymark** | [Data/AI Scientist II](https://job-boards.greenhouse.io/waymark/jobs/4718610005) | $123,000 - $164,000 | Remote - USA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Anduril** | [People Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007) | $112,000 - $149,000 | Boston, MA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Fanduel** | [Campaign Analytics - Data Analyst](https://www.fanduel.careers/open-positions?gh_jid=8055746) | $ 90,000 - $112,000 | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Keller Postman** | [Marketing Data Analyst](https://job-boards.greenhouse.io/kellerpostman/jobs/5194516007) | $90,000 to $100,000 per year | Remote | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Lessen** | [Machine Learning Engineer II](https://jobs.lever.co/lessen/7e37348a-54fc-4e5b-942d-216a0673f7dc) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Systematic Trader - PhD: 2027](https://careers-sig.icims.com/jobs/11021/quantitative-systematic-trader-%e2%80%93-phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/11017/quantitative-researcher---phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Beijing ByteDance Technology Co Ltd** | [Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Tech Research Program - 2027 Start (PhD)](https://www.careerbuilder.com/job-details/research-scientist-technologies-of-data-management-llm-and-ai-agents-global-tech-research-program-2027-start-phd-seattle-wa--0e686893-8ab9-4fc4-bb5a-adf9a37ff327) | Not listed | Seattle, WA | ❔ | ❔ Review | PhD only |
@@ -453,9 +456,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Machine Learning Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8576928002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
@@ -545,10 +548,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **NVIDIA** | [Applied Machine Learning Engineer - Circuit Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) | $172k/yr | Remote - Santa Clara, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **NVIDIA** | [System Software Engineer - Dynamo-Triton Inference Server - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) | $172k/yr | Remote - Santa Clara, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Twitch** | [Software Engineer I - Discovery](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | $127,100–$185,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Amazon** | [Software Engineer I - Discovery](https://www.amazon.jobs/jobs/10468973/apply) | $178k/yr | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **SimpliSafe** | [Software Engineer I - Device Control](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) | $75,100–$100,100 | Boston, MA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Amazon** | [Software Development Engineer I - ML Infra Services - Annapurna Labs](https://www.amazon.jobs/jobs/10464055/apply) | $178k/yr | Cupertino, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Amazon** | [Software Engineer I - Ad Supply](https://www.amazon.jobs/jobs/10403353/apply) | $178k/yr | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Amazon** | [Software Engineer I - Discovery](https://www.amazon.jobs/jobs/10468973/apply) | $178k/yr | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Salesforce** | [Software Engineering AMTS - College Grad](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1) | $176k/yr | California, USA +7 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **NVIDIA** | [Software R&D Engineer - VLSI Physical Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) | $172k/yr | Austin, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Twitch** | [Software Engineer I - Commerce Engineering](https://job-boards.greenhouse.io/twitch/jobs/8457711002) | $110,500–$160,000 | Seattle, WA +1 | ❔ | ✅ Confirmed | — |
