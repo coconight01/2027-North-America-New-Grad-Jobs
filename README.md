@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-08-01** · Open roles: **715**
+> Last automated update: **2026-08-01** · Open roles: **723**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -11,6 +11,14 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-01 | **Chicago Trading Company** | [Associate Engineer - 2027 Start](https://jobright.ai/jobs/info/6a6cf3f8ca1f933846601ac3) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-01 | **Marshall Wace** | [Software/Infrastructure Graduate - 2027 - New York](https://jobright.ai/jobs/info/6a6d6cab66158d7ef887d6dc) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-01 | **ByteDance** | [Student Researcher (Speech Foundation Model - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a6d78fb5c54bc4752cf2605) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-01 | **Northrop Grumman** | [2027 Entry Level Engineering Opportunities - California](https://jobright.ai/jobs/info/6a6d88d1ca1f933846603db0) | Not listed | San Diego, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-01 | **Northrop Grumman** | [2027 Entry Level Engineering Opportunities - California](https://jobright.ai/jobs/info/6a6d88d974dc0046cb5298ea) | Not listed | Palmdale, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-01 | **Advocate Aurora Health** | [Nurse Extern II - Cardiac Angioplasty 10S - December 2026 Grads](https://www.indeed.com/viewjob?jk=2da9fa07bdd0292f) | Not listed | Milwaukee, WI, US | ❔ | ◐ Likely | — |
+| 2026-08-01 | **Advocate Aurora Health** | [Nurse Extern II - Cardiac Medical Telemetry - December 2026 Grads - Sinai](https://www.indeed.com/viewjob?jk=9edf29a21f744f73) | Not listed | Milwaukee, WI, US | ❔ | ◐ Likely | — |
+| 2026-08-01 | **Advocate Aurora Health** | [Nurse Extern II - Med Surg Ortho December 2026 Grads - Sinai](https://www.indeed.com/viewjob?jk=376f0b68fdebb44b) | Not listed | Milwaukee, WI, US | ❔ | ◐ Likely | — |
+| 2026-08-01 | **Advocate Aurora Health** | [Nurse Extern II - Medical Telemetry Observation - December 2026 Grads - St. Luke's](https://www.indeed.com/viewjob?jk=f7c2090505e13fc8) | Not listed | Milwaukee, WI, US | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Flow Traders** | [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Foxconn Industrial Internet - FII** | [Data Analyst](http://foxconnassemblyllc.applytojob.com/apply/Lt6pOemhLL/Data-Analyst) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Genworth** | [Genworth IT Development Program Analyst – 2027](https://jobright.ai/jobs/info/6a6cc98032f9300c3a3e51b1) | Not listed | Richmond, VA, United States | ❔ | ✅ Confirmed | — |
@@ -81,8 +89,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Socure** | [Data Scientist II - Big Data R&D - Identity Graph & KYC](https://jobs.ashbyhq.com/socure/df93769c-ab37-4741-88bb-0f9d1ff4954b) | Not listed | San Francisco, CA +3 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Vytalize Health** | [AI Engineer](https://jobs.ashbyhq.com/vytalize%20health/6ecd6562-db2f-470b-b836-b69a4f6a30b2) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Zapier** | [Engineer - Applied AI](https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8) | Not listed | San Francisco, CA +1 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Cotiviti** | [Software Engineer-Java / Drools/ Bitbucket](https://careers-cotiviti.icims.com/jobs/19558/software-engineer-java---drools--bitbucket/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Andrew Morgan Consulting** | [OneStream Developer](https://andrew-morgan.com/current-openings?gh_jid=5288472008) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Cotiviti** | [Software Engineer-Java / Drools/ Bitbucket](https://careers-cotiviti.icims.com/jobs/19558/software-engineer-java---drools--bitbucket/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Applied Intuition** | [Android Software Engineer - Applications](https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Astronomer** | [Software Engineer - Applications](https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CarGurus** | [Software Development Engineer II - Developer Experience Architecture](https://careers.cargurus.com/us/en/job/8050961?gh_jid=8050961) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
