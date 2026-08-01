@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-07-31** · Open roles: **710**
+> Last automated update: **2026-08-01** · Open roles: **715**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,8 +10,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-01 | **Chicago Trading Company** | [Associate Engineer - 2027 Start](https://jobright.ai/jobs/info/6a6cf3f8ca1f933846601ac3) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Flow Traders** | [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Foxconn Industrial Internet - FII** | [Data Analyst](http://foxconnassemblyllc.applytojob.com/apply/Lt6pOemhLL/Data-Analyst) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
+| 2026-07-31 | **Genworth** | [Genworth IT Development Program Analyst – 2027](https://jobright.ai/jobs/info/6a6cc98032f9300c3a3e51b1) | Not listed | Richmond, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Per Scholas** | [Technical Instructor - AWS Machine Learning](https://job-boards.greenhouse.io/perscholashires/jobs/4683174006) | Not listed | USA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **US Ghost Adventures** | [AI Content Creation](http://usghostadventures.applytojob.com/apply/22dcazkGTe/AI-Content-Creation) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Foxconn Industrial Internet - FII** | [Full Stack Web Developer](http://foxconnassemblyllc.applytojob.com/apply/pZ5w10bcXa/Full-Stack-Web-Developer) | Not listed | Houston, TX | ❔ | ✅ Confirmed | — |
@@ -19,7 +21,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **northwoodspace** | [Software Engineer - General - new grad / early career](https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | Not listed | Los Angeles, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Snap Finance** | [Software Engineer I](https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796) | Not listed | Arizona, USA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Squarepoint Capital** | [Quantitative Researcher - Volatility](https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-31 | **Genworth** | [Genworth IT Development Program Analyst – 2027](https://jobright.ai/jobs/info/6a6cc98032f9300c3a3e51b1) | Not listed | Richmond, VA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Abnormal Security** | [Software Engineer I - Data Platform](https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003) | $122,400–$176,000 | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **CLEAR** | [Software Engineer - Infrastructure](https://job-boards.greenhouse.io/clear/jobs/7901600) | $105,000-$125,000 | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Riot Games** | [Manager - Software Engineering - Tools & Frameworks - Developer Connections](https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273) | $206,700.00 - $289,600.00 | Los Angeles, CA +2 | ❔ | ◐ Likely | — |
@@ -80,8 +81,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Socure** | [Data Scientist II - Big Data R&D - Identity Graph & KYC](https://jobs.ashbyhq.com/socure/df93769c-ab37-4741-88bb-0f9d1ff4954b) | Not listed | San Francisco, CA +3 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Vytalize Health** | [AI Engineer](https://jobs.ashbyhq.com/vytalize%20health/6ecd6562-db2f-470b-b836-b69a4f6a30b2) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Zapier** | [Engineer - Applied AI](https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8) | Not listed | San Francisco, CA +1 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Andrew Morgan Consulting** | [OneStream Developer](https://andrew-morgan.com/current-openings?gh_jid=5288472008) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Cotiviti** | [Software Engineer-Java / Drools/ Bitbucket](https://careers-cotiviti.icims.com/jobs/19558/software-engineer-java---drools--bitbucket/job) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Andrew Morgan Consulting** | [OneStream Developer](https://andrew-morgan.com/current-openings?gh_jid=5288472008) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Applied Intuition** | [Android Software Engineer - Applications](https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a) | Not listed | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Astronomer** | [Software Engineer - Applications](https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CarGurus** | [Software Development Engineer II - Developer Experience Architecture](https://careers.cargurus.com/us/en/job/8050961?gh_jid=8050961) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
@@ -720,6 +721,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-04-06 | **CGS** | [HR Data Analytics & Reporting Specialist - HRDARS - Junior](https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed) | Not listed | Washington, DC | ❔ | ◐ Likely | — |
 | 2025-06-17 | **Palantir** | [American Tech Fellowship](https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0) | Not listed | North America | ❔ | ❔ Review | — |
 | 2025-06-13 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | $135,000–$145,000/year | New York, NY | ❔ | ✅ Confirmed | — |
+| 2024-11-21 | **Palantir** | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | $130,000–$135,000/year | New York, NY | ❔ | ✅ Confirmed | — |
+| 2024-08-15 | **Palantir** | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb) | $130,000–$135,000/year | Palo Alto, CA | ❔ | ✅ Confirmed | — |
+| 2024-01-02 | **Palantir** | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65) | $130,000–$135,000/year | Washington, D.C. | ❔ | ✅ Confirmed | — |
+| 2017-08-10 | **Palantir** | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | $130,000–$135,000/year | New York, NY | ❔ | ✅ Confirmed | — |
 
 ## New-grad semantics
 
