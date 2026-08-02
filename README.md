@@ -1,6 +1,6 @@
 # 2027 North America New Grad Full-Time Jobs
 
-> Last automated update: **2026-08-02** · Open roles: **782**
+> Last automated update: **2026-08-02** · Open roles: **783**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -10,14 +10,15 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-02 | **RRS Group & Co** | [2027 Quantitative Analytics Development Program](https://jobright.ai/jobs/info/6a6f19d2f5953013637f5b8d) | Not listed | San Francisco, California, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **TRM Labs** | [University Grad – Product Engineer (2026-2027) - Los Angeles Only](https://jobright.ai/jobs/info/69a956bb7f9271426f883dff) | Not listed | Los Angeles, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **Quora** | [Software Engineer - Machine Learning Platform - New Grad - Quora - Remote](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) | Not listed | Remote - USA +1 | ❔ | ✅ Confirmed | — |
+| 2026-08-02 | **Astranis Space Technologies** | [Flight Software Associate (Fall 2026)](https://jobright.ai/jobs/info/6a60e90611edf44d7915e7d6) | Not listed | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **Confido** | [New Grad Software Engineer](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e) | Not listed | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-08-02 | **RRS Group & Co** | [2027 Quantitative Analytics Development Program](https://jobright.ai/jobs/info/6a6f19d2f5953013637f5b8d) | Not listed | San Francisco, California, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **Canadian Tire Corporation** | [Data Engineering Student (4 months) - Fall 2026](https://jobright.ai/jobs/info/6a6e67b1cd3bac13d37072ab) | Not listed | Toronto, ON, Canada | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **Allstate** | [Entry Level Internal Auditor - Data & AI-Enabled Audit](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Junior-Internal-Auditor_R31802-1) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
-| 2026-08-02 | **Smartsheet** | [Software Engineer I - Remote Eligible](https://job-boards.greenhouse.io/smartsheet/jobs/8070067) | $107,500–$147,500 | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **Chicago Trading Company** | [Quant Trading Associate - 2027 Start](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) | $175,000 - $175,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
+| 2026-08-02 | **Smartsheet** | [Software Engineer I - Remote Eligible](https://job-boards.greenhouse.io/smartsheet/jobs/8070067) | $107,500–$147,500 | Remote - USA | ❔ | ✅ Confirmed | — |
 | 2026-08-02 | **ByteDance** | [Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/student-researcher-ai-foundation-model-infrastructure-seed-2027-start-phd-at-bytedance-4436767869) | $184,000.00–$257,000.00 | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-02 | **ByteDance** | [Student Researcher (LLM - Seed) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5256698576ec69c014b829) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-02 | **Bridgewater Associates** | [Research Associate - Equities Data Engineer](https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002) | $150,000-$200,000 | New York City, NY | ❔ | ◐ Likely | — |
@@ -60,9 +61,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-01 | **AutoStore** | [AI Engineer - HW Development](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-USA/AI-Engineer---HW-Development_JR102615) | Not listed | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **LiteLLM** | [AI Engineer](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Xfinity** | [Machine Learning Engineer 2](https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/NY---New-York-1407-Broadway-Floor-12/Machine-Learning-Engineer-2_R439697) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-08-01 | **CommerceIQ** | [Software Engineer](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | Not listed | Mountain View, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **BlueCross BlueShield of Tennessee** | [Software Engineer](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-50852) | Not listed | Remote - Chattanooga, TN | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Chime** | [Full-Stack Engineer - Human Agent Tooling](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
+| 2026-08-01 | **CommerceIQ** | [Software Engineer](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | Not listed | Mountain View, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Handshake** | [Software Engineer - Handshake AI](https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Neon** | [Software Engineer](https://jobs.ashbyhq.com/neon/ae8b72f2-3438-441d-bce6-1ee1b715e253) | Not listed | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Advocate Aurora Health** | [Nurse Extern II - Cardiac Angioplasty 10S - December 2026 Grads](https://www.indeed.com/viewjob?jk=2da9fa07bdd0292f) | Not listed | Milwaukee, WI, US | ❔ | ◐ Likely | — |
@@ -80,8 +81,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-01 | **Amazon** | [Software Engineer - Memberships](https://www.amazon.jobs/jobs/10457717/apply) | $186k/yr | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Amazon** | [Front-End Engineer - Kiro](https://www.amazon.jobs/jobs/10488461/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Amazon** | [Physical Design Engineer - Static Timing Analysis - Annapurna Labs - Cloud Scale Machine Learning](https://www.amazon.jobs/jobs/10454007/apply) | $186k/yr | Cupertino, CA | ❔ | ◐ Likely | — |
-| 2026-08-01 | **Amazon** | [Software Dev Engineer II - Prime Video Pesonalization & Discovery Growth Tech](https://www.amazon.jobs/jobs/10428623/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Amazon** | [Software Developer - AWS Billing Generation](https://www.amazon.jobs/jobs/10477755/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-08-01 | **Amazon** | [Software Dev Engineer II - Prime Video Pesonalization & Discovery Growth Tech](https://www.amazon.jobs/jobs/10428623/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Amazon** | [Software Engineer - Safety](https://www.amazon.jobs/jobs/10390629/apply) | $186k/yr | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Obsidian Security** | [Software Engineer - AI Security Product](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) | $155,000–$180,000 | Palo Alto, CA | ❔ | ◐ Likely | — |
 | 2026-08-01 | **Old Mission Capital** | [Quantitative Researcher - Ph.D. - 2027 Graduate Program - August Start](https://www.oldmissioncapital.com/careers?gh_jid=7814534003) | Not listed | Chicago, IL | ❔ | ◐ Likely | PhD only |
@@ -122,6 +123,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Thumbtack** | [Software Engineer - AI/ML Infrastructure - US-Based](https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **DV Trading** | [Quantitative Trader - Multi-Asset - London](https://job-boards.greenhouse.io/dvtrading/jobs/4687461005) | Not listed | Chicago, IL +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Fidelity Investments** | [Manager - Quant Data Analytics and Insights](https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Boston-MA/Manager--Quant-Data-Analytics-and-Insights_2133133) | Not listed | Boston, MA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Lessen** | [Machine Learning Engineer II](https://jobs.lever.co/lessen/7e37348a-54fc-4e5b-942d-216a0673f7dc) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **RZR Global** | [Machine Learning Engineer](https://job-boards.greenhouse.io/rzr/jobs/4217715009) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Anrok** | [Software Engineer - Infrastructure](https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e) | Not listed | Remote | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Apex Technology** | [Full Stack Developer - Business Systems](https://jobs.ashbyhq.com/apex-technology-inc/85b66226-b505-43aa-9b44-d8d3deb721ed) | Not listed | Los Angeles, CA | ❔ | ◐ Likely | — |
@@ -280,9 +282,9 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | $186k/yr | Sunnyvale, CA +3 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Waymark** | [Data/AI Scientist II](https://job-boards.greenhouse.io/waymark/jobs/4718610005) | $123,000 - $164,000 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Samsara** | [Software Engineer II](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) | $113,645–$191,000 | Remote - USA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Amazon** | [Jr. Software Development Engineer - Atlanta - GA - Jr. Developer Program](https://www.amazon.jobs/jobs/10468069/apply) | $186k/yr | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Vestmark** | [Software Engineer](https://job-boards.greenhouse.io/vestmark/jobs/8009953) | $80,000–$110,000 | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Fanduel** | [Campaign Analytics - Data Analyst](https://www.fanduel.careers/open-positions?gh_jid=8055746) | $ 90,000 - $112,000 | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Amazon** | [Jr. Software Development Engineer - Atlanta - GA - Jr. Developer Program](https://www.amazon.jobs/jobs/10468069/apply) | $186k/yr | Atlanta, GA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer 2 - REX](https://www.amazon.jobs/jobs/10477113/apply) | $186k/yr | Bellevue, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - Amazon Connect - AWS](https://www.amazon.jobs/jobs/10482693/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Amazon** | [Software Dev Engineer II - AWS Applied AI Solutions](https://www.amazon.jobs/jobs/10482044/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
@@ -326,7 +328,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Google** | [ASIC Design Verification Engineer - Google Cloud](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Design Verification Engineer - TPU Cloud Compute](https://www.google.com/about/careers/applications/jobs/results/131330438437184198) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Hardware Validation Engineer - Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Lessen** | [Machine Learning Engineer II](https://jobs.lever.co/lessen/7e37348a-54fc-4e5b-942d-216a0673f7dc) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Systematic Trader - PhD: 2027](https://careers-sig.icims.com/jobs/11021/quantitative-systematic-trader-%e2%80%93-phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/11017/quantitative-researcher---phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Beijing ByteDance Technology Co Ltd** | [Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Tech Research Program - 2027 Start (PhD)](https://www.careerbuilder.com/job-details/research-scientist-technologies-of-data-management-llm-and-ai-agents-global-tech-research-program-2027-start-phd-seattle-wa--0e686893-8ab9-4fc4-bb5a-adf9a37ff327) | Not listed | Seattle, WA | ❔ | ❔ Review | PhD only |
