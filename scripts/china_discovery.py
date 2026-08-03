@@ -76,6 +76,10 @@ NON_TECH = re.compile(
     r"HR|人力|法务|财务|采购|行政|品牌|市场|运营|产品经理|校园大使|客户关系|税务",
     re.I,
 )
+SENIOR_TITLE = re.compile(
+    r"高级|资深|负责人|总监|首席|专家|架构师|Tech Lead|Team Lead|Leader",
+    re.I,
+)
 QUANT = re.compile(
     r"quant|量化|策略|交易|风险|风控|因子|投资组合|portfolio", re.I
 )
@@ -201,7 +205,7 @@ def keep_job(job: dict, source: dict) -> bool:
     title = text(job.get("title"))
     if not title or str(job.get("status") or "open").casefold() not in {"open", "active"}:
         return False
-    if PURE_HARDWARE.search(title) or NON_TECH.search(title):
+    if PURE_HARDWARE.search(title) or NON_TECH.search(title) or SENIOR_TITLE.search(title):
         return False
     if INTERNSHIP_ONLY.search(title) and not FULL_TIME.search(title):
         return False
