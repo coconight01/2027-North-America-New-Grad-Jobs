@@ -116,16 +116,16 @@ PHD_REQUIRED = re.compile(
     re.I,
 )
 SALARY_RANGE = re.compile(
-    r"(?:\\$|USD\\s*)\\s*(?P<low>(?:\\d{1,3}(?:,\\d{3})+|\\d{2,7})(?:\\.\\d+)?)\\s*(?P<lowk>[kK])?"
-    r"(?:\\s*(?P<lowunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?\\s*"
-    r"(?:-|–|—|to)\\s*(?:\\$|USD\\s*)?\\s*"
-    r"(?P<high>(?:\\d{1,3}(?:,\\d{3})+|\\d{2,7})(?:\\.\\d+)?)\\s*(?P<highk>[kK])?"
-    r"(?:\\s*(?P<highunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?",
+    r"(?:\$|USD\s*)\s*(?P<low>(?:\d{1,3}(?:,\d{3})+|\d{2,7})(?:\.\d+)?)\s*(?P<lowk>[kK])?"
+    r"(?:\s*(?P<lowunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?\s*"
+    r"(?:-|–|—|to)\s*(?:\$|USD\s*)?\s*"
+    r"(?P<high>(?:\d{1,3}(?:,\d{3})+|\d{2,7})(?:\.\d+)?)\s*(?P<highk>[kK])?"
+    r"(?:\s*(?P<highunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?",
     re.I,
 )
 JOBRIGHT_MINISITE_URL = "https://jobright.ai/swan/mini-sites/list"
 JOBRIGHT_CATEGORIES = ("newgrad:us:swe",)
-JOBRIGHT_JOB_ID = re.compile(r"jobright\\.ai/jobs/info/([a-z0-9]+)", re.I)
+JOBRIGHT_JOB_ID = re.compile(r"jobright\.ai/jobs/info/([a-z0-9]+)", re.I)
 
 
 def clean_text(value: str) -> str:
