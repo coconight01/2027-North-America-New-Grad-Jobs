@@ -116,12 +116,16 @@ PHD_REQUIRED = re.compile(
     re.I,
 )
 SALARY_RANGE = re.compile(
-    r"(?:\$|USD\s*)\s*(?P<low>\d{2,3}(?:,\d{3})?(?:\.\d+)?)\s*(?P<lowk>[kK])?\s*"
-    r"(?:-|–|—|to)\s*(?:\$|USD\s*)?\s*"
-    r"(?P<high>\d{2,3}(?:,\d{3})?(?:\.\d+)?)\s*(?P<highk>[kK])?"
-    r"(?:\s*(?P<unit>per year|annually|/year|per hour|hourly|/hr))?",
+    r"(?:\\$|USD\\s*)\\s*(?P<low>\\d{2,3}(?:,\\d{3})?(?:\\.\\d+)?)\\s*(?P<lowk>[kK])?"
+    r"(?:\\s*(?P<lowunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?\\s*"
+    r"(?:-|–|—|to)\\s*(?:\\$|USD\\s*)?\\s*"
+    r"(?P<high>\\d{2,3}(?:,\\d{3})?(?:\\.\\d+)?)\\s*(?P<highk>[kK])?"
+    r"(?:\\s*(?P<highunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?",
     re.I,
 )
+JOBRIGHT_MINISITE_URL = "https://jobright.ai/swan/mini-sites/list"
+JOBRIGHT_CATEGORIES = ("newgrad:us:swe",)
+JOBRIGHT_JOB_ID = re.compile(r"jobright\\.ai/jobs/info/([a-z0-9]+)", re.I)
 
 
 def clean_text(value: str) -> str:
@@ -193,7 +197,7 @@ def salary_from_text(text: str) -> tuple[str, int, int]:
             low *= 1000
         if match.group("highk"):
             high *= 1000
-        unit = (match.group("unit") or "").lower()
+        unit = (match.group("highunit") or match.group("lowunit") or "").lower()
         if "hour" in unit or "/hr" in unit:
             low *= 2080
             high *= 2080
@@ -204,6 +208,86 @@ def salary_from_text(text: str) -> tuple[str, int, int]:
         return "", 0, 0
     raw, low, high = max(candidates, key=lambda item: item[2])
     return raw.strip(), low, high
+
+
+def nested_text(value: object) -> str:
+    """Flatten structured Jobright fields without depending on their exact shape."""
+    if value in (None, ""):
+        return ""
+    if isinstance(value, dict):
+        return " ".join(nested_text(item) for item in value.values())
+    if isinstance(value, (list, tuple)):
+        return " ".join(nested_text(item) for item in value)
+    return clean_text(str(value))
+
+
+def fetch_jobright_catalog(max_rows: int = 4000) -> dict[str, dict]:
+    """Load anonymous Jobright new-grad records so dynamic-page fields stay visible."""
+    catalog = {}
+    headers = {
+        **HEADERS,
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "Origin": "https://jobright.ai",
+        "Referer": "https://jobright.ai/",
+    }
+    try:
+        for category in JOBRIGHT_CATEGORIES:
+            position = 0
+            total = max_rows
+            while position < min(total, max_rows):
+                response = requests.post(
+                    JOBRIGHT_MINISITE_URL,
+                    params={"position": position, "count": 100},
+                    json={"category": category},
+                    headers=headers,
+                    timeout=TIMEOUT,
+                )
+                response.raise_for_status()
+                result = (response.json() or {}).get("result") or {}
+                jobs = result.get("jobList") or []
+                try:
+                    total = min(int(result.get("total") or max_rows), max_rows)
+                except (TypeError, ValueError):
+                    total = max_rows
+                for job in jobs:
+                    job_id = str(job.get("jobId") or "").strip()
+                    properties = job.get("properties") or {}
+                    if not job_id or not isinstance(properties, dict):
+                        continue
+                    details = nested_text([
+                        properties.get("qualifications"),
+                        properties.get("description"),
+                        properties.get("jobDescription"),
+                        properties.get("visaSponsorship"),
+                    ])
+                    catalog[job_id.casefold()] = {
+                        "salary": nested_text(properties.get("salary")),
+                        "details": details,
+                    }
+                if not jobs:
+                    break
+                position += len(jobs)
+    except (requests.RequestException, ValueError, TypeError, KeyError):
+        # Jobright enrichment is optional; ordinary ATS/page parsing remains the fallback.
+        return {}
+    return catalog
+
+
+def jobright_record(url: str, catalog: dict[str, dict]) -> dict:
+    match = JOBRIGHT_JOB_ID.search(url or "")
+    return catalog.get(match.group(1).casefold(), {}) if match else {}
+
+
+def apply_jobright_assessment(row: dict, record: dict) -> dict:
+    """Apply structured salary before assessing filters and bypass stale page cache."""
+    salary_text = str(record.get("salary") or "")
+    raw, low, high = salary_from_text(salary_text)
+    if raw:
+        row["salary"] = raw
+        row["salary_min_annual"] = low
+        row["salary_max_annual"] = high
+    return assess(row, str(record.get("details") or ""))
 
 
 def experience_evidence(text: str) -> tuple[int, str, bool]:
@@ -461,10 +545,19 @@ def main() -> None:
         return
     qualification_cache = load_cache("job_qualification_cache.json")
     date_cache = load_cache("posted_dates.json")
+    jobright_catalog = fetch_jobright_catalog()
     pending = {}
     rejected_counts = {}
     for index, row in enumerate(rows):
         url = row.get("url", "")
+        structured = jobright_record(url, jobright_catalog)
+        if structured:
+            assessment = apply_jobright_assessment(row, structured)
+            apply_assessment(row, assessment)
+            assessment["checked_at"] = TODAY
+            if url:
+                qualification_cache[url] = assessment
+            continue
         cached = qualification_cache.get(url, {}) if url else {}
         if cached and cache_is_fresh(cached):
             apply_assessment(row, cached)
