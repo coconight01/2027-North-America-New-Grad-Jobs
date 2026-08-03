@@ -255,11 +255,19 @@ def fetch_jobright_catalog(max_rows: int = 4000) -> dict[str, dict]:
                     properties = job.get("properties") or {}
                     if not job_id or not isinstance(properties, dict):
                         continue
+                    sponsorship = nested_text([
+                        properties.get("visaSponsorship"),
+                        properties.get("h1bSponsored"),
+                    ])
+                    if sponsorship.strip().casefold() in {"no", "false", "not sponsored", "not available"}:
+                        sponsorship = "no sponsorship"
+                    elif sponsorship.strip().casefold() in {"yes", "true", "sponsored", "available"}:
+                        sponsorship = "visa sponsorship is available"
                     details = nested_text([
                         properties.get("qualifications"),
                         properties.get("description"),
                         properties.get("jobDescription"),
-                        properties.get("visaSponsorship"),
+                        sponsorship,
                     ])
                     catalog[job_id.casefold()] = {
                         "salary": nested_text(properties.get("salary")),
@@ -441,6 +449,48 @@ def sort_key(job: dict) -> tuple:
     )
 
 
+COMPANY_ALIASES = {
+    "chase": "jpmorgan chase",
+    "jpmorganchase": "jpmorgan chase",
+    "jp morgan chase": "jpmorgan chase",
+    "jpmorgan chase and co": "jpmorgan chase",
+}
+
+
+def identity_text(value: object) -> str:
+    text = str(value or "").casefold().replace("&", " and ")
+    text = re.sub(r"\\b(?:incorporated|inc|llc|ltd|corp|corporation)\\b", " ", text)
+    return " ".join(re.sub(r"[^a-z0-9+#]+", " ", text).split())
+
+
+def canonical_company(value: object) -> str:
+    normalized = identity_text(value)
+    return COMPANY_ALIASES.get(normalized, normalized)
+
+
+def dedupe_rows(rows: list[dict]) -> list[dict]:
+    """Final dedupe after every discovery source has appended its results."""
+    chosen = {}
+    order = []
+    for row in rows:
+        key = (
+            canonical_company(row.get("company")),
+            identity_text(row.get("role")),
+            identity_text(row.get("location")),
+        )
+        if key not in chosen:
+            chosen[key] = row
+            order.append(key)
+            continue
+        current = chosen[key]
+        # Prefer an employer ATS URL over an aggregator when both identify the same role.
+        current_jobright = "jobright.ai/" in str(current.get("url", "")).casefold()
+        candidate_jobright = "jobright.ai/" in str(row.get("url", "")).casefold()
+        if current_jobright and not candidate_jobright:
+            chosen[key] = row
+    return [chosen[key] for key in order]
+
+
 def load_rows() -> tuple[list[dict], list[str]]:
     path = DATA / "jobs.csv"
     if not path.exists():
@@ -540,6 +590,7 @@ def save(rows: list[dict], fields: list[str], date_cache: dict, qualification_ca
 
 def main() -> None:
     rows, fields = load_rows()
+    rows = dedupe_rows(rows)
     if not rows:
         print("No job rows to process.")
         return
