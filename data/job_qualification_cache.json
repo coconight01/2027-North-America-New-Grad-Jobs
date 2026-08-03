@@ -4210,7 +4210,7 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
@@ -4687,8 +4687,8 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a580c9b3330ca6f993c2ffb": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -4698,7 +4698,7 @@
     "salary_min_annual": "80000",
     "salary_max_annual": "115000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
@@ -4775,7 +4775,7 @@
     "salary_min_annual": "133000",
     "salary_max_annual": "150000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
@@ -5625,6 +5625,22 @@
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
+  "https://jobright.ai/jobs/info/6a6966064efada5573ea7e73": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$83K/yr - $104K/yr",
+    "salary_min_annual": 83000,
+    "salary_max_annual": 104000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-03",
+    "parser_version": 3
+  },
   "https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -6026,8 +6042,8 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a6ffff2160eda5948e8d18a": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -6037,7 +6053,7 @@
     "salary_min_annual": "123000",
     "salary_max_annual": "256000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
@@ -6871,8 +6887,8 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a704c1d59254b3449a5ff23": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -6882,7 +6898,7 @@
     "salary_min_annual": "122000",
     "salary_max_annual": "243000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
