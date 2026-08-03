@@ -68,7 +68,8 @@ NO_SPONSOR = re.compile(
     r"(?:provide|offer)?\s*(?:employment |work |visa )?sponsorship|"
     r"without (?:current or future )?sponsorship|"
     r"not eligible for (?:visa )?sponsorship|"
-    r"(?:no|not available for) (?:employment |visa )?sponsorship\b",
+    r"(?:no|not available for) (?:employment |visa )?sponsorship\b|"
+    r"\bno\s+h[- ]?1b(?:\s+(?:visa\s+)?sponsorship)?\b",
     re.I,
 )
 YES_SPONSOR = re.compile(
@@ -126,6 +127,7 @@ SALARY_RANGE = re.compile(
 JOBRIGHT_MINISITE_URL = "https://jobright.ai/swan/mini-sites/list"
 JOBRIGHT_CATEGORIES = ("newgrad:us:swe",)
 JOBRIGHT_JOB_ID = re.compile(r"jobright\.ai/jobs/info/([a-z0-9]+)", re.I)
+JOBRIGHT_PARSER_VERSION = 3
 
 
 def clean_text(value: str) -> str:
@@ -606,17 +608,16 @@ def main() -> None:
             assessment = apply_jobright_assessment(row, structured)
             apply_assessment(row, assessment)
             assessment["checked_at"] = TODAY
-            assessment["parser_version"] = 2
+            assessment["parser_version"] = JOBRIGHT_PARSER_VERSION
             if url:
                 qualification_cache[url] = assessment
             continue
         cached = qualification_cache.get(url, {}) if url else {}
-        stale_jobright_salary = (
+        stale_jobright_record = (
             bool(JOBRIGHT_JOB_ID.search(url or ""))
-            and cached.get("salary") in {None, "", "Unknown", "Not listed"}
-            and integer(cached.get("parser_version")) < 2
+            and integer(cached.get("parser_version")) < JOBRIGHT_PARSER_VERSION
         )
-        if stale_jobright_salary:
+        if stale_jobright_record:
             pending[index] = row
         elif cached and cache_is_fresh(cached):
             apply_assessment(row, cached)
@@ -633,7 +634,7 @@ def main() -> None:
                 assessment, posted = assess(row, ""), ""
             apply_assessment(row, assessment)
             assessment["checked_at"] = TODAY
-            assessment["parser_version"] = 2
+            assessment["parser_version"] = JOBRIGHT_PARSER_VERSION
             if row.get("url"):
                 qualification_cache[row["url"]] = assessment
                 if posted:
