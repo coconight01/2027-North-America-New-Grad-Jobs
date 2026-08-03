@@ -116,10 +116,10 @@ PHD_REQUIRED = re.compile(
     re.I,
 )
 SALARY_RANGE = re.compile(
-    r"(?:\\$|USD\\s*)\\s*(?P<low>\\d{2,3}(?:,\\d{3})?(?:\\.\\d+)?)\\s*(?P<lowk>[kK])?"
+    r"(?:\\$|USD\\s*)\\s*(?P<low>(?:\\d{1,3}(?:,\\d{3})+|\\d{2,7})(?:\\.\\d+)?)\\s*(?P<lowk>[kK])?"
     r"(?:\\s*(?P<lowunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?\\s*"
     r"(?:-|–|—|to)\\s*(?:\\$|USD\\s*)?\\s*"
-    r"(?P<high>\\d{2,3}(?:,\\d{3})?(?:\\.\\d+)?)\\s*(?P<highk>[kK])?"
+    r"(?P<high>(?:\\d{1,3}(?:,\\d{3})+|\\d{2,7})(?:\\.\\d+)?)\\s*(?P<highk>[kK])?"
     r"(?:\\s*(?P<highunit>per year|annually|/year|/yr|per hour|hourly|/hour|/hr))?",
     re.I,
 )
