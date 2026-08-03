@@ -48,7 +48,8 @@ SOURCES = [
 
 INIT_DATA = re.compile(r'<input[^>]*id="init-data"[^>]*value="([^"]+)"', re.I)
 PURE_HARDWARE = re.compile(
-    r"PCB|ASIC|芯片|硬件|版图|物理设计|电路|模拟|射频|验证工程师|制造|封装|器件",
+    r"PCB|ASIC|芯片|硬件|版图|物理设计|电路|模拟|射频|验证工程师|制造|封装|器件|"
+    r"信号完整性|电源完整性|信号与电源完整性",
     re.I,
 )
 NON_TECH = re.compile(
