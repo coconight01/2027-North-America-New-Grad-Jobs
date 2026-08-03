@@ -606,11 +606,19 @@ def main() -> None:
             assessment = apply_jobright_assessment(row, structured)
             apply_assessment(row, assessment)
             assessment["checked_at"] = TODAY
+            assessment["parser_version"] = 2
             if url:
                 qualification_cache[url] = assessment
             continue
         cached = qualification_cache.get(url, {}) if url else {}
-        if cached and cache_is_fresh(cached):
+        stale_jobright_salary = (
+            bool(JOBRIGHT_JOB_ID.search(url or ""))
+            and cached.get("salary") in {None, "", "Unknown", "Not listed"}
+            and integer(cached.get("parser_version")) < 2
+        )
+        if stale_jobright_salary:
+            pending[index] = row
+        elif cached and cache_is_fresh(cached):
             apply_assessment(row, cached)
         else:
             pending[index] = row
@@ -625,6 +633,7 @@ def main() -> None:
                 assessment, posted = assess(row, ""), ""
             apply_assessment(row, assessment)
             assessment["checked_at"] = TODAY
+            assessment["parser_version"] = 2
             if row.get("url"):
                 qualification_cache[row["url"]] = assessment
                 if posted:
