@@ -44,6 +44,26 @@ SOURCES = [
         "url": "https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?locale=zh-CN",
         "kind": "campus",
     },
+    {
+        "company": "StepFun (阶跃星辰)",
+        "url": "https://app.mokahr.com/social-recruitment/step/94904?locale=zh-CN",
+        "kind": "social",
+    },
+    {
+        "company": "Lingjun Investment (灵均)",
+        "url": "https://app.mokahr.com/social-recruitment/lingjuninvest/46355?locale=zh-CN",
+        "kind": "social",
+    },
+    {
+        "company": "Alpha2 (平方和)",
+        "url": "https://app.mokahr.com/campus-recruitment/alpha2fund/151124?locale=zh-CN",
+        "kind": "campus",
+    },
+    {
+        "company": "Century Frontier (世纪前沿)",
+        "url": "https://app.mokahr.com/campus_apply/centuryfrontier/24842?locale=zh-CN",
+        "kind": "campus",
+    },
 ]
 
 INIT_DATA = re.compile(r'<input[^>]*id="init-data"[^>]*value="([^"]+)"', re.I)
@@ -113,27 +133,33 @@ def fetch_source(source: dict) -> list[dict]:
     if not org_id or not site_id or not init.get("aesIv"):
         return fallback
     try:
-        api_response = session.post(
-            f"{API}?orgId={org_id}",
-            json={
-                "orgId": org_id,
-                "siteId": site_id,
-                "limit": PAGE_SIZE,
-                "offset": 0,
-                "needStat": True,
-                "locale": "zh-CN",
-            },
-            headers={
-                "Accept": "application/json,*/*",
-                "Content-Type": "application/json",
-                "Origin": "https://app.mokahr.com",
-                "Referer": source["url"],
-            },
-            timeout=TIMEOUT,
-        )
-        api_response.raise_for_status()
-        decoded = decrypt_envelope(api_response.json(), str(init["aesIv"]))
-        jobs = ((decoded.get("data") or {}).get("jobs") or [])
+        total = int((init.get("jobStats") or {}).get("total") or len(fallback) or PAGE_SIZE)
+        jobs = []
+        for offset in range(0, min(total, 1000), PAGE_SIZE):
+            api_response = session.post(
+                f"{API}?orgId={org_id}",
+                json={
+                    "orgId": org_id,
+                    "siteId": site_id,
+                    "limit": PAGE_SIZE,
+                    "offset": offset,
+                    "needStat": True,
+                    "locale": "zh-CN",
+                },
+                headers={
+                    "Accept": "application/json,*/*",
+                    "Content-Type": "application/json",
+                    "Origin": "https://app.mokahr.com",
+                    "Referer": source["url"],
+                },
+                timeout=TIMEOUT,
+            )
+            api_response.raise_for_status()
+            decoded = decrypt_envelope(api_response.json(), str(init["aesIv"]))
+            page = ((decoded.get("data") or {}).get("jobs") or [])
+            jobs.extend(page)
+            if len(page) < PAGE_SIZE:
+                break
         return jobs or fallback
     except (requests.RequestException, ValueError, TypeError, KeyError, json.JSONDecodeError):
         return fallback
@@ -305,7 +331,7 @@ def save(rows: list[dict], warnings: list[str]) -> None:
         "",
         "## Source policy",
         "",
-        "- Current official sources: NVIDIA China, DeepSeek / High-Flyer, and Ubiquant.",
+        "- Current official sources: NVIDIA China, DeepSeek / High-Flyer, Ubiquant, StepFun, Lingjun, Alpha2, and Century Frontier.",
         "- GitHub and university career posts may be used for discovery, but official company links are preferred for applications.",
         "- **Confirmed campus** means the official title names a campus/new-grad program; **Review eligibility** means the role is valuable but prior-experience requirements must be checked manually.",
         "",
