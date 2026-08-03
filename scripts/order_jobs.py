@@ -561,6 +561,7 @@ def save(rows: list[dict], fields: list[str], date_cache: dict, qualification_ca
     open_rows = [row for row in rows if row.get("status") == "Open"]
     parts = [
         "# 2027 North America New Grad Full-Time Jobs", "",
+        "> 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)", "",
         f"> Last automated update: **{TODAY}** · Open roles: **{len(open_rows)}**", "",
         "Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.", "",
         "> Hard filters remove explicit no-sponsorship, U.S.-citizenship/security-clearance, pure hardware, clearly senior titles, clear prior professional-work-experience requirements, and stated salary ranges entirely below $100k.", "",
