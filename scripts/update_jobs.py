@@ -195,8 +195,14 @@ def enrich(j):
     if r.status_code>=400:return j
     return enrich_from_text(j,BeautifulSoup(r.text,"html.parser").get_text(" ",strip=True))
 
+COMPANY_ALIASES = {
+    "chase": "jpmorgan chase",
+    "jpmorganchase": "jpmorgan chase",
+    "jp morgan chase": "jpmorgan chase",
+    "jpmorgan chase and co": "jpmorgan chase",
+}
 def norm(v):
-    v=html.unescape(v or "").casefold().replace("&"," and ");v=re.sub(r"\b(?:incorporated|inc|llc|ltd|corp|corporation)\b"," ",v);v=re.sub(r"[^a-z0-9+#]+"," ",v);return " ".join(v.split())
+    v=html.unescape(v or "").casefold().replace("&"," and ");v=re.sub(r"\b(?:incorporated|inc|llc|ltd|corp|corporation)\b"," ",v);v=re.sub(r"[^a-z0-9+#]+"," ",v);v=" ".join(v.split());return COMPANY_ALIASES.get(v,v)
 def natural_key(j):
     role=ROLE_NOISE.sub(" ",j.get("role",""));role=re.sub(r"\([^)]*(?:remote|hybrid|telework)[^)]*\)"," ",role,flags=re.I);loc=re.sub(r"\b(?:united states of america|united states|usa|u\.?s\.?)\b"," ",j.get("location",""),flags=re.I);return "|".join([norm(j.get("company","")),norm(role),norm(loc)])
 def quality(j):
