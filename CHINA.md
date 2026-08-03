@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-03** · Open roles: **118**
+> Last automated update: **2026-08-03** · Open roles: **111**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,10 +8,8 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
-| 2026-08-03 | **StepFun (阶跃星辰)** | [大模型AI Coding工程师/专家](https://app.mokahr.com/social-recruitment/step/94904#/job/283ff2c6-dcc1-4f2e-b1ed-b36bf5b2c26b) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-08-03 | **StepFun (阶跃星辰)** | [Coding系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/ca7bd190-2a13-422b-98d2-561caef5cf69) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-08-03 | **StepFun (阶跃星辰)** | [Coding评测工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/70035a78-ca37-417d-a86c-fce18376459e) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-08-03 | **StepFun (阶跃星辰)** | [高级网络工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d48f5bc9-d743-42bc-b7d2-37388a2a5081) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-07-28 | **Ubiquant (九坤)** | [【梧桐计划】Quantitative Risk Analyst](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/job/f3b2fbfe-4e46-49c1-80f1-64e513fe27a2) | Quantitative Finance | China | Full-time | Confirmed campus |
 | 2026-07-27 | **Ubiquant (九坤)** | [【梧桐计划】策略组合管理开发工程师](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/job/373d7781-469c-47d1-ad48-965949db3fec) | Quantitative Finance | China | Full-time | Confirmed campus |
 | 2026-07-24 | **Ubiquant (九坤)** | [【梧桐计划】AI工程师](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/job/e297d656-563c-483f-a1f0-f0460a508c52) | AI / ML | China | Full-time | Confirmed campus |
@@ -33,7 +31,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-06 | **Lingjun Investment (灵均)** | [C++开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/4032ca6c-4653-4ba0-a18a-4a7b7366c6fd) | AI Infrastructure / Systems | China | Full-time | Review eligibility |
 | 2026-07-05 | **StepFun (阶跃星辰)** | [语音开放平台产品研发](https://app.mokahr.com/social-recruitment/step/94904#/job/9a2b6ba7-de3b-4302-98d0-eff0d860a533) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-03 | **StepFun (阶跃星辰)** | [Agent研发工程师（金融投研方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/af66ae92-682e-4154-98ed-d24055dff565) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2026-07-03 | **StepFun (阶跃星辰)** | [工业AI/钢铁智能化方向研发负责人](https://app.mokahr.com/social-recruitment/step/94904#/job/975e6377-4106-41a4-a228-e05b87e67139) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-01 | **StepFun (阶跃星辰)** | [云原生研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d23793a6-d6eb-4413-89c7-198e66a552dc) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [Agent Infra 研发工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/bae809fb-1978-4401-b209-34067b26569d) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [AI平台运维工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/b48bdca9-742f-44f1-bde8-5c4e9b953f31) | AI Infrastructure / Systems | 浙江 · 拱墅区 | Full-time | Review eligibility |
@@ -68,7 +65,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-05-06 | **Lingjun Investment (灵均)** | [量化开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/27ddbc59-12c8-4260-bc6c-56fab73654a5) | Quantitative Finance | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [C++开发工程师（回测方向）](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/8a079f78-0bb8-459f-9a03-0359c5c1a690) | AI Infrastructure / Systems | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [C++开发工程师（数据方向）](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/aa099f22-85a4-4545-95ce-c59b381fa814) | AI Infrastructure / Systems | China | Full-time | Review eligibility |
-| 2026-04-28 | **Lingjun Investment (灵均)** | [资深量化研究员-CTA方向](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/e780d0a0-0f95-44d2-b468-b4b49c0f0217) | Quantitative Finance | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期权](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/3b230d52-24dc-4f38-938f-9bd47a2b7cbe) | Quantitative Finance | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期货](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/39418bed-add2-4a70-bfb8-fe46e0a4e247) | Quantitative Finance | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-股票](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/6cd0ff0c-d870-4291-aa53-43cdd2021d15) | Quantitative Finance | China | Full-time | Review eligibility |
@@ -76,7 +72,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-04-28 | **StepFun (阶跃星辰)** | [安全算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a9541b6e-8681-4bd2-a6e7-c2dc53bbb98b) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [基础架构研发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/db47df90-0454-49d7-8e28-50b35339a6a2) | Software Engineering | China | Full-time | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [测试/运维/SRE工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/5072d580-b6eb-416b-86d9-ef2a0f9e68fe) | Software Engineering | China | Full-time | Review eligibility |
-| 2026-04-17 | **StepFun (阶跃星辰)** | [工业大模型算法负责人](https://app.mokahr.com/social-recruitment/step/94904#/job/20c8767d-73bd-440c-85a9-c61b7603da21) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-13 | **StepFun (阶跃星辰)** | [Agent研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/6a126dac-87e7-4efc-8ae3-074c33188e02) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-11 | **StepFun (阶跃星辰)** | [垂类大模型微调算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/4866bdd5-23e1-462c-9cfe-843ee6fe7eb9) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-11 | **StepFun (阶跃星辰)** | [算法工程师（时序预测 · 供应链优化）](https://app.mokahr.com/social-recruitment/step/94904#/job/e25fb7b4-ce01-4429-ac65-f42e083cd59a) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
@@ -84,7 +79,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-04-07 | **StepFun (阶跃星辰)** | [运维系统架构开发工程师（云资源）](https://app.mokahr.com/social-recruitment/step/94904#/job/fb659189-8d85-400f-9ec0-fc06734ce91a) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-03 | **StepFun (阶跃星辰)** | [大模型评测工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/4a8812af-dd16-46d4-b2c7-6381f36462f4) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-04-01 | **StepFun (阶跃星辰)** | [Post-Train 训推基建优化工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/2cdc77b5-1a47-451f-b329-957613e72793) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-03-26 | **StepFun (阶跃星辰)** | [高级推理平台工程师（大模型推理云平台基础设施）](https://app.mokahr.com/social-recruitment/step/94904#/job/7c8f07d5-787c-4502-9722-d8b9fcdce37e) | AI Infrastructure / Systems | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-03-19 | **StepFun (阶跃星辰)** | [语音大模型数据工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/65e77ae5-ed81-4e15-8fce-7689a22e309f) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-03-19 | **StepFun (阶跃星辰)** | [语音大模型评测工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0fbc8178-fc9b-431b-a2d8-11f5cfa6789b) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-03-13 | **StepFun (阶跃星辰)** | [大模型强化学习系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/49406930-08a6-4c25-b05e-95e1b047dd33) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
@@ -107,7 +101,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2025-10-24 | **StepFun (阶跃星辰)** | [大模型推理优化系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-10-24 | **StepFun (阶跃星辰)** | [大模型训练框架工程师（预训练方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-09-05 | **StepFun (阶跃星辰)** | [机器学习平台工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a9a6604c-9dd2-4ebd-8852-b3ef9a8b490c) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2025-09-05 | **StepFun (阶跃星辰)** | [Kubernetes 资深研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d0eb0a87-67d6-4322-a9e1-4751d509a2a5) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-08-20 | **StepFun (阶跃星辰)** | [端侧大模型部署优化工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/08798ca3-fe83-4fa5-aac7-149e22651c4d) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2025-07-25 | **Century Frontier (世纪前沿)** | [AI基础设施工程师AI Infrastructure Engineer（应届）](https://app.mokahr.com/campus_apply/centuryfrontier/24842#/job/f2cde231-061a-4618-8991-4c73e720a66b) | AI Infrastructure / Systems | China | Full-time | Confirmed campus |
 | 2025-07-25 | **Century Frontier (世纪前沿)** | [量化交易员Quantitative Execution Trader（应届）](https://app.mokahr.com/campus_apply/centuryfrontier/24842#/job/e0ab12d2-675b-43f0-b5e1-4fc8231cb618) | Quantitative Finance | China | Full-time | Confirmed campus |
