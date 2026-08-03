@@ -297,7 +297,9 @@ def apply_jobright_assessment(row: dict, record: dict) -> dict:
         row["salary"] = raw
         row["salary_min_annual"] = low
         row["salary_max_annual"] = high
-    return assess(row, str(record.get("details") or ""))
+    assessment = assess(row, str(record.get("details") or ""))
+    assessment["source_fetched"] = True
+    return assessment
 
 
 def experience_evidence(text: str) -> tuple[int, str, bool]:
@@ -402,7 +404,9 @@ def assess(row: dict, text: str) -> dict:
 
 def qualify(row: dict) -> tuple[dict, str]:
     text, posted = fetch_job_text(row.get("url", ""))
-    return assess(row, text), posted
+    assessment = assess(row, text)
+    assessment["source_fetched"] = bool(text)
+    return assessment, posted
 
 
 def cache_is_fresh(entry: dict) -> bool:
@@ -615,7 +619,10 @@ def main() -> None:
         cached = qualification_cache.get(url, {}) if url else {}
         stale_jobright_record = (
             bool(JOBRIGHT_JOB_ID.search(url or ""))
-            and integer(cached.get("parser_version")) < JOBRIGHT_PARSER_VERSION
+            and (
+                integer(cached.get("parser_version")) < JOBRIGHT_PARSER_VERSION
+                or cached.get("source_fetched") is not True
+            )
         )
         if stale_jobright_record:
             pending[index] = row
