@@ -2321,7 +2321,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-27"
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
   },
   "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906365101": {
     "ng_confidence": "Confirmed",
@@ -5026,7 +5028,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
+    "checked_at": "2026-08-04",
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a5f989f6e0c3c7c7d3d7b01": {
@@ -5700,7 +5702,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
+    "checked_at": "2026-08-04",
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a": {
@@ -5900,7 +5902,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
+    "checked_at": "2026-08-04",
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a6e67b1cd3bac13d37072ab": {
@@ -7143,19 +7145,19 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a70c4bc02d93145bf88c154": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$52.25/hr - $52.25/hr",
+    "salary_min_annual": 108680,
+    "salary_max_annual": 108680,
     "reject_reason": "",
-    "source_fetched": false,
-    "checked_at": "2026-08-03",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a70cb10e2b7476e7b20af55": {
@@ -7190,6 +7192,102 @@
     "checked_at": "2026-08-03",
     "parser_version": 3
   },
+  "https://jobright.ai/jobs/info/6a70f26fcb96192a36846a2d": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$132K/yr - $146K/yr",
+    "salary_min_annual": 132000,
+    "salary_max_annual": 146000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a70ffc302d93145bf88db93": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$74K/yr - $74K/yr",
+    "salary_min_annual": 74000,
+    "salary_max_annual": 74000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a70ffcf02d93145bf88dba4": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$64K/yr - $64K/yr",
+    "salary_min_annual": 64000,
+    "salary_max_annual": 64000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a711491cb96192a368478c6": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$63K/yr - $91K/yr",
+    "salary_min_annual": 63000,
+    "salary_max_annual": 91000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a7114999a0ca4480c7d2edd": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$63K/yr - $91K/yr",
+    "salary_min_annual": 63000,
+    "salary_max_annual": 91000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a71149ce2b7476e7b20cda4": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$63K/yr - $91K/yr",
+    "salary_min_annual": 63000,
+    "salary_max_annual": 91000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
@@ -7217,6 +7315,22 @@
     "salary_max_annual": "153000",
     "reject_reason": "",
     "checked_at": "2026-07-29"
+  },
+  "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Early Career",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
   },
   "https://jobs.apple.com/en-us/details/200665480-0836": {
     "ng_confidence": "Likely",
@@ -9610,7 +9724,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-27"
+    "source_fetched": false,
+    "checked_at": "2026-08-04",
+    "parser_version": 3
   },
   "https://jobs.lever.co/ywcaworks/bc040e15-0596-47fc-97a0-9eedae1936b6": {
     "ng_confidence": "Likely",
