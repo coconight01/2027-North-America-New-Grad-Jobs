@@ -116,7 +116,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2025-02-10 | **StepFun (阶跃星辰)** | [大模型评测算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0376581c-924c-42bf-a2b1-2e52b0e335a7) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-02-08 | **StepFun (阶跃星辰)** | [多模态大模型应用算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/bf8be4a7-c648-4765-bdc3-6b899a95ca75) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2024-12-23 | **StepFun (阶跃星辰)** | [AIGC算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/7f00dd6a-4a2e-4ebe-bd4c-712a68682b07) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2024-12-23 | **StepFun (阶跃星辰)** | [多模态大模型算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/6a7917ba-63dd-46bd-8750-ead4770ea03b) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
+| 2024-12-23 | **StepFun (阶跃星辰)** | [大模型算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/6a7917ba-63dd-46bd-8750-ead4770ea03b) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2024-12-23 | **StepFun (阶跃星辰)** | [语音大模型算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/da6951af-a0f9-4796-af19-6623412c399a) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 
 ## Source policy
