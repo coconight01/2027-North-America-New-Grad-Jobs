@@ -2,7 +2,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-05** · Open roles: **956**
+> Last automated update: **2026-08-06** · Open roles: **964**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -12,6 +12,14 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-06 | **Amazon** | [Workplace Health and Safety Specialist, Early Career – (2027) – Canada](https://jobright.ai/jobs/info/6a73986a1ce9647cdbca918d) | Not listed | Ottawa, ON, Canada | ❔ | ✅ Confirmed | — |
+| 2026-08-06 | **JPMorgan Chase** | [[2027 Data for Good Hackathon - Data &...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1/job/210775223)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) | Not listed | Chicago, IL, Unit... | ❔ | ◐ Likely | — |
+| 2026-08-06 | **KeyBank** | [2027 KeyBank Consumer Analyst Develop...](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chicago-IL/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Chicago--IL_R-41427) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
+| 2026-08-06 | **—** | [Mississippi State Full-time: Fall 2026](https://www.indeed.com/viewjob?jk=2f19661a0c7427f5) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
+| 2026-08-06 | **—** | [Missouri University of Science and Technology Full-Time: Fall 2026](https://www.indeed.com/viewjob?jk=f41658b6daa3d440) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
+| 2026-08-06 | **—** | [Tennessee Technological University Full-Time: Fall 2026](https://www.indeed.com/viewjob?jk=736173dc62cfa68e) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
+| 2026-08-06 | **—** | [University of Alabama Full-Time: Fall 2026](https://www.indeed.com/viewjob?jk=0a21e0ecdfc64bcf) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
+| 2026-08-06 | **—** | [University of Alabama in Huntsville Full-time: Fall 2026](https://www.indeed.com/viewjob?jk=e59b3efe19378797) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
 | 2026-08-05 | **TikTok** | [Machine Learning Engineer Graduate - Ads Signal & Measurement - 2027 Start](https://lifeattiktok.com/search/7669700358734170373) | $200k/yr | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Cox** | [Entry Level Software Engineer - Atlanta - GA](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Pariveda** | [Entry-Level Software Engineer](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0) | Not listed | Dallas, TX +8 | ❔ | ✅ Confirmed | — |
@@ -593,7 +601,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-28 | **Lila Sciences** | [ML Scientist I/II - Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4324969009) | $176,000–$304,000 | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **BlackRock** | [Associate - Quantitative Developer - Model Portfolio Solutions - MPS - Multi-Asset Strategies & Solutions - MASS](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Associate--Quantitative-Developer--Model-Portfolio-Solutions--MPS---Multi-Asset-Strategies---Solutions--MASS-_R265714) | Not listed | San Francisco, CA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **NAVEX** | [Junior Software Engineer](https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/4334) | Not listed | Houston, TX +2 | ❔ | ◐ Likely | — |
-| 2026-07-28 | **Northrop Grumman** | [2027 Associate Software Engineer / So...](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | Not listed | Florida | ❔ | ◐ Likely | — |
+| 2026-07-28 | **Northrop Grumman** | [2027 Associate Software Engineer / So...](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561) | Not listed | Florida | ❔ | ◐ Likely | — |
 | 2026-07-28 | **Revvity** | [Associate Software Development Engineer - Remote US](https://revvity.wd103.myworkdayjobs.com/en-US/external/job/US-Remote---MA/Associate-Software-Development-Engineer--Remote-US-_JR-044961) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-28 | **RSM** | [Cyber ServiceNow Developer Associate - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | Not listed | Chicago, IL +1 | ❔ | ◐ Likely | — |
 | 2026-07-27 | **LetsGetChecked** | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101) | Not listed | Remote - USA | ❔ | ✅ Confirmed | — |
@@ -709,11 +717,11 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Machine Learning Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8576928002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **ByteDance** | [Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a5e6bf5f29acc1a117476ec) | $213K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
@@ -940,7 +948,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Ellipsis Labs** | [Software Engineer - 2027 New Grads](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | Not listed | New York, New York | ❔ | ❔ Review | — |
 | 2026-07-20 | **Google** | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | Not listed | Canada | ❔ | ❔ Review | — |
 | 2026-07-20 | **Charles River Associates** | [(2027 Bachelor's/Master's graduates) ...](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8064581) | $95,000–$100,000 | Toronto, ON, Canada | ❔ | ❔ Review | — |
-| 2026-07-20 | **ByteDance** | [Research Scientist in AI Foundation Model Infrastructure - Seed - Graduates - 2027 Start (PhD)](https://us.jobrapido.com/jobpreview/5439214424810323968) | Not listed | United States | ❔ | ❔ Review | PhD only |
+| 2026-07-20 | **ByteDance** | [Research Scientist in AI Foundation Model Infrastructure - Seed - Graduates - 2027 Start (PhD)](https://us.jobrapido.com/jobpreview/5439214424810323968) | $232560 - $427500 annually | United States | ❔ | ❔ Review | PhD only |
 | 2026-07-20 | **Google** | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) | Not listed | Canada | ❔ | ❔ Review | PhD only |
 | 2026-07-17 | **Jobgether** | [Associate Engineer - Data Science](https://jobs.lever.co/jobgether/ab74bb6a-5a27-48df-a62a-f25117c72754) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-07-16 | **Vocal Media** | [Junior Program Manager - AI Studio](https://jobs.lever.co/get-vocal-pbc/1b3b3d72-1b63-4c73-81ce-be788f3230c4) | Not listed | Remote | ❔ | ◐ Likely | — |
