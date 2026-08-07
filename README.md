@@ -2,7 +2,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-07** · Open roles: **1014**
+> Last automated update: **2026-08-07** · Open roles: **1021**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -12,11 +12,18 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-07 | **ByteDance** | [LLM/AI Ops Development Engineer Graduate (Data Center Networking) - 2027 Start](https://jobright.ai/jobs/info/6a750db3bb6ca93ae560d813) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start](https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start](https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **ByteDance** | [LLM/AI Ops Development Engineer Graduate (Data Center Networking) - 2027 Start](https://jobright.ai/jobs/info/6a750db3bb6ca93ae560d813) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start](https://jobright.ai/jobs/info/6a750bb0972ac843c6998b1d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start](https://jobright.ai/jobs/info/6a750bbe972ac843c6998b2f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start](https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Software Development Engineer Graduate (TikTok - Testing - Growth) - 2027 Start](https://jobright.ai/jobs/info/6a754ce537da8525e8cdcefe) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **Ecommerce Guide** | [Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start](https://jobright.ai/jobs/info/6a75275cbb6ca93ae560dde4) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **Skanska** | [2027 New Grad Project Engineer](https://jobright.ai/jobs/info/6a74ca10bb6ca93ae560be94) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Global Content Ecosystem Policy Operation Graduate (TikTok-Product-Content Ecosystem) - 2027 Start](https://jobright.ai/jobs/info/6a755fefb17cba569035a0ce) | $76K/yr - $128K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Multimodal Generative AI Research Scientist (Intelligent Creation) – Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7527c6bb6ca93ae560de01) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-08-07 | **TikTok** | [World Model Research Scientist (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a754d2f20b26a6e93f4b3ec) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-08-07 | **Ecommerce Guide** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start](https://jobright.ai/jobs/info/6a752760b17cba56903597be) | Not listed | Seattle, WA, United States | ❔ | ◐ Likely | — |
 | 2026-08-07 | **JPMorgan Chase** | [[2027 Quantitative Research – Markets ...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1/job/210774061)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774061) | Not listed | New York, NY, United S... | ❔ | ◐ Likely | — |
 | 2026-08-07 | **Apple** | [Apple SkillBridge Fellowship Program](https://jobs.apple.com/en-us/details/200669129-0240/apple-skillbridge-fellowship-program?team=MLAI) | Not listed | Various Locations within Austin Metro Area | ❔ | ❔ Review | — |
 | 2026-08-07 | **Apple** | [Apple SkillBridge Fellowship Program](https://jobs.apple.com/en-us/details/200669129-3543/apple-skillbridge-fellowship-program?team=MLAI) | Not listed | San Diego | ❔ | ❔ Review | — |
@@ -64,7 +71,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-06 | **The Cadmus Group** | [Junior Cloud Software Developer](https://careers-cadmusgroup.icims.com/jobs/3213/junior-cloud-software-developer/job) | Not listed | USA | ❔ | ◐ Likely | — |
 | 2026-08-06 | **Abbott** | [Vendor Master - Junior Data Analyst](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/Vendor-Master--Junior-Data-Analyst_31157660-1) | Not listed | Illinois, USA | ❔ | ◐ Likely | — |
 | 2026-08-06 | **Detroit College Access Network** | [Seasonal Program Advisor - 2026/2027](https://www.indeed.com/viewjob?jk=bde51c0193046b1e) | Not listed | Detroit, MI, US | ❔ | ◐ Likely | — |
-| 2026-08-06 | **JPMorgan Chase** | [[2027 Data for Good Hackathon - Data &...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1/job/210775223)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) | Not listed | Chicago, IL, Unit... | ❔ | ◐ Likely | — |
+| 2026-08-06 | **JPMorgan Chase** | [[2027 Data for Good Hackathon - Data &...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1/job/210775223)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) | Not listed | Chicago, IL, United St... | ❔ | ◐ Likely | — |
 | 2026-08-06 | **KeyBank** | [2027 KeyBank Consumer Analyst Develop...](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chicago-IL/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Chicago--IL_R-41427) | Not listed | Chicago, IL | ❔ | ◐ Likely | — |
 | 2026-08-06 | **Unlock Health** | [Creative Data Analyst](https://job-boards.greenhouse.io/unlockhealth/jobs/5189177007) | Not listed | Chicago, IL +1 | ❔ | ◐ Likely | — |
 | 2026-08-06 | **—** | [Mississippi State Full-time: Fall 2026](https://www.indeed.com/viewjob?jk=2f19661a0c7427f5) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
@@ -72,6 +79,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-06 | **—** | [Tennessee Technological University Full-Time: Fall 2026](https://www.indeed.com/viewjob?jk=736173dc62cfa68e) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
 | 2026-08-06 | **—** | [University of Alabama Full-Time: Fall 2026](https://www.indeed.com/viewjob?jk=0a21e0ecdfc64bcf) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
 | 2026-08-06 | **—** | [University of Alabama in Huntsville Full-time: Fall 2026](https://www.indeed.com/viewjob?jk=e59b3efe19378797) | Not listed | Huntsville, AL, US | ❔ | ◐ Likely | — |
+| 2026-08-06 | **IMC Trading** | [IMC Trading Sim - Singapore](https://job-boards.eu.greenhouse.io/imc/jobs/4942161101) | Not listed | Remote, Singapore | ❔ | ❔ Review | — |
 | 2026-08-05 | **TikTok** | [Machine Learning Engineer Graduate - Ads Signal & Measurement - 2027 Start](https://lifeattiktok.com/search/7669700358734170373) | $200k/yr | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Cox** | [Entry Level Software Engineer - Atlanta - GA](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1) | Not listed | Atlanta, GA | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Pariveda** | [Entry-Level Software Engineer](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0) | Not listed | Dallas, TX +8 | ❔ | ✅ Confirmed | — |
@@ -620,7 +628,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Systematic Trader - PhD: 2027](https://careers-sig.icims.com/jobs/11021/quantitative-systematic-trader-%e2%80%93-phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Susquehanna International Group** | [Quantitative Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/11017/quantitative-researcher---phd%3a-2027/job) | Not listed | New York City, NY | ❔ | ◐ Likely | PhD only |
 | 2026-07-31 | **Beijing ByteDance Technology Co Ltd** | [Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Tech Research Program - 2027 Start (PhD)](https://www.careerbuilder.com/job-details/research-scientist-technologies-of-data-management-llm-and-ai-agents-global-tech-research-program-2027-start-phd-seattle-wa--0e686893-8ab9-4fc4-bb5a-adf9a37ff327) | Not listed | Seattle, WA | ❔ | ❔ Review | PhD only |
-| 2026-07-30 | **ByteDance** | [Research Scientist in AI Foundation Model Infrastructure - Seed - Graduates - 2027 Start (BS/MS)](https://us.jobrapido.com/jobpreview/5792224177779900416) | $202160 - $368220 annually | United States | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **Canadian Tire Corporation** | [Process Improvement Engineering Student (4 months) - Fall 2026](https://jobright.ai/jobs/info/6a6a69a548355b3f12bf0e32) | Not listed | Toronto, ON, Canada | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **Jobgether** | [Software Engineer I - Data Platform](https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f) | $122,400–$176,000 | USA | ❔ | ✅ Confirmed | — |
 | 2026-07-30 | **ByteDance** | [Research Scientist - AI Compute & DPU - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a5531b3f2c46727285f0860) | $213K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -768,12 +775,12 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Machine Learning Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8576928002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **ByteDance** | [Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a5e6bf5f29acc1a117476ec) | $213K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Quantitative Research Analyst - University Graduate - US](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |
