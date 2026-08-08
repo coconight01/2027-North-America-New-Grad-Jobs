@@ -68,8 +68,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Software Engineer (C++ or Python) – 2027 Grads](https://jobright.ai/jobs/info/6a5505cf377f983ce8a973cf) | Not listed | Austin, TX, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Akuna Capital** | [Akuna Capital’s 2026 Virtual Quant Trading Challenge](https://www.akunacapital.com/careers/job/7993921?gh_jid=7993921) | $191k/yr | Remote - Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Akuna Capital** | [Software Engineer - Entry-Level - C++](https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085) | $191k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Akuna Capital** | [Software Engineer - Entry-Level - Python](https://www.akunacapital.com/careers/job/8013230?gh_jid=8013230) | $191k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ◐ Likely | — |
 
 ### Other high-value tech
@@ -97,8 +97,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-07 | **ByteDance** | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a626b9def3e9e1f8837) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a58bb6ca93ae560f07f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a5ebb6ca93ae560f081) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start](https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Research Scientist Graduate (ML Recommendation Systems) - 2027 Start](https://jobright.ai/jobs/info/6a759a547b3417772ade4bb9) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start](https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [LLM/AI Ops Development Engineer Graduate (Data Center Networking) - 2027 Start](https://jobright.ai/jobs/info/6a750db3bb6ca93ae560d813) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Machine Learning Engineer Graduate (Agent Evaluation & Evolution) - 2027 Start](https://jobright.ai/jobs/info/6a759a69bb6ca93ae560f083) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start](https://jobright.ai/jobs/info/6a750bb0972ac843c6998b1d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
