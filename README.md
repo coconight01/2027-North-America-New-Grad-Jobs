@@ -2,7 +2,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-07** · Open roles: **1055**
+> Last automated update: **2026-08-08** · Open roles: **1058**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -12,6 +12,10 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-08 | **ByteDance** | [Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start](https://jobright.ai/jobs/info/6a765f2c4817aa43070481e7) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-08 | **Sargent & Lundy** | [Structural Engineer 1 (Entry-Level) - Grid (2027)](https://jobright.ai/jobs/info/6a7665844817aa4307048496) | Not listed | Elkridge, MD, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-08 | **Freeform** | [Software Engineer (New Grad December 2026)](https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35) | $125K/yr - $150K/yr | Los Angeles, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-08 | **JP Morgan Chase** | [[2027 Data for Good Hackathon - Data &...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1001/job/210775223)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | Not listed | Chicago, IL, United St... | ❔ | ◐ Likely | — |
 | 2026-08-07 | **ByteDance** | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a626b9def3e9e1f8837) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a58bb6ca93ae560f07f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a5ebb6ca93ae560f081) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -28,8 +32,8 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-07 | **ByteDance** | [Machine Learning System Scheduling Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a5d4817aa4307044d27) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Crusoe** | [Software Engineer I - DCIE](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Skanska** | [2027 New Grad Project Engineer](https://jobright.ai/jobs/info/6a74ca10bb6ca93ae560be94) | Not listed | New York, NY, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-07 | **TikTok** | [Global Content Ecosystem Policy Operation Graduate (TikTok-Product-Content Ecosystem) - 2027 Start](https://jobright.ai/jobs/info/6a755fefb17cba569035a0ce) | $76K/yr - $128K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Blackstone** | [2027 Data Science Analyst](https://jobright.ai/jobs/info/6a75dec3bb6ca93ae560fa73) | $110K/yr - $110K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Global Content Ecosystem Policy Operation Graduate (TikTok-Product-Content Ecosystem) - 2027 Start](https://jobright.ai/jobs/info/6a755fefb17cba569035a0ce) | $76K/yr - $128K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Multimodal Generative AI Research Scientist (Intelligent Creation) – Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7527c6bb6ca93ae560de01) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-07 | **TikTok** | [World Model Research Scientist (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a754d2f20b26a6e93f4b3ec) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-07 | **TikTok** | [Site Reliability Engineer Graduate - Global SRE - 2027 Start](https://lifeattiktok.com/search/7668701361741007109) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
@@ -184,7 +188,7 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-08-05 | **ABB** | [[Instructional Design- Fall 2026](https://abb.wd3.myworkdayjobs.com/externalcareerpage/job/USA-TN-Memphis/Instructional-Design--Fall-2026JR00042028)](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/Instructional-Design--Fall-2026_JR00042028) | Not listed | USA, TN, Memphis | ❔ | ◐ Likely | — |
 | 2026-08-05 | **DaVita Kidney Care** | [Data Analyst - Clinical Analytics and Reporting](https://davita.wd1.myworkdayjobs.com/en-US/dkc_external/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Data-Analyst--Clinical-Analytics-and-Reporting_R0455734) | Not listed | Remote - Denver, CO | ❔ | ◐ Likely | — |
 | 2026-08-05 | **Huckberry** | [Jr. AI Process Engineer](https://apply.workable.com/huckberry/j/605FD224D9) | Not listed | Austin, TX | ❔ | ◐ Likely | — |
-| 2026-08-05 | **JP Morgan Chase** | [[2027 Data & AI Program - Summer Inter...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1001/job/210773869)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Not listed | Chicago, IL, Unit... | ❔ | ◐ Likely | — |
+| 2026-08-05 | **JP Morgan Chase** | [[2027 Data & AI Program - Summer Inter...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1001/job/210773869)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Not listed | Chicago, IL, United St... | ❔ | ◐ Likely | — |
 | 2026-08-05 | **JPMorgan Chase** | [[2027 Data & AI Program - Summer Inter...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX1/job/210773869)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | Not listed | Chicago, IL, United St... | ❔ | ◐ Likely | — |
 | 2026-08-05 | **KBR** | [Associate DevOps Engineer](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Colorado-Springs-Colorado/Associate-DevOps-Engineer_R2125617) | Not listed | Colorado Springs, CO | ❔ | ◐ Likely | — |
 | 2026-08-05 | **LexisNexis** | [US Legal Editor - AI Content Updating](https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Remote---USA---Nationwide/US-Legal-Editor--AI-Content-Updating_R111911) | Not listed | Remote - USA | ❔ | ◐ Likely | — |
@@ -440,12 +444,12 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **CHAOS Industries** | [Field Software Engineer](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007) | $140,000–$240,000 | Los Angeles, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **CHAOS Industries** | [Forward Deployed Engineer - Software](https://job-boards.greenhouse.io/chaosindustries/jobs/5166387007) | $140,000–$240,000 | Los Angeles, CA +1 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Software Engineer - AI Agent](https://lifeattiktok.com/search/7626968373985429765) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **TikTok** | [Software Engineer - Multiple Positions](https://lifeattiktok.com/search/7660244549499603253) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Riot Games** | [Manager - Software Engineering - Tools & Frameworks - Developer Connections](https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273) | $206,700.00 - $289,600.00 | Los Angeles, CA +2 | ❔ | ◐ Likely | — |
+| 2026-07-31 | **Riot Games** | [Manager - Software Engineering - Tools & Frameworks - Developer Connections](https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273) | $206,700.00 - $289,600.00 | Los Angeles, CA +2 | ✅ | ◐ Likely | — |
 | 2026-07-31 | **DV Trading** | [Software Developer - Chicago](https://job-boards.greenhouse.io/dvtrading/jobs/4687398005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **DV Trading** | [Software Developer - New York](https://job-boards.greenhouse.io/dvtrading/jobs/4687462005) | $150,000 - $250,000 | Chicago, IL +2 | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Stripe** | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8009143) | $156,800–$235,200 | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ◐ Likely | — |
+| 2026-07-31 | **TikTok** | [Software Engineer - Multiple Positions](https://lifeattiktok.com/search/7660244549499603253) | $200k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Anti-Fraud Risk Data Analyst - Multiple Positions](https://lifeattiktok.com/search/7636944382403823877) | $200k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **TikTok** | [Data Analyst - Multiple Positions](https://lifeattiktok.com/search/7660279063341058357) | $200k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Anrok** | [Engineering Manager - Platform and AI Infrastructure](https://jobs.ashbyhq.com/anrok/0663a54c-00f9-402f-a28d-a6d513f27d17) | Not listed | Remote - San Francisco, CA +2 | ❔ | ◐ Likely | — |
@@ -654,7 +658,6 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-31 | **The Brattle Group** | [Data and AI Engineer](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) | $105,000 - $115,000 annually | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Pathward** | [Artificial Intelligence Analyst - I](https://job-boards.greenhouse.io/pathward/jobs/5992061004) | $60,000 – $100,500 | Remote - USA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Neuralink** | [Software Design Control Engineer](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003) | $71,000 - $119,000 | Austin, TX +1 | ❔ | ◐ Likely | — |
-| 2026-07-31 | **Anduril** | [People Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007) | $112,000 - $149,000 | Boston, MA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [ASIC Design Verification Engineer - Google Cloud](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Design Verification Engineer - TPU Cloud Compute](https://www.google.com/about/careers/applications/jobs/results/131330438437184198) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
 | 2026-07-31 | **Google** | [Hardware Validation Engineer - Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) | $196k/yr | Sunnyvale, CA | ❔ | ◐ Likely | — |
@@ -808,11 +811,11 @@ A listing's presence in another new-grad repository is supporting evidence, not 
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Software Engineer Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8594541002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Machine Learning Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8576928002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **ByteDance** | [Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a5e6bf5f29acc1a117476ec) | $213K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Software Engineer - University Graduate - US](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Miami, FL +1 | ❔ | ✅ Confirmed | — |

@@ -25,7 +25,9 @@
     "salary_min_annual": 65000,
     "salary_max_annual": 75000,
     "reject_reason": "maximum stated annual salary below $100k",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "http://constellationinc.applytojob.com/apply/3uMT1I88kg/Associate-Software-Developer": {
     "ng_confidence": "Not NG",
@@ -67,7 +69,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "http://foxconnassemblyllc.applytojob.com/apply/pZ5w10bcXa/Full-Stack-Web-Developer": {
     "ng_confidence": "Confirmed",
@@ -81,7 +85,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "http://hayselectricalservices.applytojob.com/apply/gCUJCjoH7Z/Data-Analyst-I": {
     "ng_confidence": "Confirmed",
@@ -173,7 +179,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "senior-level title: Fellow",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "http://omegahires.applytojob.com/apply/AF3M50p31k/AIML-Engineer": {
     "ng_confidence": "Confirmed",
@@ -233,7 +241,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "http://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I": {
     "ng_confidence": "Confirmed",
@@ -261,7 +271,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/Instructional-Design--Fall-2026_JR00042028": {
     "ng_confidence": "Likely",
@@ -321,7 +333,9 @@
     "salary_min_annual": "122400",
     "salary_max_annual": "176000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Machine-Learning-Engineer--Firefly-Services_R168300": {
     "ng_confidence": "Likely",
@@ -505,7 +519,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://apply.workable.com/assist-rx/j/7F761604FA": {
     "ng_confidence": "Likely",
@@ -645,7 +661,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://apply.workable.com/mlabs/j/DDD1E9AF26": {
     "ng_confidence": "Likely",
@@ -977,7 +995,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://bandana.com/jobs/849cd8a3-4438-4fb2-a9d7-147b97e35b76": {
     "ng_confidence": "Not NG",
@@ -1035,7 +1055,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Pharmacy-Data-Analyst-I_R-50709": {
     "ng_confidence": "Likely",
@@ -1107,7 +1129,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Atlanta-GA/Portfolio-Management-Group-Tech-AI-Engineer--Associate_R265434": {
     "ng_confidence": "Likely",
@@ -1406,18 +1430,20 @@
     "parser_version": 3
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1\u20133 years of professional experience",
+    "ng_confidence": "Not NG",
+    "ng_evidence": "requires 2+ years professional/work experience",
+    "experience_requirement": "2\u20134 years of professional experience",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$112,000 - $149,000",
-    "salary_min_annual": 112000,
-    "salary_max_annual": 149000,
-    "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "salary_min_annual": "112000",
+    "salary_max_annual": "149000",
+    "reject_reason": "requires 2+ years professional/work experience",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://boards.greenhouse.io/capitaltg/jobs/5181750007?gh_jid=5181750007": {
     "ng_confidence": "Likely",
@@ -1474,10 +1500,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$71,000 - $119,000",
-    "salary_min_annual": 71000,
-    "salary_max_annual": 119000,
+    "salary_min_annual": "71000",
+    "salary_max_annual": "119000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
     "ng_confidence": "Likely",
@@ -1507,7 +1535,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142-1": {
     "ng_confidence": "Likely",
@@ -1553,7 +1583,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239": {
     "ng_confidence": "Confirmed",
@@ -1631,7 +1663,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Junior-Software-Engineer_327867": {
     "ng_confidence": "Likely",
@@ -1817,7 +1851,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-cotiviti.icims.com/jobs/19583/generative-ai-scientist---%28model-risk-%26-validation%29/job": {
     "ng_confidence": "Likely",
@@ -1831,7 +1867,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-ita-intl.icims.com/jobs/4469/junior-data-analyst/job": {
     "ng_confidence": "Likely",
@@ -1907,7 +1945,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-odysseyconsult.icims.com/jobs/8143/software-engineer/job": {
     "ng_confidence": "Likely",
@@ -1921,7 +1961,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-peraton.icims.com/jobs/165344/junior-full-stack-software-developer---top-secret/job": {
     "ng_confidence": "Likely",
@@ -1983,7 +2025,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-peraton.icims.com/jobs/168949/software-development%2c-associate/job": {
     "ng_confidence": "Likely",
@@ -1997,7 +2041,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-plansys.icims.com/jobs/11677/jr.-data-analyst/job": {
     "ng_confidence": "Likely",
@@ -2011,7 +2057,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-sig.icims.com/jobs/11017/quantitative-researcher---phd%3a-2027/job": {
     "ng_confidence": "Likely",
@@ -2025,7 +2073,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-sig.icims.com/jobs/11018/quantitative-researcher-%e2%80%93-master%27s%3a-2027/job": {
     "ng_confidence": "Likely",
@@ -2039,7 +2089,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-sig.icims.com/jobs/11021/quantitative-systematic-trader-%e2%80%93-phd%3a-2027/job": {
     "ng_confidence": "Likely",
@@ -2053,7 +2105,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers-sig.icims.com/jobs/11022/quantitative-systematic-trader-%e2%80%93-master%27s%3a-2027/job": {
     "ng_confidence": "Likely",
@@ -2113,7 +2167,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers.cargurus.com/us/en/job/8050961?gh_jid=8050961": {
     "ng_confidence": "Likely",
@@ -2127,7 +2183,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers.dat.com/jobs/5741667004?gh_jid=5741667004": {
     "ng_confidence": "Likely",
@@ -2141,7 +2199,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://careers.dat.com/jobs/6007145004?gh_jid=6007145004": {
     "ng_confidence": "Confirmed",
@@ -2405,7 +2465,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Systems-Software-Engineer---Computing-Services_2024765": {
     "ng_confidence": "Likely",
@@ -2465,7 +2527,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://corespecialtyinsurance.wd1.myworkdayjobs.com/en-US/core_specialty/job/Chicago-IL/Actuarial-Data-Analyst_JR101393": {
     "ng_confidence": "Likely",
@@ -2589,7 +2653,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Connecticut/Spring-2027-Family-Nurse-Practitioner-Student-Rotations-NATIONWIDE-MinuteClinic_R0991295": {
     "ng_confidence": "Likely",
@@ -2603,7 +2669,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/AZ---Work-from-home/RX-Entry-Tech-II--Front-End-Specialty-Mail_R0990512": {
     "ng_confidence": "Likely",
@@ -2668,7 +2736,7 @@
   "https://decisions.com/jobs-listing/5173358007?gh_jid=5173358007": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1+ years of experience in",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -2677,7 +2745,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://deluxe.wd5.myworkdayjobs.com/en-US/usa_can/job/Fort-Worth-TX-USA-100-Throckmorton-St/Software-Development-Analyst-I---Merchant-Services_260636WD": {
     "ng_confidence": "Likely",
@@ -2769,7 +2839,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00178093": {
     "ng_confidence": "Likely",
@@ -2859,7 +2931,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://fox.wd1.myworkdayjobs.com/en-US/domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083": {
     "ng_confidence": "Confirmed",
@@ -2889,7 +2963,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/Any-Location--Remote/Junior-ServiceNow-Developer_RQ219574-1": {
     "ng_confidence": "Likely",
@@ -3015,7 +3091,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/New-York/Data-Scientist-I_25030183": {
     "ng_confidence": "Likely",
@@ -3093,7 +3171,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771": {
     "ng_confidence": "Likely",
@@ -3139,7 +3219,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1": {
     "ng_confidence": "Likely",
@@ -3183,7 +3265,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://hntb.wd5.myworkdayjobs.com/en-US/HNTB_Careers/job/WED---2027-New-Grad-Engineer-I--For-Current---Recent-HNTB-Interns-Only-_R-31008-1": {
     "ng_confidence": "Confirmed",
@@ -3381,7 +3465,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.eu.greenhouse.io/imc/jobs/4751729101": {
     "ng_confidence": "Confirmed",
@@ -3587,7 +3673,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/amiralearning/jobs/4333066009": {
     "ng_confidence": "Likely",
@@ -3617,7 +3705,9 @@
     "salary_min_annual": "115000",
     "salary_max_annual": "118000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/appian/jobs/8041241": {
     "ng_confidence": "Confirmed",
@@ -3631,7 +3721,9 @@
     "salary_min_annual": "115000",
     "salary_max_annual": "118000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/appian/jobs/8069612": {
     "ng_confidence": "Confirmed",
@@ -3645,7 +3737,9 @@
     "salary_min_annual": "110000",
     "salary_max_annual": "113000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002": {
     "ng_confidence": "Not NG",
@@ -3687,7 +3781,9 @@
     "salary_min_annual": "140000",
     "salary_max_annual": "175000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/astranis/jobs/4619289006": {
     "ng_confidence": "Uncertain",
@@ -3701,7 +3797,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "citizenship/security-clearance requirement",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/astranis/jobs/4691172006": {
     "ng_confidence": "Likely",
@@ -3772,10 +3870,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$110,000 - $145,000",
-    "salary_min_annual": 110000,
-    "salary_max_annual": 145000,
+    "salary_min_annual": "110000",
+    "salary_max_annual": "145000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002": {
     "ng_confidence": "Likely",
@@ -3817,7 +3917,9 @@
     "salary_min_annual": "140000",
     "salary_max_annual": "240000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/chaosindustries/jobs/5166387007": {
     "ng_confidence": "Likely",
@@ -3831,7 +3933,9 @@
     "salary_min_annual": "140000",
     "salary_max_annual": "240000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7954166": {
     "ng_confidence": "Not NG",
@@ -3875,7 +3979,9 @@
     "salary_min_annual": 70000,
     "salary_max_annual": 75000,
     "reject_reason": "maximum stated annual salary below $100k",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/clear/jobs/7901600": {
     "ng_confidence": "Confirmed",
@@ -3886,10 +3992,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$105,000-$125,000",
-    "salary_min_annual": 105000,
-    "salary_max_annual": 125000,
+    "salary_min_annual": "105000",
+    "salary_max_annual": "125000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6014112004": {
     "ng_confidence": "Likely",
@@ -3900,10 +4008,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$141,000 - $230,000",
-    "salary_min_annual": 141000,
-    "salary_max_annual": 230000,
+    "salary_min_annual": "141000",
+    "salary_max_annual": "230000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6014113004": {
     "ng_confidence": "Likely",
@@ -3917,7 +4027,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/coherehealth/jobs/7807972003": {
     "ng_confidence": "Likely",
@@ -3931,7 +4043,9 @@
     "salary_min_annual": "100000",
     "salary_max_annual": "110000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003": {
     "ng_confidence": "Likely",
@@ -3973,7 +4087,9 @@
     "salary_min_annual": "160000",
     "salary_max_annual": "180000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/7848317": {
     "ng_confidence": "Likely",
@@ -4000,10 +4116,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$100,000 - $200,000",
-    "salary_min_annual": 100000,
-    "salary_max_annual": 200000,
+    "salary_min_annual": "100000",
+    "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005": {
     "ng_confidence": "Likely",
@@ -4014,10 +4132,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$150,000 - $250,000",
-    "salary_min_annual": 150000,
-    "salary_max_annual": 250000,
+    "salary_min_annual": "150000",
+    "salary_max_annual": "250000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/dvtrading/jobs/4687460005": {
     "ng_confidence": "Likely",
@@ -4028,10 +4148,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$100,000 - $200,000",
-    "salary_min_annual": 100000,
-    "salary_max_annual": 200000,
+    "salary_min_annual": "100000",
+    "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/dvtrading/jobs/4687461005": {
     "ng_confidence": "Likely",
@@ -4045,7 +4167,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/dvtrading/jobs/4687462005": {
     "ng_confidence": "Likely",
@@ -4056,10 +4180,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$150,000 - $250,000",
-    "salary_min_annual": 150000,
-    "salary_max_annual": 250000,
+    "salary_min_annual": "150000",
+    "salary_max_annual": "250000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/dvtrading/jobs/4687466005": {
     "ng_confidence": "Likely",
@@ -4073,7 +4199,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5131535007": {
     "ng_confidence": "Not NG",
@@ -4173,7 +4301,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008": {
     "ng_confidence": "Likely",
@@ -4219,7 +4349,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/hanwharenewables/jobs/4321557009": {
     "ng_confidence": "Likely",
@@ -4293,7 +4425,9 @@
     "salary_min_annual": 85000,
     "salary_max_annual": 95000,
     "reject_reason": "maximum stated annual salary below $100k",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/instawork/jobs/4686498006": {
     "ng_confidence": "Not NG",
@@ -4351,7 +4485,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/kargo/jobs/6100171004": {
     "ng_confidence": "Likely",
@@ -4365,7 +4501,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/kargo/jobs/6120133004": {
     "ng_confidence": "Not NG",
@@ -4379,7 +4517,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "requires 2+ years professional/work experience",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/kellerpostman/jobs/5194516007": {
     "ng_confidence": "Likely",
@@ -4390,10 +4530,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$90,000 to $100,000 per year",
-    "salary_min_annual": 90000,
-    "salary_max_annual": 100000,
+    "salary_min_annual": "90000",
+    "salary_max_annual": "100000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/latitude/jobs/8053843": {
     "ng_confidence": "Likely",
@@ -4407,7 +4549,9 @@
     "salary_min_annual": "150320",
     "salary_max_annual": "225480",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/legion/jobs/7801711003": {
     "ng_confidence": "Likely",
@@ -4421,7 +4565,9 @@
     "salary_min_annual": "100000",
     "salary_max_annual": "120000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009": {
     "ng_confidence": "Likely",
@@ -4483,7 +4629,9 @@
     "salary_min_annual": "122400",
     "salary_max_annual": "158400",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/mitratech/jobs/8060928": {
     "ng_confidence": "Confirmed",
@@ -4529,7 +4677,9 @@
     "salary_min_annual": "105700",
     "salary_max_annual": "132100",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4710775005": {
     "ng_confidence": "Not NG",
@@ -4571,7 +4721,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006": {
     "ng_confidence": "Confirmed",
@@ -4628,10 +4780,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$60,000 \u2013 $100,500",
-    "salary_min_annual": 60000,
-    "salary_max_annual": 100500,
+    "salary_min_annual": "60000",
+    "salary_max_annual": "100500",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/perscholashires/jobs/4683174006": {
     "ng_confidence": "Confirmed",
@@ -4673,7 +4827,9 @@
     "salary_min_annual": 90000,
     "salary_max_annual": 99999,
     "reject_reason": "no sponsorship",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/pmg/jobs/8587053002": {
     "ng_confidence": "Uncertain",
@@ -4687,7 +4843,9 @@
     "salary_min_annual": 90000,
     "salary_max_annual": 99999,
     "reject_reason": "no sponsorship",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/precisionaq/jobs/5996348004": {
     "ng_confidence": "Likely",
@@ -4733,7 +4891,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/rhombuspower/jobs/7819836003": {
     "ng_confidence": "Not NG",
@@ -4761,7 +4921,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4699572005": {
     "ng_confidence": "Not NG",
@@ -4775,7 +4937,9 @@
     "salary_min_annual": 80000,
     "salary_max_annual": 100000,
     "reject_reason": "appears to require 4+ years prior work experience",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4715970005": {
     "ng_confidence": "Not NG",
@@ -4818,10 +4982,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$141,800 - $202,500",
-    "salary_min_annual": 141800,
-    "salary_max_annual": 202500,
+    "salary_min_annual": "141800",
+    "salary_max_annual": "202500",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/scopely/jobs/5284874008?gh_jid=5284874008": {
     "ng_confidence": "Likely",
@@ -4867,7 +5033,9 @@
     "salary_min_annual": 100000,
     "salary_max_annual": 140000,
     "reject_reason": "citizenship/security-clearance requirement",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/simplisafe/jobs/8049510": {
     "ng_confidence": "Confirmed",
@@ -4945,7 +5113,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/smartsheet/jobs/8070067": {
     "ng_confidence": "Confirmed",
@@ -5012,10 +5182,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$105,000 - $115,000 annually",
-    "salary_min_annual": 105000,
-    "salary_max_annual": 115000,
+    "salary_min_annual": "105000",
+    "salary_max_annual": "115000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699761005": {
     "ng_confidence": "Not NG",
@@ -5087,7 +5259,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007": {
     "ng_confidence": "Uncertain",
@@ -5234,7 +5408,7 @@
   "https://job-boards.greenhouse.io/vestmark/jobs/8009953": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "0-3 years of professional software engineering experience",
+    "experience_requirement": "1-3 years of professional software engineering experience",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -5243,7 +5417,9 @@
     "salary_min_annual": "80000",
     "salary_max_annual": "110000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/waymark/jobs/4711827005": {
     "ng_confidence": "Likely",
@@ -5270,10 +5446,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$123,000 - $164,000",
-    "salary_min_annual": 123000,
-    "salary_max_annual": 164000,
+    "salary_min_annual": "123000",
+    "salary_max_annual": "164000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/wikimedia/jobs/8090103": {
     "ng_confidence": "Likely",
@@ -5287,7 +5465,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/wilsonelser/jobs/5200826008": {
     "ng_confidence": "Likely",
@@ -5301,7 +5481,9 @@
     "salary_min_annual": 80000,
     "salary_max_annual": 90000,
     "reject_reason": "maximum stated annual salary below $100k",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/wilsonelser/jobs/5200828008": {
     "ng_confidence": "Likely",
@@ -5315,7 +5497,9 @@
     "salary_min_annual": 80000,
     "salary_max_annual": 90000,
     "reject_reason": "maximum stated annual salary below $100k",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://job-boards.greenhouse.io/worldquant/jobs/4616499006": {
     "ng_confidence": "Likely",
@@ -5342,10 +5526,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$150,000 - $210,000",
-    "salary_min_annual": 150000,
-    "salary_max_annual": 210000,
+    "salary_min_annual": "150000",
+    "salary_max_annual": "210000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobright.ai/jobs/info/69a956bb7f9271426f883dff": {
     "ng_confidence": "Uncertain",
@@ -6213,7 +6399,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-07",
+    "checked_at": "2026-08-08",
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a59082763a8f619507bfd06": {
@@ -10021,6 +10207,86 @@
     "checked_at": "2026-08-07",
     "parser_version": 3
   },
+  "https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$125K/yr - $150K/yr",
+    "salary_min_annual": 125000,
+    "salary_max_annual": 150000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a76537a4817aa4307047e33": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$95K/yr - $95K/yr",
+    "salary_min_annual": 95000,
+    "salary_max_annual": 95000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a765f2c4817aa43070481e7": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$128K/yr - $256K/yr",
+    "salary_min_annual": 128000,
+    "salary_max_annual": 256000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a7665844817aa4307048496": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
+  "https://jobright.ai/jobs/info/6a76658fa26ccc369f835424": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$63K/yr - $91K/yr",
+    "salary_min_annual": 63000,
+    "salary_max_annual": 91000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
@@ -10207,7 +10473,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/anrok/0663a54c-00f9-402f-a28d-a6d513f27d17": {
     "ng_confidence": "Likely",
@@ -10221,7 +10489,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42": {
     "ng_confidence": "Confirmed",
@@ -10251,7 +10521,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/apex-technology-inc/bb3d35b3-643a-43fe-94f9-7d3034bc1dd3": {
     "ng_confidence": "Likely",
@@ -10265,7 +10537,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/applied/c3543196-e23c-4f4b-b460-fca476ffead6": {
     "ng_confidence": "Likely",
@@ -10279,7 +10553,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a": {
     "ng_confidence": "Likely",
@@ -10293,7 +10569,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5": {
     "ng_confidence": "Likely",
@@ -10307,7 +10585,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f": {
     "ng_confidence": "Likely",
@@ -10321,7 +10601,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/august/dfe8c589-c411-4d2d-a79e-70bc3bdd600c": {
     "ng_confidence": "Likely",
@@ -10335,7 +10617,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e": {
     "ng_confidence": "Likely",
@@ -10349,7 +10633,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433": {
     "ng_confidence": "Likely",
@@ -10363,7 +10649,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa": {
     "ng_confidence": "Likely",
@@ -10377,7 +10665,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8": {
     "ng_confidence": "Confirmed",
@@ -10405,7 +10695,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/careerswift.ai/2f78c5da-f74e-4bf2-8b8d-c092c6d4a8d7": {
     "ng_confidence": "Likely",
@@ -10451,7 +10743,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/clera/9a9f4df9-3238-4bee-9424-4a558710cd90": {
     "ng_confidence": "Likely",
@@ -10525,7 +10819,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/clera/f523d3fa-f87b-47f6-8845-aa7a7102c253": {
     "ng_confidence": "Likely",
@@ -10633,7 +10929,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/eliseai/0fb4a3ab-1472-4180-8f0c-9f898260f3bd": {
     "ng_confidence": "Likely",
@@ -10711,7 +11009,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af": {
     "ng_confidence": "Likely",
@@ -10725,7 +11025,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/fal-ai/1d9325cf-28da-4b78-af0d-eb0abe7b501d": {
     "ng_confidence": "Likely",
@@ -10739,7 +11041,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705": {
     "ng_confidence": "Confirmed",
@@ -10769,7 +11073,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/flock%20safety/b50cadaf-7eb1-4237-8e37-a1f6a1a359ee": {
     "ng_confidence": "Likely",
@@ -10797,7 +11103,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf": {
     "ng_confidence": "Confirmed",
@@ -10859,7 +11167,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3": {
     "ng_confidence": "Likely",
@@ -10919,7 +11229,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/haydenai/6951fb04-478b-46f5-b918-123a69a28925": {
     "ng_confidence": "Likely",
@@ -10933,7 +11245,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/haydenai/f9da378a-156e-4fa4-8d8c-34580a05b4c9": {
     "ng_confidence": "Likely",
@@ -10947,7 +11261,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/hebbia-ai/0c33fe83-efa3-40bf-8a37-5183197d1b81": {
     "ng_confidence": "Likely",
@@ -10961,7 +11277,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/hebbia-ai/a1d492a2-efba-4c4f-a243-e98b0ce2a967": {
     "ng_confidence": "Likely",
@@ -10975,7 +11293,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c": {
     "ng_confidence": "Confirmed",
@@ -11005,7 +11325,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/injective/1774439c-c692-4de9-a4f4-87b713e9d5d4": {
     "ng_confidence": "Likely",
@@ -11019,7 +11341,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/jerry.ai/0247572a-9ce6-4636-adc0-58e71fa26874": {
     "ng_confidence": "Likely",
@@ -11065,7 +11389,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/klarity-ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1": {
     "ng_confidence": "Likely",
@@ -11079,7 +11405,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/lavendo/a9e4c285-cf15-4d7f-975d-20faed3b184b": {
     "ng_confidence": "Likely",
@@ -11093,7 +11421,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d": {
     "ng_confidence": "Confirmed",
@@ -11169,7 +11499,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/mercor/50a58426-2e97-43a5-99b1-d0d9cdc88100": {
     "ng_confidence": "Likely",
@@ -11183,7 +11515,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7": {
     "ng_confidence": "Confirmed",
@@ -11275,7 +11609,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32": {
     "ng_confidence": "Likely",
@@ -11289,7 +11625,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53": {
     "ng_confidence": "Confirmed",
@@ -11303,7 +11641,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e": {
     "ng_confidence": "Confirmed",
@@ -11333,7 +11673,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f": {
     "ng_confidence": "Confirmed",
@@ -11441,7 +11783,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/paraform/d5830af7-2ee4-441f-baf8-8acdae9afd1d": {
     "ng_confidence": "Likely",
@@ -11455,7 +11799,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0": {
     "ng_confidence": "Confirmed",
@@ -11485,7 +11831,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/pear-vc/f48cecb3-841e-4e38-87db-0ad1115a7a46": {
     "ng_confidence": "Likely",
@@ -11499,7 +11847,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/peec/c4f777b0-d813-4f85-b329-a211530ddf5f": {
     "ng_confidence": "Likely",
@@ -11513,7 +11863,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/plaid/3b205208-b07b-4acd-8abc-09f0fd0f88f1": {
     "ng_confidence": "Likely",
@@ -11527,7 +11879,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b": {
     "ng_confidence": "Likely",
@@ -11541,7 +11895,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9": {
     "ng_confidence": "Likely",
@@ -11555,7 +11911,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/polymarket/c69d06c3-96df-493a-afdc-80636d494cf2": {
     "ng_confidence": "Likely",
@@ -11583,7 +11941,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff": {
     "ng_confidence": "Likely",
@@ -11597,7 +11957,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d": {
     "ng_confidence": "Confirmed",
@@ -11627,7 +11989,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4": {
     "ng_confidence": "Confirmed",
@@ -11703,7 +12067,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/remedyrobotics/00e331b9-e35d-427b-badb-7969a5dfe24c": {
     "ng_confidence": "Likely",
@@ -11717,7 +12083,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc": {
     "ng_confidence": "Likely",
@@ -11731,7 +12099,9 @@
     "salary_min_annual": "124000",
     "salary_max_annual": "124000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9": {
     "ng_confidence": "Likely",
@@ -11745,7 +12115,9 @@
     "salary_min_annual": "124000",
     "salary_max_annual": "124000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59": {
     "ng_confidence": "Confirmed",
@@ -11775,7 +12147,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408": {
     "ng_confidence": "Confirmed",
@@ -11805,7 +12179,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/smartleaf/b3cbac93-9e7d-422c-afc2-03850324ea86": {
     "ng_confidence": "Likely",
@@ -11819,7 +12195,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698": {
     "ng_confidence": "Confirmed",
@@ -11849,7 +12227,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/tabs/4e120777-a87d-477f-9c7b-4b8449b659c2": {
     "ng_confidence": "Likely",
@@ -11863,7 +12243,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3": {
     "ng_confidence": "Confirmed",
@@ -11893,7 +12275,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/thesirius/5afbe563-76e6-4772-8da4-5ca3c170e504": {
     "ng_confidence": "Likely",
@@ -11907,7 +12291,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/thesirius/662f4814-c1d4-4361-a4f6-b21b6bf9426e": {
     "ng_confidence": "Likely",
@@ -11921,7 +12307,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b": {
     "ng_confidence": "Likely",
@@ -11935,7 +12323,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/traba/e1761ab2-21f1-46d6-8c69-9b4a73d9430f": {
     "ng_confidence": "Likely",
@@ -11949,7 +12339,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/unlimitedindustries/5c5706fe-26ae-46d6-8423-e4721a5a98fc": {
     "ng_confidence": "Likely",
@@ -11979,7 +12371,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/valon/ad193612-38c9-4877-b16f-cbcaf5415ef3": {
     "ng_confidence": "Likely",
@@ -11993,7 +12387,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804": {
     "ng_confidence": "Likely",
@@ -12007,7 +12403,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/vultr/0e7c9531-28f4-44df-9b18-e4540b77fd2b": {
     "ng_confidence": "Likely",
@@ -12021,7 +12419,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b": {
     "ng_confidence": "Likely",
@@ -12067,7 +12467,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133": {
     "ng_confidence": "Confirmed",
@@ -12113,7 +12515,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.ashbyhq.com/zello/66de7a50-17cb-42aa-87eb-cd40c637338e": {
     "ng_confidence": "Confirmed",
@@ -12194,7 +12598,7 @@
   "https://jobs.lever.co/Ketch/043266ee-ec94-4ae0-be8a-bc4e01bb901e": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1-3 years of experience in",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -12203,7 +12607,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/Versana/1837797b-6e63-4298-a861-00f9d697a936": {
     "ng_confidence": "Not NG",
@@ -12231,7 +12637,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/aircall/cee775a1-2ac3-4ed3-8fac-72b87a602dc3": {
     "ng_confidence": "Likely",
@@ -12245,7 +12653,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/arootah/b754b2ba-52fd-4791-a6c4-54a926c25713": {
     "ng_confidence": "Likely",
@@ -12259,7 +12669,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed": {
     "ng_confidence": "Likely",
@@ -12335,7 +12747,9 @@
     "salary_min_annual": "240000",
     "salary_max_annual": "300000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/dwolla/1105d103-d55d-44ec-8175-5edb3955c87e": {
     "ng_confidence": "Likely",
@@ -12349,7 +12763,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/get-vocal-pbc/1b3b3d72-1b63-4c73-81ce-be788f3230c4": {
     "ng_confidence": "Likely",
@@ -12379,12 +12795,14 @@
     "salary_min_annual": "80000",
     "salary_max_annual": "120000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/jobgether/4adf2fcb-fb41-4480-9bb3-18cd1a81cb21": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1+ year of experience in",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -12393,7 +12811,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/jobgether/9d58356b-4d1a-4cbb-b67c-23833f70ca6c": {
     "ng_confidence": "Likely",
@@ -12439,7 +12859,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/jobgether/e1d02f01-abc8-45da-8f25-bc46ebebc297": {
     "ng_confidence": "Confirmed",
@@ -12460,7 +12882,7 @@
   "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Software Engineer I",
-    "experience_requirement": "1+ years of professional software engineering experience",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -12469,7 +12891,9 @@
     "salary_min_annual": "122400",
     "salary_max_annual": "176000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/kpler/781e5529-48f6-4ece-ae44-b96ec3c5c9d4": {
     "ng_confidence": "Likely",
@@ -12499,7 +12923,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/loftorbital/9592a515-6236-4430-9668-dd1af0e75193": {
     "ng_confidence": "Likely",
@@ -12513,7 +12939,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/lyrahealth/b2f04e56-7db2-4615-bf1d-436ec628e92d": {
     "ng_confidence": "Likely",
@@ -12527,7 +12955,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/matchgroup/613fab0e-1e84-4604-9fae-08785c3a792e": {
     "ng_confidence": "Likely",
@@ -12541,7 +12971,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6": {
     "ng_confidence": "Not NG",
@@ -12569,7 +13001,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0": {
     "ng_confidence": "Uncertain",
@@ -12583,7 +13017,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65": {
     "ng_confidence": "Confirmed",
@@ -12761,7 +13197,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.lever.co/spotify/5e91f92c-7487-40c5-92d8-b335b3b52ae9": {
     "ng_confidence": "Likely",
@@ -12853,7 +13291,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/ServiceNow/744000126417779-software-engineer-agentic-ai-systems-moveworks?oga=true": {
     "ng_confidence": "Likely",
@@ -12867,7 +13307,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/ServiceNow/744000141814009-software-engineer-agentic-ai-harness-quality-moveworks?oga=true": {
     "ng_confidence": "Likely",
@@ -12897,7 +13339,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140495869-full-stack-developer-only-gc-citizens-overall-5yrs-also-okay?oga=true": {
     "ng_confidence": "Likely",
@@ -12911,7 +13355,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140496569-python-developer-with-risk-modelling?oga=true": {
     "ng_confidence": "Likely",
@@ -12925,7 +13371,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140519329-informatica-etl-developer-pl-sql-exadata-skills-are-mandatory-w2-position-independent-profiles-only-?oga=true": {
     "ng_confidence": "Likely",
@@ -12939,7 +13387,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://jobs.smartrecruiters.com/WesternDigital/744000138727213": {
     "ng_confidence": "Confirmed",
@@ -13165,6 +13615,22 @@
     "reject_reason": "",
     "checked_at": "2026-08-03"
   },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "new-grad repository plus 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
+  },
   "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Colorado-Springs-Colorado/Associate-DevOps-Engineer_R2125617": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
@@ -13241,7 +13707,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chicago-IL/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Chicago--IL_R-41427": {
     "ng_confidence": "Likely",
@@ -13317,7 +13785,9 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7628321017978767621": {
     "ng_confidence": "Likely",
@@ -13551,11 +14021,13 @@
     "sponsorship": "No",
     "visa_evidence": "does not provide sponsorship",
     "phd_required": "Yes",
-    "salary": "$200k/yr",
-    "salary_min_annual": "200000",
-    "salary_max_annual": "200000",
+    "salary": "$202k/yr",
+    "salary_min_annual": "202000",
+    "salary_max_annual": "202000",
     "reject_reason": "no sponsorship",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7633597487467776309": {
     "ng_confidence": "Likely",
@@ -13608,7 +14080,7 @@
   "https://lifeattiktok.com/search/7636944382403823877": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1 year of experience in",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -13617,7 +14089,9 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7639440318003300613": {
     "ng_confidence": "Likely",
@@ -13679,12 +14153,14 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7660244549499603253": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1 year of experience in",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -13693,7 +14169,9 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7660279063341058357": {
     "ng_confidence": "Likely",
@@ -13707,7 +14185,9 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7660311850698656053": {
     "ng_confidence": "Likely",
@@ -13721,7 +14201,9 @@
     "salary_min_annual": "200000",
     "salary_max_annual": "200000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://lifeattiktok.com/search/7663028952600807733": {
     "ng_confidence": "Likely",
@@ -14565,7 +15047,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://litera.wd12.myworkdayjobs.com/en-US/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347": {
     "ng_confidence": "Likely",
@@ -14753,7 +15237,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://ms.wd5.myworkdayjobs.com/en-US/private/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545": {
     "ng_confidence": "Likely",
@@ -14799,7 +15285,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Carrollton-TX/Automation-Developer-I_R2521185": {
     "ng_confidence": "Likely",
@@ -14829,7 +15317,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://netsage.com/careers/current-openings/job?gh_jid=7793281003": {
     "ng_confidence": "Likely",
@@ -14921,7 +15411,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://ngc.wd1.myworkdayjobs.com/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Aeronautical-Engineer---Aeronautical-Engineer_R10244139": {
     "ng_confidence": "Likely",
@@ -14967,7 +15459,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://non-clinical-emory.icims.com/jobs/150075/data-analyst-ii--supply-chain/job": {
     "ng_confidence": "Likely",
@@ -14981,7 +15475,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://non-clinical-emory.icims.com/jobs/169212/data-analyst-ii/job": {
     "ng_confidence": "Likely",
@@ -14995,7 +15491,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1--AI-Agentic-Solutions--Hybrid---Seattle--WA-_R-862126": {
     "ng_confidence": "Likely",
@@ -15069,7 +15567,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nuro.ai/careersitem?gh_jid=7895644": {
     "ng_confidence": "Likely",
@@ -15083,7 +15583,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nuro.ai/careersitem?gh_jid=7895818": {
     "ng_confidence": "Likely",
@@ -15097,7 +15599,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nuro.ai/careersitem?gh_jid=7896063": {
     "ng_confidence": "Likely",
@@ -15111,7 +15615,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742": {
     "ng_confidence": "Confirmed",
@@ -15125,7 +15631,9 @@
     "salary_min_annual": "172000",
     "salary_max_annual": "172000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517": {
     "ng_confidence": "Confirmed",
@@ -15155,7 +15663,9 @@
     "salary_min_annual": "172000",
     "salary_max_annual": "172000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767": {
     "ng_confidence": "Confirmed",
@@ -15339,7 +15849,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://pnc.wd5.myworkdayjobs.com/en-US/external/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Associate---Data--Modeling----Analytics_R231921-1": {
     "ng_confidence": "Likely",
@@ -15369,7 +15881,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://pnc.wd5.myworkdayjobs.com/en-US/external/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1": {
     "ng_confidence": "Likely",
@@ -15399,7 +15913,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1": {
     "ng_confidence": "Likely",
@@ -15573,7 +16089,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1": {
     "ng_confidence": "Likely",
@@ -15635,7 +16153,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://rbi.wd3.myworkdayjobs.com/en-US/rbi_external_career_site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622": {
     "ng_confidence": "Confirmed",
@@ -15681,7 +16201,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Remote---USA---Nationwide/US-Legal-Editor--AI-Content-Updating_R111911-1": {
     "ng_confidence": "Likely",
@@ -15711,7 +16233,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://remitly.wd5.myworkdayjobs.com/en-US/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706": {
     "ng_confidence": "Confirmed",
@@ -15949,7 +16473,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Austin-TX-USA/Cloud-Adoption-Specialist---AWS_JR3113-1": {
     "ng_confidence": "Likely",
@@ -15979,7 +16505,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q326SWEB2-2": {
     "ng_confidence": "Likely",
@@ -16041,7 +16569,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Junior-Embedded-Software-Development-Engineer_R2666": {
     "ng_confidence": "Likely",
@@ -16135,7 +16665,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://staff-emory.icims.com/jobs/170927/software-engineer---emory-college-of-arts-and-sciences/job": {
     "ng_confidence": "Likely",
@@ -16172,7 +16704,7 @@
   "https://stripe.com/jobs/search?gh_jid=8009143": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "2 years of experience",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -16181,7 +16713,9 @@
     "salary_min_annual": "156800",
     "salary_max_annual": "235200",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://stvinc.wd5.myworkdayjobs.com/en-US/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922": {
     "ng_confidence": "Likely",
@@ -16195,7 +16729,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://synapsehealth.com/job-postings/5148762007?gh_jid=5148762007": {
     "ng_confidence": "Likely",
@@ -16209,7 +16745,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Business-Intelligence-Data-Analyst_R49569": {
     "ng_confidence": "Likely",
@@ -16379,7 +16917,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I_R-51276-1": {
     "ng_confidence": "Confirmed",
@@ -16537,7 +17077,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "senior-level title: Fellow",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://volunteers-jerseystem.icims.com/jobs/2572/mktg309%3a-wordpress-content-developer/job": {
     "ng_confidence": "Likely",
@@ -16551,7 +17093,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Stem-Cell-Research-Scientist_REQ-29654": {
     "ng_confidence": "Likely",
@@ -17021,7 +17565,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10468069/apply": {
     "ng_confidence": "Likely",
@@ -17035,7 +17581,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10468973/apply": {
     "ng_confidence": "Confirmed",
@@ -17065,7 +17613,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10471616/apply": {
     "ng_confidence": "Likely",
@@ -17079,7 +17629,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10472843/apply": {
     "ng_confidence": "Likely",
@@ -17093,7 +17645,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10473326/apply": {
     "ng_confidence": "Likely",
@@ -17107,7 +17661,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10473342/apply": {
     "ng_confidence": "Likely",
@@ -17121,7 +17677,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10473446/apply": {
     "ng_confidence": "Likely",
@@ -17135,7 +17693,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10475820/apply": {
     "ng_confidence": "Likely",
@@ -17149,7 +17709,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10476454/apply": {
     "ng_confidence": "Likely",
@@ -17163,7 +17725,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10476532/apply": {
     "ng_confidence": "Likely",
@@ -17177,7 +17741,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10476935/apply": {
     "ng_confidence": "Likely",
@@ -17191,7 +17757,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10477113/apply": {
     "ng_confidence": "Likely",
@@ -17205,7 +17773,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10477458/apply": {
     "ng_confidence": "Likely",
@@ -17219,7 +17789,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10477461/apply": {
     "ng_confidence": "Likely",
@@ -17233,7 +17805,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10477755/apply": {
     "ng_confidence": "Likely",
@@ -17261,7 +17835,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10478036/apply": {
     "ng_confidence": "Uncertain",
@@ -17289,7 +17865,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10479049/apply": {
     "ng_confidence": "Likely",
@@ -17303,7 +17881,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10479215/apply": {
     "ng_confidence": "Likely",
@@ -17317,7 +17897,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10479435/apply": {
     "ng_confidence": "Likely",
@@ -17331,7 +17913,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10480393/apply": {
     "ng_confidence": "Likely",
@@ -17345,7 +17929,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10480588/apply": {
     "ng_confidence": "Likely",
@@ -17359,7 +17945,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10480784/apply": {
     "ng_confidence": "Likely",
@@ -17373,7 +17961,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10480882/apply": {
     "ng_confidence": "Likely",
@@ -17387,7 +17977,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10481664/apply": {
     "ng_confidence": "Likely",
@@ -17401,7 +17993,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10481932/apply": {
     "ng_confidence": "Confirmed",
@@ -17415,7 +18009,9 @@
     "salary_min_annual": "178000",
     "salary_max_annual": "178000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10481995/apply": {
     "ng_confidence": "Likely",
@@ -17429,7 +18025,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482044/apply": {
     "ng_confidence": "Likely",
@@ -17443,7 +18041,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482153/apply": {
     "ng_confidence": "Likely",
@@ -17457,7 +18057,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482591/apply": {
     "ng_confidence": "Likely",
@@ -17471,7 +18073,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482676/apply": {
     "ng_confidence": "Likely",
@@ -17485,7 +18089,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482679/apply": {
     "ng_confidence": "Likely",
@@ -17499,7 +18105,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482685/apply": {
     "ng_confidence": "Likely",
@@ -17513,7 +18121,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482688/apply": {
     "ng_confidence": "Likely",
@@ -17527,7 +18137,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482693/apply": {
     "ng_confidence": "Likely",
@@ -17541,7 +18153,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10482935/apply": {
     "ng_confidence": "Likely",
@@ -17569,7 +18183,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10483782/apply": {
     "ng_confidence": "Likely",
@@ -17583,7 +18199,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10483813/apply": {
     "ng_confidence": "Likely",
@@ -17597,7 +18215,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10483913/apply": {
     "ng_confidence": "Likely",
@@ -17611,7 +18231,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10484131/apply": {
     "ng_confidence": "Likely",
@@ -17625,7 +18247,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10484189/apply": {
     "ng_confidence": "Likely",
@@ -17639,7 +18263,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10484190/apply": {
     "ng_confidence": "Likely",
@@ -17653,7 +18279,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10484211/apply": {
     "ng_confidence": "Likely",
@@ -17667,7 +18295,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10484836/apply": {
     "ng_confidence": "Uncertain",
@@ -17695,7 +18325,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10485323/apply": {
     "ng_confidence": "Likely",
@@ -17709,7 +18341,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10485387/apply": {
     "ng_confidence": "Likely",
@@ -17723,7 +18357,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10485640/apply": {
     "ng_confidence": "Likely",
@@ -17737,7 +18373,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486016/apply": {
     "ng_confidence": "Likely",
@@ -17751,7 +18389,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486378/apply": {
     "ng_confidence": "Likely",
@@ -17765,7 +18405,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486387/apply": {
     "ng_confidence": "Likely",
@@ -17779,7 +18421,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486541/apply": {
     "ng_confidence": "Likely",
@@ -17793,7 +18437,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486573/apply": {
     "ng_confidence": "Likely",
@@ -17807,7 +18453,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486685/apply": {
     "ng_confidence": "Likely",
@@ -17821,7 +18469,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486697/apply": {
     "ng_confidence": "Likely",
@@ -17835,7 +18485,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486805/apply": {
     "ng_confidence": "Likely",
@@ -17849,7 +18501,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10486826/apply": {
     "ng_confidence": "Likely",
@@ -17863,7 +18517,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487269/apply": {
     "ng_confidence": "Likely",
@@ -17877,7 +18533,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487481/apply": {
     "ng_confidence": "Likely",
@@ -17891,7 +18549,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487557/apply": {
     "ng_confidence": "Likely",
@@ -17905,7 +18565,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487767/apply": {
     "ng_confidence": "Likely",
@@ -17919,7 +18581,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487773/apply": {
     "ng_confidence": "Likely",
@@ -17933,7 +18597,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10487824/apply": {
     "ng_confidence": "Likely",
@@ -17947,7 +18613,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.amazon.jobs/jobs/10488461/apply": {
     "ng_confidence": "Likely",
@@ -18023,7 +18691,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us": {
     "ng_confidence": "Likely",
@@ -18245,7 +18915,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.equipmentshare.com/careers/openings?gh_jid=8091776": {
     "ng_confidence": "Likely",
@@ -18259,7 +18931,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.fanduel.careers/open-positions?gh_jid=8028963": {
     "ng_confidence": "Likely",
@@ -18270,10 +18944,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$98,000 - 122,000",
-    "salary_min_annual": 98000,
-    "salary_max_annual": 122000,
+    "salary_min_annual": "98000",
+    "salary_max_annual": "122000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.fanduel.careers/open-positions?gh_jid=8055746": {
     "ng_confidence": "Likely",
@@ -18284,10 +18960,12 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$ 90,000 - $112,000",
-    "salary_min_annual": 90000,
-    "salary_max_annual": 112000,
+    "salary_min_annual": "90000",
+    "salary_max_annual": "112000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.google.com/about/careers/applications/jobs/results/113074906505061062": {
     "ng_confidence": "Likely",
@@ -18324,7 +19002,7 @@
   "https://www.google.com/about/careers/applications/jobs/results/113881960924750534": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1 year of experience",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -18333,7 +19011,9 @@
     "salary_min_annual": "196000",
     "salary_max_annual": "196000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.google.com/about/careers/applications/jobs/results/128430823337534150": {
     "ng_confidence": "Uncertain",
@@ -18363,7 +19043,9 @@
     "salary_min_annual": "196000",
     "salary_max_annual": "196000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.google.com/about/careers/applications/jobs/results/132362676918461126": {
     "ng_confidence": "Likely",
@@ -18393,7 +19075,9 @@
     "salary_min_annual": "196000",
     "salary_max_annual": "196000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.google.com/about/careers/applications/jobs/results/77174102632080070": {
     "ng_confidence": "Likely",
@@ -18407,7 +19091,9 @@
     "salary_min_annual": "196000",
     "salary_max_annual": "196000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.google.com/about/careers/applications/jobs/results/83535564552184518": {
     "ng_confidence": "Likely",
@@ -18837,7 +19523,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.indeed.com/viewjob?jk=621728207e986115": {
     "ng_confidence": "Likely",
@@ -19397,7 +20085,9 @@
     "salary_min_annual": "116000",
     "salary_max_annual": "174000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.linkedin.com/jobs/view/machine-learning-research-engineer-graduate-monetization-technology-ads-core-global-2027-start-phd-at-tiktok-4448278553": {
     "ng_confidence": "Confirmed",
@@ -19441,7 +20131,9 @@
     "salary_min_annual": "186000",
     "salary_max_annual": "186000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.mks2.com/job/6016237004?gh_jid=6016237004": {
     "ng_confidence": "Not NG",
@@ -19485,7 +20177,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.monster.com/job-openings/returning-new-grad-engineer-i-winter-summer-2027-northeast-division-for-current-former-hntb-interns-only-south-portland-me--035fa7b9-c4e1-4457-bae2-ea52a4d8d164": {
     "ng_confidence": "Confirmed",
@@ -19628,16 +20322,18 @@
   "https://www.riotgames.com/en/work-with-us/job/7848273?gh_jid=7848273": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
-    "experience_requirement": "1+ years of experience",
+    "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "Yes",
+    "visa_evidence": "Visa Sponsorship Provided",
     "phd_required": "No",
     "salary": "$206,700.00 - $289,600.00",
-    "salary_min_annual": 206700,
-    "salary_max_annual": 289600,
+    "salary_min_annual": "206700",
+    "salary_max_annual": "289600",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167": {
     "ng_confidence": "Likely",
@@ -19651,7 +20347,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387": {
     "ng_confidence": "Likely",
@@ -19665,7 +20363,9 @@
     "salary_min_annual": "113645",
     "salary_max_annual": "191000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343": {
     "ng_confidence": "Confirmed",
@@ -19695,7 +20395,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.smxtech.com/careers?gh_jid=7813061003": {
     "ng_confidence": "Likely",
@@ -19709,7 +20411,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821": {
     "ng_confidence": "Confirmed",
@@ -19723,7 +20427,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.tower-research.com/open-positions?gh_jid=8024142": {
     "ng_confidence": "Likely",
@@ -19753,7 +20459,9 @@
     "salary_min_annual": "173000",
     "salary_max_annual": "173000",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": false,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.vectra.ai/about/jobs?gh_jid=8003612": {
     "ng_confidence": "Likely",
@@ -19767,7 +20475,9 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   },
   "https://www.verition.com/open-positions?gh_jid=5188872007": {
     "ng_confidence": "Likely",
@@ -19781,6 +20491,8 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "checked_at": "2026-07-31"
+    "source_fetched": true,
+    "checked_at": "2026-08-08",
+    "parser_version": 3
   }
 }
