@@ -462,6 +462,31 @@ COMPANY_ALIASES = {
     "jpmorgan chase and co": "jpmorgan chase",
 }
 
+FEATURED_COMPANY_GROUPS = {
+    "Big Tech & Frontier AI": {
+        "Google", "Meta", "Amazon", "Apple", "Microsoft", "Netflix", "NVIDIA",
+        "Waymo", "OpenAI", "Anthropic", "xAI",
+    },
+    "AI Infra / Systems": {
+        "Databricks", "Snowflake", "CoreWeave", "Crusoe", "Baseten", "Anyscale",
+        "Modal", "Cerebras", "Together AI", "Fireworks AI", "Scale AI",
+        "Perplexity", "Cursor", "Lambda", "Groq", "SambaNova", "RadixArk",
+        "Inferact", "Etched",
+    },
+    "Quant / HFT": {
+        "Jane Street", "Hudson River Trading", "Citadel", "Citadel Securities",
+        "Optiver", "Five Rings", "IMC Trading", "Jump Trading", "DRW", "D. E. Shaw",
+        "Two Sigma", "Akuna Capital", "SIG",
+    },
+    "Other high-value tech": {
+        "Stripe", "Palantir", "Cloudflare", "Figma", "Discord", "Roblox", "Uber",
+        "Airbnb", "LinkedIn", "Pinterest", "Snap", "Reddit", "Coinbase", "Robinhood",
+    },
+}
+BYTEDANCE_COMPANIES = {"ByteDance", "TikTok", "TikTok USDS JV"}
+FEATURED_GROUP_ORDER = ["Big Tech & Frontier AI", "AI Infra / Systems", "Quant / HFT", "Other high-value tech"]
+PAGES_URL = "https://coconight01.github.io/2027-North-America-New-Grad-Jobs/"
+
 
 def identity_text(value: object) -> str:
     text = str(value or "").casefold().replace("&", " and ")
@@ -472,6 +497,42 @@ def identity_text(value: object) -> str:
 def canonical_company(value: object) -> str:
     normalized = identity_text(value)
     return COMPANY_ALIASES.get(normalized, normalized)
+
+
+def company_group(value: object) -> str:
+    normalized = identity_text(value)
+    if any(normalized == identity_text(name) for name in BYTEDANCE_COMPANIES):
+        return "ByteDance / TikTok"
+    for group, companies in FEATURED_COMPANY_GROUPS.items():
+        if any(normalized == identity_text(name) for name in companies):
+            return group
+    return "Other"
+
+
+def diverse_company_rows(rows: list[dict], per_company: int = 2, limit: int = 24) -> list[dict]:
+    selected = []
+    counts = {}
+    for row in rows:
+        company = canonical_company(row.get("company"))
+        if counts.get(company, 0) >= per_company:
+            continue
+        selected.append(row)
+        counts[company] = counts.get(company, 0) + 1
+        if len(selected) >= limit:
+            break
+    return selected
+
+
+def markdown_job_table(rows: list[dict]) -> list[str]:
+    result = ["| Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |", "|---|---|---|---|---|---|---|---|"]
+    for row in rows:
+        visa = "✅" if row.get("sponsorship") == "Yes" else "❔"
+        phd = "PhD only" if row.get("phd_required") == "Yes" else "—"
+        role_name = str(row.get("role", "")).replace("|", "/")
+        role = f"[{role_name}]({row.get('url', '')})" if row.get("url") else role_name
+        values = [date_key(row), f"**{str(row.get('company', '')).replace('|', '/')}**", role, str(row.get("salary") or "Not listed").replace("|", "/"), str(row.get("location", "")).replace("|", "/"), visa, ng_label(row), phd]
+        result.append("| " + " | ".join(values) + " |")
+    return result
 
 
 def dedupe_rows(rows: list[dict]) -> list[dict]:
@@ -559,39 +620,46 @@ def save(rows: list[dict], fields: list[str], date_cache: dict, qualification_ca
         encoding="utf-8",
     )
     open_rows = [row for row in rows if row.get("status") == "Open"]
+    grouped = {}
+    for row in open_rows:
+        grouped.setdefault(company_group(row.get("company")), []).append(row)
+
+    featured_count = sum(len(grouped.get(group, [])) for group in FEATURED_GROUP_ORDER)
+    bytedance_count = len(grouped.get("ByteDance / TikTok", []))
+    other_count = len(grouped.get("Other", []))
     parts = [
         "# 2027 North America New Grad Full-Time Jobs", "",
+        f"> 🌐 **[Open the interactive Job Radar]({PAGES_URL})** · filter by company, track, visa, salary, new-grad confidence, and posting date.", "",
         "> 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)", "",
         f"> Last automated update: **{TODAY}** · Open roles: **{len(open_rows)}**", "",
         "Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.", "",
         "> Hard filters remove explicit no-sponsorship, U.S.-citizenship/security-clearance, pure hardware, clearly senior titles, clear prior professional-work-experience requirements, and stated salary ranges entirely below $100k.", "",
-        "A listing's presence in another new-grad repository is supporting evidence, not proof. Ambiguous roles are retained as **Review** and moved later rather than deleted.", "",
-        "| Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |",
-        "|---|---|---|---|---|---|---|---|",
+        "A listing\'s presence in another new-grad repository is supporting evidence, not proof. Ambiguous roles are retained as **Review** and moved later rather than deleted.", "",
+        "## ⭐ Featured companies", "",
+        "The README is intentionally company-diverse: at most two active roles per company are shown here. The web app and CSV/JSON keep the full list.", "",
+        "| Group | Active roles |", "|---|---:|",
     ]
-    for row in open_rows:
-        visa = "✅" if row.get("sponsorship") == "Yes" else "❔"
-        phd = "PhD only" if row.get("phd_required") == "Yes" else "—"
-        role_name = str(row.get("role", "")).replace("|", "/")
-        role = f"[{role_name}]({row.get('url', '')})" if row.get("url") else role_name
-        values = [
-            date_key(row), f"**{str(row.get('company', '')).replace('|', '/')}**", role,
-            str(row.get("salary") or "Not listed").replace("|", "/"),
-            str(row.get("location", "")).replace("|", "/"), visa, ng_label(row), phd,
-        ]
-        parts.append("| " + " | ".join(values) + " |")
-    parts += [
-        "", "## New-grad semantics", "",
-        "- **Confirmed:** employer title/description explicitly says new grad, graduate, early career, entry level, or equivalent.",
-        "- **Likely:** appears in a trusted new-grad repository without conflicting seniority/work-experience evidence.",
-        "- **Review:** only weak evidence such as a 2027 reference; retained but ranked later.",
-        "- Years of programming/coding/coursework/research experience are not treated as years of professional employment.",
-        "", "## Date semantics", "",
-        "- `posted_date`: ATS creation/publication date when available.",
-        "- Otherwise it falls back to this repository's first-discovery `date_added`.",
-        "- ATS update timestamps are not presented as original publication dates.", "",
-        "Listings can close or change without notice. Verify all details before applying.",
-    ]
+    for group in FEATURED_GROUP_ORDER:
+        parts.append(f"| **{group}** | {len(grouped.get(group, []))} |")
+    parts += [f"| **ByteDance / TikTok** (separate) | {bytedance_count} |", f"| Other companies | {other_count} |", ""]
+
+    for group in FEATURED_GROUP_ORDER:
+        candidates = grouped.get(group, [])
+        if not candidates:
+            continue
+        parts += [f"### {group}", ""]
+        parts += markdown_job_table(diverse_company_rows(candidates, per_company=2, limit=24))
+        parts.append("")
+
+    bytedance_rows = grouped.get("ByteDance / TikTok", [])
+    if bytedance_rows:
+        parts += ["## ByteDance / TikTok", "", f"<details><summary><b>{len(bytedance_rows)} active roles</b> — collapsed so one company does not dominate the README</summary>", ""]
+        parts += markdown_job_table(bytedance_rows[:12])
+        if len(bytedance_rows) > 12:
+            parts += ["", f"_Showing 12 of {len(bytedance_rows)} active roles. Use the Job Radar for all roles._"]
+        parts += ["", "</details>", ""]
+
+    parts += ["## All roles", "", f"The repository currently keeps **{len(open_rows)} active roles**. Featured groups account for **{featured_count}** of them. Browse the full searchable list in the **[Job Radar]({PAGES_URL})**, or use data/jobs.csv / data/jobs.json.", "", "## New-grad semantics", "", "- **Confirmed:** employer title/description explicitly says new grad, graduate, early career, entry level, or equivalent.", "- **Likely:** appears in a trusted new-grad repository without conflicting seniority/work-experience evidence.", "- **Review:** only weak evidence such as a 2027 reference; retained but ranked later.", "- Years of programming/coding/coursework/research experience are not treated as years of professional employment.", "", "## Date semantics", "", "- posted_date: ATS creation/publication date when available.", "- Otherwise it falls back to this repository\'s first-discovery date_added.", "- ATS update timestamps are not presented as original publication dates.", "", "Listings can close or change without notice. Verify all details before applying."]
     (ROOT / "README.md").write_text("\n".join(parts) + "\n", encoding="utf-8")
 
 
