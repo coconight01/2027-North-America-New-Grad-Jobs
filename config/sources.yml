@@ -6,6 +6,7 @@ greenhouse:
   - {company: Twitch, board: twitch}
   - {company: Nuro, board: nuro}
   - {company: xAI, board: xai}
+  - {company: RadixArk, board: radixark}
   - {company: Scale AI, board: scaleai}
   - {company: Anduril, board: andurilindustries}
   - {company: SpaceX, board: spacex}
@@ -23,6 +24,14 @@ lever:
   - {company: ShyftLabs, site: shyftlabs}
 
 ashby:
+  - {company: Crusoe, board: crusoe}
+  - {company: Baseten, board: baseten}
+  - {company: Cerebras, board: cerebras}
+  - {company: Fireworks AI, board: fireworks}
+  - {company: Modal, board: modal}
+  - {company: Prime Intellect, board: primeintellect}
+  - {company: Cognition, board: cognition}
+  - {company: OpenAI, board: openai}
   - {company: Pylon, board: pylon-labs}
   - {company: Netic, board: netic}
   - {company: Northslope, board: northslope-technologies}
