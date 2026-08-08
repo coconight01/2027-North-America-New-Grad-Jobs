@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-08** · Open roles: **1059**
+> Last automated update: **2026-08-08** · Open roles: **1052**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,17 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 103 |
+| **Big Tech & Frontier AI** | 100 |
 | **AI Infra / Systems** | 7 |
 | **Quant / HFT** | 43 |
-| **Other high-value tech** | 18 |
+| **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 214 |
-| Other companies | 674 |
+| Other companies | 671 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-07 | **Apple** | [Apple SkillBridge Fellowship Program](https://jobs.apple.com/en-us/details/200669129-0240/apple-skillbridge-fellowship-program?team=MLAI) | Not listed | Various Locations within Austin Metro Area | ❔ | ❔ Review | — |
-| 2026-08-07 | **Apple** | [Apple SkillBridge Fellowship Program](https://jobs.apple.com/en-us/details/200669129-3543/apple-skillbridge-fellowship-program?team=MLAI) | Not listed | San Diego | ❔ | ❔ Review | — |
 | 2026-08-06 | **Amazon** | [Workplace Health and Safety Specialist, Early Career – (2027) – Canada](https://jobright.ai/jobs/info/6a73986a1ce9647cdbca918d) | Not listed | Ottawa, ON, Canada | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Amazon** | [Front End Engineer - AWS APO Engineering](https://www.amazon.jobs/jobs/10492337/apply) | $186k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-08-05 | **Google** | [[Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/132362676918461126)](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) | $98,000–$131,000 | United States | ❔ | ◐ Likely | — |
@@ -39,6 +37,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | $186k/yr | Sunnyvale, CA +3 | ❔ | ◐ Likely | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ◐ Likely | — |
+| 2026-07-20 | **Apple** | [Software Device Driver Engineer - Core I/O - Core OS](https://jobs.apple.com/en-us/details/200658892-0157) | $153k/yr | Austin, TX | ❔ | ◐ Likely | — |
 
 ### AI Infra / Systems
 
@@ -112,7 +112,7 @@ _Showing 12 of 214 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1059 active roles**. Featured groups account for **171** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1052 active roles**. Featured groups account for **167** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
