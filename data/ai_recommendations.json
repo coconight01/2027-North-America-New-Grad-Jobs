@@ -1,5 +1,5 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-08-08",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -10,6 +10,129 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "Waiting for the first scheduled personalized AI review.",
-  "recommendations": []
+  "summary": "7 currently actionable high-value roles after manual eligibility, compensation, freshness, and sponsorship-risk review. Zettabyte New Grad was explicitly vetoed for no visa sponsorship; internship/contract and senior-only false positives were excluded.",
+  "recommendations": [
+    {
+      "rank": 1,
+      "company": "Jane Street",
+      "role": "Software Engineer",
+      "location": "New York, NY",
+      "salary": "$300,000 base + discretionary bonus",
+      "fit": "Elite quant SWE / systems",
+      "new_grad": "General full-time SWE; suitable for new grads",
+      "sponsorship": "Not stated on posting",
+      "urgency": "Apply soon",
+      "reason": "Exceptional compensation and strong fit for competitive programming, C++/Python, systems thinking, and performance-oriented engineering. Jane Street explicitly considers candidates across software, ML, systems administration, and PL backgrounds.",
+      "caveat": "Posting is not labeled 2027 New Grad, so campus-cycle timing is less explicit than IMC/Citadel; sponsorship is not stated on the posting.",
+      "application_limit": "Jane Street states one application can be considered across available positions/offices; avoid redundant applications.",
+      "url": "https://www.janestreet.com/join-jane-street/position/8594541002/"
+    },
+    {
+      "rank": 2,
+      "company": "Aquatic Capital Management",
+      "role": "Software Engineer, Early Career",
+      "location": "Chicago, IL / New York, NY",
+      "salary": "$150,000-$200,000 base + potentially significant discretionary bonus",
+      "fit": "Quant systems / distributed SWE",
+      "new_grad": "Early Career; <=3 years post-education professional experience",
+      "sponsorship": "Not stated on posting",
+      "urgency": "Apply soon",
+      "reason": "Direct match to Python/C++, distributed systems, quantitative strength, and performance-minded systems work. The role rotates across technology teams supporting research/trading and is one of the strongest non-PhD matches.",
+      "caveat": "Sponsorship is not stated; verify in application/recruiter flow before investing heavily in interview prep.",
+      "application_limit": "Prefer Early Career over the experienced C++/Systems postings; the Systems Engineer role requires 10+ years and is a hard reject.",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002"
+    },
+    {
+      "rank": 3,
+      "company": "ByteDance",
+      "role": "Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start",
+      "location": "San Jose, CA",
+      "salary": "$128,000-$256,000 listed range",
+      "fit": "Excellent LLM inference / ML systems",
+      "new_grad": "Explicit 2027 graduate role",
+      "sponsorship": "Not confirmed in collected posting",
+      "urgency": "High fit; manage application cap",
+      "reason": "Near-direct match to vLLM/model-loading optimization, LLM inference, distributed systems, C++/Python, CUDA, and systems research. This is one of the highest technical-fit roles in the current dataset.",
+      "caveat": "ByteDance/TikTok applications are limited per recruiting cycle; choose this over weaker generic backend/testing roles.",
+      "application_limit": "Counts toward ByteDance/TikTok cycle limits; prioritize only the top 1-2 roles.",
+      "url": "https://jobright.ai/jobs/info/6a759a626b9def3e9e1f8837"
+    },
+    {
+      "rank": 4,
+      "company": "ByteDance",
+      "role": "Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start",
+      "location": "San Jose, CA",
+      "salary": "$128,000-$256,000 listed range",
+      "fit": "Excellent distributed training / ML systems",
+      "new_grad": "Explicit 2027 graduate role",
+      "sponsorship": "Not confirmed in collected posting",
+      "urgency": "High fit; only if application cap allows",
+      "reason": "Excellent match to AutoScout, distributed training configuration, NCCL/parallelism, Python/C++/Rust, networking, and ML systems research.",
+      "caveat": "Do not let ByteDance dominate the application portfolio; this is the second and final ByteDance/TikTok recommendation today.",
+      "application_limit": "Counts toward ByteDance/TikTok cycle limits; compare carefully with the inference-system role before submitting.",
+      "url": "https://jobright.ai/jobs/info/6a759a58bb6ca93ae560f07f"
+    },
+    {
+      "rank": 5,
+      "company": "Pylon",
+      "role": "Software Engineer, New Grad",
+      "location": "San Francisco, CA",
+      "salary": "$150,000-$180,000 base + stock options",
+      "fit": "Strong AI product/backend SWE",
+      "new_grad": "Explicit Summer 2027 start",
+      "sponsorship": "Not stated on posting",
+      "urgency": "Fresh 2027 opening",
+      "reason": "Strong startup quality and compensation with explicit Summer 2027 eligibility. Less ML-systems-heavy than top picks, but attractive as a high-upside AI-native general SWE role with Golang/AWS exposure.",
+      "caveat": "More product/full-stack than GPU/LLM runtime infrastructure; sponsorship is not stated.",
+      "application_limit": "No special company cap identified; lower opportunity cost than capped firms.",
+      "url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d"
+    },
+    {
+      "rank": 6,
+      "company": "Netic",
+      "role": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+      "location": "San Francisco, CA",
+      "salary": "Not listed",
+      "fit": "AI systems / production agent engineering",
+      "new_grad": "Explicit Winter 2026-Summer 2027 start window",
+      "sponsorship": "Not stated on posting",
+      "urgency": "Actionable",
+      "reason": "Relevant to TikTok AI-evaluation workflow experience plus production AI systems: multimodal agents, LLM workflows, evaluation, performance, cloud infrastructure, monitoring, and end-to-end ownership.",
+      "caveat": "FDE/customer-facing work is less aligned with low-level ML systems than inference/training roles, and compensation/sponsorship are not stated.",
+      "application_limit": "Prefer this 2026-2027 FDE role over Netic postings that are internships or require Summer 2026-or-earlier starts.",
+      "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8"
+    },
+    {
+      "rank": 7,
+      "company": "Blackstone",
+      "role": "2027 Blackstone Technology and Innovations - Software Engineer Analyst",
+      "location": "Miami, FL",
+      "salary": "$125,000 base",
+      "fit": "Strong general SWE fallback",
+      "new_grad": "Explicit 2027 role",
+      "sponsorship": "Not confirmed in collected posting",
+      "urgency": "Secondary",
+      "reason": "Elite-brand general SWE option with explicit 2027 cycle and compensation above the hard floor. Worth keeping as a diversified fallback after higher-fit AI/quant systems applications.",
+      "caveat": "Much weaker technical fit and upside than ML systems / quant SWE priorities; do not spend a scarce tailored-resume slot here.",
+      "application_limit": "Use generic SWE resume; preserve customization effort for higher-fit roles.",
+      "url": "https://jobright.ai/jobs/info/6a76dcedbb6ca93ae5613ae7"
+    }
+  ],
+  "vetoed_today": [
+    {
+      "company": "Zettabyte",
+      "role": "Software Engineer (New Grad)",
+      "reason": "Explicitly requires U.S. work authorization without visa sponsorship; hard veto despite excellent AI-infrastructure fit."
+    },
+    {
+      "company": "Aquatic Capital Management",
+      "role": "Systems Engineer",
+      "reason": "Requires 10+ years of professional systems/infrastructure experience; hard seniority reject."
+    },
+    {
+      "company": "Netic",
+      "role": "Software Engineer (Agent Platform) - Intern - 2026-2027",
+      "reason": "Internship, not full-time new-grad."
+    }
+  ]
 }
