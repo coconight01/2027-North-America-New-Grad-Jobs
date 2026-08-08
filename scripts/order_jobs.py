@@ -490,7 +490,7 @@ PAGES_URL = "https://coconight01.github.io/2027-North-America-New-Grad-Jobs/"
 
 def identity_text(value: object) -> str:
     text = str(value or "").casefold().replace("&", " and ")
-    text = re.sub(r"\\b(?:incorporated|inc|llc|ltd|corp|corporation)\\b", " ", text)
+    text = re.sub(r"\b(?:incorporated|inc|llc|ltd|corp|corporation)\b", " ", text)
     return " ".join(re.sub(r"[^a-z0-9+#]+", " ", text).split())
 
 
