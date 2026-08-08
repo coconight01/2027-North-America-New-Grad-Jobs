@@ -471,7 +471,7 @@ FEATURED_COMPANY_GROUPS = {
         "Databricks", "Snowflake", "CoreWeave", "Crusoe", "Baseten", "Anyscale",
         "Modal", "Cerebras", "Together AI", "Fireworks AI", "Scale AI",
         "Perplexity", "Cursor", "Lambda", "Groq", "SambaNova", "RadixArk",
-        "Inferact", "Etched",
+        "Inferact", "Etched", "Prime Intellect", "Cognition",
     },
     "Quant / HFT": {
         "Jane Street", "Hudson River Trading", "Citadel", "Citadel Securities",
