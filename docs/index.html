@@ -3,83 +3,210 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Yuhan's 2027 New Grad Jobs</title>
+  <meta name="description" content="A company-diverse 2027 new-grad job radar for high-value software, AI infrastructure, ML systems and quant roles.">
+  <title>2027 Job Radar</title>
   <style>
-    :root{color-scheme:light dark;--bg:#f6f8fa;--card:#fff;--text:#1f2328;--muted:#59636e;--border:#d0d7de;--link:#0969da;--head:#f6f8fa;--ok:#1a7f37;--warn:#9a6700}
-    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--text:#e6edf3;--muted:#8b949e;--border:#30363d;--link:#58a6ff;--head:#21262d;--ok:#3fb950;--warn:#d29922}}
-    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-    main{max-width:1750px;margin:0 auto;padding:28px 18px 60px}h1{margin:0 0 4px;font-size:30px}.sub{color:var(--muted);margin-bottom:8px}.policy{margin:0 0 20px;padding:11px 13px;border:1px solid var(--border);border-radius:8px;background:var(--card)}
-    .controls{display:grid;grid-template-columns:minmax(260px,2fr) repeat(5,minmax(135px,1fr));gap:10px;margin-bottom:14px}
-    input,select{width:100%;padding:10px 12px;border:1px solid var(--border);border-radius:7px;background:var(--card);color:var(--text);font:inherit}
-    .summary{color:var(--muted);margin:8px 0 14px}.table-wrap{overflow:auto;border:1px solid var(--border);border-radius:9px;background:var(--card)}
-    table{width:100%;border-collapse:collapse;min-width:1400px}th,td{padding:11px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}th{position:sticky;top:0;background:var(--head);z-index:1;white-space:nowrap}tr:last-child td{border-bottom:0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.company{font-weight:600}.salary{white-space:nowrap}.visa{font-size:17px}.ng{white-space:nowrap;font-weight:600}.Confirmed{color:var(--ok)}.Uncertain{color:var(--warn)}.notes{max-width:430px;color:var(--muted)}.empty{padding:32px;text-align:center;color:var(--muted)}
-    @media(max-width:1050px){.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}h1{font-size:25px}}
+    :root{
+      --bg:#f5f7fb;--surface:#ffffff;--surface2:#f8fafc;--text:#101828;--muted:#667085;
+      --border:#e4e7ec;--brand:#6558f5;--brand2:#12b5cb;--green:#067647;--green-bg:#ecfdf3;
+      --amber:#b54708;--amber-bg:#fffaeb;--blue:#175cd3;--blue-bg:#eff8ff;--pink:#c11574;
+      --shadow:0 12px 38px rgba(16,24,40,.08)
+    }
+    *{box-sizing:border-box}html{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    a{color:inherit}.shell{max-width:1540px;margin:0 auto;padding:22px 24px 64px}
+    .hero{position:relative;overflow:hidden;border-radius:22px;padding:30px 34px;background:#0b1020;color:#fff;box-shadow:var(--shadow)}
+    .hero:before,.hero:after{content:"";position:absolute;border-radius:50%;filter:blur(4px);opacity:.6}
+    .hero:before{width:340px;height:340px;right:-100px;top:-220px;background:#6558f5}
+    .hero:after{width:260px;height:260px;right:180px;bottom:-210px;background:#12b5cb}
+    .eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#9fb3ff;font-weight:700}
+    h1{position:relative;margin:4px 0 7px;font-size:34px;line-height:1.16;letter-spacing:-.035em}
+    .hero p{position:relative;margin:0;max-width:950px;color:#cbd5e1;font-size:15px}
+    .hero-links{position:relative;display:flex;gap:16px;margin-top:17px}
+    .hero-links a{color:#fff;text-decoration:none;font-weight:650}.hero-links a:hover{text-decoration:underline}
+    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:16px 0}
+    .stat{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:15px 17px}
+    .stat b{display:block;font-size:23px;letter-spacing:-.03em}.stat span{color:var(--muted);font-size:12px}
+    .panel{background:var(--surface);border:1px solid var(--border);border-radius:16px;box-shadow:0 4px 20px rgba(16,24,40,.035)}
+    .tabs{display:flex;gap:6px;padding:11px;overflow:auto;border-bottom:1px solid var(--border)}
+    .tab{border:0;background:transparent;color:var(--muted);padding:8px 12px;border-radius:9px;font:inherit;font-weight:650;white-space:nowrap;cursor:pointer}
+    .tab:hover{background:var(--surface2);color:var(--text)}.tab.active{background:#eeecff;color:#4b3ed7}
+    .controls{display:grid;grid-template-columns:minmax(270px,2fr) repeat(5,minmax(140px,1fr));gap:10px;padding:13px}
+    input,select{width:100%;min-height:40px;border:1px solid var(--border);border-radius:9px;background:var(--surface);color:var(--text);padding:8px 10px;font:inherit;outline:none}
+    input:focus,select:focus{border-color:#9288ff;box-shadow:0 0 0 3px #eeecff}
+    .summary{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:0 14px 12px;color:var(--muted)}
+    .summary strong{color:var(--text)}.hint{font-size:12px}
+    .table-wrap{overflow:auto;border-top:1px solid var(--border)}
+    table{width:100%;border-collapse:separate;border-spacing:0;min-width:1260px}
+    th{position:sticky;top:0;z-index:2;background:var(--surface2);color:#475467;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.045em;padding:10px 12px;border-bottom:1px solid var(--border);white-space:nowrap}
+    td{padding:12px;border-bottom:1px solid #eef1f5;vertical-align:top}tr:hover td{background:#fbfcff}
+    .date{white-space:nowrap;color:#475467}.company{font-weight:750;min-width:150px}.company small{display:block;margin-top:3px;font-weight:600}
+    .role{font-weight:650;color:#2e42b7;text-decoration:none}.role:hover{text-decoration:underline}
+    .salary{white-space:nowrap;font-weight:650}.location{max-width:245px}.dim{color:var(--muted)}
+    .pill{display:inline-flex;align-items:center;gap:5px;border-radius:999px;padding:3px 8px;font-size:11px;font-weight:700;white-space:nowrap}
+    .pill.big{color:#4938ca;background:#eeecff}.pill.infra{color:#026aa2;background:#e9f6fb}.pill.quant{color:#9e165f;background:#fdf2fa}
+    .pill.value{color:#b54708;background:#fff4e8}.pill.bd{color:#344054;background:#f2f4f7}
+    .pill.ok{color:var(--green);background:var(--green-bg)}.pill.review{color:var(--amber);background:var(--amber-bg)}
+    .pill.official{color:var(--blue);background:var(--blue-bg)}.source{margin-top:5px;font-size:11px;color:var(--muted)}
+    .load{display:block;margin:16px auto;border:1px solid var(--border);background:var(--surface);border-radius:9px;padding:9px 18px;font-weight:650;cursor:pointer}
+    .load:hover{border-color:#9b8fff}.empty{text-align:center;padding:42px;color:var(--muted)}
+    .foot{margin-top:14px;color:var(--muted);font-size:12px}.foot b{color:#475467}
+    @media(max-width:1100px){.stats{grid-template-columns:1fr 1fr}.controls{grid-template-columns:1fr 1fr}.controls .search{grid-column:1/-1}}
+    @media(max-width:650px){.shell{padding:12px}.hero{padding:24px 20px;border-radius:16px}h1{font-size:27px}.stats{gap:8px}.stat{padding:12px}.controls{grid-template-columns:1fr}.controls .search{grid-column:auto}.hint{display:none}}
   </style>
 </head>
 <body>
-<main>
-  <h1>Yuhan's 2027 North America New Grad Jobs</h1>
-  <div class="sub">Newest posting/first-discovery date first. Within the same date, confirmed or likely new-grad roles come before ambiguous roles; PhD-only and lower-known-pay roles follow. Every job link opens in a new tab.</div>
-  <div class="policy"><b>Hard filters:</b> explicit no-sponsorship, citizenship/security-clearance, pure hardware, clearly senior titles, clear prior professional-work-experience requirements, and stated salary ranges entirely below $100k. A new-grad repository is supporting evidence, not proof; uncertain roles stay visible but move later.</div>
-  <div class="controls">
-    <input id="search" type="search" placeholder="Search company, role, location, skills, or evidence…">
-    <select id="sort"><option value="latest">Latest first</option><option value="fit">Best fit first</option><option value="salary">Highest stated salary</option></select>
-    <select id="category"><option value="">All categories</option></select>
-    <select id="ng"><option value="">All NG confidence</option><option>Confirmed</option><option>Likely</option><option>Uncertain</option></select>
-    <select id="visa"><option value="">All visa statuses</option><option value="Yes">Sponsorship stated</option><option value="Unknown">Unknown</option></select>
-    <select id="country"><option value="">All locations</option><option value="United States">United States</option><option value="Canada">Canada</option></select>
-  </div>
-  <div id="summary" class="summary">Loading jobs…</div>
-  <div class="table-wrap">
-    <table>
-      <thead><tr><th>Posted</th><th>Company</th><th>Role</th><th>Salary</th><th>Location</th><th>Category</th><th>Visa</th><th>New grad?</th><th>PhD</th><th>Notes</th></tr></thead>
-      <tbody id="rows"></tbody>
-    </table>
-  </div>
+<main class="shell">
+  <section class="hero">
+    <div class="eyebrow">2027 New Grad · North America</div>
+    <h1>Job Radar</h1>
+    <p>High-value software, ML systems, AI infrastructure and quant roles. Featured view is company-diverse by design, so one employer cannot flood the page. Active star-company roles stay visible even when they were not posted today.</p>
+    <div class="hero-links">
+      <a href="https://github.com/coconight01/2027-North-America-New-Grad-Jobs">GitHub repository ↗</a>
+      <a href="https://github.com/coconight01/2027-North-America-New-Grad-Jobs/blob/main/CHINA.md">China roles ↗</a>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="stat"><b id="activeCount">—</b><span>active roles after hard filters</span></div>
+    <div class="stat"><b id="featuredCount">—</b><span>featured-company roles</span></div>
+    <div class="stat"><b id="highPayCount">—</b><span>roles with stated max ≥ $200k</span></div>
+    <div class="stat"><b id="sponsorCount">—</b><span>roles explicitly stating sponsorship</span></div>
+  </section>
+
+  <section class="panel">
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-view="featured">⭐ Featured</button>
+      <button class="tab" data-view="bigtech">Big Tech & Frontier AI</button>
+      <button class="tab" data-view="infra">AI Infra / Systems</button>
+      <button class="tab" data-view="quant">Quant / HFT</button>
+      <button class="tab" data-view="value">Other high-value</button>
+      <button class="tab" data-view="bytedance">ByteDance / TikTok</button>
+      <button class="tab" data-view="all">All roles</button>
+    </nav>
+    <div class="controls">
+      <input class="search" id="search" type="search" placeholder="Search company, role, location, skill…">
+      <select id="company"><option value="">All companies</option></select>
+      <select id="category"><option value="">All tracks</option></select>
+      <select id="ng"><option value="">All NG confidence</option><option>Confirmed</option><option>Likely</option><option>Uncertain</option></select>
+      <select id="salary"><option value="0">Any stated salary</option><option value="100000">$100k+ max</option><option value="150000">$150k+ max</option><option value="200000">$200k+ max</option><option value="250000">$250k+ max</option></select>
+      <select id="sort"><option value="latest">Latest first</option><option value="salary">Highest stated salary</option><option value="fit">Best internal fit</option></select>
+    </div>
+    <div class="summary">
+      <div id="summary">Loading jobs…</div>
+      <div class="hint">Featured view caps each company at 3 rows. Choose a company or “All roles” to see everything.</div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Posted</th><th>Company</th><th>Role</th><th>Salary</th><th>Location</th><th>Visa</th><th>New grad?</th><th>PhD</th><th>Source</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <button class="load" id="loadMore" hidden>Show more</button>
+  </section>
+  <p class="foot"><b>Hard filters:</b> explicit no-sponsorship, U.S.-citizenship/security-clearance, pure hardware, clearly senior titles, clear prior professional-work-experience requirements, and salary ranges entirely below $100k. Salary/visa extraction is best-effort; verify the employer page before applying.</p>
 </main>
+
 <script>
-const DATA_URL='https://raw.githubusercontent.com/coconight01/2027-North-America-New-Grad-Jobs/main/data/jobs.json';
-let jobs=[];
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const number=v=>{const n=Number(v);return Number.isFinite(n)?n:0};
-const posted=j=>j.posted_date||j.date_added||'0000-00-00';
-const phdOnly=j=>String(j.phd_required||'').toLowerCase()==='yes';
-const knownLowPay=j=>number(j.salary_max_annual)>0&&number(j.salary_max_annual)<200000;
+const DATA_URL="https://raw.githubusercontent.com/coconight01/2027-North-America-New-Grad-Jobs/main/data/jobs.json";
+const GROUPS={
+  bigtech:["Google","Meta","Amazon","Apple","Microsoft","Netflix","NVIDIA","Waymo","OpenAI","Anthropic","xAI"],
+  infra:["Databricks","Snowflake","CoreWeave","Crusoe","Baseten","Anyscale","Modal","Cerebras","Together AI","Fireworks AI","Scale AI","Perplexity","Cursor","Lambda","Groq","SambaNova","RadixArk","Inferact","Etched"],
+  quant:["Jane Street","Hudson River Trading","Citadel","Citadel Securities","Optiver","Five Rings","IMC Trading","Jump Trading","DRW","D. E. Shaw","Two Sigma","Akuna Capital","SIG"],
+  value:["Stripe","Palantir","Cloudflare","Figma","Discord","Roblox","Uber","Airbnb","LinkedIn","Pinterest","Snap","Reddit","Coinbase","Robinhood"]
+};
+const BD=["ByteDance","TikTok","TikTok USDS JV"];
+let jobs=[],view="featured",visibleLimit=80;
+
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const num=v=>{const n=Number(String(v??"").replace(/,/g,""));return Number.isFinite(n)?n:0};
+const norm=s=>String(s||"").toLowerCase().replace(/&/g," and ").replace(/\b(incorporated|inc|llc|ltd|corp|corporation)\b/g," ").replace(/[^a-z0-9+#]+/g," ").trim().replace(/\s+/g," ");
+const inList=(company,list)=>list.some(x=>norm(x)===norm(company));
+function groupOf(company){
+  if(inList(company,BD))return "bytedance";
+  for(const key of ["bigtech","infra","quant","value"])if(inList(company,GROUPS[key]))return key;
+  return "other";
+}
+const isFeatured=j=>["bigtech","infra","quant","value"].includes(groupOf(j.company));
+const posted=j=>j.posted_date||j.date_added||"0000-00-00";
 const ngRank=j=>({Confirmed:0,Likely:1,Uncertain:2}[j.ng_confidence]??2);
-const ngLabel=j=>j.ng_confidence==='Confirmed'?'✅ Confirmed':j.ng_confidence==='Likely'?'◐ Likely':'❔ Review';
-const visaIcon=v=>v==='Yes'?'✅':'❔';
-function countryOf(j){const s=((j.country||'')+' '+(j.location||'')).toLowerCase();return s.includes('canada')||/(ontario|quebec|british columbia|alberta|toronto|vancouver|montreal|waterloo)/.test(s)?'Canada':'United States'}
-function latestCompare(a,b){
-  const byDate=posted(b).localeCompare(posted(a));if(byDate)return byDate;
-  const byNg=ngRank(a)-ngRank(b);if(byNg)return byNg;
-  const byPhd=Number(phdOnly(a))-Number(phdOnly(b));if(byPhd)return byPhd;
-  const byLowPay=Number(knownLowPay(a))-Number(knownLowPay(b));if(byLowPay)return byLowPay;
-  const byFit=number(b.personalized_score)-number(a.personalized_score);if(byFit)return byFit;
-  const bySalary=number(b.salary_max_annual)-number(a.salary_max_annual);if(bySalary)return bySalary;
-  return String(a.company||'').localeCompare(String(b.company||''));
+const phd=j=>String(j.phd_required||"").toLowerCase()==="yes";
+const salaryMax=j=>num(j.salary_max_annual);
+const lowKnownPay=j=>salaryMax(j)>0&&salaryMax(j)<200000;
+function latestCompare(a,b){return posted(b).localeCompare(posted(a))||ngRank(a)-ngRank(b)||Number(phd(a))-Number(phd(b))||Number(lowKnownPay(a))-Number(lowKnownPay(b))||num(b.personalized_score)-num(a.personalized_score)||salaryMax(b)-salaryMax(a)||String(a.company).localeCompare(String(b.company))}
+const fitCompare=(a,b)=>num(b.personalized_score)-num(a.personalized_score)||latestCompare(a,b);
+const salaryCompare=(a,b)=>salaryMax(b)-salaryMax(a)||latestCompare(a,b);
+function groupLabel(key){return {bigtech:"Big Tech & Frontier AI",infra:"AI Infra / Systems",quant:"Quant / HFT",value:"High-value tech",bytedance:"ByteDance / TikTok",other:"Other"}[key]}
+function groupClass(key){return {bigtech:"big",infra:"infra",quant:"quant",value:"value",bytedance:"bd",other:"bd"}[key]}
+function ngLabel(j){return j.ng_confidence==="Confirmed"?"✅ Confirmed":j.ng_confidence==="Likely"?"◐ Likely":"❔ Review"}
+function isOfficial(j){
+  const s=String(j.source||"").toLowerCase(),u=String(j.url||"").toLowerCase();
+  return s.startsWith("official:")||(!/jobright\.ai|linkedin\.com|ziprecruiter|jobrapido|simplify\.jobs/.test(u)&&!/github:/.test(s));
 }
-function fitCompare(a,b){return number(b.personalized_score)-number(a.personalized_score)||latestCompare(a,b)}
-function salaryCompare(a,b){return number(b.salary_max_annual)-number(a.salary_max_annual)||latestCompare(a,b)}
-function render(){
-  const q=document.querySelector('#search').value.trim().toLowerCase();
-  const sort=document.querySelector('#sort').value,cat=document.querySelector('#category').value,ng=document.querySelector('#ng').value,visa=document.querySelector('#visa').value,country=document.querySelector('#country').value;
-  const open=jobs.filter(j=>j.status==='Open');
-  const filtered=open.filter(j=>!cat||j.category===cat).filter(j=>!ng||(j.ng_confidence||'Uncertain')===ng).filter(j=>!visa||(j.sponsorship||'Unknown')===visa).filter(j=>!country||countryOf(j)===country).filter(j=>!q||[j.company,j.role,j.location,j.skills,j.category,j.ng_evidence,j.experience_requirement,j.personalized_reason].join(' ').toLowerCase().includes(q));
-  filtered.sort(sort==='fit'?fitCompare:sort==='salary'?salaryCompare:latestCompare);
-  const confirmed=filtered.filter(j=>j.ng_confidence==='Confirmed').length,likely=filtered.filter(j=>j.ng_confidence==='Likely').length,review=filtered.filter(j=>!['Confirmed','Likely'].includes(j.ng_confidence)).length;
-  document.querySelector('#summary').textContent=`Showing ${filtered.length} of ${open.length} open roles · ${confirmed} confirmed · ${likely} likely · ${review} review · ATS publication date when available, otherwise first discovery`;
-  const tbody=document.querySelector('#rows');
-  tbody.innerHTML=filtered.length?filtered.map(j=>{
-    const notes=[j.ng_evidence,j.experience_requirement,j.personalized_reason].filter(Boolean).join(' · ');
-    return `<tr><td>${esc(posted(j))}</td><td class="company">${esc(j.company)}</td><td><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.role)}</a></td><td class="salary">${esc(j.salary||'Not listed')}</td><td>${esc(j.location)}</td><td>${esc(j.category)}</td><td class="visa" title="${esc(j.sponsorship||'Unknown')}">${visaIcon(j.sponsorship)}</td><td class="ng ${esc(j.ng_confidence||'Uncertain')}">${ngLabel(j)}</td><td>${phdOnly(j)?'⚠️ Required':'—'}</td><td class="notes">${esc(notes||'—')}</td></tr>`;
-  }).join(''):`<tr><td colspan="10" class="empty">No matching jobs.</td></tr>`;
+function diverse(rows,cap){
+  const counts={};return rows.filter(j=>{const k=norm(j.company);if((counts[k]||0)>=cap)return false;counts[k]=(counts[k]||0)+1;return true});
 }
-fetch(DATA_URL,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(data=>{
-  jobs=data.filter(j=>j.citizenship_required!=='Yes'&&j.sponsorship!=='No'&&j.ng_confidence!=='Not NG');
+function populateFilters(){
+  const companies=[...new Set(jobs.map(j=>j.company).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+  document.querySelector("#company").innerHTML='<option value="">All companies</option>'+companies.map(x=>'<option>'+esc(x)+'</option>').join("");
   const cats=[...new Set(jobs.map(j=>j.category).filter(Boolean))].sort();
-  document.querySelector('#category').innerHTML+=cats.map(x=>`<option>${esc(x)}</option>`).join('');render();
-}).catch(e=>{document.querySelector('#summary').textContent=`Could not load job data: ${e.message}`;document.querySelector('#rows').innerHTML='<tr><td colspan="10" class="empty">Please refresh shortly.</td></tr>'});
-for(const id of ['search','sort','category','ng','visa','country'])document.querySelector('#'+id).addEventListener(id==='search'?'input':'change',render);
+  document.querySelector("#category").innerHTML='<option value="">All tracks</option>'+cats.map(x=>'<option>'+esc(x)+'</option>').join("");
+}
+function updateStats(){
+  const open=jobs.filter(j=>j.status==="Open");
+  document.querySelector("#activeCount").textContent=open.length.toLocaleString();
+  document.querySelector("#featuredCount").textContent=open.filter(isFeatured).length.toLocaleString();
+  document.querySelector("#highPayCount").textContent=open.filter(j=>salaryMax(j)>=200000).length.toLocaleString();
+  document.querySelector("#sponsorCount").textContent=open.filter(j=>j.sponsorship==="Yes").length.toLocaleString();
+}
+function render(){
+  const q=document.querySelector("#search").value.trim().toLowerCase();
+  const company=document.querySelector("#company").value,cat=document.querySelector("#category").value,ng=document.querySelector("#ng").value;
+  const minSalary=num(document.querySelector("#salary").value),sort=document.querySelector("#sort").value;
+  let rows=jobs.filter(j=>j.status==="Open"&&j.citizenship_required!=="Yes"&&j.sponsorship!=="No"&&j.ng_confidence!=="Not NG");
+  if(view==="featured")rows=rows.filter(isFeatured);
+  else if(view!=="all")rows=rows.filter(j=>groupOf(j.company)===view);
+  if(company)rows=rows.filter(j=>j.company===company);
+  if(cat)rows=rows.filter(j=>j.category===cat);
+  if(ng)rows=rows.filter(j=>(j.ng_confidence||"Uncertain")===ng);
+  if(minSalary)rows=rows.filter(j=>salaryMax(j)>=minSalary);
+  if(q)rows=rows.filter(j=>[j.company,j.role,j.location,j.skills,j.category,j.ng_evidence,j.personalized_reason].join(" ").toLowerCase().includes(q));
+  rows.sort(sort==="salary"?salaryCompare:sort==="fit"?fitCompare:latestCompare);
+  const totalBeforeDiversity=rows.length;
+  if(view==="featured"&&!company)rows=diverse(rows,3);
+  const total=rows.length,shown=rows.slice(0,visibleLimit);
+  const diversityNote=view==="featured"&&!company&&totalBeforeDiversity!==total?" · "+totalBeforeDiversity+" matching before company-diversity cap":"";
+  document.querySelector("#summary").innerHTML="<strong>"+total.toLocaleString()+"</strong> shown in this view"+diversityNote;
+  document.querySelector("#loadMore").hidden=total<=visibleLimit;
+  document.querySelector("#rows").innerHTML=shown.length?shown.map(j=>{
+    const g=groupOf(j.company),official=isOfficial(j);
+    return '<tr>'+
+      '<td class="date">'+esc(posted(j))+'</td>'+
+      '<td class="company">'+esc(j.company)+'<small><span class="pill '+groupClass(g)+'">'+esc(groupLabel(g))+'</span></small></td>'+
+      '<td><a class="role" href="'+esc(j.url)+'" target="_blank" rel="noopener noreferrer">'+esc(j.role)+'</a><div class="source">'+esc(j.category||"")+'</div></td>'+
+      '<td class="salary">'+esc(j.salary||"Not listed")+'</td>'+
+      '<td class="location">'+esc(j.location||"Unknown")+'</td>'+
+      '<td>'+(j.sponsorship==="Yes"?'<span class="pill ok">✅ stated</span>':'<span class="pill review">❔ unknown</span>')+'</td>'+
+      '<td><span class="pill '+(j.ng_confidence==="Confirmed"?"ok":"review")+'">'+esc(ngLabel(j))+'</span></td>'+
+      '<td>'+(phd(j)?'<span class="pill review">PhD only</span>':'<span class="dim">—</span>')+'</td>'+
+      '<td>'+(official?'<span class="pill official">Official/ATS</span>':'<span class="dim">'+esc(j.source||"Discovery feed")+'</span>')+'</td>'+
+    '</tr>';
+  }).join(""):'<tr><td colspan="9" class="empty">No matching active roles.</td></tr>';
+}
+fetch(DATA_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json()}).then(data=>{
+  jobs=data;populateFilters();updateStats();render();
+}).catch(e=>{
+  document.querySelector("#summary").textContent="Could not load job data: "+e.message;
+  document.querySelector("#rows").innerHTML='<tr><td colspan="9" class="empty">Please refresh shortly.</td></tr>';
+});
+document.querySelector("#tabs").addEventListener("click",e=>{
+  const btn=e.target.closest(".tab");if(!btn)return;view=btn.dataset.view;visibleLimit=80;
+  document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("active",x===btn));render();
+});
+for(const id of ["search","company","category","ng","salary","sort"]){
+  document.querySelector("#"+id).addEventListener(id==="search"?"input":"change",()=>{visibleLimit=80;render()});
+}
+document.querySelector("#loadMore").addEventListener("click",()=>{visibleLimit+=80;render()});
 </script>
 </body>
 </html>
