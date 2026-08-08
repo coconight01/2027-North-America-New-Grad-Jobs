@@ -26,6 +26,7 @@ OFFICIAL_SIGNAL = re.compile(
 )
 AMAZON_JOB = re.compile(r"/en/jobs/\d+/", re.I)
 APPLE_JOB = re.compile(r"/en-us/details/[^/]+/", re.I)
+GOOGLE_JOB = re.compile(r"/about/careers/applications/jobs/results/\d+", re.I)
 
 
 def card_for(anchor):
@@ -68,6 +69,13 @@ def apple_location(text: str, fallback: str) -> str:
         re.I,
     )
     return match.group(1).strip(" -–—|") if match else fallback
+
+
+def google_location(text: str, fallback: str) -> str:
+    match = re.search(
+        r"([A-Za-z .\'-]+,\s*(?:[A-Z]{2}|ON|QC|BC),\s*(?:USA|Canada))", text
+    )
+    return match.group(1).strip() if match else fallback
 
 
 def fetch_html(url: str, params: dict | None = None) -> BeautifulSoup:
@@ -160,6 +168,42 @@ def discover_apple() -> list[dict]:
     return rows
 
 
+def discover_google() -> list[dict]:
+    rows: list[dict] = []
+    seen: set[str] = set()
+    searches = [
+        ("software engineer early career campus", "United States"),
+        ("machine learning early career", "United States"),
+        ("AI infrastructure early career", "United States"),
+        ("software developer early career campus", "Canada"),
+    ]
+    for query, location in searches:
+        soup = fetch_html(
+            "https://www.google.com/about/careers/applications/jobs/results/",
+            {"q": query, "location": location},
+        )
+        for anchor in soup.find_all("a", href=True):
+            href = anchor.get("href", "")
+            if not GOOGLE_JOB.search(href):
+                continue
+            url = urljoin("https://www.google.com", href)
+            if url in seen:
+                continue
+            card = card_for(anchor)
+            text = card.get_text(" ", strip=True)
+            title = title_for(anchor, card)
+            if not (OFFICIAL_SIGNAL.search(title) or OFFICIAL_SIGNAL.search(text)):
+                continue
+            seen.add(url)
+            item = job(
+                "Google", title, google_location(text, location), url,
+                "Official:Google Careers", text,
+            )
+            item["match"] = "Official big-tech early-career search"
+            rows.append(item)
+    return rows
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
@@ -167,7 +211,7 @@ def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
     discovered: list[dict] = []
-    for name, function in [("Amazon", discover_amazon), ("Apple", discover_apple)]:
+    for name, function in [("Google", discover_google), ("Amazon", discover_amazon), ("Apple", discover_apple)]:
         try:
             rows = function()
             LOG.info("official %s: %d", name, len(rows))
