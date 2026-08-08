@@ -37,16 +37,19 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Validate collector syntax
-        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py scripts/bigtech_discovery.py scripts/order_jobs.py scripts/china_discovery.py
+        run: python -m py_compile scripts/update_jobs.py scripts/extra_discovery.py scripts/bigtech_discovery.py scripts/final_guard.py scripts/order_jobs.py scripts/china_discovery.py
 
       - name: Discover and enrich jobs
         run: python scripts/update_jobs.py --workers 6 --max-detail-pages 300
 
-      - name: Discover official Amazon and Apple roles
+      - name: Discover official big-tech roles
         run: python scripts/bigtech_discovery.py
 
       - name: Discover from expanded GitHub lists
         run: python scripts/extra_discovery.py --workers 6 --max-detail-pages 250 --skip-google
+
+      - name: Remove internships fellowships and special programs
+        run: python scripts/final_guard.py
 
       - name: Qualify new-grad roles and apply date-first order
         run: python scripts/order_jobs.py
@@ -57,7 +60,7 @@ jobs:
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "4189823+github-actions[bot]@users.noreply.github.com"
           git add -A -- README.md CHINA.md data
           if git diff --cached --quiet; then
             echo "No changes."
