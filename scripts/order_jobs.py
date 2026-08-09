@@ -50,6 +50,44 @@ OBVIOUS_SENIOR_TITLE = re.compile(
     r"head|vice president|v\.?p\.?|chief|architect|distinguished|fellow)\b",
     re.I,
 )
+NON_NG_LEVEL_TITLE = re.compile(
+    r"\b(?:manager|engineering manager|software development manager|"
+    r"sde\s*(?:ii|2)\b|software dev(?:elopment)? engineer\s*(?:ii|2)\b|"
+    r"(?:software|front[- ]?end|back[- ]?end|machine learning|data|systems?)?\s*"
+    r"engineer\s*(?:ii|2)\b|level\s*[5-9]\b|l[5-9]\b)\b",
+    re.I,
+)
+ENTRY_TITLE_SIGNAL = re.compile(
+    r"\b(?:new grad(?:uate)?|new college grad|university grad(?:uate)?|"
+    r"early career|entry[- ]level|junior|jr\.?|associate|graduate|"
+    r"software engineer i\b|engineer i\b)\b",
+    re.I,
+)
+NON_FTE_TITLE = re.compile(
+    r"\b(?:student researcher|research student|student worker|visiting researcher|"
+    r"intern(?:ship)?|co[- ]?op|fellowship|skillbridge|apprentice(?:ship)?|"
+    r"returnship|externship|part[- ]?time|contract(?:or|ing)?)\b",
+    re.I,
+)
+NON_TECH_TITLE = re.compile(
+    r"\b(?:workplace health(?: and safety)?|health and safety specialist|"
+    r"safety specialist|occupational health|account executive|recruiter|"
+    r"marketing manager|sales manager|legal counsel)\b",
+    re.I,
+)
+HARDWARE_ALWAYS = re.compile(
+    r"\b(?:asic|rtl|fpga|physical design|static timing analysis|"
+    r"design verification|hardware validation|silicon validation|"
+    r"electrical engineer|mechanical engineer|circuit design|analog design|"
+    r"mixed[- ]signal|pcb|board design)\b",
+    re.I,
+)
+LOW_CONF_SINGLE_SALARY = re.compile(
+    r"^\s*(?:\$|USD\s*)?\s*\d{2,7}(?:,\d{3})*(?:\.\d+)?\s*[kK]?\s*"
+    r"(?:/yr|/year|per year|annually)?\s*$",
+    re.I,
+)
+
 PURE_HARDWARE = re.compile(
     r"\b(electrical|mechanical|manufacturing|asic|rtl|fpga|physical design|"
     r"silicon design|circuit|analog|mixed[- ]signal|pcb|board design|"
@@ -127,7 +165,7 @@ SALARY_RANGE = re.compile(
 JOBRIGHT_MINISITE_URL = "https://jobright.ai/swan/mini-sites/list"
 JOBRIGHT_CATEGORIES = ("newgrad:us:swe",)
 JOBRIGHT_JOB_ID = re.compile(r"jobright\.ai/jobs/info/([a-z0-9]+)", re.I)
-JOBRIGHT_PARSER_VERSION = 3
+JOBRIGHT_PARSER_VERSION = 4
 
 
 def clean_text(value: str) -> str:
@@ -337,6 +375,16 @@ def assess(row: dict, text: str) -> dict:
         "salary_max_annual": row.get("salary_max_annual", ""),
         "reject_reason": "",
     }
+    if match := NON_FTE_TITLE.search(role):
+        result["ng_confidence"] = "Not NG"
+        result["ng_evidence"] = f"non-full-time/student-program title: {match.group(0)}"
+        result["reject_reason"] = result["ng_evidence"]
+        return result
+    if match := NON_TECH_TITLE.search(role):
+        result["ng_confidence"] = "Not NG"
+        result["ng_evidence"] = f"outside target technical roles: {match.group(0)}"
+        result["reject_reason"] = result["ng_evidence"]
+        return result
     if match := CITIZEN.search(combined):
         result["citizenship_required"] = "Yes"
         result["visa_evidence"] = match.group(0)[:180]
@@ -346,12 +394,24 @@ def assess(row: dict, text: str) -> dict:
     elif result["sponsorship"] not in {"Yes", "No"} and (match := YES_SPONSOR.search(combined)):
         result["sponsorship"] = "Yes"
         result["visa_evidence"] = match.group(0)[:180]
-    if result["salary"] in {"", "Unknown", "Not listed", None}:
-        raw, low, high = salary_from_text(text)
-        if raw:
-            result["salary"] = raw
-            result["salary_min_annual"] = low
-            result["salary_max_annual"] = high
+    salary_value = str(result.get("salary") or "").strip()
+    low_conf_domain = any(
+        domain in str(row.get("url") or "").casefold()
+        for domain in ("amazon.jobs/", "google.com/about/careers/", "metacareers.com/")
+    )
+    low_conf_single = bool(LOW_CONF_SINGLE_SALARY.fullmatch(salary_value))
+    raw, low, high = salary_from_text(text)
+    if raw and (salary_value in {"", "Unknown", "Not listed"} or (low_conf_domain and low_conf_single)):
+        result["salary"] = raw
+        result["salary_min_annual"] = low
+        result["salary_max_annual"] = high
+    elif low_conf_domain and low_conf_single:
+        # A single repeated number from an aggregator/search shell is not a
+        # trustworthy role-specific range. Keep salary unknown until the
+        # employer page exposes a range for this exact requisition.
+        result["salary"] = "Not listed"
+        result["salary_min_annual"] = ""
+        result["salary_max_annual"] = ""
     result["phd_required"] = "Yes" if PHD_REQUIRED.search(combined) else (
         "No" if result["phd_required"] in {"", "Unknown", None} else result["phd_required"]
     )
@@ -361,12 +421,19 @@ def assess(row: dict, text: str) -> dict:
     if result["sponsorship"] == "No":
         result["reject_reason"] = "no sponsorship"
         return result
-    if PURE_HARDWARE.search(role) and not SOFTWARE_RESCUE.search(role):
+    if HARDWARE_ALWAYS.search(role) or (
+        PURE_HARDWARE.search(role) and not SOFTWARE_RESCUE.search(role)
+    ):
         result["reject_reason"] = "pure hardware role"
         return result
     if match := OBVIOUS_SENIOR_TITLE.search(role):
         result["ng_confidence"] = "Not NG"
         result["ng_evidence"] = f"senior-level title: {match.group(0)}"
+        result["reject_reason"] = result["ng_evidence"]
+        return result
+    if match := NON_NG_LEVEL_TITLE.search(role):
+        result["ng_confidence"] = "Not NG"
+        result["ng_evidence"] = f"non-entry title/level: {match.group(0)}"
         result["reject_reason"] = result["ng_evidence"]
         return result
     years, evidence, explicit_work = experience_evidence(combined)
@@ -387,12 +454,19 @@ def assess(row: dict, text: str) -> dict:
     elif match := NG_BODY.search(text):
         result["ng_confidence"] = "Confirmed"
         result["ng_evidence"] = f"posting says {match.group(0)[:100]}"
-    elif TRUSTED_NG_SOURCE.search(source) and YEAR_2027.search(combined):
+    elif (
+        TRUSTED_NG_SOURCE.search(source)
+        and ENTRY_TITLE_SIGNAL.search(role)
+        and YEAR_2027.search(combined)
+    ):
         result["ng_confidence"] = "Likely"
-        result["ng_evidence"] = "new-grad repository plus 2027-cycle evidence"
+        result["ng_evidence"] = "entry-level title plus new-grad source and 2027-cycle evidence"
+    elif TRUSTED_NG_SOURCE.search(source) and ENTRY_TITLE_SIGNAL.search(role):
+        result["ng_confidence"] = "Likely"
+        result["ng_evidence"] = "entry-level title in a new-grad source; employer wording unavailable"
     elif TRUSTED_NG_SOURCE.search(source):
-        result["ng_confidence"] = "Likely"
-        result["ng_evidence"] = "listed in a new-grad repository; employer wording is less explicit"
+        result["ng_confidence"] = "Uncertain"
+        result["ng_evidence"] = "third-party new-grad-list presence only; employer eligibility not verified"
     elif YEAR_2027.search(combined):
         result["ng_confidence"] = "Uncertain"
         result["ng_evidence"] = "2027 reference found, but new-grad eligibility is not explicit"
