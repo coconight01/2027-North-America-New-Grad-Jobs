@@ -733,7 +733,7 @@ def save(rows: list[dict], fields: list[str], date_cache: dict, qualification_ca
             parts += ["", f"_Showing 12 of {len(bytedance_rows)} active roles. Use the Job Radar for all roles._"]
         parts += ["", "</details>", ""]
 
-    parts += ["## All roles", "", f"The repository currently keeps **{len(open_rows)} active roles**. Featured groups account for **{featured_count}** of them. Browse the full searchable list in the **[Job Radar]({PAGES_URL})**, or use data/jobs.csv / data/jobs.json.", "", "## New-grad semantics", "", "- **Confirmed:** employer title/description explicitly says new grad, graduate, early career, entry level, or equivalent.", "- **Likely:** appears in a trusted new-grad repository without conflicting seniority/work-experience evidence.", "- **Review:** only weak evidence such as a 2027 reference; retained but ranked later.", "- Years of programming/coding/coursework/research experience are not treated as years of professional employment.", "", "## Date semantics", "", "- posted_date: ATS creation/publication date when available.", "- Otherwise it falls back to this repository\'s first-discovery date_added.", "- ATS update timestamps are not presented as original publication dates.", "", "Listings can close or change without notice. Verify all details before applying."]
+    parts += ["## All roles", "", f"The repository currently keeps **{len(open_rows)} active roles**. Featured groups account for **{featured_count}** of them. Browse the full searchable list in the **[Job Radar]({PAGES_URL})**, or use data/jobs.csv / data/jobs.json.", "", "## New-grad semantics", "", "- **Confirmed:** employer title/description explicitly says new grad, graduate, early career, entry level, or equivalent.", "- **Likely:** has an entry-level title plus trusted new-grad-source evidence, without conflicting seniority/work-experience evidence.", "- **Review:** only weak evidence such as a 2027 reference; retained but ranked later.", "- Years of programming/coding/coursework/research experience are not treated as years of professional employment.", "", "## Date semantics", "", "- posted_date: ATS creation/publication date when available.", "- Otherwise it falls back to this repository\'s first-discovery date_added.", "- ATS update timestamps are not presented as original publication dates.", "", "Listings can close or change without notice. Verify all details before applying."]
     (ROOT / "README.md").write_text("\n".join(parts) + "\n", encoding="utf-8")
 
 
@@ -760,14 +760,14 @@ def main() -> None:
                 qualification_cache[url] = assessment
             continue
         cached = qualification_cache.get(url, {}) if url else {}
-        stale_jobright_record = (
-            bool(JOBRIGHT_JOB_ID.search(url or ""))
-            and (
-                integer(cached.get("parser_version")) < JOBRIGHT_PARSER_VERSION
-                or cached.get("source_fetched") is not True
-            )
+        stale_assessment = bool(cached) and (
+            integer(cached.get("parser_version")) < JOBRIGHT_PARSER_VERSION
         )
-        if stale_jobright_record:
+        unfetched_jobright_record = (
+            bool(JOBRIGHT_JOB_ID.search(url or ""))
+            and cached.get("source_fetched") is not True
+        )
+        if stale_assessment or unfetched_jobright_record:
             pending[index] = row
         elif cached and cache_is_fresh(cached):
             apply_assessment(row, cached)
