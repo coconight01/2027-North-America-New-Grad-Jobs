@@ -1,4 +1,30 @@
 # Optional manually curated jobs.
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
-jobs: []
+jobs:
+  - company: Google
+    role: Software Engineer, Early Career, Campus
+    category: Software Engineering
+    location: Mountain View, CA; Cambridge, MA; Kirkland, WA; Los Angeles, CA; New York, NY; Pittsburgh, PA; San Bruno, CA; Seattle, WA; San Jose, CA; Sunnyvale, CA
+    country: United States
+    graduation: "2027"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: "$123000 - $174000 annually"
+    salary_min_annual: 123000
+    salary_max_annual: 174000
+    phd_required: "No"
+    personalized_score: 95
+    priority: Top
+    personalized_reason: "Official Early Career Campus role; distributed/parallel systems, ML, Linux, networking, and large software systems match"
+    skills: "Python, C++, Linux, Machine Learning, Distributed Systems, Algorithms, Networking"
+    url: https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus
+    source: "Manual official verification: Google Careers"
+    date_added: "2026-08-09"
+    last_verified: "2026-08-09"
+    status: Open
+    match: "Official Early Career Campus; exact start year not stated, manually reviewed for May 2027 eligibility"
+    description: "Official Early Career Campus role. Application window open until at least August 30, 2026 and may close earlier. Minimum qualifications accept coursework, projects, research, internships, and open-source experience. Preferred qualifications include Unix/Linux, distributed and parallel systems, machine learning, networking, and large software systems. Exact start year is not stated on the official posting."
