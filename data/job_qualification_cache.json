@@ -8141,8 +8141,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a701a48160eda5948e8d498": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -8152,7 +8152,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "256000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
@@ -17826,6 +17826,22 @@
     "parser_version": 4
   },
   "https://www.amazon.jobs/jobs/10464040/apply": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-09",
+    "parser_version": 4
+  },
+  "https://www.amazon.jobs/jobs/10464043/apply": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Engineer I",
     "experience_requirement": "",

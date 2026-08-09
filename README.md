@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-09** · Open roles: **964**
+> Last automated update: **2026-08-09** · Open roles: **963**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,7 +22,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 16 |
-| **ByteDance / TikTok** (separate) | 207 |
+| **ByteDance / TikTok** (separate) | 206 |
 | Other companies | 633 |
 
 ### Big Tech & Frontier AI
@@ -30,7 +30,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-05 | **Amazon** | [Front End Engineer - AWS APO Engineering](https://www.amazon.jobs/jobs/10492337/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-08-01 | **Amazon** | [Front-End Engineer - AWS Holmes - AWS Holmes](https://www.amazon.jobs/jobs/10465232/apply) | Not listed | Houston, TX | ❔ | ❔ Review | — |
+| 2026-08-01 | **Amazon** | [Frontend Engineer - AI Business Automation - Prime Video](https://www.amazon.jobs/jobs/10453265/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
 | 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ❔ Review | — |
@@ -86,7 +86,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>207 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>206 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -103,13 +103,13 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-07 | **TikTok** | [Software Development Engineer Graduate (TikTok - Testing - Growth) - 2027 Start](https://jobright.ai/jobs/info/6a754ce537da8525e8cdcefe) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Machine Learning System Scheduling Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a5d4817aa4307044d27) | Not listed | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 207 active roles. Use the Job Radar for all roles._
+_Showing 12 of 206 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **964 active roles**. Featured groups account for **124** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **963 active roles**. Featured groups account for **124** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
