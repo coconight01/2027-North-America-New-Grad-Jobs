@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-09** · Open roles: **967**
+> Last automated update: **2026-08-09** · Open roles: **965**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,21 +18,22 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 59 |
+| **Big Tech & Frontier AI** | 60 |
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 16 |
-| **ByteDance / TikTok** (separate) | 210 |
-| Other companies | 634 |
+| **ByteDance / TikTok** (separate) | 208 |
+| Other companies | 633 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-05 | **Amazon** | [Front End Engineer - AWS APO Engineering](https://www.amazon.jobs/jobs/10492337/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-08-01 | **Amazon** | [Front-End Engineer - AWS Holmes - AWS Holmes](https://www.amazon.jobs/jobs/10465232/apply) | Not listed | Houston, TX | ❔ | ❔ Review | — |
+| 2026-08-01 | **Amazon** | [Frontend Engineer - AI Business Automation - Prime Video](https://www.amazon.jobs/jobs/10453265/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
+| 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
@@ -65,8 +66,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Software Engineer (C++ or Python) – 2027 Grads](https://jobright.ai/jobs/info/6a5505cf377f983ce8a973cf) | $300K/yr - $300K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Akuna Capital** | [Akuna Capital’s 2026 Virtual Quant Trading Challenge](https://www.akunacapital.com/careers/job/7993921?gh_jid=7993921) | $191k/yr | Remote - Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Akuna Capital** | [Software Engineer - Entry-Level - C++](https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085) | $191k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Akuna Capital** | [Software Engineer - Entry-Level - Python](https://www.akunacapital.com/careers/job/8013230?gh_jid=8013230) | $191k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
 
 ### Other high-value tech
@@ -85,30 +86,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>210 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>208 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-09 | **ByteDance** | [Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start](https://us.jobrapido.com/jobpreview/3634252185283330048) | $121600 - $243200 annually | United States | ❔ | ✅ Confirmed | — |
 | 2026-08-09 | **TikTok** | [Global Content Ecosystem Policy Operation Graduate (TikTok-Product-Content Ecosystem) - 2027 Start](https://tsenta.com/jobs/tiktok-global-content-ecosystem-policy-operation-graduate-64b993f8-d9c3-41c3-bab8-bcff20f813d5) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-08-09 | **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-graduate-aml-ark-us-2027-start-at-bytedance-4448785094) | $200,000.00–$350,000.00 | San Jose, CA | ❔ | ❔ Review | — |
-| 2026-08-09 | **TikTok** | [Graduate ML Engineer – Search & Personalization](https://www.jobleads.com/us/job/graduate-ml-engineer-search-personalization--seattle--ebe4bf9f36764df9a609faf5def5c786f) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-08 | **ByteDance** | [Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start](https://jobright.ai/jobs/info/6a765f2c4817aa43070481e7) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a626b9def3e9e1f8837) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a58bb6ca93ae560f07f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start](https://jobright.ai/jobs/info/6a759a5ebb6ca93ae560f081) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-07 | **ByteDance** | [Research Scientist Graduate (ML Recommendation Systems) - 2027 Start](https://jobright.ai/jobs/info/6a759a547b3417772ade4bb9) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start](https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **ByteDance** | [Research Scientist Graduate (ML Recommendation Systems) - 2027 Start](https://jobright.ai/jobs/info/6a759a547b3417772ade4bb9) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **ByteDance** | [LLM/AI Ops Development Engineer Graduate (Data Center Networking) - 2027 Start](https://jobright.ai/jobs/info/6a750db3bb6ca93ae560d813) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **TikTok** | [Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start](https://jobright.ai/jobs/info/6a750bb0972ac843c6998b1d) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start](https://jobright.ai/jobs/info/6a750bbe972ac843c6998b2f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-07 | **TikTok** | [Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start](https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 210 active roles. Use the Job Radar for all roles._
+_Showing 12 of 208 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **967 active roles**. Featured groups account for **123** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **965 active roles**. Featured groups account for **124** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
