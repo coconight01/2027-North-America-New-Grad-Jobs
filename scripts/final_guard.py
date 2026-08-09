@@ -17,7 +17,8 @@ DATA = ROOT / "data"
 
 # These are not ordinary permanent new-grad full-time roles for this tracker.
 NON_FTE_PROGRAM = re.compile(
-    r"\b(?:intern(?:ship)?|co[- ]?op|apprentice(?:ship)?|fellowship|skillbridge|"
+    r"\b(?:student researcher|research student|student worker|visiting researcher|"
+    r"intern(?:ship)?|co[- ]?op|apprentice(?:ship)?|fellowship|skillbridge|"
     r"returnship|externship|part[- ]?time|contract(?:or|ing)?)\b",
     re.I,
 )
