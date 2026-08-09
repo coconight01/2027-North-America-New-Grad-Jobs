@@ -20,7 +20,7 @@ NON_FTE_PROGRAM = re.compile(
     r"\b(?:student researcher|research student|student worker|visiting researcher|"
     r"intern(?:ship)?|co[- ]?op|apprentice(?:ship)?|fellowship|skillbridge|"
     r"returnship|externship|part[- ]?time|contract(?:or|ing)?|hackathon|"
-    r"(?:virtual[- ]?)?(?:quant[- ]?)?trading challenge|coding challenge)\\b",
+    r"(?:virtual[- ]?)?(?:quant[- ]?)?trading challenge|coding challenge)\b",
     re.I,
 )
 
