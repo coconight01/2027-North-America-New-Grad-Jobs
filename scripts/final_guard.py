@@ -20,7 +20,8 @@ NON_FTE_PROGRAM = re.compile(
     r"\b(?:student researcher|research student|student worker|visiting researcher|"
     r"intern(?:ship)?|co[- ]?op|apprentice(?:ship)?|fellowship|skillbridge|"
     r"returnship|externship|part[- ]?time|contract(?:or|ing)?|hackathon|"
-    r"(?:virtual[- ]?)?(?:quant[- ]?)?trading challenge|coding challenge)\b",
+    r"(?:virtual[- ]?)?(?:quant[- ]?)?trading challenge|coding challenge|"
+    r"tech race|trading sim(?:ulation)?)\b",
     re.I,
 )
 
@@ -40,7 +41,7 @@ def reason(row: dict) -> str:
     if MILITARY_TRANSITION.search(text):
         return "military-transition/SkillBridge program"
     if NON_FTE_PROGRAM.search(text):
-        return "internship/fellowship/other non-FTE program"
+        return "internship/fellowship/event/other non-FTE program"
     return ""
 
 
