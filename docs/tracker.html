@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Application Tracker · 2027 Job Radar</title>
+<style>
+:root{--bg:#f6f7fb;--s:#fff;--b:#e5e7eb;--t:#172033;--m:#667085;--p:#5b4df0;--oa:#175cd3;--int:#7a2eaa;--rej:#b42318;--off:#067647;--ap:#344054}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}.wrap{max-width:1180px;margin:auto;padding:24px}.hero{background:#0b1020;color:#fff;border-radius:18px;padding:24px}.hero p{color:#cbd5e1}.hero a{color:#c7d2fe;text-decoration:none}.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:16px 0}.stat{background:#fff;border:1px solid var(--b);border-radius:13px;padding:13px 15px}.stat b{display:block;font-size:23px}.stat span{font-size:12px;color:var(--m)}.controls{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.controls button{border:1px solid var(--b);background:#fff;border-radius:999px;padding:7px 11px;cursor:pointer}.controls button.active{background:#eeecff;color:#4938ca;border-color:#d9d6fe}.grid{display:grid;gap:10px}.card{background:#fff;border:1px solid var(--b);border-radius:14px;padding:15px}.top{display:flex;justify-content:space-between;gap:10px}.company{font-weight:800}.role{font-size:16px;font-weight:700;margin-top:5px}.pill{display:inline-block;border-radius:999px;padding:3px 8px;font-size:12px;font-weight:750}.Applied{background:#f2f4f7;color:var(--ap)}.OA{background:#eff8ff;color:var(--oa)}.Interview{background:#f4ebff;color:var(--int)}.Rejected{background:#fef3f2;color:var(--rej)}.Offer{background:#ecfdf3;color:var(--off)}.Uncertain{background:#fffaeb;color:#b54708}.meta{margin-top:8px;color:var(--m);font-size:12px}.action{margin-top:9px}.note{margin-top:7px;color:#9a3412;font-size:12px}.empty{padding:30px;text-align:center;color:var(--m)}
+@media(max-width:760px){.wrap{padding:12px}.stats{grid-template-columns:1fr 1fr}.stats .stat:last-child{grid-column:1/-1}.top{align-items:flex-start}}
+</style>
+</head>
+<body><main class="wrap">
+<section class="hero"><div>📬 GMAIL-BACKED PIPELINE</div><h1>Application / Offer Tracker</h1><p>只在有明确证据时升级状态；“没有邮件”不会被解释成没投或被拒。公开数据不保存 Gmail message ID、私人邮件链接或正文。</p><div id="updated">正在读取…</div><a href="./">← 返回职位雷达</a> · <a href="./ai.html">AI 今日推荐</a></section>
+<section class="stats" id="stats"></section>
+<div class="controls" id="filters"></div>
+<section class="grid" id="list"></section>
+</main>
+<script>
+const URL='https://raw.githubusercontent.com/coconight01/2027-North-America-New-Grad-Jobs/main/data/application_tracker.json';
+const order=['OA','Interview','Offer','Applied','Rejected','Uncertain'];let data=[],active='All';
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function render(){const counts={};for(const x of data)counts[x.status]=(counts[x.status]||0)+1;document.getElementById('stats').innerHTML=['Applied','OA','Interview','Rejected','Offer'].map(s=>`<div class="stat"><b>${counts[s]||0}</b><span>${s}</span></div>`).join('');const statuses=['All',...order.filter(s=>counts[s])];document.getElementById('filters').innerHTML=statuses.map(s=>`<button class="${active===s?'active':''}" onclick="active='${s}';render()">${s}${s==='All'?'':' · '+(counts[s]||0)}</button>`).join('');let a=active==='All'?data:data.filter(x=>x.status===active);a=[...a].sort((x,y)=>(order.indexOf(x.status)-order.indexOf(y.status))||String(y.status_date||'').localeCompare(String(x.status_date||'')));document.getElementById('list').innerHTML=a.length?a.map(x=>`<article class="card"><div class="top"><div><div class="company">${esc(x.company)}</div><div class="role">${esc(x.role)}</div></div><span class="pill ${esc(x.status)}">${esc(x.status)}</span></div><div class="meta">Applied: ${esc(x.applied_date||'unknown')} · Status updated: ${esc(x.status_date||'unknown')} · Evidence: ${esc(x.confidence||'Uncertain')}</div><div class="action"><b>Next:</b> ${esc(x.next_action||'—')}</div><div class="meta">${esc(x.evidence||'')}</div>${x.eligibility_note?`<div class="note">${esc(x.eligibility_note)}</div>`:''}</article>`).join(''):'<div class="empty">暂无记录。</div>'}
+fetch(URL,{cache:'no-store'}).then(r=>r.json()).then(d=>{data=d.applications||[];document.getElementById('updated').textContent='更新时间：'+(d.updated_at||'unknown')+' · '+data.length+' applications tracked';render()}).catch(e=>{document.getElementById('updated').textContent='读取失败：'+e.message});
+</script></body></html>
