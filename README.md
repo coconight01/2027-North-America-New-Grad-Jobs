@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-11** · Open roles: **1020**
+> Last automated update: **2026-08-11** · Open roles: **1022**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,18 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 64 |
+| **Big Tech & Frontier AI** | 65 |
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 16 |
 | **ByteDance / TikTok** (separate) | 228 |
-| Other companies | 665 |
+| Other companies | 666 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-11 | **Apple** | [Frontend Engineer, EE&P - IS&T Early Career](https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
+| 2026-08-11 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200677377-0157/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
 | 2026-08-10 | **Amazon** | [Software Development Engineer - EKS - AWS Controllers for Kubernetes](https://www.amazon.jobs/jobs/10496265/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
@@ -38,7 +39,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
 
 ### AI Infra / Systems
 
@@ -110,7 +110,7 @@ _Showing 12 of 228 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1020 active roles**. Featured groups account for **127** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1022 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
