@@ -57,6 +57,7 @@ github_discovery:
   - {repo: DereC4/internships-and-newgrad, ref: main, path: README.md, max_rows: 300}
   - {repo: Edamame-Labs/2027-new-grad-jobs, ref: main, path: README.md, max_rows: 300}
   - {repo: ambicuity/New-Grad-Jobs, ref: main, path: README.md, max_rows: 500}
+  - {repo: ApplyGuy/2027-New-Grad-Jobs, ref: main, path: README.md, max_rows: 350}
 
 # Path-aware sources handled by scripts/extra_discovery.py.
 # `assume_2027` is used only for repositories explicitly branded as 2027 new-grad lists.
