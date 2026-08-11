@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10",
+  "updated_at": "2026-08-11",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -10,43 +10,48 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "7 currently actionable, unsubmitted roles after fresh Gmail reconciliation. Google Early Career and Five Rings 2027 Software Developer were submitted today and removed from Apply Now. TikTok Recommendation Architecture AI/ML Infrastructure remains the highest-fit new opening; Apple's Siri ML Systems role was promoted as a high-quality older active role that closely matches the candidate's current ML-systems profile.",
+  "summary": "8 currently actionable, unapplied roles after Gmail reconciliation and official-source review. Apple Siri ML Systems was removed because Gmail confirms an exact application on August 11. The strongest new opening is ByteDance AML Engine Orchestration; NewsBreak ML Infra and DV Trading 2027 Graduate SWE were newly promoted after official verification. TikTok/ByteDance recommendations remain capped at two total positions.",
   "changes_today": [
     {
-      "type": "added",
-      "company": "TikTok",
-      "role": "Recommendation Architecture AI/ML Infrastructure Engineer Graduate (Data-Arch-TikTok Live) - 2027 Start",
-      "reason": "New official regular graduate posting directly covers large-scale distributed training, online inference, LLM serving, GPU optimization, C++/Python, CUDA/Triton and communication efficiency."
-    },
-    {
-      "type": "promoted_older_active",
+      "type": "removed_from_apply_now",
       "company": "Apple",
       "role": "Machine Learning Systems Engineer, Siri Agent Modeling",
-      "reason": "Official active role is unusually aligned with PyTorch, NCCL, LLM training/inference, KV cache, speculative decoding, FSDP/DDP and C/C++; no current full-time application evidence was found in Gmail."
+      "reason": "Gmail confirms an exact application on 2026-08-11 (requisition 200620661)."
     },
     {
-      "type": "removed_from_apply_now",
-      "company": "Google",
-      "role": "Software Engineer, Early Career, Campus",
-      "reason": "Gmail shows a Google application confirmation today through the employee-invitation flow; exact requisition is not named in the confirmation email, so tracker confidence remains Likely."
+      "type": "added",
+      "company": "ByteDance",
+      "role": "Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
+      "reason": "Official new 2027 BS/MS posting directly covers large-scale serving orchestration, GPU utilization, model distribution, vLLM/SGLang, KV cache and distributed systems."
     },
     {
-      "type": "removed_from_apply_now",
-      "company": "Five Rings",
-      "role": "Campus Full Time 2027 - Software Developer",
-      "reason": "Gmail shows an exact application confirmation today."
+      "type": "added",
+      "company": "NewsBreak",
+      "role": "Software Engineer, ML Infra (Junior & New Grad)",
+      "reason": "Official Junior/New Grad posting accepts a related master's degree without a professional-experience minimum and covers training, serving, feature infrastructure, PyTorch and C++/Python."
     },
     {
-      "type": "removed_from_apply_now",
-      "company": "Jane Street / HRT / IMC / Aquatic / Pylon",
-      "role": "Previously recommended roles",
-      "reason": "Application tracker shows these companies/roles as Applied or OA; they remain in application history rather than the unsubmitted queue."
+      "type": "added",
+      "company": "DV Trading",
+      "role": "2027 Graduate Software Engineer (DV Commodities)",
+      "reason": "Official 2027 graduate posting matches C++/Python/Linux and latency-sensitive systems; $135k-$150k base plus discretionary bonus."
     },
     {
-      "type": "vetoed",
-      "company": "Palantir",
-      "role": "Software Engineer, New Grad - Infrastructure / Production Infrastructure",
-      "reason": "Official postings require an active U.S. security clearance or eligibility and willingness to obtain one, which is a hard veto for this F-1 candidate."
+      "type": "added",
+      "company": "Apple",
+      "role": "Frontend Engineer, EE&P - IS&T Early Career",
+      "reason": "Official Early Career role posted August 10, 2026; retained as an elite-company general SWE option, below ML-systems roles."
+    },
+    {
+      "type": "demoted_to_watchlist",
+      "company": "RadixArk",
+      "role": "AI Infra Resident (1-Year Program)",
+      "reason": "Exceptional SGLang fit, but it is a time-limited residency rather than an ordinary permanent full-time role."
+    },
+    {
+      "type": "source_added",
+      "repository": "ApplyGuy/2027-New-Grad-Jobs",
+      "reason": "Actively refreshed US early-career feed with official ATS links and machine-readable data; integrated for discovery only, subject to the repository's existing official verification and deduplication."
     }
   ],
   "recommendations": [
@@ -55,166 +60,185 @@
       "company": "TikTok",
       "role": "Recommendation Architecture AI/ML Infrastructure Engineer Graduate (Data-Arch-TikTok Live) - 2027 Start",
       "location": "San Jose, CA",
-      "salary": "Official pay range not captured in today's posting text",
-      "fit": "Exceptional ML systems / LLM training and inference / GPU infrastructure",
-      "new_grad": "Official 2027 Graduate posting; regular employment; BS/MS accepted",
-      "sponsorship": "No explicit no-sponsorship language on the official posting; future sponsorship remains unconfirmed",
-      "urgency": "Highest — newly posted and reviewed on a rolling basis",
-      "reason": "The responsibilities nearly mirror Yuhan's profile: distributed training and inference, LLM serving, GPU optimization and communication efficiency. Preferred experience explicitly includes DP/TP/PP/FSDP/ZeRO, CUDA/Triton, KV cache, continuous batching and FlashAttention.",
-      "caveat": "TikTok/ByteDance does not state sponsorship policy in this requisition. Answer future-sponsorship questions truthfully and preserve the second global slot for only one additional role.",
-      "application_limit": "TikTok says candidates may apply to at most 2 positions globally across the company and affiliates, considered in application order.",
+      "salary": "$128,000-$256,000 base + possible bonus/RSUs",
+      "fit": "Exceptional distributed training / LLM inference / GPU infrastructure",
+      "new_grad": "Official regular 2027 Graduate posting; BS/MS accepted",
+      "sponsorship": "No explicit no-sponsorship language; future sponsorship unconfirmed",
+      "urgency": "Apply first — rolling review",
+      "reason": "Near-perfect resume overlap: distributed training and inference, LLM serving, GPU optimization, communication efficiency, C++/Python, FSDP/ZeRO, KV cache and continuous batching.",
+      "caveat": "Use one of only two global TikTok/ByteDance affiliate slots; answer sponsorship questions truthfully.",
+      "application_limit": "Maximum 2 positions globally across TikTok/ByteDance and affiliates, considered in application order.",
       "url": "https://lifeattiktok.com/search/7670876337129425205"
     },
     {
       "rank": 2,
-      "company": "Apple",
-      "role": "Machine Learning Systems Engineer, Siri Agent Modeling",
-      "location": "Cupertino, CA",
-      "salary": "$150,400-$277,600 base",
-      "fit": "Exceptional LLM training/inference systems match",
-      "new_grad": "Not explicitly labeled new grad; minimum qualifications do not specify prior full-time years and accept project/industry-equivalent experience",
-      "sponsorship": "Not stated on the official posting",
-      "urgency": "High-quality missed / older active — posted June 3, 2026 and still accepting resumes",
-      "reason": "One of the closest non-campus JDs to Yuhan's resume: PyTorch, model training/evaluation/deployment, CUDA OOM/NCCL debugging, KV cache, speculative decoding, FSDP/DDP and compiled-language experience. Her vLLM/NCCL/distributed-training work provides unusually concrete evidence for the preferred qualifications.",
-      "caveat": "This is not branded as a campus role, so team-level experience calibration is uncertain. Treat as a high-upside early-career stretch rather than a guaranteed new-grad funnel.",
-      "application_limit": "No special application cap found; Apple historically allows multiple applications, but keep submissions targeted.",
-      "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer"
+      "company": "ByteDance",
+      "role": "Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
+      "location": "San Jose, CA",
+      "salary": "$128,000-$256,000 base + possible bonus/RSUs",
+      "fit": "Exceptional ML serving orchestration / distributed systems",
+      "new_grad": "Official regular 2027 Graduate posting; BS/MS accepted",
+      "sponsorship": "No explicit no-sponsorship language; future sponsorship unconfirmed",
+      "urgency": "New today — apply second after TikTok Recommendation Architecture",
+      "reason": "Builds orchestration, scheduling and resource management for online serving: GPU utilization, model/image distribution, autoscaling, topology-aware scheduling, KV-cache affinity and QoS. Preferred qualifications explicitly name vLLM and SGLang.",
+      "caveat": "This should consume the second and final global affiliate slot; do not also apply to Global SRE or other ByteDance/TikTok roles this cycle unless one of these two is replaced.",
+      "application_limit": "Second/final recommendation under the official global 2-position cap.",
+      "url": "https://joinbytedance.com/search/7671141679848933685"
     },
     {
       "rank": 3,
-      "company": "Cerebras",
-      "role": "Kernel Engineer - New Grad",
-      "location": "US and Canada offices — select or confirm a US placement",
-      "salary": "Not listed on the official posting",
-      "fit": "Excellent ML kernels / compilers / low-level performance",
-      "new_grad": "Official full-time University role, explicit New Grad",
-      "sponsorship": "Not stated on the official careers page",
-      "urgency": "High-fit active opening",
-      "reason": "Direct alignment with C++ systems, parallel programming, performance profiling, ML kernels, inference runtimes and low-level optimization. This is software at the hardware/software boundary, not pure hardware.",
-      "caveat": "The posting groups US and Canada locations; choose a US placement because U.S. F-1/OPT does not authorize Canadian employment.",
-      "application_limit": "No special cap found; prefer this over unrelated Cerebras hardware roles.",
-      "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e"
+      "company": "NewsBreak",
+      "role": "Software Engineer, ML Infra (Junior & New Grad)",
+      "location": "Mountain View, CA",
+      "salary": "$125,000-$175,000 base + possible bonus/options",
+      "fit": "Excellent ML training / serving / feature infrastructure",
+      "new_grad": "Official Junior & New Grad posting; a related Master's/PhD satisfies the experience alternative",
+      "sponsorship": "Application asks whether sponsorship is needed but the posting does not promise or refuse it",
+      "urgency": "Recent high-fit missed opening",
+      "reason": "Owns model training, serving, monitoring and feature/embedding infrastructure; strong match to Python, C++/Java, PyTorch, performance and production ML systems.",
+      "caveat": "Five days onsite. Sponsorship remains unconfirmed, so treat OPT as current authorization and answer future sponsorship truthfully.",
+      "application_limit": "No special cap found.",
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006"
     },
     {
       "rank": 4,
+      "company": "Cerebras",
+      "role": "Kernel Engineer - New Grad",
+      "location": "US and Canada offices — select/confirm a US placement",
+      "salary": "Not listed on official posting",
+      "fit": "Excellent ML kernels / compilers / low-level performance",
+      "new_grad": "Official full-time University role, explicit New Grad",
+      "sponsorship": "Not stated",
+      "urgency": "High-fit active opening",
+      "reason": "Direct alignment with C++ systems, parallel programming, performance profiling, ML kernels and inference runtimes; software at the hardware/software boundary, not pure hardware.",
+      "caveat": "Choose a US placement because U.S. F-1/OPT does not authorize Canadian employment.",
+      "application_limit": "No special cap found; prioritize this over Cerebras hardware roles.",
+      "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e"
+    },
+    {
+      "rank": 5,
       "company": "Akuna Capital",
       "role": "Software Engineer (Entry-Level) - C++",
       "location": "Chicago, IL",
       "salary": "Minimum base $145,000 + discretionary performance bonus",
-      "fit": "Excellent C++ / concurrency / performance / distributed quant systems",
-      "new_grad": "Official Entry-Level role; accepts BS/MS/PhD graduates by August 2027",
-      "sponsorship": "Official posting explicitly accepts F-1 students using OPT or STEM; longer-term sponsorship is not promised",
-      "urgency": "Apply deliberately — Akuna treats this as the candidate's top Quant/Tech preference for the season",
-      "reason": "Strong match to modern C++, multithreaded and asynchronous systems, networking, lock-free data structures, Linux profiling, Python/shell and fast algorithmic problem solving.",
-      "caveat": "OPT/STEM is explicitly acceptable, but ask later about post-OPT sponsorship. The firm uses a top-preference rule across Quant/Tech roles.",
-      "application_limit": "Applying indicates this is your top preference and excludes consideration for other Akuna Quant/Tech roles this season; trader roles are exempt.",
+      "fit": "Excellent C++ / concurrency / distributed quant systems",
+      "new_grad": "Official Entry-Level role; BS/MS/PhD graduates by August 2027",
+      "sponsorship": "Official posting explicitly accepts F-1 OPT/STEM; longer-term sponsorship is not promised",
+      "urgency": "Apply deliberately",
+      "reason": "Modern C++, multithreaded/asynchronous distributed systems, networking, lock-free data structures, Linux profiling and competitive-programming speed are all direct strengths.",
+      "caveat": "Confirm post-OPT sponsorship later.",
+      "application_limit": "Applying declares this the top Akuna Quant/Tech preference and blocks consideration for other Akuna Quant/Tech roles this season; trader roles are exempt.",
       "url": "https://akunacapital.com/careers/job/8013085/talent-community/"
     },
     {
-      "rank": 5,
-      "company": "TikTok",
-      "role": "Site Reliability Engineer Graduate (Global SRE) - 2027 Start",
-      "location": "San Jose, CA",
-      "salary": "$128,000-$256,000 base + possible bonus/RSUs",
-      "fit": "Strong distributed systems / Linux / reliability / performance",
-      "new_grad": "Official 2027 Graduate posting; regular employment; BS/MS accepted",
-      "sponsorship": "No explicit no-sponsorship language on the official posting; future sponsorship remains unconfirmed",
-      "urgency": "Second and final TikTok/ByteDance slot only",
-      "reason": "Large-scale globally distributed, fault-tolerant systems; strong Linux, networking, Python/C/C++ and reliability architecture match.",
-      "caveat": "Use only if Yuhan wants reliability/platform work enough to consume the second global affiliate slot. The new AI-infrastructure role should be submitted first.",
-      "application_limit": "Second and final recommendation under TikTok/ByteDance's official global 2-position cap.",
-      "url": "https://lifeattiktok.com/search/7668701361741007109"
-    },
-    {
       "rank": 6,
-      "company": "RadixArk",
-      "role": "AI Infra Resident (1-Year Program)",
-      "location": "Palo Alto, CA",
-      "salary": "Competitive compensation and equity; exact range not listed",
-      "fit": "Exceptional SGLang / inference / training / kernels / compilers fit",
-      "new_grad": "Official posting welcomes recent BS/MS graduates; full-time paid one-year residency",
-      "sponsorship": "Not stated on the posting",
-      "urgency": "Apply if the one-year format is acceptable",
-      "reason": "The closest technical match in the market: SGLang, LLM serving, RL training, schedulers, kernels, compilers, cluster infrastructure, Python/C++, CUDA and distributed systems.",
-      "caveat": "Time-limited residency, not an ordinary permanent role; conversion is possible but not guaranteed. Keep below permanent offers unless conversion and sponsorship are clarified.",
+      "company": "DV Trading",
+      "role": "2027 Graduate Software Engineer (DV Commodities)",
+      "location": "New York, NY",
+      "salary": "$135,000-$150,000 base + discretionary bonus",
+      "fit": "Strong C++/Python/Linux quantitative systems",
+      "new_grad": "Official 2027 Graduate posting; graduation by Summer 2027",
+      "sponsorship": "The application accepts sponsorship disclosures, including student visa details, but the employer policy is not stated",
+      "urgency": "New/recent — apply after Akuna decision",
+      "reason": "C++/Python on Linux, latency-sensitive systems, greenfield trading tools and algorithmic problem solving match the systems and competitive-programming profile.",
+      "caveat": "Five days onsite. Sponsorship is unknown; disclose F-1/OPT and future sponsorship accurately.",
       "application_limit": "No special cap found.",
-      "url": "https://job-boards.greenhouse.io/radixark/jobs/4088962009"
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
       "rank": 7,
+      "company": "Apple",
+      "role": "Frontend Engineer, EE&P - IS&T Early Career",
+      "location": "Austin, TX",
+      "salary": "Not captured on the official posting",
+      "fit": "Good elite-company general SWE; lower ML-systems specificity",
+      "new_grad": "Official Early Career title; posted August 10, 2026",
+      "sponsorship": "Not stated",
+      "urgency": "New today/recent",
+      "reason": "The minimum qualifications accept server-side Java/Python or web development, and the work supports large-scale enterprise/customer systems. It is a viable broad SWE hedge at an elite company.",
+      "caveat": "Less aligned than the ML-infrastructure shortlist. Yuhan already has a different active Apple application, so keep this targeted and avoid excessive Apple submissions.",
+      "application_limit": "No special cap found.",
+      "url": "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR"
+    },
+    {
+      "rank": 8,
       "company": "Crusoe",
       "role": "Software Engineer I, Storage",
       "location": "San Francisco, CA",
-      "salary": "Not listed on the official posting",
+      "salary": "Not listed on official posting",
       "fit": "Strong cloud storage / distributed systems",
       "new_grad": "Official full-time Engineer I posting; not explicitly labeled 2027/new grad",
-      "sponsorship": "Not stated on the posting",
-      "urgency": "Secondary application after explicit 2027 roles",
+      "sponsorship": "Not stated",
+      "urgency": "Secondary older active role",
       "reason": "Cloud storage infrastructure matches distributed systems, Linux, performance, reliability and backend engineering.",
-      "caveat": "Yuhan already applied to a different Crusoe Engineer I/DCIE requisition. Verify there is no company application cap and confirm this role does not demand prior full-time experience before submitting.",
-      "application_limit": "Apply only if Crusoe permits multiple active requisitions; do not duplicate the existing DCIE application.",
+      "caveat": "A different Crusoe Engineer I/DCIE requisition is already applied. Confirm multiple active applications are acceptable and ensure this requisition does not require prior full-time experience before submitting.",
+      "application_limit": "Apply only if Crusoe permits multiple active requisitions; do not duplicate the DCIE application.",
       "url": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     }
   ],
   "source_discovery_today": [
     {
+      "repository": "ApplyGuy/2027-New-Grad-Jobs",
+      "assessment": "Useful new source: refreshed roughly every 15 minutes, 260 recent US software roles, official ATS links and JSON feed. Integrated as discovery-only; duplicates and eligibility claims remain subject to local filters and official-posting review."
+    },
+    {
+      "repository": "zapplyjobs 2027 collections",
+      "assessment": "Still active and already integrated; broad coverage but higher duplicate rate and mixed categories."
+    },
+    {
       "repository": "speedyapply/2027-SWE-College-Jobs",
-      "assessment": "Strong supplementary source: dedicated 2027 SWE internship/new-grad lists, daily updates, large US new-grad inventory. Worth using as discovery input with official-posting verification and deduplication."
-    },
-    {
-      "repository": "zapplyjobs/New-Grad-Jobs-2027",
-      "assessment": "Newly active 2027-focused repository with broad early-career coverage. Useful for discovery, but mixed non-SWE categories mean stricter role filtering is required."
-    },
-    {
-      "repository": "ambicuity/New-Grad-Jobs",
-      "assessment": "Large frequently refreshed live dataset with explicit ML, infrastructure/SRE and quant categories. Promising secondary discovery source; verify whether individual roles are genuinely entry-level before promotion."
+      "assessment": "Still useful and already integrated; surfaced Abridge and other general early-career roles, but individual entries require official verification."
     }
   ],
   "watchlist": [
     {
-      "company": "Snowflake",
-      "role": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
-      "reason": "Official new-grad opening appears active in the current dataset, but accessible official text did not expose degree/experience and compensation requirements clearly enough to confirm MS eligibility. Review candidate, not Apply Now."
+      "company": "RadixArk",
+      "role": "AI Infra Resident (1-Year Program)",
+      "reason": "SGLang/inference/training/kernels fit is exceptional, but this is a one-year residency, not an ordinary permanent role; conversion and sponsorship are unstated."
+    },
+    {
+      "company": "Abridge",
+      "role": "Software Engineer - Early Career",
+      "reason": "Official active Early Career role, $167k-$184k and strong company quality, but accessible official text did not expose enough role/eligibility detail for a higher-confidence recommendation today."
     },
     {
       "company": "NVIDIA",
-      "roles": [
-        "AI Inference Performance Engineer - NCG 2026",
-        "Deep Learning Software Engineer, Inference - NCG 2026",
-        "Dynamo-Triton Inference Server - NCG 2026",
-        "Compiler Engineer, AI Inference - NCG 2026"
-      ],
-      "reason": "Technically S+ fits — official inference roles explicitly mention vLLM/SGLang/NCCL/CUDA — but verified requisitions are labeled 2026 New College Grad and one is already Applied; do not call them default 2027-actionable roles."
+      "reason": "No newly verified 2027 BS/MS software requisition today; current best technical matches remain labeled 2026 NCG, and one inference-performance role is already applied."
     },
     {
       "company": "Waymo",
-      "reason": "S-tier company and strong systems fit, but no newly verified 2027 BS/MS software requisition today; keep watching rather than recommending mid-career roles."
+      "reason": "Only three Early Career roles are currently exposed and no verified 2027 BS/MS systems/ML opening was found; mid-career prestige is not eligibility."
     },
     {
-      "company": "Fireworks AI",
-      "reason": "Excellent company/technical fit, but no newly verified new-grad/early-career requisition that passes experience checks today."
+      "company": "Amazon",
+      "reason": "S3/EKS roles discovered today require 3-5 years of non-internship professional experience; keep off Apply Now despite excellent systems fit."
     }
   ],
   "vetoed_today": [
     {
-      "company": "Palantir",
-      "role": "Software Engineer, New Grad - Infrastructure / Production Infrastructure",
-      "reason": "Official roles require active U.S. security clearance or eligibility and willingness to obtain one."
+      "company": "Amazon",
+      "role": "S3 / EKS systems roles",
+      "reason": "Official postings require 3-5 years of non-internship professional experience."
     },
     {
-      "company": "IMC Trading",
-      "role": "Tech Race Singapore / Trading Simulation Singapore",
-      "reason": "Recruiting events or simulations, not ordinary full-time jobs; removed by final dataset guard."
+      "company": "PlayStation",
+      "role": "Software Engineer I SDK",
+      "reason": "Official posting requires 2+ years of professional software development experience."
     },
     {
-      "company": "TikTok USDS",
-      "role": "Machine Learning Engineer Graduate - E-Commerce - 2027 Start",
-      "reason": "Discovery-only listing was not promoted without official requisition verification."
+      "company": "Observe.AI",
+      "role": "Software Engineer I - AI Agents",
+      "reason": "The official application is no longer accepting submissions; a discovery feed briefly surfaced the stale row."
     },
     {
-      "company": "SentiLink",
-      "role": "New Grad machine-learning research roles",
-      "reason": "Current listings are PhD-oriented and not default recommendations for an MS candidate."
+      "company": "Axon",
+      "role": "Software Engineer I",
+      "reason": "The official job URL redirects to the board error page; not treated as active."
+    },
+    {
+      "company": "Apple",
+      "role": "Site Reliability Engineer — Data Platforms, Shanghai",
+      "reason": "Official minimum qualification requires 3+ years of experience operating production systems."
     }
   ]
 }
