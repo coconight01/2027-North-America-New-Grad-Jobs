@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-11** · Open roles: **110**
+> Last automated update: **2026-08-11** · Open roles: **111**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -32,6 +32,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-05 | **StepFun (阶跃星辰)** | [语音开放平台产品研发](https://app.mokahr.com/social-recruitment/step/94904#/job/9a2b6ba7-de3b-4302-98d0-eff0d860a533) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-03 | **StepFun (阶跃星辰)** | [Agent研发工程师（金融投研方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/af66ae92-682e-4154-98ed-d24055dff565) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-01 | **StepFun (阶跃星辰)** | [云原生研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d23793a6-d6eb-4413-89c7-198e66a552dc) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-06-30 | **StepFun (阶跃星辰)** | [质量体系工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/75ec2976-47a2-4cd2-9004-4e0e2b290133) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [Agent Infra 研发工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/bae809fb-1978-4401-b209-34067b26569d) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [AI平台运维工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/b48bdca9-742f-44f1-bde8-5c4e9b953f31) | AI Infrastructure / Systems | 浙江 · 拱墅区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [后训练（数据/算法）研究员](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/5d75f4cd-f626-4f73-80c1-e53b2073de76) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
