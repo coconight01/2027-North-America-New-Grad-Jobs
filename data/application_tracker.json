@@ -1,7 +1,9 @@
 {
-  "updated_at": "2026-08-11",
+  "updated_at": "2026-08-12",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {"company":"NewsBreak","role":"Role uncertain","status":"Applied","applied_date":"2026-08-12","status_date":"2026-08-12","confidence":"Company-only","evidence":"Greenhouse application confirmation names NewsBreak but not the exact role","next_action":"Wait for review"},
+    {"company":"Nextdoor","role":"Role uncertain","status":"Applied","applied_date":"2026-08-12","status_date":"2026-08-12","confidence":"Company-only","evidence":"Greenhouse application confirmation names Nextdoor but not the exact role","next_action":"Wait for review"},
     {"company":"Apple","role":"Machine Learning Systems Engineer, Siri Agent Modeling","status":"Applied","applied_date":"2026-08-11","status_date":"2026-08-11","confidence":"Exact","evidence":"Apple recruiting confirmation names the exact role and requisition 200620661","next_action":"Wait for review"},
     {"company":"Five Rings","role":"Campus Full Time 2027 - Software Developer","status":"Applied","applied_date":"2026-08-10","status_date":"2026-08-10","confidence":"Exact","evidence":"Application confirmation naming the exact role","next_action":"Wait for review; interviews begin in September 2026"},
     {"company":"Google","role":"Software Engineer, Early Career, Campus / exact requisition not named in confirmation email","status":"Applied","applied_date":"2026-08-10","status_date":"2026-08-10","confidence":"Likely","evidence":"Google application confirmation tied to employee invitation; confirmation email does not name the exact requisition","next_action":"Wait for review; employee referrer is kept updated by Google"},
