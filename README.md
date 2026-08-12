@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-11** · Open roles: **1022**
+> Last automated update: **2026-08-12** · Open roles: **1024**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 16 |
 | **ByteDance / TikTok** (separate) | 228 |
-| Other companies | 666 |
+| Other companies | 668 |
 
 ### Big Tech & Frontier AI
 
@@ -93,9 +93,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-08-11 | **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a79e3a5bb6ca93ae56189bb) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **ByteDance** | [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6a79e386bb6ca93ae56189a1) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-11 | **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a7ae3e3bb6ca93ae561ce7c) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a79e38c67a1ad0bc53d04b0) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a7ae072ab1385611f900525) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-11 | **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a7ae3e3bb6ca93ae561ce7c) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6a7a6679b17cba5690366fbc) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://jobright.ai/jobs/info/6a7ae06cbb6ca93ae561cdec) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **TikTok** | [Data Engineer Graduate (Monetization Data) - 2027 Start](https://tsenta.com/jobs/tiktok-data-engineer-graduate-monetization-data-2027-star-7ff6c55b-ea3a-4267-879d-b2bb21578ad5) | Not listed | United States | ❔ | ✅ Confirmed | — |
@@ -110,7 +110,7 @@ _Showing 12 of 228 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1022 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1024 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
