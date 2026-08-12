@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-12** · Open roles: **111**
+> Last automated update: **2026-08-12** · Open roles: **112**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -37,7 +37,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-06-25 | **DeepSeek / High-Flyer** | [AI平台运维工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/b48bdca9-742f-44f1-bde8-5c4e9b953f31) | AI Infrastructure / Systems | 浙江 · 拱墅区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [后训练（数据/算法）研究员](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/5d75f4cd-f626-4f73-80c1-e53b2073de76) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [大模型训练/推理框架工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/43f8551a-4235-4d5e-a9a7-44386cd79795) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
-| 2026-06-25 | **DeepSeek / High-Flyer** | [服务端开发工程师（线上核心服务/Agent 后端/数据仓库）](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/2eb2e75d-29f3-47b5-bb10-39f12547d398) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
+| 2026-06-25 | **DeepSeek / High-Flyer** | [服务端开发工程师（大模型研究中台/线上核心服务/数据仓库）](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/2eb2e75d-29f3-47b5-bb10-39f12547d398) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [超算集群研发工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/cdccf456-207f-4ea0-9fdd-c30a5ce42d5b) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [预训练数据工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/8a4c2868-599d-40db-be4d-ab58eec5d7e1) | AI Infrastructure / Systems | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-06-25 | **DeepSeek / High-Flyer** | [预训练（数据/算法）研究员](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/25dcb4d9-d250-43ce-8f56-159ddba47c10) | AI Infrastructure / Systems | 北京市 · 海淀区 | Full-time | Review eligibility |
@@ -119,6 +119,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2024-12-23 | **StepFun (阶跃星辰)** | [AIGC算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/7f00dd6a-4a2e-4ebe-bd4c-712a68682b07) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2024-12-23 | **StepFun (阶跃星辰)** | [大模型算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/6a7917ba-63dd-46bd-8750-ead4770ea03b) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2024-12-23 | **StepFun (阶跃星辰)** | [语音大模型算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/da6951af-a0f9-4796-af19-6623412c399a) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2021-12-28 | **DeepSeek / High-Flyer** | [深度学习研发工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/01416da2-3c8a-4a20-bbb3-1c925d0facf1) | AI / ML | 北京市 · 海淀区 | Full-time | Review eligibility |
 
 ## Source policy
 
