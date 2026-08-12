@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-12** · Open roles: **1053**
+> Last automated update: **2026-08-12** · Open roles: **1054**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,7 +18,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 65 |
+| **Big Tech & Frontier AI** | 66 |
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
@@ -29,8 +29,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-12 | **Apple** | [Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities](https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **Apple** | [Frontend Engineer, EE&P - IS&T Early Career](https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
-| 2026-08-11 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200677377-0157/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
 | 2026-08-10 | **Amazon** | [Software Development Engineer - EKS - AWS Controllers for Kubernetes](https://www.amazon.jobs/jobs/10496265/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
@@ -92,14 +92,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fdcd77e8156a8e31563) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fd47c52154b59f59764) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fcbd77e8156a8e3155d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start](https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-12 | **TikTok** | [Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fbbdc3dff2d1c0c6351) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fcbd77e8156a8e3155d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fd47c52154b59f59764) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-12 | **TikTok** | [Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start](https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-12 | **TikTok** | [Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start](https://jobright.ai/jobs/info/6a7c2ec5a346cb6c8d5ed29e) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-12 | **ByteDance** | [Research Scientist Graduate (Multimedia Streaming) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd7eecfd29770753b0fb) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-12 | **ByteDance** | [AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd64ecfd29770753b0f3) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-12 | **ByteDance** | [Video/Image AI/ML Software Engineer Graduate (Multimedia) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd713b399d106e4d88cf) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-12 | **ByteDance** | [Research Scientist Graduate (Multimedia Streaming) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd7eecfd29770753b0fb) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-12 | **TikTok** | [AI Infra Engineer Graduate - Recommendation & LLM - 2027 Start](https://lifeattiktok.com/search/7672654026594093317) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - 2027 Start](https://lifeattiktok.com/search/7672882500030138629) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - 2027 Start](https://lifeattiktok.com/search/7672880386574338309) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
@@ -110,7 +110,7 @@ _Showing 12 of 244 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1053 active roles**. Featured groups account for **129** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1054 active roles**. Featured groups account for **130** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
