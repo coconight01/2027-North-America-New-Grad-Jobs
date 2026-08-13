@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-12** · Open roles: **1054**
+> Last automated update: **2026-08-13** · Open roles: **1069**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 244 |
-| Other companies | 680 |
+| **ByteDance / TikTok** (separate) | 254 |
+| Other companies | 685 |
 
 ### Big Tech & Frontier AI
 
@@ -87,30 +87,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>244 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>254 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-13 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d12cedc3dff2d1c0ca9b5) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6cc83621355407acfae) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Backend Software Engineer Graduate (Creation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Foundation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6ba83621355407acf93) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Recommendation Architecture, Feeds Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d0fc283621355407ad59b) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Media Engine) - 2027 Start](https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start](https://jobright.ai/jobs/info/6a7d10c7dc3dff2d1c0ca935) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **ByteDance** | [Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d12c583621355407ad653) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fdcd77e8156a8e31563) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-12 | **TikTok** | [Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fbbdc3dff2d1c0c6351) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fcbd77e8156a8e3155d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fd47c52154b59f59764) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start](https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **TikTok** | [Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start](https://jobright.ai/jobs/info/6a7c2ec5a346cb6c8d5ed29e) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-12 | **ByteDance** | [Research Scientist Graduate (Multimedia Streaming) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd7eecfd29770753b0fb) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-12 | **ByteDance** | [AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd64ecfd29770753b0f3) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-12 | **ByteDance** | [Video/Image AI/ML Software Engineer Graduate (Multimedia) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdd713b399d106e4d88cf) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-12 | **TikTok** | [AI Infra Engineer Graduate - Recommendation & LLM - 2027 Start](https://lifeattiktok.com/search/7672654026594093317) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - 2027 Start](https://lifeattiktok.com/search/7672882500030138629) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - 2027 Start](https://lifeattiktok.com/search/7672880386574338309) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 
-_Showing 12 of 244 active roles. Use the Job Radar for all roles._
+_Showing 12 of 254 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1054 active roles**. Featured groups account for **130** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1069 active roles**. Featured groups account for **130** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
