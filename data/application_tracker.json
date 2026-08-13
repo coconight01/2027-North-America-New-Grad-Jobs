@@ -1,32 +1,328 @@
 {
-  "updated_at": "2026-08-12",
+  "updated_at": "2026-08-13",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
-    {"company":"NewsBreak","role":"Role uncertain","status":"Applied","applied_date":"2026-08-12","status_date":"2026-08-12","confidence":"Company-only","evidence":"Greenhouse application confirmation names NewsBreak but not the exact role","next_action":"Wait for review"},
-    {"company":"Nextdoor","role":"Role uncertain","status":"Applied","applied_date":"2026-08-12","status_date":"2026-08-12","confidence":"Company-only","evidence":"Greenhouse application confirmation names Nextdoor but not the exact role","next_action":"Wait for review"},
-    {"company":"Apple","role":"Machine Learning Systems Engineer, Siri Agent Modeling","status":"Applied","applied_date":"2026-08-11","status_date":"2026-08-11","confidence":"Exact","evidence":"Apple recruiting confirmation names the exact role and requisition 200620661","next_action":"Wait for review"},
-    {"company":"Five Rings","role":"Campus Full Time 2027 - Software Developer","status":"Applied","applied_date":"2026-08-10","status_date":"2026-08-10","confidence":"Exact","evidence":"Application confirmation naming the exact role","next_action":"Wait for review; interviews begin in September 2026"},
-    {"company":"Google","role":"Software Engineer, Early Career, Campus / exact requisition not named in confirmation email","status":"Applied","applied_date":"2026-08-10","status_date":"2026-08-10","confidence":"Likely","evidence":"Google application confirmation tied to employee invitation; confirmation email does not name the exact requisition","next_action":"Wait for review; employee referrer is kept updated by Google"},
-    {"company":"Netic","role":"Forward Deployed Engineer (FDE) - New Grad - 2026-2027","status":"OA","applied_date":"2026-08-09","status_date":"2026-08-11","confidence":"Exact","evidence":"Application confirmation + Coderbyte assessment invitation + assessment submission confirmation","next_action":"Assessment submitted; wait for review"},
-    {"company":"Roblox","role":"[2027] Software Engineer, Early Career","status":"OA","applied_date":"2026-08-05","status_date":"2026-08-08","confidence":"Exact","evidence":"Application confirmation + Roblox assessments invitation","next_action":"Complete assessments"},
-    {"company":"Optiver","role":"Graduate Software Engineer (2027 Start)","status":"OA","applied_date":"2026-08-08","status_date":"2026-08-11","confidence":"Exact","evidence":"Application received + assessment invitation + Optiver confirmation that all assessments were completed","next_action":"Assessments completed; wait for review"},
-    {"company":"Maven Securities","role":"Graduate Developer Programme Chicago 2027","status":"OA","applied_date":"2026-08-03","status_date":"2026-08-11","confidence":"Exact","evidence":"Application confirmation + Arctic Shores assessment invitation + assessment feedback email confirming completion","next_action":"Assessment completed; wait for review"},
-    {"company":"Pylon","role":"Software Engineer, New Grad","status":"Applied","applied_date":"2026-08-09","status_date":"2026-08-09","confidence":"Exact","evidence":"Application confirmation","next_action":"Wait for review"},
-    {"company":"Jane Street","role":"Software Engineer / role uncertain","status":"Applied","applied_date":"2026-08-09","status_date":"2026-08-09","confidence":"Company-only","evidence":"Jane Street confirmed resume/application receipt; email did not name the exact role","next_action":"Wait for review"},
-    {"company":"Crusoe","role":"Software Engineer I (DCIE)","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-09","confidence":"Exact","evidence":"Application confirmation","next_action":"Wait for review"},
-    {"company":"Aquatic Capital Management","role":"Software Engineer, Early Career / role inferred from current campaign","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-08","confidence":"Company-only","evidence":"Application confirmation names company but not exact role","next_action":"Wait for review"},
-    {"company":"IMC Trading","role":"Graduate Software Engineer","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-10","confidence":"Exact","evidence":"Application confirmation + IMC request for additional immigration sponsorship information","next_action":"Complete/respond to IMC sponsorship information request"},
-    {"company":"Citadel / Citadel Securities","role":"Software Engineer - University Graduate (US)","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-08","confidence":"Exact","evidence":"Application confirmation","next_action":"Wait for review"},
-    {"company":"Hudson River Trading","role":"Software Engineer, 2027 Graduate / exact title pending confirmation","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-08","confidence":"Likely","evidence":"HRT confirmed full-time student application; exact role title not present in snippet","next_action":"Wait for review"},
-    {"company":"Amira Learning","role":"Role uncertain","status":"Applied","applied_date":"2026-08-08","status_date":"2026-08-08","confidence":"Company-only","evidence":"Application confirmation names company but not role","next_action":"Wait for review"},
-    {"company":"Baseten","role":"Engineering Manager, Forward Deployed Engineering (LLM)","status":"Applied","applied_date":"2026-08-09","status_date":"2026-08-09","confidence":"Exact","evidence":"Application confirmation","next_action":"Historical/misfit application; do not recommend similar manager roles","eligibility_note":"Manager-level role; tracker keeps history but recommendation system should hard-reject similar roles."},
-    {"company":"Weekday AI","role":"Machine Learning Engineer - Model Evaluation & Experimentation","status":"Applied","applied_date":"2026-08-05","status_date":"2026-08-05","confidence":"Exact","evidence":"Application submitted confirmation","next_action":"Wait for review"},
-    {"company":"Arrowstreet Capital","role":"Quantitative Developer","status":"Applied","applied_date":"2026-08-05","status_date":"2026-08-05","confidence":"Exact","evidence":"Application confirmation","next_action":"Wait for review"},
-    {"company":"Notion","role":"Software Engineer, Early Career (AI)","status":"Applied","applied_date":"2026-08-04","status_date":"2026-08-04","confidence":"Exact","evidence":"Application confirmation","next_action":"Wait for review"},
-    {"company":"SambaNova Systems","role":"Role uncertain","status":"Applied","applied_date":"2026-08-04","status_date":"2026-08-04","confidence":"Company-only","evidence":"Application confirmation names SambaNova but not exact role","next_action":"Wait for review"},
-    {"company":"NVIDIA","role":"AI Inference Performance Engineer - New College Grad 2026","status":"Applied","applied_date":"2026-08-03","status_date":"2026-08-03","confidence":"Exact","evidence":"Workday application confirmation","next_action":"Wait for review","eligibility_note":"Posting is labeled NCG 2026; keep as application history, not a default 2027 recommendation."},
-    {"company":"Stripe","role":"Software Engineer","status":"Rejected","applied_date":"2026-08-03","status_date":"2026-08-05","confidence":"Exact","evidence":"Application confirmation followed by explicit rejection","next_action":"Closed"},
-    {"company":"Quora","role":"Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)","status":"Rejected","applied_date":null,"status_date":"2026-08-06","confidence":"Exact","evidence":"Explicit rejection naming the exact role","next_action":"Closed"},
-    {"company":"Robert Half","role":"Software Engineer I, Generative AI Applications","status":"Rejected","applied_date":"2026-08-05","status_date":"2026-08-09","confidence":"Exact","evidence":"Application confirmation followed by explicit rejection","next_action":"Closed"}
+    {
+      "company": "ByteDance",
+      "role": "Machine Learning Backend Engineer Graduate (AML MLDev) - 2027 Start",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Exact",
+      "evidence": "ByteDance recruiting confirmation names the exact role",
+      "next_action": "On hold while awaiting internal/contact response; do not recommend additional ByteDance/TikTok applications"
+    },
+    {
+      "company": "Uber",
+      "role": "Software Engineer I - 300623",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Exact",
+      "evidence": "Uber recruiting confirmation names Software Engineer I and requisition 300623",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Akuna Capital",
+      "role": "Software Engineer (Entry-Level) - Python",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Exact",
+      "evidence": "Application confirmation names the exact role",
+      "next_action": "Wait for review; this is the declared top Akuna Quant/Tech preference"
+    },
+    {
+      "company": "FlexAI",
+      "role": "Software Engineer, New Grad",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Exact",
+      "evidence": "Rippling application confirmation names FlexAI and the exact position",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Weekday / Mercor",
+      "role": "Machine Learning Engineer Model Expert",
+      "status": "Interview",
+      "applied_date": null,
+      "status_date": "2026-08-13",
+      "confidence": "Exact",
+      "evidence": "Weekday founder email names the role and requests a 20-minute Mercor AI interview",
+      "next_action": "Complete AI interview within 48 hours of the 2026-08-13 email, then notify Weekday"
+    },
+    {
+      "company": "清程极智",
+      "role": "大模型推理加速优化工程师",
+      "status": "Interview",
+      "applied_date": null,
+      "status_date": "2026-08-13",
+      "confidence": "Exact",
+      "evidence": "Official Feishu recruiting invitation names the exact role and video interview",
+      "next_action": "Video interview on 2026-08-18 at 11:00 China Standard Time"
+    },
+    {
+      "company": "NewsBreak",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Company-only",
+      "evidence": "Greenhouse application confirmation names NewsBreak but not the exact role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Nextdoor",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-12",
+      "status_date": "2026-08-12",
+      "confidence": "Company-only",
+      "evidence": "Greenhouse application confirmation names Nextdoor but not the exact role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Apple",
+      "role": "Machine Learning Systems Engineer, Siri Agent Modeling",
+      "status": "Applied",
+      "applied_date": "2026-08-11",
+      "status_date": "2026-08-11",
+      "confidence": "Exact",
+      "evidence": "Apple recruiting confirmation names the exact role and requisition 200620661",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Five Rings",
+      "role": "Campus Full Time 2027 - Software Developer",
+      "status": "Applied",
+      "applied_date": "2026-08-10",
+      "status_date": "2026-08-10",
+      "confidence": "Exact",
+      "evidence": "Application confirmation naming the exact role",
+      "next_action": "Wait for review; interviews begin in September 2026"
+    },
+    {
+      "company": "Google",
+      "role": "Software Engineer, Early Career, Campus / exact requisition not named in confirmation email",
+      "status": "Applied",
+      "applied_date": "2026-08-10",
+      "status_date": "2026-08-10",
+      "confidence": "Likely",
+      "evidence": "Google application confirmation tied to employee invitation; confirmation email does not name the exact requisition",
+      "next_action": "Wait for review; employee referrer is kept updated by Google"
+    },
+    {
+      "company": "Netic",
+      "role": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+      "status": "OA",
+      "applied_date": "2026-08-09",
+      "status_date": "2026-08-11",
+      "confidence": "Exact",
+      "evidence": "Application confirmation + Coderbyte assessment invitation + assessment submission confirmation",
+      "next_action": "Assessment submitted; wait for review"
+    },
+    {
+      "company": "Roblox",
+      "role": "[2027] Software Engineer, Early Career",
+      "status": "OA",
+      "applied_date": "2026-08-05",
+      "status_date": "2026-08-08",
+      "confidence": "Exact",
+      "evidence": "Application confirmation + Roblox assessments invitation",
+      "next_action": "Complete assessments"
+    },
+    {
+      "company": "Optiver",
+      "role": "Graduate Software Engineer (2027 Start)",
+      "status": "OA",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-11",
+      "confidence": "Exact",
+      "evidence": "Application received + assessment invitation + Optiver confirmation that all assessments were completed",
+      "next_action": "Assessments completed; wait for review"
+    },
+    {
+      "company": "Maven Securities",
+      "role": "Graduate Developer Programme Chicago 2027",
+      "status": "OA",
+      "applied_date": "2026-08-03",
+      "status_date": "2026-08-11",
+      "confidence": "Exact",
+      "evidence": "Application confirmation + Arctic Shores assessment invitation + assessment feedback email confirming completion",
+      "next_action": "Assessment completed; wait for review"
+    },
+    {
+      "company": "Pylon",
+      "role": "Software Engineer, New Grad",
+      "status": "Applied",
+      "applied_date": "2026-08-09",
+      "status_date": "2026-08-09",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Jane Street",
+      "role": "Software Engineer / role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-09",
+      "status_date": "2026-08-09",
+      "confidence": "Company-only",
+      "evidence": "Jane Street confirmed resume/application receipt; email did not name the exact role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Crusoe",
+      "role": "Software Engineer I (DCIE)",
+      "status": "Applied",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-09",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Aquatic Capital Management",
+      "role": "Software Engineer, Early Career",
+      "status": "Rejected",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-12",
+      "confidence": "Exact",
+      "evidence": "Explicit rejection email names the exact role",
+      "next_action": "Closed; employer asks candidates to wait one year before reconnecting"
+    },
+    {
+      "company": "IMC Trading",
+      "role": "Graduate Software Engineer",
+      "status": "Applied",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-10",
+      "confidence": "Exact",
+      "evidence": "Application confirmation + IMC request for additional immigration sponsorship information",
+      "next_action": "Complete/respond to IMC sponsorship information request"
+    },
+    {
+      "company": "Citadel / Citadel Securities",
+      "role": "Software Engineer - University Graduate (US)",
+      "status": "Applied",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-08",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Hudson River Trading",
+      "role": "Software Engineer, 2027 Graduate / exact title pending confirmation",
+      "status": "Applied",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-08",
+      "confidence": "Likely",
+      "evidence": "HRT confirmed full-time student application; exact role title not present in snippet",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Amira Learning",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-08",
+      "status_date": "2026-08-08",
+      "confidence": "Company-only",
+      "evidence": "Application confirmation names company but not role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Baseten",
+      "role": "Engineering Manager, Forward Deployed Engineering (LLM)",
+      "status": "Applied",
+      "applied_date": "2026-08-09",
+      "status_date": "2026-08-09",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Historical/misfit application; do not recommend similar manager roles",
+      "eligibility_note": "Manager-level role; tracker keeps history but recommendation system should hard-reject similar roles."
+    },
+    {
+      "company": "Weekday AI",
+      "role": "Machine Learning Engineer - Model Evaluation & Experimentation",
+      "status": "Applied",
+      "applied_date": "2026-08-05",
+      "status_date": "2026-08-05",
+      "confidence": "Exact",
+      "evidence": "Application submitted confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Arrowstreet Capital",
+      "role": "Quantitative Developer",
+      "status": "Applied",
+      "applied_date": "2026-08-05",
+      "status_date": "2026-08-05",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Notion",
+      "role": "Software Engineer, Early Career (AI)",
+      "status": "Applied",
+      "applied_date": "2026-08-04",
+      "status_date": "2026-08-04",
+      "confidence": "Exact",
+      "evidence": "Application confirmation",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "SambaNova Systems",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-04",
+      "status_date": "2026-08-04",
+      "confidence": "Company-only",
+      "evidence": "Application confirmation names SambaNova but not exact role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "AI Inference Performance Engineer - New College Grad 2026",
+      "status": "Applied",
+      "applied_date": "2026-08-03",
+      "status_date": "2026-08-03",
+      "confidence": "Exact",
+      "evidence": "Workday application confirmation",
+      "next_action": "Wait for review",
+      "eligibility_note": "Posting is labeled NCG 2026; keep as application history, not a default 2027 recommendation."
+    },
+    {
+      "company": "Stripe",
+      "role": "Software Engineer",
+      "status": "Rejected",
+      "applied_date": "2026-08-03",
+      "status_date": "2026-08-05",
+      "confidence": "Exact",
+      "evidence": "Application confirmation followed by explicit rejection",
+      "next_action": "Closed"
+    },
+    {
+      "company": "Quora",
+      "role": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+      "status": "Rejected",
+      "applied_date": null,
+      "status_date": "2026-08-06",
+      "confidence": "Exact",
+      "evidence": "Explicit rejection naming the exact role",
+      "next_action": "Closed"
+    },
+    {
+      "company": "Robert Half",
+      "role": "Software Engineer I, Generative AI Applications",
+      "status": "Rejected",
+      "applied_date": "2026-08-05",
+      "status_date": "2026-08-09",
+      "confidence": "Exact",
+      "evidence": "Application confirmation followed by explicit rejection",
+      "next_action": "Closed"
+    }
   ]
 }
