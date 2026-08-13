@@ -21,13 +21,16 @@ BLOCKED_LINKS = ("github.com/", "simplify.jobs/p/")
 
 
 def apply_source_hints(item, text):
-    # Source-list symbols are hints only. Citizenship is decided from the
-    # individual employer posting, not from a company-wide assumption.
+    # Third-party list symbols are discovery hints, never eligibility or
+    # freshness proof. Preserve them as review evidence while leaving hard
+    # fields for the exact employer posting to decide.
+    hints = []
     if "🛂" in text:
-        item["sponsorship"] = "No"
-        item["visa_evidence"] = "Source list marks no sponsorship"
+        hints.append("third-party source marks no sponsorship (unverified)")
     if "🔒" in text:
-        item["status"] = "Closed"
+        hints.append("third-party source marks closed (unverified)")
+    if hints:
+        item["visa_evidence"] = "; ".join(hints)
     return item
 
 
@@ -139,7 +142,10 @@ def github_table(source):
             line,
         )
         if assume_2027:
-            item["graduation"], item["match"] = "2027", "Trusted 2027 source"
+            # This keeps the row in the 2027 discovery pool, but explicitly
+            # labels the cycle inference as source-only for downstream review.
+            item["graduation"] = "2027 source cycle (unverified)"
+            item["match"] = "Third-party 2027 discovery source; eligibility unverified"
         if len(cells) >= 5:
             salary = text_cell(cells[3])
             if "$" in salary or re.search(r"\b\d{2,3}k/(?:yr|year)\b", salary, re.I):
