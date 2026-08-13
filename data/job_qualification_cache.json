@@ -11707,6 +11707,22 @@
     "checked_at": "2026-08-13",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a7c983ad77e8156a8e32c57?visit=project-engineer-%28owner-s-rep%29---2027-new-grad-jobs-in-united-states": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Graduate",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-13",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a7c98ff7c52154b59f5aecb": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -19414,6 +19430,22 @@
     "source_fetched": true,
     "checked_at": "2026-08-07",
     "parser_version": 3
+  },
+  "https://us.jobrapido.com/jobpreview/686820089445482496": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$121600 - $243200 annually",
+    "salary_min_annual": 121600,
+    "salary_max_annual": 243200,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-13",
+    "parser_version": 4
   },
   "https://usc.wd5.myworkdayjobs.com/en-US/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Associate-Data-Scientist_REQ20174846": {
     "ng_confidence": "Likely",
