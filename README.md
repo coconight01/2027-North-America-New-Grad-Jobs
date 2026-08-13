@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-13** · Open roles: **1070**
+> Last automated update: **2026-08-13** · Open roles: **1093**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 64 |
+| **Big Tech & Frontier AI** | 66 |
 | **AI Infra / Systems** | 5 |
-| **Quant / HFT** | 43 |
+| **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 255 |
-| Other companies | 686 |
+| **ByteDance / TikTok** (separate) | 263 |
+| Other companies | 700 |
 
 ### Big Tech & Frontier AI
 
@@ -32,9 +32,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-12 | **Apple** | [Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities](https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **Apple** | [Frontend Engineer, EE&P - IS&T Early Career](https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
+| 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
 | 2026-08-10 | **Amazon** | [Software Development Engineer - EKS - AWS Controllers for Kubernetes](https://www.amazon.jobs/jobs/10496265/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
+| 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
 
@@ -52,8 +54,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-11 | **Optiver** | [Graduate Software Engineer](https://www.jobleads.com/us/job/graduate-software-engineer--united-states--e8e9d5df9ca85fc05878f42bc743d173e) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a45729d971cd25b06f88dbb) | $200K/yr - $200K/yr | Austin, Texas, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a456a5f48d2f00f2a86d806) | $200K/yr - $200K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Quantitative Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573726002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
@@ -85,30 +87,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>255 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>263 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-13 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d12cedc3dff2d1c0ca9b5) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6cc83621355407acfae) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6ba83621355407acf93) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-13 | **TikTok** | [Backend Software Engineer Graduate (Creation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Foundation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Recommendation Architecture, Feeds Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d0fc283621355407ad59b) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start](https://jobright.ai/jobs/info/6a7d10c7dc3dff2d1c0ca935) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Media Engine) - 2027 Start](https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Backend Software Engineer Graduate (Creation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Foundation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Media Engine) - 2027 Start](https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **ByteDance** | [Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d12c583621355407ad653) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-13 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://us.jobrapido.com/jobpreview/686820089445482496) | $121600 - $243200 annually | United States | ❔ | ❔ Review | — |
-| 2026-08-12 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start](https://jobright.ai/jobs/info/6a7c2fdcd77e8156a8e31563) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-13 | **TikTok** | [LLM Post-training Engineer Graduate - Research & Product - 2027 Start](https://lifeattiktok.com/search/7670285949976201477) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 
-_Showing 12 of 255 active roles. Use the Job Radar for all roles._
+_Showing 12 of 263 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1070 active roles**. Featured groups account for **129** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1093 active roles**. Featured groups account for **130** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
