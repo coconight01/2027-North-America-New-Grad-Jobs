@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-08-13",
+  "updated_at": "2026-08-14",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {
+      "company": "ByteDance",
+      "role": "Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start",
+      "status": "Applied",
+      "applied_date": "2026-08-13",
+      "status_date": "2026-08-13",
+      "confidence": "Exact",
+      "evidence": "ByteDance recruiting confirmation names the exact Seed AI Foundation Model Infrastructure role",
+      "next_action": "Wait for internal/recruiting response; this appears to use the second Jul-Dec Early Career application slot, so keep all additional ByteDance/TikTok roles on hold"
+    },
     {
       "company": "ByteDance",
       "role": "Machine Learning Backend Engineer Graduate (AML MLDev) - 2027 Start",
@@ -165,12 +175,12 @@
     {
       "company": "Jane Street",
       "role": "Software Engineer / role uncertain",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-08-09",
-      "status_date": "2026-08-09",
+      "status_date": "2026-08-13",
       "confidence": "Company-only",
-      "evidence": "Jane Street confirmed resume/application receipt; email did not name the exact role",
-      "next_action": "Wait for review"
+      "evidence": "Jane Street company-level application history followed by an explicit rejection email; exact requisition remains uncertain",
+      "next_action": "Closed for the current company-level application; do not assume which exact Jane Street requisition was rejected"
     },
     {
       "company": "Crusoe",
