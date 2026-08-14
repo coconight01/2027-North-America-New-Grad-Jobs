@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13",
+  "updated_at": "2026-08-14",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,71 +9,41 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "6 live, officially verified, likely-unapplied roles after Gmail reconciliation. Sentry, Apple AiDP Reliability, and Marshall Wace are the strongest newly actionable choices. FlexAI, Akuna Python, and Uber 300623 moved to Applied; ByteDance/TikTok remains on candidate-requested hold. Eventual is excluded from Apply Now because a recent application flow was observed but no confirmation email exists, so its status is uncertain rather than assumed unapplied.",
+  "summary": "No stronger eligible opening displaced yesterday's shortlist. Six officially live, likely-unapplied roles remain actionable, led by Sentry, Apple AiDP Reliability, and Marshall Wace. Gmail now confirms the ByteDance Seed AI Foundation Model Infrastructure submission and a Jane Street rejection. A newly surfaced GM inference role is an exceptional technical match but is not actionable for a May 2027 start because the official posting targets candidates completing by Spring/August 2026.",
   "changes_today": [
     {
-      "type": "added",
-      "company": "Sentry",
-      "role": "Software Engineer, New Grad (2027)",
-      "reason": "Exact official careers page is live and accepting applications. The infrastructure match uses Python, Rust, Kafka, ClickHouse and Kubernetes to ingest, store and index terabytes daily; request Infrastructure rather than frontend-heavy Product."
-    },
-    {
-      "type": "added",
-      "company": "Apple",
-      "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
-      "reason": "Official role 200677645-0157 was posted August 12, 2026 and is accepting resumes. It directly covers ML, GenAI, inference and data platforms plus distributed systems and reliability."
-    },
-    {
-      "type": "added",
-      "company": "Marshall Wace",
-      "role": "Software/Infrastructure Graduate - 2027 - New York",
-      "reason": "Live official graduate requisition, September 6, 2027 start, $150,000 base plus bonus, and rotations across software/infrastructure teams."
-    },
-    {
-      "type": "removed_from_apply_now",
-      "company": "FlexAI",
-      "role": "Software Engineer, New Grad",
-      "reason": "Gmail confirms an exact application on August 12, 2026."
-    },
-    {
-      "type": "removed_from_apply_now",
-      "company": "Akuna Capital",
-      "role": "Software Engineer (Entry-Level) - Python",
-      "reason": "Gmail confirms an exact application on August 12, 2026."
-    },
-    {
-      "type": "removed_from_apply_now",
-      "company": "Uber",
-      "role": "Software Engineer I - 300623",
-      "reason": "Gmail confirms an exact application on August 12, 2026."
-    },
-    {
-      "type": "demoted_to_status_review",
-      "company": "Eventual",
-      "role": "Software Engineer, New Grad",
-      "reason": "A recent application flow was observed, but Gmail has no confirmation. Preserve uncertainty and avoid a duplicate submission."
+      "type": "application_confirmed",
+      "company": "ByteDance",
+      "role": "Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start",
+      "reason": "Gmail confirmation names the exact role and confirms the August 13 submission. This appears to consume the second Jul-Dec Early Career slot; all further ByteDance/TikTok roles remain on hold."
     },
     {
       "type": "status_update",
-      "company": "Aquatic Capital",
-      "role": "Software Engineer, Early Career",
-      "reason": "Gmail confirms rejection on August 12, 2026; employer asked to wait one year before reconnecting."
+      "company": "Jane Street",
+      "role": "Exact requisition uncertain",
+      "reason": "Gmail contains an explicit company-level rejection dated August 13. The tracker preserves role uncertainty rather than assigning the rejection to a guessed requisition."
     },
     {
-      "type": "status_update",
+      "type": "deadline_reminder",
       "company": "Weekday / Mercor",
       "role": "Machine Learning Engineer Model Expert",
-      "reason": "Moved to Interview/next step. The 20-minute Mercor AI interview is due within 48 hours of the August 13 email."
+      "reason": "A follow-up again requests the 20-minute AI interview; complete it within 48 hours of the original August 13 email and then notify Weekday."
     },
     {
-      "type": "status_update",
-      "company": "清程极智",
-      "role": "大模型推理加速优化工程师",
-      "reason": "Video interview confirmed for August 18, 2026 at 11:00 China Standard Time."
+      "type": "reviewed_not_promoted",
+      "company": "General Motors",
+      "role": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
+      "reason": "Technically one of the best MLSys matches found, but the official posting says candidates must complete their degree by Spring/August 2026. It is not a May 2027-start opportunity."
     },
     {
-      "type": "pipeline_fix",
-      "reason": "Third-party job-list visa/closure icons and 2027-source labeling are now retained only as unverified discovery hints; they no longer directly establish sponsorship, freshness, or employer eligibility."
+      "type": "reviewed_not_promoted",
+      "company": "Appian",
+      "role": "Software Engineer (2027 Graduates)",
+      "reason": "Official posting explicitly says Appian will not sponsor a new applicant for employment authorization; hard visa veto despite the $115k-$118k range."
+    },
+    {
+      "type": "source_review",
+      "reason": "No newly discovered public repository added enough distinct official-link signal to justify another adapter. Existing speedyapply, vanshb03, zapply and Jobright coverage remains sufficient."
     }
   ],
   "recommendations": [
@@ -188,16 +158,20 @@
   ],
   "source_discovery_today": [
     {
-      "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
-      "assessment": "Active and already integrated, but today's Nuro ML Infrastructure row illustrates source-only eligibility noise. The exact official Nuro board did not verify it as new grad, so it was not promoted."
+      "repository": "speedyapply/2027-AI-College-Jobs and 2027-SWE-College-Jobs",
+      "assessment": "Updated today and already integrated. It surfaced GM's inference role, but official review found a 2026 degree-completion cutoff, demonstrating why source-list placement is discovery only."
     },
     {
       "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Active 2027 discovery source with official links, but substantially overlaps existing feeds; no distinct high-signal adapter justified today."
+      "assessment": "Still active with US/Canada/remote coverage, but largely duplicates current inputs and does not justify a new adapter."
     },
     {
-      "repository": "zapplyjobs 2027 collections and Jobright feeds",
-      "assessment": "Still useful for breadth and already integrated; duplicates and eligibility noise require exact employer verification."
+      "repository": "SimplifyJobs/New-Grad-Positions and zapplyjobs 2027 collections",
+      "assessment": "Active broad sources with substantial overlap and mixed-cycle noise; retained as review/discovery references, not eligibility proof."
+    },
+    {
+      "repository": "northwesternfintech/2027QuantInternships",
+      "assessment": "Useful contextual quant directory but primarily internship-focused and sparse for verified 2027 full-time roles; not integrated into the full-time pipeline."
     }
   ],
   "watchlist": [
@@ -208,7 +182,7 @@
     },
     {
       "company": "TikTok / ByteDance",
-      "reason": "All roles remain on hold while Yuhan waits for an internal/contact response, including the confirmed August 12 AML MLDev application."
+      "reason": "All additional roles remain on hold. Gmail confirms both the AML MLDev application and the August 13 Seed AI Foundation Model Infrastructure application; the Jul-Dec Early Career quota appears fully used."
     },
     {
       "company": "Lightfield",
@@ -228,29 +202,29 @@
   ],
   "vetoed_today": [
     {
-      "company": "Palantir",
-      "role": "Software Engineer, New Grad - Infrastructure",
-      "reason": "Official posting requires an active US security clearance or eligibility and willingness to obtain one; hard veto."
+      "company": "General Motors",
+      "role": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
+      "reason": "Official exact posting requires degree completion by Spring/August 2026; start-cycle mismatch for a May 2027 MS graduate, despite excellent vLLM/inference/systems fit and a $119,250-$150,850 range."
+    },
+    {
+      "company": "Appian",
+      "role": "Software Engineer (2027 Graduates)",
+      "reason": "Official exact posting explicitly states it will not sponsor a new applicant for employment authorization."
+    },
+    {
+      "company": "Apple",
+      "role": "Applied AI & Data Engineer - Business & Education / iCloud Data",
+      "reason": "New August 13 posting requires 8+ years across data/software/ML engineering; senior in substance despite the non-senior title."
+    },
+    {
+      "company": "Apple",
+      "role": "ASE Observability",
+      "reason": "Official requirements call for roughly 10-15 years of industry experience; prestige and systems relevance do not make it early-career eligible."
     },
     {
       "company": "Cerebras",
       "role": "ML Software Engineer, Integration & Quality - New Grad",
       "reason": "Exact official requisition remains closed; cached results are not accepted."
-    },
-    {
-      "company": "Samsara",
-      "role": "Software Engineer I, New Grad",
-      "reason": "Official qualification is limited to current bachelor's seniors graduating Winter/Spring 2027; not a clean fit for a current master's student who already completed a bachelor's."
-    },
-    {
-      "company": "Nooks",
-      "role": "Software Engineer, New Grad",
-      "reason": "Product/full-stack role is React/TypeScript-heavy and conflicts with the no-frontend preference."
-    },
-    {
-      "company": "Retell AI",
-      "role": "Software Engineer (New Grad)",
-      "reason": "Official posting requires candidates to have already graduated."
     }
   ]
 }
