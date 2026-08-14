@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-14** · Open roles: **1096**
+> Last automated update: **2026-08-14** · Open roles: **1099**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 263 |
-| Other companies | 704 |
+| **ByteDance / TikTok** (separate) | 265 |
+| Other companies | 705 |
 
 ### Big Tech & Frontier AI
 
@@ -87,10 +87,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>263 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>265 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-14 | **TikTok** | [Product Strategist Graduate (Global Monetization Product and Technology) - 2027 Start (MBA)](https://jobright.ai/jobs/info/6a7e7e4cb56bea5779c063ab) | $76K/yr - $151K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-14 | **ByteDance** | [Research Scientist Graduate (Seed-LLM) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a734be332ebbc14ffb4e039) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-13 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d12cedc3dff2d1c0ca9b5) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6cc83621355407acfae) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -101,16 +103,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Foundation Platform) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start](https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-13 | **TikTok** | [Software Engineer Graduate (Media Engine) - 2027 Start](https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-13 | **ByteDance** | [Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d12c583621355407ad653) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-13 | **TikTok** | [LLM Post-training Engineer Graduate - Research & Product - 2027 Start](https://lifeattiktok.com/search/7670285949976201477) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 
-_Showing 12 of 263 active roles. Use the Job Radar for all roles._
+_Showing 12 of 265 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1096 active roles**. Featured groups account for **129** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1099 active roles**. Featured groups account for **129** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

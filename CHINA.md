@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-14** · Open roles: **112**
+> Last automated update: **2026-08-14** · Open roles: **114**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,8 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-08-14 | **StepFun (阶跃星辰)** | [后端研发工程师（MaaS服务）](https://app.mokahr.com/social-recruitment/step/94904#/job/f0ed8c48-3da6-42bf-b6ba-431c40aed062) | AI Infrastructure / Systems | 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-08-14 | **StepFun (阶跃星辰)** | [AI数据分析工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cc447774-4457-4260-b165-6ffac7c63e83) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-08-03 | **StepFun (阶跃星辰)** | [Coding系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/ca7bd190-2a13-422b-98d2-561caef5cf69) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-08-03 | **StepFun (阶跃星辰)** | [Coding评测工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/70035a78-ca37-417d-a86c-fce18376459e) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-07-28 | **Ubiquant (九坤)** | [【梧桐计划】Quantitative Risk Analyst](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/job/f3b2fbfe-4e46-49c1-80f1-64e513fe27a2) | Quantitative Finance | China | Full-time | Confirmed campus |
