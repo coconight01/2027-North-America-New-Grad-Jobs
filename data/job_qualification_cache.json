@@ -6573,12 +6573,12 @@
     "visa_evidence": "No H1B",
     "phd_required": "No",
     "salary": "$112K/yr - $149K/yr",
-    "salary_min_annual": "112000",
-    "salary_max_annual": "149000",
+    "salary_min_annual": 112000,
+    "salary_max_annual": 149000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
-    "parser_version": 3
+    "checked_at": "2026-08-15",
+    "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a42c124ff87fd527f9856fb": {
     "ng_confidence": "Confirmed",
@@ -13066,6 +13066,22 @@
     "salary_max_annual": 480000,
     "reject_reason": "",
     "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a8096d6b56bea5779c1379c": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
     "checked_at": "2026-08-15",
     "parser_version": 4
   },
@@ -23747,6 +23763,22 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://www.indeed.com/viewjob?jk=25ba43ee5b7c50c2": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://www.indeed.com/viewjob?jk=2da9fa07bdd0292f": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -24017,6 +24049,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-09",
+    "parser_version": 4
+  },
+  "https://www.indeed.com/viewjob?jk=484119fe8395f90d": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://www.indeed.com/viewjob?jk=484888d90b71ac71": {
@@ -24563,6 +24611,22 @@
     "reject_reason": "",
     "checked_at": "2026-08-03"
   },
+  "https://www.indeed.com/viewjob?jk=9854646760fc3754": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Graduate",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://www.indeed.com/viewjob?jk=98a3b834f6e5daf2": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -24747,6 +24811,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-14",
+    "parser_version": 4
+  },
+  "https://www.indeed.com/viewjob?jk=cb25d77fae962abc": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://www.indeed.com/viewjob?jk=cb4a79b3c7c30854": {
