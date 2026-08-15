@@ -6309,6 +6309,22 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://jobmesh.io/job/352651a0-c3e3-4dda-a4fa-82858f40adc6": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/69a956bb7f9271426f883dff": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -20377,6 +20393,22 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://tallo.com/talent/job/healthcare/veterinarian/2027-new-grad-veterinarian-w-293d05e1": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$100,000\u2013$120,000",
+    "salary_min_annual": "100000",
+    "salary_max_annual": "120000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring/job/USA---Any-Location-Remote/Associate--Full-Stack-Developer--Debug---Development_JR20921": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -22867,6 +22899,22 @@
     "checked_at": "2026-08-14",
     "parser_version": 4
   },
+  "https://www.glassdoor.com/job-listing/backend-software-engineer-graduate-platform-2027-start-bytedance-JV_KO0,54_KE55,64.htm?jl=1010218772267": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://www.google.com/about/careers/applications/jobs/results/113074906505061062": {
     "ng_confidence": "Not NG",
     "ng_evidence": "non-entry title/level: Manager",
@@ -24537,6 +24585,22 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://www.linkedin.com/jobs/view/2027-early-career-software-engineer-at-anduril-industries-4427643568": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Early Career",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$112,000\u2013$149,000",
+    "salary_min_annual": "112000",
+    "salary_max_annual": "149000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-graduate-aml-ark-us-2027-start-at-bytedance-4448785094": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -24600,6 +24664,22 @@
     "source_fetched": true,
     "checked_at": "2026-08-04",
     "parser_version": 3
+  },
+  "https://www.linkedin.com/jobs/view/research-engineer-new-grad-2027-at-applied-intuition-4453756652": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$140,000.00\u2013$250,000.00",
+    "salary_min_annual": "140000",
+    "salary_max_annual": "250000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
   },
   "https://www.linkedin.com/jobs/view/student-researcher-ai-foundation-model-infrastructure-seed-2027-start-phd-at-bytedance-4436767869": {
     "ng_confidence": "Confirmed",
@@ -24993,6 +25073,38 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-14",
+    "parser_version": 4
+  },
+  "https://www.tealhq.com/job/new-grad-returning-planner-i-ned-summer-2027_7ea1a381cfcfeb2209af31d12f11e425c3c7f": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$59,362\u2013$102,399",
+    "salary_min_annual": "59362",
+    "salary_max_annual": "102399",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
+  "https://www.theladders.com/job/analyst-generalist-2027-start-date-analysis-group-inc-denver-co_88265707": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "appears to require 5+ years prior work experience",
+    "experience_requirement": "5 years of experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$150K \u2014 $225K",
+    "salary_min_annual": 150000,
+    "salary_max_annual": 225000,
+    "reject_reason": "appears to require 5+ years prior work experience",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730": {
