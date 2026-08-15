@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-15",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {
+      "company": "Sentry",
+      "role": "Software Engineer, New Grad (2027)",
+      "status": "Applied",
+      "applied_date": "2026-08-14",
+      "status_date": "2026-08-14",
+      "confidence": "Exact",
+      "evidence": "Ashby application confirmation names the exact Software Engineer, New Grad (2027) role",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Marshall Wace",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-14",
+      "status_date": "2026-08-14",
+      "confidence": "Company-only",
+      "evidence": "Greenhouse application confirmation names Marshall Wace but does not name the exact role",
+      "next_action": "Wait for review; do not infer the exact requisition from repository recommendations"
+    },
     {
       "company": "ByteDance",
       "role": "Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start",
@@ -57,10 +77,10 @@
       "role": "Machine Learning Engineer Model Expert",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-08-13",
+      "status_date": "2026-08-14",
       "confidence": "Exact",
-      "evidence": "Weekday founder email names the role and requests a 20-minute Mercor AI interview",
-      "next_action": "Complete AI interview within 48 hours of the 2026-08-13 email, then notify Weekday"
+      "evidence": "Weekday founder requested a 20-minute Mercor AI interview; candidate subsequently confirmed by email that the AI interview was completed",
+      "next_action": "AI interview completed; wait for Weekday/Mercor next-step response"
     },
     {
       "company": "清程极智",
