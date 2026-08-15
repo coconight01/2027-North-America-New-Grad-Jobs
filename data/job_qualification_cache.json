@@ -1985,6 +1985,22 @@
     "checked_at": "2026-08-12",
     "parser_version": 4
   },
+  "https://ca.indeed.com/viewjob?jk=fb24b1c192d5099e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/DevOps-Engineer---Junior_327971": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -7627,19 +7643,35 @@
     "checked_at": "2026-08-03",
     "parser_version": 2
   },
-  "https://jobright.ai/jobs/info/6a6260db07e15f1ab0e45e6b": {
+  "https://jobright.ai/jobs/info/6a625fd307e15f1ab0e45dc9": {
     "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$90K/yr - $95K/yr",
+    "salary_min_annual": 90000,
+    "salary_max_annual": 95000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a6260db07e15f1ab0e45e6b": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$115K/yr - $118K/yr",
+    "salary_min_annual": 115000,
+    "salary_max_annual": 118000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-08-15",
     "parser_version": 4
   },
@@ -12365,6 +12397,22 @@
     "checked_at": "2026-08-13",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a7df555b56bea5779c02a4e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$76K/yr - $114K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 114000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a7e2aa5e2030208f2767fc6": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry Level",
@@ -12397,6 +12445,22 @@
     "checked_at": "2026-08-14",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a7e4f2ae51a1e18a240d39c": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$69K/yr - $104K/yr",
+    "salary_min_annual": 69000,
+    "salary_max_annual": 104000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a7e560bb56bea5779c051e3": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -12411,6 +12475,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-08-14",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a7e5d43ad9ff00c26baaad6": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$76K/yr - $114K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 114000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e62b80cd4a0703257f81b": {
@@ -12677,11 +12757,11 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$135K/yr - $155K/yr",
+    "salary_min_annual": 135000,
+    "salary_max_annual": 155000,
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-15",
     "parser_version": 4
   },
@@ -13051,6 +13131,22 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -13065,6 +13161,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-14",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/applied/c3543196-e23c-4f4b-b460-fca476ffead6": {
@@ -19369,6 +19481,22 @@
     "checked_at": "2026-08-14",
     "parser_version": 4
   },
+  "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/January-2027---Risk-Services---Sustainability-Reporting---Assurance--CPA----Full-time---Vancouver_752365WD": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Assurance-CPA---Full-time---Vancouver_748625WD": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -19383,6 +19511,38 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-10",
+    "parser_version": 4
+  },
+  "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Risk-Services---Sustainability-Reporting---Assurance--CPA----Full-time---Vancouver_752562WD": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
+  "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Tax-Services---Indirect-Tax--Non-CPA----Full-time---Vancouver_752359WD": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://quantiphi.wd1.myworkdayjobs.com/en-US/careers_at_quantiphi/job/USA---Remote/Architect-ML---AI-Researcher_JR10634": {
@@ -23515,6 +23675,22 @@
     "checked_at": "2026-08-14",
     "parser_version": 4
   },
+  "https://www.indeed.com/viewjob?jk=6a73985c951272ab": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
   "https://www.indeed.com/viewjob?jk=6b9c1bd2fa47b4ff": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -23700,6 +23876,22 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "checked_at": "2026-08-03"
+  },
+  "https://www.indeed.com/viewjob?jk=818f7a792197e9f2": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
+    "parser_version": 4
   },
   "https://www.indeed.com/viewjob?jk=82b5d6262156cb22": {
     "ng_confidence": "Uncertain",
@@ -24027,6 +24219,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-13",
+    "parser_version": 4
+  },
+  "https://www.indeed.com/viewjob?jk=ebe8d0eebf91753c": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-15",
     "parser_version": 4
   },
   "https://www.indeed.com/viewjob?jk=ef8df2cfd5db81e0": {
