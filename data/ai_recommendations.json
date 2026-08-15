@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-15",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,64 +9,82 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "No stronger eligible opening displaced yesterday's shortlist. Six officially live, likely-unapplied roles remain actionable, led by Sentry, Apple AiDP Reliability, and Marshall Wace. Gmail now confirms the ByteDance Seed AI Foundation Model Infrastructure submission and a Jane Street rejection. A newly surfaced GM inference role is an exceptional technical match but is not actionable for a May 2027 start because the official posting targets candidates completing by Spring/August 2026.",
+  "summary": "Two strong newly opened, officially live roles now lead the unapplied shortlist: Applied Intuition Research Engineer - New Grad (2027) and Micron New College Grad - AI Innovation Research Engineer. Sentry is removed because Gmail confirms an August 14 application; Marshall Wace is removed because Gmail confirms a company-level application. Mercor's AI interview was completed and Weekday was notified on August 14. Existing Apple, Genmo, Twitch, Crusoe and Cerebras openings remain live or accepting applications, with caveats below.",
   "changes_today": [
     {
+      "type": "new_opening",
+      "company": "Applied Intuition",
+      "role": "Research Engineer - New Grad (2027)",
+      "reason": "Official Applied Intuition careers page and exact Ashby requisition are live on August 15. Python, PyTorch and distributed machine learning are unusually close to Yuhan's training/inference systems background; official base range is $140k-$200k plus equity."
+    },
+    {
+      "type": "new_opening",
+      "company": "Micron Technology",
+      "role": "New College Grad - AI Innovation Research Engineer",
+      "reason": "Official Micron requisition JR108594 was posted August 15 and its application flow is live. The work covers GenAI/agentic AI research, evaluation and proof-of-concept development; employer-posted range is $113k-$242k."
+    },
+    {
       "type": "application_confirmed",
-      "company": "ByteDance",
-      "role": "Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start",
-      "reason": "Gmail confirmation names the exact role and confirms the August 13 submission. This appears to consume the second Jul-Dec Early Career slot; all further ByteDance/TikTok roles remain on hold."
+      "company": "Sentry",
+      "role": "Software Engineer, New Grad (2027)",
+      "reason": "Gmail exact-role confirmation shows an August 14 application; removed from Apply Now."
     },
     {
-      "type": "status_update",
-      "company": "Jane Street",
+      "type": "application_confirmed",
+      "company": "Marshall Wace",
       "role": "Exact requisition uncertain",
-      "reason": "Gmail contains an explicit company-level rejection dated August 13. The tracker preserves role uncertainty rather than assigning the rejection to a guessed requisition."
+      "reason": "Gmail company-level Greenhouse confirmation dated August 14; removed from Apply Now without guessing the requisition."
     },
     {
-      "type": "deadline_reminder",
+      "type": "interview_completed",
       "company": "Weekday / Mercor",
       "role": "Machine Learning Engineer Model Expert",
-      "reason": "A follow-up again requests the 20-minute AI interview; complete it within 48 hours of the original August 13 email and then notify Weekday."
-    },
-    {
-      "type": "reviewed_not_promoted",
-      "company": "General Motors",
-      "role": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
-      "reason": "Technically one of the best MLSys matches found, but the official posting says candidates must complete their degree by Spring/August 2026. It is not a May 2027-start opportunity."
-    },
-    {
-      "type": "reviewed_not_promoted",
-      "company": "Appian",
-      "role": "Software Engineer (2027 Graduates)",
-      "reason": "Official posting explicitly says Appian will not sponsor a new applicant for employment authorization; hard visa veto despite the $115k-$118k range."
+      "reason": "Gmail Sent confirms Yuhan completed the Mercor AI interview and notified Amit on August 14. This remains a short-term W-2 project, not a 2027 full-time recommendation."
     },
     {
       "type": "source_review",
-      "reason": "No newly discovered public repository added enough distinct official-link signal to justify another adapter. Existing speedyapply, vanshb03, zapply and Jobright coverage remains sufficient."
+      "reason": "Today's new entries came through already integrated speedyapply 2027 AI/SWE sources and were promoted only after exact official-link verification. No additional public repository added enough distinct signal to justify a new adapter."
     }
   ],
   "recommendations": [
     {
       "rank": 1,
       "category": "NEW TODAY / RECENT",
-      "company": "Sentry",
-      "role": "Software Engineer, New Grad (2027)",
-      "location": "San Francisco, CA (hybrid)",
-      "salary": "$145,000-$150,000 base + equity",
-      "fit": "Excellent infrastructure / high-volume distributed data systems",
-      "plausible_for_yuhan": "The official role accepts a BS or higher plus one internship and values Python, algorithms and production ownership; this matches her MSCS, TikTok internship and Python/Linux systems work.",
-      "team_value": "The Infrastructure track's Python, Rust, Kafka, ClickHouse and Kubernetes stack should value distributed-systems research, model-serving infrastructure and performance work.",
-      "why_attractive": "True 2027 new-grad scope with production infrastructure operating at terabyte-per-day scale.",
-      "new_grad": "Official exact title says New Grad (2027), and both the careers listing and application link are live.",
-      "sponsorship": "Not stated on the official posting; no explicit no-sponsorship veto found. OPT/future sponsorship must be answered truthfully.",
-      "urgency": "Apply first and explicitly prefer Infrastructure Engineering.",
-      "caveat": "Team matching can also place candidates on a TypeScript/React product team; state infrastructure/backend preference clearly.",
-      "application_limit": "No special cap found.",
-      "url": "https://sentry.io/careers/5c3196c7-f3d6-4dba-9c41-c886df4b2421/"
+      "company": "Applied Intuition",
+      "role": "Research Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA (onsite)",
+      "salary": "$140,000-$200,000 base + equity",
+      "fit": "Excellent Python/PyTorch/distributed-ML fit; physical-AI domain is adjacent rather than identical",
+      "plausible_for_yuhan": "The exact new-grad role values Python, PyTorch, computer vision/robotics systems and distributed machine-learning models. Her MS research, distributed training/inference and production AI work cover the systems half strongly.",
+      "team_value": "Multi-GPU, NCCL, model-loading and runtime optimization evidence can translate directly to scaling physical-AI training and evaluation workloads.",
+      "why_attractive": "High-pay 2027 new-grad research engineering at the infrastructure layer of a leading physical-AI company.",
+      "new_grad": "Official exact title says New Grad (2027); company careers listing and Ashby application are live on August 15, 2026.",
+      "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship or citizenship veto found in the accessible official listing.",
+      "urgency": "Top application after the move; newly posted and likely to attract heavy volume.",
+      "caveat": "Computer vision/robotics evidence is weaker than MLSys evidence. Lead with distributed model systems, not old C++ contest work.",
+      "application_limit": "No published cap found.",
+      "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
     },
     {
       "rank": 2,
+      "category": "NEW TODAY / RECENT",
+      "company": "Micron Technology",
+      "role": "New College Grad - AI Innovation Research Engineer",
+      "location": "San Jose, CA",
+      "salary": "$113,000-$242,000 employer-posted range",
+      "fit": "Strong GenAI/agentic-AI research and applied prototyping; less directly inference/runtime",
+      "plausible_for_yuhan": "Official new-college-grad scope plus preferred GenAI, ML, agentic AI and intelligent-systems research aligns with her MS research and production AI-agent engineering.",
+      "team_value": "She can bring rigorous systems experimentation and model-serving awareness to evaluating emerging AI technologies and building proof-of-concepts.",
+      "why_attractive": "Fresh NCG opening with a high salary ceiling and research-to-production scope rather than hardware design.",
+      "new_grad": "Official exact title says New College Grad; requisition JR108594 and its apply flow are live on August 15, 2026.",
+      "sponsorship": "Not stated on the exact posting; Micron sponsorship history is not proof for this requisition, so answer OPT/future sponsorship truthfully.",
+      "urgency": "Apply promptly; posted today.",
+      "caveat": "The role is broader AI innovation/PoC work, not a dedicated distributed-inference team. Confirm May 2027 start timing if contacted.",
+      "application_limit": "No published cap found.",
+      "url": "https://careers.micron.com/careers/job/43815479-new-college-grad-ai-innovation-research-engineer-san-jose-california-united-states-of-america?domain=micron.com"
+    },
+    {
+      "rank": 3,
       "category": "NEW TODAY / RECENT",
       "company": "Apple",
       "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
@@ -82,24 +100,6 @@
       "caveat": "A different Apple Siri requisition is already active; submit only this highly differentiated role and avoid broad Apple spraying.",
       "application_limit": "No published cap found; keep this as the single additional targeted Apple application.",
       "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities"
-    },
-    {
-      "rank": 3,
-      "category": "NEW TODAY / RECENT",
-      "company": "Marshall Wace",
-      "role": "Software/Infrastructure Graduate - 2027 - New York",
-      "location": "New York, NY",
-      "salary": "$150,000 base + discretionary bonus",
-      "fit": "Strong broad software/infrastructure plus quant-industry upside",
-      "plausible_for_yuhan": "The graduate program is designed for 2027 entrants and rewards algorithms, software engineering and infrastructure breadth rather than prior finance experience.",
-      "team_value": "Rotations across up to six technology teams can use her distributed-systems, Python/Linux and competitive-programming strengths.",
-      "why_attractive": "High-pay structured graduate training inside a quantitative investment firm, with multiple chances to land on systems/infrastructure work.",
-      "new_grad": "Official exact 2027 graduate posting is live; start date is September 6, 2027.",
-      "sponsorship": "The application asks about authorization/sponsorship, but the posting does not promise sponsorship or state a no-sponsorship veto.",
-      "urgency": "Apply after Sentry and Apple if willing to accept broader rotations.",
-      "caveat": "Less directly ML-systems-specific, and future sponsorship remains unknown.",
-      "application_limit": "Marshall Wace instructs candidates to apply to only one role/location; choose New York and do not submit duplicates.",
-      "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002"
     },
     {
       "rank": 4,
@@ -121,6 +121,24 @@
     },
     {
       "rank": 5,
+      "category": "NEW TODAY / RECENT",
+      "company": "Twitch",
+      "role": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "salary": "$127,100-$185,000 base + sign-on + RSUs",
+      "fit": "Strong scalable backend/services; weaker direct ML-systems overlap",
+      "plausible_for_yuhan": "The official role asks for a CS degree, algorithms/data modeling, AWS and 1+ year as a software engineer. Her TikTok internship and substantial systems work make this plausible, though the experience wording is a caveat.",
+      "team_value": "Production ownership, distributed backend experience and algorithms are relevant to high-scale creator payments services.",
+      "why_attractive": "Elite consumer-scale backend work with clear compensation and a live application.",
+      "new_grad": "Official title is Engineer I, not explicitly new grad; retained as early-career because requirements are entry-level in substance.",
+      "sponsorship": "The application explicitly asks about current/future immigration support but does not state a no-sponsorship veto.",
+      "urgency": "Apply after the two exact 2027 NCG roles and Apple.",
+      "caveat": "Payments is not ML infrastructure, and '1+ years as a software engineer' may be interpreted more strictly than internship/research experience.",
+      "application_limit": "Twitch is an Amazon subsidiary; avoid duplicate near-identical Twitch applications.",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
+    },
+    {
+      "rank": 6,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Crusoe",
       "role": "Software Engineer I, Storage",
@@ -138,7 +156,7 @@
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "category": "STRETCH",
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
@@ -176,11 +194,6 @@
   ],
   "watchlist": [
     {
-      "company": "Eventual",
-      "role": "Software Engineer, New Grad",
-      "reason": "Recent application flow observed but no Gmail confirmation; status is uncertain. Do not reapply until tracker is manually reconciled."
-    },
-    {
       "company": "TikTok / ByteDance",
       "reason": "All additional roles remain on hold. Gmail confirms both the AML MLDev application and the August 13 Seed AI Foundation Model Infrastructure application; the Jul-Dec Early Career quota appears fully used."
     },
@@ -201,6 +214,16 @@
     }
   ],
   "vetoed_today": [
+    {
+      "company": "Anduril Industries",
+      "role": "2027 Early Career Software Engineer",
+      "reason": "Official posting requires U.S. Person status due to export-controlled access and may require clearance; hard work-authorization veto."
+    },
+    {
+      "company": "Applied Intuition",
+      "role": "Vehicle Test Engineer - New Grad (2027)",
+      "reason": "Official $90k-$115k range and test/vehicle focus are materially weaker than the Research Engineer role; not promoted."
+    },
     {
       "company": "General Motors",
       "role": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
