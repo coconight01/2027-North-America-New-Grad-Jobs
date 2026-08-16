@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-16** · Open roles: **1185**
+> Last automated update: **2026-08-16** · Open roles: **1187**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,11 +18,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 62 |
+| **Big Tech & Frontier AI** | 63 |
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 279 |
+| **ByteDance / TikTok** (separate) | 280 |
 | Other companies | 779 |
 
 ### Big Tech & Frontier AI
@@ -31,8 +31,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-08-15 | **Amazon** | [Software Dev Engineer](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
+| 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
+| 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
@@ -85,11 +87,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>279 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>280 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-16 | **TikTok** | [Data Knowledge System Research Scientist Graduate (Data Platform-Global Live) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a55c0da14f1040fa611b786) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-08-16 | **ByteDance** | [Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a6b7edfacb0a61f9dbc12d5) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a8042c2e2030208f2773d59) | $207K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a8042c0b56bea5779c11f8d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **TikTok** | [Software Engineer Graduate (Ads Infra) - 2027 Start](https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -100,15 +103,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-15 | **ByteDance** | [Software Development Engineer-AI/LLM Network-Global Frontier Tech Research Program-2027 Start](https://jobright.ai/jobs/info/6a8042ce927c79391ad0fc7e) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8042b3e51a1e18a2418650) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **TikTok** | [Data Scientist - PGC - TikTok](https://lifeattiktok.com/search/7673215338318367029) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
-| 2026-08-15 | **Bytedance** | [Machine Learning Backend Engineer Graduate (AML MLDev) - 2027 Start](https://jobmesh.io/job/352651a0-c3e3-4dda-a4fa-82858f40adc6) | Not listed | Kentucky | ❔ | ❔ Review | — |
 
-_Showing 12 of 279 active roles. Use the Job Radar for all roles._
+_Showing 12 of 280 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1185 active roles**. Featured groups account for **127** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1187 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
