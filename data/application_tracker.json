@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15",
+  "updated_at": "2026-08-16",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
     {
@@ -14,13 +14,13 @@
     },
     {
       "company": "Marshall Wace",
-      "role": "Role uncertain",
-      "status": "Applied",
+      "role": "Software/Infrastructure Graduate - 2027 - New York",
+      "status": "Rejected",
       "applied_date": "2026-08-14",
-      "status_date": "2026-08-14",
-      "confidence": "Company-only",
-      "evidence": "Greenhouse application confirmation names Marshall Wace but does not name the exact role",
-      "next_action": "Wait for review; do not infer the exact requisition from repository recommendations"
+      "status_date": "2026-08-16",
+      "confidence": "Exact",
+      "evidence": "Greenhouse rejection names the exact Software/Infrastructure Graduate - 2027 - New York role and says the application will not move forward",
+      "next_action": "Closed"
     },
     {
       "company": "ByteDance",
