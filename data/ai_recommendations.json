@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15",
+  "updated_at": "2026-08-16",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,41 +9,27 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "Two strong newly opened, officially live roles now lead the unapplied shortlist: Applied Intuition Research Engineer - New Grad (2027) and Micron New College Grad - AI Innovation Research Engineer. Sentry is removed because Gmail confirms an August 14 application; Marshall Wace is removed because Gmail confirms a company-level application. Mercor's AI interview was completed and Weekday was notified on August 14. Existing Apple, Genmo, Twitch, Crusoe and Cerebras openings remain live or accepting applications, with caveats below.",
+  "summary": "One newly opened, officially verified role is strong enough to add: Amazon Software Development Engineer, Early Career - 2027, Device - Shenzhen. It explicitly targets October 2026-July 2027 graduates and includes cloud-native microservices and resilient distributed systems. No stronger new US ML-systems opening displaced Applied Intuition, Micron or Apple. Gmail also confirms an exact-role Marshall Wace rejection dated August 16.",
   "changes_today": [
     {
       "type": "new_opening",
-      "company": "Applied Intuition",
-      "role": "Research Engineer - New Grad (2027)",
-      "reason": "Official Applied Intuition careers page and exact Ashby requisition are live on August 15. Python, PyTorch and distributed machine learning are unusually close to Yuhan's training/inference systems background; official base range is $140k-$200k plus equity."
+      "company": "Amazon",
+      "role": "Software Development Engineer, Early Career - 2027, Device - Shenzhen",
+      "reason": "Official Amazon job 10501875 is live and accepting applications. It explicitly accepts October 2026-July 2027 graduates and emphasizes cloud-native microservices, scalable/fault-tolerant distributed systems, Python/other general-purpose languages, GenAI tools and production troubleshooting."
     },
     {
-      "type": "new_opening",
-      "company": "Micron Technology",
-      "role": "New College Grad - AI Innovation Research Engineer",
-      "reason": "Official Micron requisition JR108594 was posted August 15 and its application flow is live. The work covers GenAI/agentic AI research, evaluation and proof-of-concept development; employer-posted range is $113k-$242k."
-    },
-    {
-      "type": "application_confirmed",
-      "company": "Sentry",
-      "role": "Software Engineer, New Grad (2027)",
-      "reason": "Gmail exact-role confirmation shows an August 14 application; removed from Apply Now."
-    },
-    {
-      "type": "application_confirmed",
+      "type": "rejection",
       "company": "Marshall Wace",
-      "role": "Exact requisition uncertain",
-      "reason": "Gmail company-level Greenhouse confirmation dated August 14; removed from Apply Now without guessing the requisition."
+      "role": "Software/Infrastructure Graduate - 2027 - New York",
+      "reason": "The August 16 Greenhouse email names the exact role and says the application will not move forward. Tracker confidence is upgraded from company-only to exact."
     },
     {
-      "type": "interview_completed",
-      "company": "Weekday / Mercor",
-      "role": "Machine Learning Engineer Model Expert",
-      "reason": "Gmail Sent confirms Yuhan completed the Mercor AI interview and notified Amit on August 14. This remains a short-term W-2 project, not a 2027 full-time recommendation."
+      "type": "official_link_audit",
+      "reason": "Applied Intuition, Micron, Apple, Genmo, Twitch, Crusoe and Cerebras exact employer/ATS pages were rechecked on August 16 and still expose a live listing or application path."
     },
     {
       "type": "source_review",
-      "reason": "Today's new entries came through already integrated speedyapply 2027 AI/SWE sources and were promoted only after exact official-link verification. No additional public repository added enough distinct signal to justify a new adapter."
+      "reason": "Daily GitHub discovery again found speedyapply, vanshb03, zapplyjobs, Jobright and ambicuity as the active high-volume sources. Amazon Shenzhen was surfaced by an already integrated speedyapply international feed and promoted only after official verification; no new adapter added distinct enough signal to justify integration."
     }
   ],
   "recommendations": [
@@ -103,6 +89,24 @@
     },
     {
       "rank": 4,
+      "category": "NEW TODAY / RECENT",
+      "company": "Amazon",
+      "role": "Software Development Engineer, Early Career - 2027, Device",
+      "location": "Shenzhen, China",
+      "salary": "Not listed on the official posting",
+      "fit": "Strong general distributed-systems/backend fit; less directly ML infrastructure",
+      "plausible_for_yuhan": "The official posting accepts BS-or-higher graduates from October 2026 through July 2027 and asks for one general-purpose language, data structures/algorithms and project or internship experience. Her May 2027 MS, TikTok internship, Python and NOI background meet this cleanly.",
+      "team_value": "The team builds cloud-native microservices and resilient, scalable, fault-tolerant distributed systems; her distributed-systems research, Linux debugging and production experience should transfer well.",
+      "why_attractive": "A clearly eligible 2027 SDE-I path at an elite employer in an eligible mainland-China location, with end-to-end service ownership and GenAI tooling exposure.",
+      "new_grad": "Official exact title says Early Career - 2027; job 10501875 is live and states an October 2026-July 2027 graduation window.",
+      "sponsorship": "Mainland China is an eligible target market for Yuhan; the official posting does not state a separate work-permit restriction.",
+      "urgency": "Apply after Applied Intuition, Micron and the targeted Apple role; newly posted August 14 and now on Amazon's official graduate page.",
+      "caveat": "The 'Device' organization is software for smart-device products, not pure hardware, but it is broader backend/SDE work rather than a dedicated LLM inference team. Compensation is not listed.",
+      "application_limit": "Amazon application limits are not stated on this posting; avoid duplicative applications to near-identical China SDE roles.",
+      "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
+    },
+    {
+      "rank": 5,
       "category": "STRETCH",
       "company": "Genmo",
       "role": "Research Engineer (New Grad)",
@@ -120,7 +124,7 @@
       "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "category": "NEW TODAY / RECENT",
       "company": "Twitch",
       "role": "Software Engineer I, Payments",
@@ -138,7 +142,7 @@
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Crusoe",
       "role": "Software Engineer I, Storage",
@@ -156,7 +160,7 @@
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "category": "STRETCH",
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
@@ -176,20 +180,20 @@
   ],
   "source_discovery_today": [
     {
-      "repository": "speedyapply/2027-AI-College-Jobs and 2027-SWE-College-Jobs",
-      "assessment": "Updated today and already integrated. It surfaced GM's inference role, but official review found a 2026 degree-completion cutoff, demonstrating why source-list placement is discovery only."
+      "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
+      "assessment": "Updated daily and already integrated. The international feed surfaced Amazon Shenzhen; official review confirmed a precise 2027 graduation window and distributed-systems responsibilities."
     },
     {
       "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Still active with US/Canada/remote coverage, but largely duplicates current inputs and does not justify a new adapter."
+      "assessment": "Still active, but US/Canada/remote coverage substantially overlaps existing sources and Canada entries need separate visa proof."
     },
     {
-      "repository": "SimplifyJobs/New-Grad-Positions and zapplyjobs 2027 collections",
-      "assessment": "Active broad sources with substantial overlap and mixed-cycle noise; retained as review/discovery references, not eligibility proof."
+      "repository": "zapplyjobs 2027 collections and jobright-ai new-grad feeds",
+      "assessment": "High-volume and current but noisy; retained for discovery only because many rows are non-technical, stale-cycle or misclassified."
     },
     {
-      "repository": "northwesternfintech/2027QuantInternships",
-      "assessment": "Useful contextual quant directory but primarily internship-focused and sparse for verified 2027 full-time roles; not integrated into the full-time pipeline."
+      "repository": "ambicuity/New-Grad-Jobs and SimplifyJobs/New-Grad-Positions",
+      "assessment": "Active broad sources, but current incremental results were duplicates or lacked exact 2027 eligibility; no new adapter needed."
     }
   ],
   "watchlist": [
@@ -249,5 +253,6 @@
       "role": "ML Software Engineer, Integration & Quality - New Grad",
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
-  ]
+  ],
+  "official_links_verified_at": "2026-08-16"
 }
