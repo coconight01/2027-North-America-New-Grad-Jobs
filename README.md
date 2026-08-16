@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-15** · Open roles: **1187**
+> Last automated update: **2026-08-16** · Open roles: **1187**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -91,6 +91,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-16 | **TikTok** | [Data Knowledge System Research Scientist Graduate (Data Platform-Global Live) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a55c0da14f1040fa611b786) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a8042c2e2030208f2773d59) | $207K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a8042c0b56bea5779c11f8d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **TikTok** | [Software Engineer Graduate (Ads Infra) - 2027 Start](https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -100,7 +101,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-15 | **ByteDance** | [Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8042b4927c79391ad0fc55) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Software Development Engineer-AI/LLM Network-Global Frontier Tech Research Program-2027 Start](https://jobright.ai/jobs/info/6a8042ce927c79391ad0fc7e) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8042b3e51a1e18a2418650) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-15 | **ByteDance** | [Software Engineer Graduate (Data-Intelligent Creation-AI Platform-Global Vision Engineering) - 2027 Start](https://jobright.ai/jobs/info/6a8096d6b56bea5779c1379c) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | — |
 | 2026-08-15 | **TikTok** | [Data Scientist - PGC - TikTok](https://lifeattiktok.com/search/7673215338318367029) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-08-15 | **Bytedance** | [Machine Learning Backend Engineer Graduate (AML MLDev) - 2027 Start](https://jobmesh.io/job/352651a0-c3e3-4dda-a4fa-82858f40adc6) | Not listed | Kentucky | ❔ | ❔ Review | — |
 
