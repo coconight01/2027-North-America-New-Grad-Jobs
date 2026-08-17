@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-17** · Open roles: **116**
+> Last automated update: **2026-08-17** · Open roles: **117**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -20,6 +20,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-24 | **StepFun (阶跃星辰)** | [大模型强化学习算法研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/a6e2e68f-7c88-47da-bb58-ddf261b71df7) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-07-20 | **StepFun (阶跃星辰)** | [Agent研发工程师（AIGC 漫剧方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/a05a5caf-06f7-4e7e-9cae-e75e6f6330f3) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-16 | **StepFun (阶跃星辰)** | [AI数据处理分析工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/8ce82f6a-f38c-4ab5-bc0d-869bb1f81ae4) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-07-16 | **StepFun (阶跃星辰)** | [测试开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c7207833-5893-4e01-b4b3-bd7a4a8352d4) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-15 | **NVIDIA China** | [【2027校园招聘】高性能计算工程师（多方向）](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/5eaec65d-4323-4d80-9f54-5c1eef36c56f) | AI Infrastructure / Systems | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |
 | 2026-07-15 | **NVIDIA China** | [【2027校园招聘】AI工程师（多方向）](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/9bad93b7-226a-40aa-9ba0-3637e3e7b6de) | AI / ML | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |
 | 2026-07-15 | **NVIDIA China** | [【2027校园招聘】软件工程师 - 自动驾驶方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/38855ab7-99cc-4d1c-86ed-f0426c2e65bd) | Software Engineering | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |

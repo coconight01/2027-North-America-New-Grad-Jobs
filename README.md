@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-17** · Open roles: **1201**
+> Last automated update: **2026-08-17** · Open roles: **1204**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 287 |
-| Other companies | 786 |
+| Other companies | 789 |
 
 ### Big Tech & Frontier AI
 
@@ -92,10 +92,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-17 | **ByteDance** | [Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start](https://bandana.com/jobs/1f6c0db4-ba2d-413b-bc81-604556edb473) | $58.30–$116.60/hr | Bellevue, WA | ❔ | ✅ Confirmed | — |
-| 2026-08-17 | **TikTok** | [Software Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start](https://tsenta.com/jobs/tiktok-software-engineer-graduate-tiktok-global-e-commerc-d2e5bd42-ad4a-4cb9-adc9-614aa8d60fee) | Not listed | United States | ❔ | ✅ Confirmed | — |
-| 2026-08-17 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start](https://jobright.ai/jobs/info/6a82c73a9b859b227766afaa) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-17 | **TikTok** | [Data Scientist Graduate (E-Commerce Governance) - 2027 Start](https://jobright.ai/jobs/info/6a82c74fb5a0ac0e84a22044) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-17 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start](https://jobright.ai/jobs/info/6a82c73a9b859b227766afaa) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-17 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start](https://jobright.ai/jobs/info/6a82c749b5a0ac0e84a22042) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-17 | **TikTok** | [Software Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start](https://tsenta.com/jobs/tiktok-software-engineer-graduate-tiktok-global-e-commerc-d2e5bd42-ad4a-4cb9-adc9-614aa8d60fee) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-08-17 | **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://bandana.com/jobs/32a7741a-5220-430e-aef1-3556bf55c62e) | $58.30–$116.60/hr | Bellevue, WA | ❔ | ❔ Review | — |
 | 2026-08-17 | **Bytedance** | [LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start Bachelor/Master Graduate [...]](https://www.jobleads.com/us/job/llm-backend-engineer-graduate-applied-machine-learning-2027-start-bachelor-master-graduate--san-jose--e6a9cba1d7b1d204c2368643be7e841db) | Not listed | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-08-16 | **TikTok** | [Data Knowledge System Research Scientist Graduate (Data Platform-Global Live) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a55c0da14f1040fa611b786) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -110,7 +110,7 @@ _Showing 12 of 287 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1201 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1204 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
