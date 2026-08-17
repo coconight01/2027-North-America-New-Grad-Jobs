@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-17** · Open roles: **1189**
+> Last automated update: **2026-08-17** · Open roles: **1194**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 63 |
+| **Big Tech & Frontier AI** | 61 |
 | **AI Infra / Systems** | 5 |
-| **Quant / HFT** | 43 |
+| **Quant / HFT** | 44 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 280 |
-| Other companies | 781 |
+| **ByteDance / TikTok** (separate) | 284 |
+| Other companies | 783 |
 
 ### Big Tech & Frontier AI
 
@@ -31,8 +31,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-08-15 | **Amazon** | [Software Dev Engineer](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
-| 2026-07-31 | **Google** | [Data Engineer - GCS Data Science](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) | $106000 - $151000 | New York City, NY +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
@@ -55,8 +53,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-15 | **Akuna Capital** | [Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7846695?gh_jid=7846695) | $191k/yr | Chicago, IL | ❔ | ❔ Review | — |
+| 2026-08-11 | **Optiver** | [Graduate Software Engineer](https://www.jobleads.com/us/job/graduate-software-engineer--united-states--e8e9d5df9ca85fc05878f42bc743d173e) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a45729d971cd25b06f88dbb) | $200K/yr - $200K/yr | Austin, Texas, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a456a5f48d2f00f2a86d806) | $200K/yr - $200K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-21 | **IMC Trading** | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-21 | **IMC Trading** | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | Not listed | Chicago, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Jane Street** | [Quantitative Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573726002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
@@ -87,10 +85,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>280 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>284 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-17 | **ByteDance** | [Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start](https://bandana.com/jobs/1f6c0db4-ba2d-413b-bc81-604556edb473) | $58.30–$116.60/hr | Bellevue, WA | ❔ | ✅ Confirmed | — |
+| 2026-08-17 | **TikTok** | [Software Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start](https://tsenta.com/jobs/tiktok-software-engineer-graduate-tiktok-global-e-commerc-d2e5bd42-ad4a-4cb9-adc9-614aa8d60fee) | Not listed | United States | ❔ | ✅ Confirmed | — |
+| 2026-08-17 | **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://bandana.com/jobs/32a7741a-5220-430e-aef1-3556bf55c62e) | $58.30–$116.60/hr | Bellevue, WA | ❔ | ❔ Review | — |
+| 2026-08-17 | **Bytedance** | [LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start Bachelor/Master Graduate [...]](https://www.jobleads.com/us/job/llm-backend-engineer-graduate-applied-machine-learning-2027-start-bachelor-master-graduate--san-jose--e6a9cba1d7b1d204c2368643be7e841db) | Not listed | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-08-16 | **TikTok** | [Data Knowledge System Research Scientist Graduate (Data Platform-Global Live) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a55c0da14f1040fa611b786) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-16 | **ByteDance** | [Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a6b7edfacb0a61f9dbc12d5) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-15 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a8042c2e2030208f2773d59) | $207K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
@@ -99,18 +101,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-15 | **TikTok** | [Global Product Strategy & Operation Graduate (Scaled Growth ) - 2027 Start](https://jobright.ai/jobs/info/6a7f600aad9ff00c26badce0) | $76K/yr - $128K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **TikTok** | [Product Solutions and Operations Graduate (Commerce Ads) - 2027 Start](https://jobright.ai/jobs/info/6a7f5f45b56bea5779c0a918) | $80K/yr - $122K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **TikTok** | [Research Scientist, World Models Graduate (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a52fc998ef95364ead90983) | $254K/yr - $588K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-15 | **ByteDance** | [Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8042b4927c79391ad0fc55) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-15 | **ByteDance** | [Software Development Engineer-AI/LLM Network-Global Frontier Tech Research Program-2027 Start](https://jobright.ai/jobs/info/6a8042ce927c79391ad0fc7e) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8042b3e51a1e18a2418650) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-15 | **TikTok** | [Data Scientist - PGC - TikTok](https://lifeattiktok.com/search/7673215338318367029) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
 
-_Showing 12 of 280 active roles. Use the Job Radar for all roles._
+_Showing 12 of 284 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1189 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1194 active roles**. Featured groups account for **127** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

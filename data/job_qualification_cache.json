@@ -1283,6 +1283,38 @@
     "checked_at": "2026-08-13",
     "parser_version": 4
   },
+  "https://bandana.com/jobs/1f6c0db4-ba2d-413b-bc81-604556edb473": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says new grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$58.30\u2013$116.60/hr",
+    "salary_min_annual": "121264",
+    "salary_max_annual": "242528",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-17",
+    "parser_version": 4
+  },
+  "https://bandana.com/jobs/32a7741a-5220-430e-aef1-3556bf55c62e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$58.30\u2013$116.60/hr",
+    "salary_min_annual": "121264",
+    "salary_max_annual": "242528",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-17",
+    "parser_version": 4
+  },
   "https://bandana.com/jobs/849cd8a3-4438-4fb2-a9d7-147b97e35b76": {
     "ng_confidence": "Not NG",
     "ng_evidence": "senior-level title: Distinguished",
@@ -20951,7 +20983,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-09",
+    "checked_at": "2026-08-17",
     "parser_version": 4
   },
   "https://tallo.com/talent/job/healthcare/veterinarian/2027-new-grad-veterinarian-w-293d05e1": {
@@ -21224,6 +21256,22 @@
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
     "checked_at": "2026-08-10",
+    "parser_version": 4
+  },
+  "https://tsenta.com/jobs/tiktok-software-engineer-graduate-tiktok-global-e-commerc-d2e5bd42-ad4a-4cb9-adc9-614aa8d60fee": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-17",
     "parser_version": 4
   },
   "https://unisys.wd5.myworkdayjobs.com/en-US/external/job/Remote-PA-United-States-of-America/Commercial-Strategy-Analyst_REQ572087": {
@@ -25354,6 +25402,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-11",
+    "parser_version": 4
+  },
+  "https://www.jobleads.com/us/job/llm-backend-engineer-graduate-applied-machine-learning-2027-start-bachelor-master-graduate--san-jose--e6a9cba1d7b1d204c2368643be7e841db": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-17",
     "parser_version": 4
   },
   "https://www.jobleads.com/us/job/ml-engineer-ads-tech-for-apps-gaming--san-jose--efaa6d058a76f802777387d2d265117bd": {
