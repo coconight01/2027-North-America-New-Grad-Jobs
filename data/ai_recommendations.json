@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16",
+  "updated_at": "2026-08-17",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,27 +9,25 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "One newly opened, officially verified role is strong enough to add: Amazon Software Development Engineer, Early Career - 2027, Device - Shenzhen. It explicitly targets October 2026-July 2027 graduates and includes cloud-native microservices and resilient distributed systems. No stronger new US ML-systems opening displaced Applied Intuition, Micron or Apple. Gmail also confirms an exact-role Marshall Wace rejection dated August 16.",
+  "summary": "No stronger new unapplied 2027 opening was found today. Gmail confirms four new applications: Micron AI Innovation Research Engineer, Qualcomm Machine Learning Engineer (3089336), NVIDIA Deep Learning Libraries NCG 2026 (JR2023252), and an AMD Software Development Engineer role whose exact requisition remains uncertain. Micron is removed from Apply Now; Applied Intuition, Apple AiDP Reliability and Amazon Shenzhen remain the top three unapplied choices. NVIDIA is an exceptional technical fit but remains application history only because the official title is explicitly NCG 2026.",
   "changes_today": [
     {
-      "type": "new_opening",
-      "company": "Amazon",
-      "role": "Software Development Engineer, Early Career - 2027, Device - Shenzhen",
-      "reason": "Official Amazon job 10501875 is live and accepting applications. It explicitly accepts October 2026-July 2027 graduates and emphasizes cloud-native microservices, scalable/fault-tolerant distributed systems, Python/other general-purpose languages, GenAI tools and production troubleshooting."
+      "type": "applications_reconciled",
+      "reason": "Exact Gmail confirmations add Micron New College Grad - AI Innovation Research Engineer, Qualcomm Machine Learning Engineer - College Graduate (3089336), and NVIDIA Software Engineer, Deep Learning Libraries - NCG 2026 (JR2023252). AMD is recorded conservatively because its confirmation omits the requisition and location."
     },
     {
-      "type": "rejection",
-      "company": "Marshall Wace",
-      "role": "Software/Infrastructure Graduate - 2027 - New York",
-      "reason": "The August 16 Greenhouse email names the exact role and says the application will not move forward. Tracker confidence is upgraded from company-only to exact."
+      "type": "recommendation_removed",
+      "company": "Micron Technology",
+      "role": "New College Grad - AI Innovation Research Engineer",
+      "reason": "Removed from Apply Now after exact application confirmation; preserved in the application tracker."
     },
     {
       "type": "official_link_audit",
-      "reason": "Applied Intuition, Micron, Apple, Genmo, Twitch, Crusoe and Cerebras exact employer/ATS pages were rechecked on August 16 and still expose a live listing or application path."
+      "reason": "Applied Intuition, Apple, Amazon Shenzhen, Genmo, Twitch, Crusoe and Cerebras exact employer/ATS pages were rechecked on August 17 and still expose a live listing or application path. NVIDIA JR2023252 is live through at least August 18 but remains a 2026-cycle application, not a 2027 recommendation."
     },
     {
       "type": "source_review",
-      "reason": "Daily GitHub discovery again found speedyapply, vanshb03, zapplyjobs, Jobright and ambicuity as the active high-volume sources. Amazon Shenzhen was surfaced by an already integrated speedyapply international feed and promoted only after official verification; no new adapter added distinct enough signal to justify integration."
+      "reason": "Daily GitHub discovery rechecked speedyapply, vanshb03, zapplyjobs, Jobright and ambicuity. The newly surfaced rows were duplicates, 2026-cycle, frontend, hardware, sponsorship-restricted or under-verified; no new adapter added distinct enough signal to justify integration."
     }
   ],
   "recommendations": [
@@ -44,33 +42,15 @@
       "plausible_for_yuhan": "The exact new-grad role values Python, PyTorch, computer vision/robotics systems and distributed machine-learning models. Her MS research, distributed training/inference and production AI work cover the systems half strongly.",
       "team_value": "Multi-GPU, NCCL, model-loading and runtime optimization evidence can translate directly to scaling physical-AI training and evaluation workloads.",
       "why_attractive": "High-pay 2027 new-grad research engineering at the infrastructure layer of a leading physical-AI company.",
-      "new_grad": "Official exact title says New Grad (2027); company careers listing and Ashby application are live on August 15, 2026.",
+      "new_grad": "Official exact title says New Grad (2027); Ashby listing and application path are live on August 17, 2026.",
       "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship or citizenship veto found in the accessible official listing.",
-      "urgency": "Top application after the move; newly posted and likely to attract heavy volume.",
+      "urgency": "Highest-priority unapplied role after today's reconciliation; apply after interview preparation.",
       "caveat": "Computer vision/robotics evidence is weaker than MLSys evidence. Lead with distributed model systems, not old C++ contest work.",
       "application_limit": "No published cap found.",
       "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
     },
     {
       "rank": 2,
-      "category": "NEW TODAY / RECENT",
-      "company": "Micron Technology",
-      "role": "New College Grad - AI Innovation Research Engineer",
-      "location": "San Jose, CA",
-      "salary": "$113,000-$242,000 employer-posted range",
-      "fit": "Strong GenAI/agentic-AI research and applied prototyping; less directly inference/runtime",
-      "plausible_for_yuhan": "Official new-college-grad scope plus preferred GenAI, ML, agentic AI and intelligent-systems research aligns with her MS research and production AI-agent engineering.",
-      "team_value": "She can bring rigorous systems experimentation and model-serving awareness to evaluating emerging AI technologies and building proof-of-concepts.",
-      "why_attractive": "Fresh NCG opening with a high salary ceiling and research-to-production scope rather than hardware design.",
-      "new_grad": "Official exact title says New College Grad; requisition JR108594 and its apply flow are live on August 15, 2026.",
-      "sponsorship": "Not stated on the exact posting; Micron sponsorship history is not proof for this requisition, so answer OPT/future sponsorship truthfully.",
-      "urgency": "Apply promptly; posted today.",
-      "caveat": "The role is broader AI innovation/PoC work, not a dedicated distributed-inference team. Confirm May 2027 start timing if contacted.",
-      "application_limit": "No published cap found.",
-      "url": "https://careers.micron.com/careers/job/43815479-new-college-grad-ai-innovation-research-engineer-san-jose-california-united-states-of-america?domain=micron.com"
-    },
-    {
-      "rank": 3,
       "category": "NEW TODAY / RECENT",
       "company": "Apple",
       "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
@@ -80,7 +60,7 @@
       "plausible_for_yuhan": "Python plus systems, OS/networking and open-source platform experience fit the early-career qualifications; Spark/Flink/Trino/Iceberg and Kubernetes exposure are preferred rather than deep modern C++.",
       "team_value": "Apple's Applied ML team builds ML, GenAI, inference and data platforms, making vLLM/model-loading, NCCL/multi-GPU and systems-optimization evidence directly relevant.",
       "why_attractive": "One of the rare elite-company early-career roles explicitly centered on production ML and inference platforms.",
-      "new_grad": "Official exact title says Early Career; role 200677645-0157 was posted August 12, 2026 and shows Submit Resume.",
+      "new_grad": "Official exact title says Early Career; role 200677645-0157 still shows Submit Resume on August 17, 2026.",
       "sponsorship": "Not stated; no explicit no-sponsorship language found.",
       "urgency": "Apply promptly with ML-platform/reliability bullets prioritized.",
       "caveat": "A different Apple Siri requisition is already active; submit only this highly differentiated role and avoid broad Apple spraying.",
@@ -88,7 +68,7 @@
       "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "category": "NEW TODAY / RECENT",
       "company": "Amazon",
       "role": "Software Development Engineer, Early Career - 2027, Device",
@@ -98,7 +78,7 @@
       "plausible_for_yuhan": "The official posting accepts BS-or-higher graduates from October 2026 through July 2027 and asks for one general-purpose language, data structures/algorithms and project or internship experience. Her May 2027 MS, TikTok internship, Python and NOI background meet this cleanly.",
       "team_value": "The team builds cloud-native microservices and resilient, scalable, fault-tolerant distributed systems; her distributed-systems research, Linux debugging and production experience should transfer well.",
       "why_attractive": "A clearly eligible 2027 SDE-I path at an elite employer in an eligible mainland-China location, with end-to-end service ownership and GenAI tooling exposure.",
-      "new_grad": "Official exact title says Early Career - 2027; job 10501875 is live and states an October 2026-July 2027 graduation window.",
+      "new_grad": "Official exact title says Early Career - 2027; job 10501875 is live on August 17 and states an October 2026-July 2027 graduation window.",
       "sponsorship": "Mainland China is an eligible target market for Yuhan; the official posting does not state a separate work-permit restriction.",
       "urgency": "Apply after Applied Intuition, Micron and the targeted Apple role; newly posted August 14 and now on Amazon's official graduate page.",
       "caveat": "The 'Device' organization is software for smart-device products, not pure hardware, but it is broader backend/SDE work rather than a dedicated LLM inference team. Compensation is not listed.",
@@ -106,7 +86,7 @@
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "category": "STRETCH",
       "company": "Genmo",
       "role": "Research Engineer (New Grad)",
@@ -124,7 +104,7 @@
       "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "category": "NEW TODAY / RECENT",
       "company": "Twitch",
       "role": "Software Engineer I, Payments",
@@ -142,7 +122,7 @@
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Crusoe",
       "role": "Software Engineer I, Storage",
@@ -160,7 +140,7 @@
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "category": "STRETCH",
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
@@ -181,19 +161,19 @@
   "source_discovery_today": [
     {
       "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
-      "assessment": "Updated daily and already integrated. The international feed surfaced Amazon Shenzhen; official review confirmed a precise 2027 graduation window and distributed-systems responsibilities."
+      "assessment": "Updated daily and already integrated; remains the strongest structured 2027 SWE/AI discovery source, but today's incremental high-fit rows were already applied, held, or 2026-cycle."
     },
     {
       "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Still active, but US/Canada/remote coverage substantially overlaps existing sources and Canada entries need separate visa proof."
+      "assessment": "Active with 1,900+ commits and useful explicit no-sponsorship/citizenship markers, but current incremental US rows were duplicates or weaker; Canada remains review-only without visa proof."
     },
     {
-      "repository": "zapplyjobs 2027 collections and jobright-ai new-grad feeds",
-      "assessment": "High-volume and current but noisy; retained for discovery only because many rows are non-technical, stale-cycle or misclassified."
+      "repository": "zapplyjobs 2027 SWE/Data Science collections and Jobright new-grad feeds",
+      "assessment": "Very current and broad, but high duplicate and misclassification rates mean discovery-only treatment remains appropriate."
     },
     {
       "repository": "ambicuity/New-Grad-Jobs and SimplifyJobs/New-Grad-Positions",
-      "assessment": "Active broad sources, but current incremental results were duplicates or lacked exact 2027 eligibility; no new adapter needed."
+      "assessment": "Frequently refreshed broad sources, but current incremental results lacked exact 2027 eligibility or duplicated integrated feeds; no new adapter justified."
     }
   ],
   "watchlist": [
@@ -254,5 +234,5 @@
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
   ],
-  "official_links_verified_at": "2026-08-16"
+  "official_links_verified_at": "2026-08-17"
 }
