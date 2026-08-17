@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-08-16",
+  "updated_at": "2026-08-17",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {
+      "company": "NVIDIA",
+      "role": "Software Engineer, Deep Learning Libraries - New College Graduate 2026 (JR2023252)",
+      "status": "Applied",
+      "applied_date": "2026-08-17",
+      "status_date": "2026-08-17",
+      "confidence": "Exact",
+      "evidence": "Workday application confirmation names the exact role and requisition JR2023252",
+      "next_action": "Wait for review",
+      "eligibility_note": "Official posting is live through at least August 18, 2026 and is an exceptional vLLM/NCCL/PyTorch fit, but it is explicitly labeled NCG 2026; keep as application history, not a default 2027 recommendation."
+    },
+    {
+      "company": "Qualcomm",
+      "role": "Machine Learning Engineer - College Graduate (3089336)",
+      "status": "Applied",
+      "applied_date": "2026-08-17",
+      "status_date": "2026-08-17",
+      "confidence": "Exact",
+      "evidence": "Qualcomm recruiting confirmation names the exact role and requisition 3089336",
+      "next_action": "Wait for review",
+      "eligibility_note": "College Graduate title is exact, but the confirmation does not state a 2027 graduation window; preserve application history without treating it as verified 2027 eligibility."
+    },
+    {
+      "company": "AMD",
+      "role": "Software Development Engineer / exact requisition uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-17",
+      "status_date": "2026-08-17",
+      "confidence": "Likely",
+      "evidence": "AMD recruiting confirmation names Software Development Engineer, but no requisition ID or location is present in the confirmation",
+      "next_action": "Wait for review; reconcile exact requisition if a later email names it"
+    },
+    {
+      "company": "Micron Technology",
+      "role": "New College Grad - AI Innovation Research Engineer",
+      "status": "Applied",
+      "applied_date": "2026-08-16",
+      "status_date": "2026-08-16",
+      "confidence": "Exact",
+      "evidence": "Micron application confirmation names the exact New College Grad - AI Innovation Research Engineer role",
+      "next_action": "Wait for review; removed from Apply Now"
+    },
     {
       "company": "Sentry",
       "role": "Software Engineer, New Grad (2027)",
