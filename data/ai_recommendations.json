@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-18",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,31 +9,61 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "No stronger new unapplied 2027 opening was found today. Gmail confirms four new applications: Micron AI Innovation Research Engineer, Qualcomm Machine Learning Engineer (3089336), NVIDIA Deep Learning Libraries NCG 2026 (JR2023252), and an AMD Software Development Engineer role whose exact requisition remains uncertain. Micron is removed from Apply Now; Applied Intuition, Apple AiDP Reliability and Amazon Shenzhen remain the top three unapplied choices. NVIDIA is an exceptional technical fit but remains application history only because the official title is explicitly NCG 2026.",
+  "summary": "OpenAI Performance Modeling Engineer ~2 is promoted to the top of Apply Now after official verification. It is explicitly early-career (1-2 years), maps unusually well to AutoScout profiling/simulation, distributed scaling, NCCL and vLLM work, and lists $293,000-$385,000 plus equity. Gmail shows no OpenAI confirmation yet, so submission remains uncertain rather than being guessed. Two new Apple IS&T Early Career location variants are live but are generic enterprise/full-stack roles and do not displace the more relevant Apple AiDP Reliability role. No new Gmail application, OA, interview or rejection evidence was found.",
   "changes_today": [
     {
-      "type": "applications_reconciled",
-      "reason": "Exact Gmail confirmations add Micron New College Grad - AI Innovation Research Engineer, Qualcomm Machine Learning Engineer - College Graduate (3089336), and NVIDIA Software Engineer, Deep Learning Libraries - NCG 2026 (JR2023252). AMD is recorded conservatively because its confirmation omits the requisition and location."
+      "type": "new_top_recommendation",
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer ~2",
+      "reason": "Official OpenAI page is live, explicitly calls the role ideal for early-career engineers with 1-2 years of experience, and centers on performance models, simulations, distributed scaling, benchmarking, compute, memory, networking and interconnects. Employer-posted compensation is $293,000-$385,000 plus equity."
     },
     {
-      "type": "recommendation_removed",
-      "company": "Micron Technology",
-      "role": "New College Grad - AI Innovation Research Engineer",
-      "reason": "Removed from Apply Now after exact application confirmation; preserved in the application tracker."
+      "type": "application_status_uncertain",
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer ~2",
+      "reason": "Recent conversation shows the application form was being completed, but Gmail has no submission confirmation. Keep in Apply Now with a do-not-submit-twice warning until application status is checked."
+    },
+    {
+      "type": "new_openings_reviewed_not_promoted",
+      "company": "Apple",
+      "role": "Software Engineer, IS&T Early Career Opportunities (Cupertino / Sunnyvale)",
+      "reason": "Both official location variants were posted August 17 and show Submit Resume, but the scope is broad enterprise/full-stack engineering and duplicates one Apple role family. The existing AiDP Reliability recommendation has materially stronger ML-systems overlap."
+    },
+    {
+      "type": "pipeline_improvement",
+      "reason": "Added the missed OpenAI official early-career requisition to config/manual_jobs.yml so future deterministic runs preserve it with official source attribution."
     },
     {
       "type": "official_link_audit",
-      "reason": "Applied Intuition, Apple, Amazon Shenzhen, Genmo, Twitch, Crusoe and Cerebras exact employer/ATS pages were rechecked on August 17 and still expose a live listing or application path. NVIDIA JR2023252 is live through at least August 18 but remains a 2026-cycle application, not a 2027 recommendation."
+      "reason": "OpenAI, Applied Intuition, Apple AiDP, Amazon Shenzhen, Genmo, Twitch, Crusoe Storage and Cerebras Kernel exact employer/ATS pages were verified live on August 18."
     },
     {
       "type": "source_review",
-      "reason": "Daily GitHub discovery rechecked speedyapply, vanshb03, zapplyjobs, Jobright and ambicuity. The newly surfaced rows were duplicates, 2026-cycle, frontend, hardware, sponsorship-restricted or under-verified; no new adapter added distinct enough signal to justify integration."
+      "reason": "Daily public-source review rechecked speedyapply, vanshb03, zapplyjobs, Jobright, ambicuity and Simplify. The first five remain broader new-grad discovery sources; Simplify's current 2027 feed is internship-focused. No additional adapter offered enough distinct full-time signal."
     }
   ],
   "recommendations": [
     {
       "rank": 1,
-      "category": "NEW TODAY / RECENT",
+      "category": "NEW TODAY / HIGH-QUALITY MISSED",
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer ~2",
+      "location": "San Francisco, CA / Seattle, WA",
+      "salary": "$293,000-$385,000 + equity",
+      "fit": "Exceptional AutoScout / distributed-ML performance-modeling overlap",
+      "plausible_for_yuhan": "The official role is explicitly designed for early-career engineers with 1-2 years of software, systems-analysis or performance-modeling experience. AutoScout profiling, simulation and configuration search, plus NCCL/vLLM systems work, provide unusually direct evidence.",
+      "team_value": "She can connect analytical models to real measurements across distributed scaling, compute, memory, networking and interconnects—the core responsibilities of the role.",
+      "why_attractive": "Frontier AI infrastructure work with direct research-to-production impact and the strongest verified compensation in the current shortlist.",
+      "new_grad": "OpenAI's Emerging Talent page defines full-time early-career roles for 0-3 years, including recent graduates; the exact requisition says ideal for 1-2 years and is accepting applications on August 18, 2026.",
+      "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship, citizenship or clearance veto found.",
+      "urgency": "Apply first if yesterday's form was not actually submitted; the official Apply now path is live.",
+      "caveat": "Gmail has no OpenAI confirmation yet, although recent conversation shows the application form was being completed. Do not submit twice; first check the OpenAI/Ashby application status. The team sits in Hardware, but the work is performance modeling and systems software, not pure hardware.",
+      "application_limit": "No published application cap found; make this the single highest-priority OpenAI application.",
+      "url": "https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/"
+    },
+    {
+      "rank": 2,
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Applied Intuition",
       "role": "Research Engineer - New Grad (2027)",
       "location": "Sunnyvale, CA (onsite)",
@@ -50,7 +80,7 @@
       "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "category": "NEW TODAY / RECENT",
       "company": "Apple",
       "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
@@ -63,12 +93,12 @@
       "new_grad": "Official exact title says Early Career; role 200677645-0157 still shows Submit Resume on August 17, 2026.",
       "sponsorship": "Not stated; no explicit no-sponsorship language found.",
       "urgency": "Apply promptly with ML-platform/reliability bullets prioritized.",
-      "caveat": "A different Apple Siri requisition is already active; submit only this highly differentiated role and avoid broad Apple spraying.",
+      "caveat": "A different Apple Siri requisition is already active, and two new generic IS&T location variants opened August 17. Keep AiDP Reliability as the only additional Apple application because it has the strongest ML-platform overlap.",
       "application_limit": "No published cap found; keep this as the single additional targeted Apple application.",
       "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "category": "NEW TODAY / RECENT",
       "company": "Amazon",
       "role": "Software Development Engineer, Early Career - 2027, Device",
@@ -86,7 +116,7 @@
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "category": "STRETCH",
       "company": "Genmo",
       "role": "Research Engineer (New Grad)",
@@ -104,7 +134,7 @@
       "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "category": "NEW TODAY / RECENT",
       "company": "Twitch",
       "role": "Software Engineer I, Payments",
@@ -122,7 +152,7 @@
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Crusoe",
       "role": "Software Engineer I, Storage",
@@ -140,7 +170,7 @@
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "category": "STRETCH",
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
@@ -161,19 +191,19 @@
   "source_discovery_today": [
     {
       "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
-      "assessment": "Updated daily and already integrated; remains the strongest structured 2027 SWE/AI discovery source, but today's incremental high-fit rows were already applied, held, or 2026-cycle."
+      "assessment": "Updated daily and already integrated; strong structured 2027 coverage, but no incremental role today beat the manually verified OpenAI opportunity."
     },
     {
       "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Active with 1,900+ commits and useful explicit no-sponsorship/citizenship markers, but current incremental US rows were duplicates or weaker; Canada remains review-only without visa proof."
+      "assessment": "Active and useful for explicit sponsorship/citizenship markers; current incremental US rows were duplicates or weaker, while Canada remains review-only without visa evidence."
     },
     {
-      "repository": "zapplyjobs 2027 SWE/Data Science collections and Jobright new-grad feeds",
-      "assessment": "Very current and broad, but high duplicate and misclassification rates mean discovery-only treatment remains appropriate."
+      "repository": "zapplyjobs 2027 collections, Jobright new-grad feeds and ambicuity/New-Grad-Jobs",
+      "assessment": "Very current and broad but noisy; retained for discovery only because third-party classification does not prove exact eligibility or freshness."
     },
     {
-      "repository": "ambicuity/New-Grad-Jobs and SimplifyJobs/New-Grad-Positions",
-      "assessment": "Frequently refreshed broad sources, but current incremental results lacked exact 2027 eligibility or duplicated integrated feeds; no new adapter justified."
+      "repository": "SimplifyJobs/Summer2027-Internships and SimplifyJobs/New-Grad-Positions",
+      "assessment": "The actively updated 2027 repository is internship-only and therefore out of scope; the general new-grad repository remains useful but does not provide distinct 2027 full-time signal today."
     }
   ],
   "watchlist": [
@@ -195,6 +225,11 @@
       "company": "DeepSeek",
       "roles": "Large-model training/inference framework; high-performance distributed storage",
       "reason": "Strong mainland-China fit, but exact new-grad eligibility and compensation remain unverified."
+    },
+    {
+      "company": "Apple IS&T",
+      "role": "Software Engineer, IS&T Early Career Opportunities (Cupertino / Sunnyvale)",
+      "reason": "Official August 17 openings are live, but broad enterprise/full-stack scope is weaker than AiDP Reliability and should not consume another Apple application slot."
     }
   ],
   "vetoed_today": [
@@ -234,5 +269,5 @@
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
   ],
-  "official_links_verified_at": "2026-08-17"
+  "official_links_verified_at": "2026-08-18"
 }
