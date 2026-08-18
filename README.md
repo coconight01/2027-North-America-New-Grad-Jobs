@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-18** · Open roles: **1243**
+> Last automated update: **2026-08-18** · Open roles: **1242**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,17 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 65 |
+| **Big Tech & Frontier AI** | 63 |
 | **AI Infra / Systems** | 5 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 305 |
-| Other companies | 808 |
+| Other companies | 809 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-18 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200678510-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Sunnyvale | ❔ | ✅ Confirmed | — |
-| 2026-08-18 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200678510-0836/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Cupertino | ❔ | ✅ Confirmed | — |
 | 2026-08-15 | **Amazon** | [Software Dev Engineer](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-11 | **Amazon** | [Software Development Engineer - S3 Buckets](https://www.amazon.jobs/jobs/10497189/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
@@ -39,6 +37,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
 | 2026-07-26 | **NVIDIA** | [Research Scientist - Robotics Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | $172k/yr | Seattle, WA | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **NVIDIA** | [Deep Learning Software Engineer - Inference - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | $172k/yr | Remote - California, USA +4 | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
+| 2026-07-20 | **Apple** | [Software Device Driver Engineer - Core I/O - Core OS](https://jobs.apple.com/en-us/details/200658892-0157) | $153k/yr | Austin, TX | ❔ | ❔ Review | — |
 
 ### AI Infra / Systems
 
@@ -94,15 +94,15 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-18 | **TikTok** | [Self-Built Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **TikTok** | [Self-Built Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **TikTok** | [Solutions Engineer Graduate (Advertisement Team) - 2027 Start](https://jobright.ai/jobs/info/6a83a8493eeac101cfaa1199) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed Large Language Model LLM) - 2027 Start](https://jobright.ai/jobs/info/6a805eeb19ce4e6e9d93e224) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed Multimodal Interaction and World Model) - 2027 Start](https://jobright.ai/jobs/info/6a7d87f90a156a4f2c226bfd) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed Vision Foundation Model) - 2027 Start](https://jobright.ai/jobs/info/6a8413e23fca2d7153453611) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed-Speech Foundation Model) - 2027 Start](https://jobright.ai/jobs/info/6a8413ce3fca2d715345360b) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed Large Language Model LLM) - 2027 Start](https://jobright.ai/jobs/info/6a805eeb19ce4e6e9d93e224) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **ByteDance** | [Research Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a734bd732ebbc14ffb4e030) | $213K/yr - $450K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-18 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a83a5ab9b859b22776701a0) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-18 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a83a5ae2dbaf907b0769fe9) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed-AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8413ca85e0d023aaea27c9) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-18 | **ByteDance** | [Research Scientist - AI Compute & DPU - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a71fa7902d93145bf891bda) | $202K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-18 | **ByteDance** | [Research Scientist Graduate (Seed-Vision Foundation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8413cd0b610f7a3d0e3eff) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 
 _Showing 12 of 305 active roles. Use the Job Radar for all roles._
 
@@ -110,7 +110,7 @@ _Showing 12 of 305 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1243 active roles**. Featured groups account for **130** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1242 active roles**. Featured groups account for **128** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
