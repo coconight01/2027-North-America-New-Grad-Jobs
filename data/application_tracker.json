@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-18",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
     {
@@ -132,7 +132,7 @@
       "status_date": "2026-08-13",
       "confidence": "Exact",
       "evidence": "Official Feishu recruiting invitation names the exact role and video interview",
-      "next_action": "Video interview on 2026-08-18 at 11:00 China Standard Time"
+      "next_action": "Scheduled interview time has passed; completion/outcome is not confirmed by Gmail, so retain Interview status and await user or recruiter evidence"
     },
     {
       "company": "NewsBreak",
