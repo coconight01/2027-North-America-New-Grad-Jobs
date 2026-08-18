@@ -28,3 +28,29 @@ jobs:
     status: Open
     match: "Official Early Career Campus; exact start year not stated, manually reviewed for May 2027 eligibility"
     description: "Official Early Career Campus role. Application window open until at least August 30, 2026 and may close earlier. Minimum qualifications accept coursework, projects, research, internships, and open-source experience. Preferred qualifications include Unix/Linux, distributed and parallel systems, machine learning, networking, and large software systems. Exact start year is not stated on the official posting."
+  - company: OpenAI
+    role: Performance Modeling Engineer ~2
+    category: Infrastructure / Systems
+    location: San Francisco, CA; Seattle, WA
+    country: United States
+    graduation: "2027"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: "$293000 - $385000 annually + equity"
+    salary_min_annual: 293000
+    salary_max_annual: 385000
+    phd_required: "No"
+    personalized_score: 100
+    priority: Top
+    personalized_reason: "Official early-career role; AutoScout profiling/simulation, distributed scaling, NCCL, vLLM, benchmarking, and performance analysis are unusually direct matches"
+    skills: "Python, Linux, Distributed Systems, Machine Learning, Networking"
+    url: https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/
+    source: "Manual official verification: OpenAI Careers"
+    date_added: "2026-08-18"
+    last_verified: "2026-08-18"
+    status: Open
+    match: "Official early-career role for 1-2 years; OpenAI Emerging Talent includes recent graduates with 0-3 years"
+    description: "Official full-time early-career role. Build and validate performance modeling tools, simulations and analytical models for AI infrastructure across compute, memory, networking, storage and interconnects; analyze distributed-system scaling and bottlenecks using benchmarking and real measurements. Internship or early professional experience is preferred. Compensation is $293,000-$385,000 plus equity. Exact posting states no explicit sponsorship, citizenship or security-clearance restriction."
