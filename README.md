@@ -20,10 +20,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 70 |
 | **AI Infra / Systems** | 5 |
-| **Quant / HFT** | 44 |
+| **Quant / HFT** | 43 |
 | **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 308 |
-| Other companies | 830 |
+| Other companies | 831 |
 
 ### Big Tech & Frontier AI
 
@@ -54,7 +54,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-19 | **Five Rings** | [LINK 2027: Software Development Intensive Program](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
 | 2026-08-15 | **Akuna Capital** | [Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7846695?gh_jid=7846695) | $191k/yr | Chicago, IL | ❔ | ❔ Review | — |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a45729d971cd25b06f88dbb) | $200K/yr - $200K/yr | Austin, Texas, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-07-23 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6a456a5f48d2f00f2a86d806) | $200K/yr - $200K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
@@ -70,6 +69,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Software Engineer (C++ or Python) – 2027 Grads](https://jobright.ai/jobs/info/6a5505cf377f983ce8a973cf) | $300K/yr - $300K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Akuna Capital** | [Software Engineer - Entry-Level - C++](https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085) | $191k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
 
 ### Other high-value tech
 
@@ -110,7 +110,7 @@ _Showing 12 of 308 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1274 active roles**. Featured groups account for **136** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1274 active roles**. Featured groups account for **135** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
