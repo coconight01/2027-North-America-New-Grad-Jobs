@@ -31,7 +31,7 @@ jobs:
   - company: OpenAI
     role: Performance Modeling Engineer ~2
     category: Infrastructure / Systems
-    location: San Francisco, CA; Seattle, WA
+    location: San Francisco, CA
     country: United States
     graduation: "2027"
     start_date: Unknown
@@ -50,7 +50,34 @@ jobs:
     url: https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/
     source: "Manual official verification: OpenAI Careers"
     date_added: "2026-08-18"
-    last_verified: "2026-08-18"
+    last_verified: "2026-08-19"
     status: Open
     match: "Official early-career role for 1-2 years; OpenAI Emerging Talent includes recent graduates with 0-3 years"
     description: "Official full-time early-career role. Build and validate performance modeling tools, simulations and analytical models for AI infrastructure across compute, memory, networking, storage and interconnects; analyze distributed-system scaling and bottlenecks using benchmarking and real measurements. Internship or early professional experience is preferred. Compensation is $293,000-$385,000 plus equity. Exact posting states no explicit sponsorship, citizenship or security-clearance restriction."
+
+  - company: Abridge
+    role: Software Engineer, Early Career
+    category: AI / Backend Software Engineering
+    location: San Francisco, CA
+    country: United States
+    graduation: "2027 eligible (official Early Career; exact start year unstated)"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: "$167000 - $184000 annually"
+    salary_min_annual: 167000
+    salary_max_annual: 184000
+    phd_required: "No"
+    personalized_score: 96
+    priority: Top
+    personalized_reason: "Agentic LLM workflows, retrieval, tool use and production backend systems directly match Yuhan's AI-agent and ML-systems experience"
+    skills: "Python, LLM Agents, Retrieval, Backend Systems, Distributed Systems"
+    url: https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace
+    source: "Manual official verification: Abridge Ashby"
+    date_added: "2026-08-19"
+    last_verified: "2026-08-19"
+    status: Open
+    match: "Official Early Career full-time role; exact 2027 start timing is not stated"
+    description: "Build and iterate on agentic LLM systems, including retrieval pipelines, structured tool use and chained LLM workflows. Official employer-posted base salary is $167,000-$184,000. The exact posting states no explicit sponsorship, citizenship or security-clearance restriction."
