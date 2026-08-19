@@ -21,7 +21,8 @@ NON_FTE_PROGRAM = re.compile(
     r"intern(?:ship)?|co[- ]?op|apprentice(?:ship)?|fellowship|skillbridge|"
     r"returnship|externship|part[- ]?time|contract(?:or|ing)?|hackathon|"
     r"(?:virtual[- ]?)?(?:quant[- ]?)?trading challenge|coding challenge|"
-    r"tech race|trading sim(?:ulation)?)\b",
+    r"tech race|trading sim(?:ulation)?|intensive program|insight program|"
+    r"workshop|bootcamp)\b",
     re.I,
 )
 
