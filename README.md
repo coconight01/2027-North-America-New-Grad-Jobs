@@ -91,10 +91,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-20 | **ByteDance** | [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6a86a1e3cc81eb647e9f318b) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start](https://jobright.ai/jobs/info/6a86675ad34f700f87fc1a2b) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start](https://jobright.ai/jobs/info/6a866742e459fa3baa86751d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **TikTok** | [Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start](https://jobright.ai/jobs/info/6a86674ccc81eb647e9f2b59) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-20 | **ByteDance** | [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6a86a1e3cc81eb647e9f318b) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **TikTok** | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a86675ed34f700f87fc1a2c) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8667432f4f0014cae29967) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8667482f4f0014cae29969) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
