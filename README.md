@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-19** · Open roles: **1279**
+> Last automated update: **2026-08-20** · Open roles: **1285**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 311 |
-| Other companies | 832 |
+| Other companies | 838 |
 
 ### Big Tech & Frontier AI
 
@@ -91,10 +91,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-19 | **TikTok** | [Data Engineer Graduate (Data Platform - Global Live) - 2027 Start](https://jobright.ai/jobs/info/6a84f9bce12474455273d45d) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-19 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a85c0bde459fa3baa863950) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-19 | **ByteDance** | [Site Reliability Graduate (Data Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a85c0924afae74a08340f59) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-19 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start](https://jobright.ai/jobs/info/6a85c0c1cc81eb647e9ef0a8) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-19 | **TikTok** | [Data Engineer Graduate (Data Platform - Global Live) - 2027 Start](https://jobright.ai/jobs/info/6a84f9bce12474455273d45d) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-19 | **TikTok** | [Creative Product Operations Graduate (International Advertising - Creative and Brand Innovation) - 2027 Start](https://jobright.ai/jobs/info/6a84f9b8c1a3fd7120f74106) | $76K/yr - $128K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-19 | **TikTok** | [Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start](https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce) | $70K/yr - $115K/yr | Fontana, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-18 | **TikTok** | [Self-Built Engineer Graduate (CDN Platform) - 2027 Start](https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -110,7 +110,7 @@ _Showing 12 of 311 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1279 active roles**. Featured groups account for **136** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1285 active roles**. Featured groups account for **136** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
