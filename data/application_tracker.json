@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-08-18",
+  "updated_at": "2026-08-20",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer ~2",
+      "status": "Applied",
+      "applied_date": "2026-08-19",
+      "status_date": "2026-08-20",
+      "confidence": "Exact",
+      "evidence": "User explicitly confirmed receiving an application-confirmation email for the exact role after completing the official form; the currently connected Gmail mailbox did not surface that message, so no private email link is stored",
+      "next_action": "Wait for review; removed from Apply Now"
+    },
     {
       "company": "NVIDIA",
       "role": "Software Engineer, Deep Learning Libraries - New College Graduate 2026 (JR2023252)",
