@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19",
+  "updated_at": "2026-08-20",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,60 +9,38 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "Abridge Early Career and NVIDIA China 2027 AI Infrastructure are added as strong, currently actionable matches. OpenAI remains rank 1 but Gmail still has no submission confirmation, so the candidate portal must be checked before any resubmission. Five Rings LINK is removed as a one-week sophomore workshop, Roblox Foundation AI is vetoed for its future-H-1B warning, and newly surfaced Apple Shanghai roles are rejected for 5-6+ years requirements.",
+  "summary": "OpenAI Performance Modeling Engineer is now recorded as Applied based on Yuhan's explicit confirmation that its application-confirmation email exists, and is removed from Apply Now. Applied Intuition remains the first unfinished application because the current conversation shows the form in progress but no confirmed submission. Handshake Associate Software Engineer, Operator Experience is added as a newly live 0-2-year backend/internal-tooling option. No stronger new ML-systems or AI-infrastructure opening was found.",
   "changes_today": [
     {
-      "type": "new_recommendation",
-      "company": "Abridge",
-      "role": "Software Engineer, Early Career",
-      "reason": "Verified live official posting and employer salary range of $167,000-$184,000; agentic LLM workflows strongly match Yuhan's production AI-agent experience."
-    },
-    {
-      "type": "new_recommendation",
-      "company": "NVIDIA",
-      "role": "【2027校园招聘】AI基础设施工程师",
-      "reason": "Exact official China-campus requisition is tracked open; NCCL, multi-GPU, inference/runtime and distributed-systems overlap is unusually strong."
-    },
-    {
-      "type": "application_status_uncertain",
+      "type": "application_status_corrected",
       "company": "OpenAI",
       "role": "Performance Modeling Engineer ~2",
-      "reason": "Gmail has no confirmation through August 19. Corrected location to San Francisco and retained a check-portal-before-resubmitting warning."
+      "reason": "Yuhan explicitly confirmed an exact application-confirmation email exists. Added to the tracker as Applied and removed from Apply Now, despite the currently connected Gmail mailbox not surfacing the message."
     },
     {
-      "type": "pipeline_improvement",
-      "reason": "Expanded the final non-FTE guard to reject workshop, insight, intensive and bootcamp programs after Five Rings LINK was misclassified as a full-time role."
+      "type": "application_in_progress",
+      "company": "Applied Intuition",
+      "role": "Research Engineer - New Grad (2027)",
+      "reason": "The official application form is actively being completed, but no confirmation email or explicit submission statement is available; retain as unapplied until submission is confirmed."
     },
     {
-      "type": "new_vetoes",
-      "reason": "Five Rings LINK is a one-week sophomore workshop; Roblox Foundation AI warns it may not support future H-1B sponsorship; new Apple Shanghai AiDP roles require 5-6+ years."
+      "type": "new_recommendation",
+      "company": "Handshake",
+      "role": "Associate Software Engineer, Operator Experience",
+      "reason": "Official company careers page and exact Ashby application path are live. The 0-2-year scope and internal-tool/automation responsibilities match TikTok backend and AI-agent workflow experience."
     },
     {
-      "type": "gmail_reconciliation",
-      "reason": "No new application confirmation, OA, interview or rejection evidence appeared after August 17."
+      "type": "official_link_audit",
+      "reason": "Applied Intuition, Apple AiDP, Abridge, Amazon Shenzhen, Genmo, Twitch, Crusoe, Cerebras and Handshake official employer/ATS pages were rechecked on August 20. NVIDIA China remains tied to its exact official Moka campus requisition."
+    },
+    {
+      "type": "source_review",
+      "reason": "Rechecked speedyapply, vanshb03, Simplify and zapply. No new adapter was added because incremental listings were duplicated, frontend-heavy, defense/export-controlled, internships, or weaker than the current shortlist."
     }
   ],
   "recommendations": [
     {
       "rank": 1,
-      "category": "NEW TODAY / HIGH-QUALITY MISSED",
-      "company": "OpenAI",
-      "role": "Performance Modeling Engineer ~2",
-      "location": "San Francisco, CA",
-      "salary": "$293,000-$385,000 + equity",
-      "fit": "Exceptional AutoScout / distributed-ML performance-modeling overlap",
-      "plausible_for_yuhan": "The official role is explicitly designed for early-career engineers with 1-2 years of software, systems-analysis or performance-modeling experience. AutoScout profiling, simulation and configuration search, plus NCCL/vLLM systems work, provide unusually direct evidence.",
-      "team_value": "She can connect analytical models to real measurements across distributed scaling, compute, memory, networking and interconnects—the core responsibilities of the role.",
-      "why_attractive": "Frontier AI infrastructure work with direct research-to-production impact and the strongest verified compensation in the current shortlist.",
-      "new_grad": "OpenAI's Emerging Talent page defines full-time early-career roles for 0-3 years, including recent graduates; the exact requisition says ideal for 1-2 years and is accepting applications on August 18, 2026.",
-      "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship, citizenship or clearance veto found.",
-      "urgency": "LIVE / SUBMISSION STATUS UNCERTAIN",
-      "caveat": "Gmail has no application confirmation through 2026-08-19. Check the OpenAI candidate portal before submitting again; sponsorship is not stated on the requisition.",
-      "application_limit": "No published application cap found; make this the single highest-priority OpenAI application.",
-      "url": "https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/"
-    },
-    {
-      "rank": 2,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Applied Intuition",
       "role": "Research Engineer - New Grad (2027)",
@@ -74,13 +52,13 @@
       "why_attractive": "High-pay 2027 new-grad research engineering at the infrastructure layer of a leading physical-AI company.",
       "new_grad": "Official exact title says New Grad (2027); Ashby listing and application path are live on August 17, 2026.",
       "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship or citizenship veto found in the accessible official listing.",
-      "urgency": "Highest-priority unapplied role after today's reconciliation; apply after interview preparation.",
-      "caveat": "Computer vision/robotics evidence is weaker than MLSys evidence. Lead with distributed model systems, not old C++ contest work.",
+      "urgency": "FINISH AND SUBMIT — the current conversation shows the official form is being completed.",
+      "caveat": "No confirmation email is visible in the connected Gmail mailbox and the user has not yet explicitly confirmed submission. Keep as unapplied until a confirmation or portal status exists. Computer-vision/robotics evidence is weaker than the ML-systems evidence.",
       "application_limit": "No published cap found.",
       "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "category": "NEW TODAY / RECENT",
       "company": "Apple",
       "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
@@ -98,7 +76,7 @@
       "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Abridge",
       "role": "Software Engineer, Early Career",
@@ -116,7 +94,7 @@
       "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "category": "HIGH-QUALITY MISSED / CHINA CAMPUS",
       "company": "NVIDIA",
       "role": "【2027校园招聘】AI基础设施工程师",
@@ -134,7 +112,7 @@
       "url": "https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/b6dea061-c1c0-474b-91e0-7456d13abacd"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "category": "NEW TODAY / RECENT",
       "company": "Amazon",
       "role": "Software Development Engineer, Early Career - 2027, Device",
@@ -150,6 +128,24 @@
       "caveat": "The 'Device' organization is software for smart-device products, not pure hardware, but it is broader backend/SDE work rather than a dedicated LLM inference team. Compensation is not listed.",
       "application_limit": "Amazon application limits are not stated on this posting; avoid duplicative applications to near-identical China SDE roles.",
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
+    },
+    {
+      "rank": 6,
+      "category": "NEW TODAY / RECENT",
+      "company": "Handshake",
+      "role": "Associate Software Engineer, Operator Experience",
+      "location": "San Francisco, CA",
+      "salary": "Not reliably visible on the accessible official posting",
+      "fit": "Good early-career backend/internal-tooling fit; relevant to production AI-agent integrations but less direct than ML infrastructure.",
+      "plausible_for_yuhan": "The role targets 0-2 years and values internships plus ownership of small production features. Her TikTok backend, internal-tool integration, evaluation and debugging work is credible evidence.",
+      "team_value": "She has already translated operational workflows into APIs, agent tools and production debugging systems, which maps to operator automation and internal tooling.",
+      "why_attractive": "A genuine entry-level engineering role at an AI-focused career platform, with end-to-end ownership rather than frontend specialization.",
+      "new_grad": "Official title is Associate Software Engineer; the detailed requirements state 0-2 years rather than a specific 2027 graduation window.",
+      "sponsorship": "Not stated; no explicit no-sponsorship, citizenship or clearance restriction found.",
+      "urgency": "APPLY AFTER the top five — exact official Ashby requisition and Apply path are live on 2026-08-20.",
+      "caveat": "The role is internal tools/operator workflows, not distributed ML runtime. Exact employer salary text was not accessible, so compensation is treated as unknown.",
+      "application_limit": "No public application cap found; prefer this over Handshake Software Engineer I, which is more frontend/full-stack and asks for broader professional experience.",
+      "url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
     },
     {
       "rank": 7,
@@ -226,24 +222,24 @@
   ],
   "source_discovery_today": [
     {
-      "repository": "speedyapply/2027-SWE-College-Jobs",
-      "assessment": "Active and broad; useful discovery coverage, but official-post verification remains necessary."
+      "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
+      "assessment": "Updated today; surfaced Handshake Associate SWE plus several defense, frontend, internship and weaker generalist roles. Handshake was the only incremental actionable addition."
     },
     {
       "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Active 2027 list with official links; useful cross-check with moderate duplication."
+      "assessment": "Still active and useful as an official-link cross-check; incremental coverage substantially overlaps the deterministic pool."
     },
     {
-      "repository": "zapply/jobs",
-      "assessment": "Active but noisier and less targeted; discovery-only, not integrated."
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "assessment": "Maintained daily but not 2027-specific enough to justify a new adapter today."
     },
     {
-      "repository": "SimplifyJobs/Summer2027-Internships",
-      "assessment": "Active, but internship-focused and outside this full-time recommendation scope."
+      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027",
+      "assessment": "Active but noisy; retained as discovery-only."
     },
     {
       "repository": "Integration decision",
-      "assessment": "No new adapter added: incremental coverage substantially overlaps existing sources and would add duplicate/noisy rows."
+      "assessment": "No new adapter added today; current sources already capture the useful role and integrating the noisier feeds would increase duplicates and false positives."
     }
   ],
   "watchlist": [
@@ -270,6 +266,11 @@
       "company": "Apple IS&T",
       "role": "Software Engineer, IS&T Early Career Opportunities (Cupertino / Sunnyvale)",
       "reason": "Official August 17 openings are live, but broad enterprise/full-stack scope is weaker than AiDP Reliability and should not consume another Apple application slot."
+    },
+    {
+      "company": "Old Mission Capital",
+      "role": "Software Engineer - 2027 Graduate Program (August Start)",
+      "reason": "Official careers page indicates the graduate opening is active, and public mirrors report $175k-$200k. However the work is centered on modern C++ trading systems and the exact employer-hosted requisition details were not fully accessible, so it remains a lower-fit review candidate rather than Apply Now."
     }
   ],
   "vetoed_today": [
@@ -327,5 +328,5 @@
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
   ],
-  "official_links_verified_at": "2026-08-19"
+  "official_links_verified_at": "2026-08-20"
 }
