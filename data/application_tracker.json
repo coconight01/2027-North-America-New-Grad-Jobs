@@ -1,15 +1,36 @@
 {
-  "updated_at": "2026-08-20",
+  "updated_at": "2026-08-21",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
+    {
+      "company": "Applied Intuition",
+      "role": "Research Engineer - New Grad (2027)",
+      "status": "Applied",
+      "applied_date": "2026-08-19",
+      "status_date": "2026-08-21",
+      "confidence": "Exact",
+      "evidence": "Applied Intuition confirmation email names the exact role and states the application was received on 2026-08-19",
+      "next_action": "Wait for review; removed from Apply Now"
+    },
+    {
+      "company": "Apple",
+      "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities (200677645)",
+      "status": "Applied",
+      "applied_date": "2026-08-19",
+      "status_date": "2026-08-21",
+      "confidence": "Exact",
+      "evidence": "Apple Worldwide Recruiting confirmation email names the exact role and requisition 200677645 on 2026-08-19",
+      "next_action": "Wait for review; removed from Apply Now",
+      "application_limit_note": "Keep this and the existing Siri application as the two targeted Apple applications; avoid adding generic Apple roles."
+    },
     {
       "company": "OpenAI",
       "role": "Performance Modeling Engineer ~2",
       "status": "Applied",
-      "applied_date": "2026-08-19",
-      "status_date": "2026-08-20",
+      "applied_date": "2026-08-17",
+      "status_date": "2026-08-21",
       "confidence": "Exact",
-      "evidence": "User explicitly confirmed receiving an application-confirmation email for the exact role after completing the official form; the currently connected Gmail mailbox did not surface that message, so no private email link is stored",
+      "evidence": "OpenAI confirmation email received 2026-08-17 states the application was received; the email body is generic, while Yuhan explicitly confirmed it corresponds to Performance Modeling Engineer ~2",
       "next_action": "Wait for review; removed from Apply Now"
     },
     {
