@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-08-21** · Open roles: **117**
+> Last automated update: **2026-08-21** · Open roles: **116**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -33,7 +33,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】C++软件开发工程师](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/a1905201-116c-4039-a967-55f4ae364215) | AI Infrastructure / Systems | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】机器人软件工程师 - 仿真方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/32d048e9-2a58-43b1-96a4-24c515b0405e) | AI / ML | 上海市 · 浦东新区 | 全职 | Confirmed campus |
 | 2026-07-09 | **StepFun (阶跃星辰)** | [测试开发工程师（APP方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/72f73099-205d-426a-998d-03cb7c68a1f9) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2026-07-06 | **Lingjun Investment (灵均)** | [C++开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/4032ca6c-4653-4ba0-a18a-4a7b7366c6fd) | AI Infrastructure / Systems | China | Full-time | Review eligibility |
 | 2026-07-05 | **StepFun (阶跃星辰)** | [语音开放平台产品研发](https://app.mokahr.com/social-recruitment/step/94904#/job/9a2b6ba7-de3b-4302-98d0-eff0d860a533) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-03 | **StepFun (阶跃星辰)** | [Agent研发工程师（金融投研方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/af66ae92-682e-4154-98ed-d24055dff565) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-01 | **StepFun (阶跃星辰)** | [云原生研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d23793a6-d6eb-4413-89c7-198e66a552dc) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
