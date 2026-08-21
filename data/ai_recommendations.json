@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20",
+  "updated_at": "2026-08-21",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,74 +9,68 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "OpenAI Performance Modeling Engineer is now recorded as Applied based on Yuhan's explicit confirmation that its application-confirmation email exists, and is removed from Apply Now. Applied Intuition remains the first unfinished application because the current conversation shows the form in progress but no confirmed submission. Handshake Associate Software Engineer, Operator Experience is added as a newly live 0-2-year backend/internal-tooling option. No stronger new ML-systems or AI-infrastructure opening was found.",
+  "summary": "Two exact application confirmations were reconciled today: Applied Intuition Research Engineer - New Grad (2027) and Apple AiDP Reliability were submitted on August 19 and are removed from Apply Now. The strongest newly promoted unapplied role is Pangram Labs' Junior Machine Learning Engineer because it directly covers distributed multi-GPU LLM training, inference and profiling. Brain Co.'s Early Career Applied AI role is also added. No stronger new application/OA/interview/rejection email arrived after August 20; TikTok/ByteDance remain on hold.",
   "changes_today": [
     {
-      "type": "application_status_corrected",
-      "company": "OpenAI",
-      "role": "Performance Modeling Engineer ~2",
-      "reason": "Yuhan explicitly confirmed an exact application-confirmation email exists. Added to the tracker as Applied and removed from Apply Now, despite the currently connected Gmail mailbox not surfacing the message."
-    },
-    {
-      "type": "application_in_progress",
+      "type": "application_confirmed",
       "company": "Applied Intuition",
       "role": "Research Engineer - New Grad (2027)",
-      "reason": "The official application form is actively being completed, but no confirmation email or explicit submission statement is available; retain as unapplied until submission is confirmed."
+      "reason": "Exact employer confirmation email received August 19; moved to tracker and removed from Apply Now."
+    },
+    {
+      "type": "application_confirmed",
+      "company": "Apple",
+      "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
+      "reason": "Exact Apple confirmation names requisition 200677645 on August 19; moved to tracker and removed from Apply Now."
+    },
+    {
+      "type": "application_evidence_corrected",
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer ~2",
+      "reason": "Connected Gmail now surfaces the August 17 OpenAI confirmation. The email is generic, so the exact-role link continues to rely on Yuhan's explicit confirmation; corrected the tracker date."
     },
     {
       "type": "new_recommendation",
-      "company": "Handshake",
-      "role": "Associate Software Engineer, Operator Experience",
-      "reason": "Official company careers page and exact Ashby application path are live. The 0-2-year scope and internal-tool/automation responsibilities match TikTok backend and AI-agent workflow experience."
+      "company": "Pangram Labs",
+      "role": "Machine Learning Engineer (Junior)",
+      "reason": "Official live junior role directly covers distributed multi-GPU LLM training, inference pipelines, profiling and optimization; exceptionally strong mutual fit."
+    },
+    {
+      "type": "new_recommendation",
+      "company": "Brain Co.",
+      "role": "Early Career Machine Learning Engineer, Applied AI",
+      "reason": "Official live early-career role (0-2 years) matches TikTok AI-agent production work and ML background; compensation remains unknown."
     },
     {
       "type": "official_link_audit",
-      "reason": "Applied Intuition, Apple AiDP, Abridge, Amazon Shenzhen, Genmo, Twitch, Crusoe, Cerebras and Handshake official employer/ATS pages were rechecked on August 20. NVIDIA China remains tied to its exact official Moka campus requisition."
+      "reason": "Exact official/ATS paths for all Apply Now roles were rechecked on August 21. JS-only ATS shells were accepted only when the exact requisition still resolved; no cached or generic careers redirect was promoted."
     },
     {
       "type": "source_review",
-      "reason": "Rechecked speedyapply, vanshb03, Simplify and zapply. No new adapter was added because incremental listings were duplicated, frontend-heavy, defense/export-controlled, internships, or weaker than the current shortlist."
+      "reason": "Rechecked speedyapply, vanshb03, Simplify and zapply. Pangram was already in the deterministic pool but under-ranked; Brain Co. is added as a manually verified official-source role. No additional adapter was justified today."
     }
   ],
   "recommendations": [
     {
       "rank": 1,
-      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
-      "company": "Applied Intuition",
-      "role": "Research Engineer - New Grad (2027)",
-      "location": "Sunnyvale, CA (onsite)",
-      "salary": "$140,000-$200,000 base + equity",
-      "fit": "Excellent Python/PyTorch/distributed-ML fit; physical-AI domain is adjacent rather than identical",
-      "plausible_for_yuhan": "The exact new-grad role values Python, PyTorch, computer vision/robotics systems and distributed machine-learning models. Her MS research, distributed training/inference and production AI work cover the systems half strongly.",
-      "team_value": "Multi-GPU, NCCL, model-loading and runtime optimization evidence can translate directly to scaling physical-AI training and evaluation workloads.",
-      "why_attractive": "High-pay 2027 new-grad research engineering at the infrastructure layer of a leading physical-AI company.",
-      "new_grad": "Official exact title says New Grad (2027); Ashby listing and application path are live on August 17, 2026.",
-      "sponsorship": "Not stated on the exact posting; no explicit no-sponsorship or citizenship veto found in the accessible official listing.",
-      "urgency": "FINISH AND SUBMIT — the current conversation shows the official form is being completed.",
-      "caveat": "No confirmation email is visible in the connected Gmail mailbox and the user has not yet explicitly confirmed submission. Keep as unapplied until a confirmation or portal status exists. Computer-vision/robotics evidence is weaker than the ML-systems evidence.",
-      "application_limit": "No published cap found.",
-      "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
+      "category": "NEW TODAY / HIGH-QUALITY MISSED",
+      "company": "Pangram Labs",
+      "role": "Machine Learning Engineer (Junior)",
+      "location": "New York City, NY (onsite)",
+      "salary": "$135,000-$150,000 base + equity (official company careers)",
+      "fit": "Exceptional overlap with distributed multi-GPU LLM training, inference pipelines, profiling and performance optimization.",
+      "plausible_for_yuhan": "The official junior role accepts a BS/MS and treats research, projects and internships as relevant practical experience. NCCL, vLLM, model-loading and distributed-systems work map directly to the job.",
+      "team_value": "Her concrete experience diagnosing multi-GPU communication and inference bottlenecks can contribute immediately to training infrastructure and efficient deployment.",
+      "why_attractive": "End-to-end ML systems ownership—from data and training infrastructure through optimized inference—at a small technical team.",
+      "new_grad": "Official title is Junior and the requirements are entry-level in substance; no exact 2027 start window is stated.",
+      "sponsorship": "Not stated; no explicit no-sponsorship, citizenship or security-clearance veto found.",
+      "urgency": "APPLY FIRST — exact official application is live and the role was posted recently.",
+      "caveat": "Onsite in New York. The role also values hands-on model training; describe PyTorch work precisely and lead with systems/inference evidence rather than overstating model ownership.",
+      "application_limit": "No public cap found; submit one tailored application.",
+      "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d"
     },
     {
       "rank": 2,
-      "category": "NEW TODAY / RECENT",
-      "company": "Apple",
-      "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
-      "location": "Austin, TX",
-      "salary": "Not listed on the accessible official posting",
-      "fit": "Exceptional ML platform / inference / reliability overlap",
-      "plausible_for_yuhan": "Python plus systems, OS/networking and open-source platform experience fit the early-career qualifications; Spark/Flink/Trino/Iceberg and Kubernetes exposure are preferred rather than deep modern C++.",
-      "team_value": "Apple's Applied ML team builds ML, GenAI, inference and data platforms, making vLLM/model-loading, NCCL/multi-GPU and systems-optimization evidence directly relevant.",
-      "why_attractive": "One of the rare elite-company early-career roles explicitly centered on production ML and inference platforms.",
-      "new_grad": "Official exact title says Early Career; role 200677645-0157 still shows Submit Resume on August 17, 2026.",
-      "sponsorship": "Not stated; no explicit no-sponsorship language found.",
-      "urgency": "Apply promptly with ML-platform/reliability bullets prioritized.",
-      "caveat": "A different Apple Siri requisition is already active, and two new generic IS&T location variants opened August 17. Keep AiDP Reliability as the only additional Apple application because it has the strongest ML-platform overlap.",
-      "application_limit": "No published cap found; keep this as the single additional targeted Apple application.",
-      "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities"
-    },
-    {
-      "rank": 3,
       "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Abridge",
       "role": "Software Engineer, Early Career",
@@ -94,7 +88,7 @@
       "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "category": "HIGH-QUALITY MISSED / CHINA CAMPUS",
       "company": "NVIDIA",
       "role": "【2027校园招聘】AI基础设施工程师",
@@ -110,6 +104,24 @@
       "caveat": "Official Moka page may redirect outside a browser session; salary is not posted. Yuhan already has NVIDIA US applications, so avoid additional weak NVIDIA roles.",
       "application_limit": "No verified campus-wide limit found; prioritize this single high-fit requisition.",
       "url": "https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/b6dea061-c1c0-474b-91e0-7456d13abacd"
+    },
+    {
+      "rank": 4,
+      "category": "NEW TODAY / RECENT",
+      "company": "Brain Co.",
+      "role": "Early Career Machine Learning Engineer, Applied AI",
+      "location": "San Francisco Bay Area, CA (hybrid)",
+      "salary": "Unknown — not listed on the accessible official posting",
+      "fit": "Strong production applied-AI and agent-workflow fit, with Python and modern ML frameworks; less infrastructure-heavy than Pangram or NVIDIA.",
+      "plausible_for_yuhan": "The official early-career role targets roughly 0-2 years and accepts BS/MS candidates. Her TikTok AI-agent backend work plus UIUC ML-systems research gives both product and systems evidence.",
+      "team_value": "She has experience integrating models with tools, evaluating production behavior and debugging failure cases—useful for building reliable applied-AI workflows.",
+      "why_attractive": "Early ownership of models and agents used in real institutional workflows, with a technically ambitious applied-AI team.",
+      "new_grad": "Official title says Early Career; accessible requirements state 0-2 years, but no exact 2027 start date.",
+      "sponsorship": "Not stated; no explicit no-sponsorship, citizenship or clearance restriction found.",
+      "urgency": "APPLY AFTER Pangram, Abridge and NVIDIA China.",
+      "caveat": "Hybrid Bay Area and compensation is unverified. The work is applied AI rather than low-level distributed runtime, so tailor the TikTok agent/evaluation story.",
+      "application_limit": "No public cap found; submit one tailored application.",
+      "url": "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839"
     },
     {
       "rank": 5,
@@ -222,24 +234,24 @@
   ],
   "source_discovery_today": [
     {
-      "repository": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
-      "assessment": "Updated today; surfaced Handshake Associate SWE plus several defense, frontend, internship and weaker generalist roles. Handshake was the only incremental actionable addition."
+      "source": "speedyapply/2027-SWE-College-Jobs",
+      "assessment": "Actively updated on August 21 with official links and good 2027 coverage; Pangram was already ingested and surfaced through this audit. Duplicate and non-eligible rows still require strict official verification.",
+      "action": "Retain existing source; no new adapter."
     },
     {
-      "repository": "vanshb03/New-Grad-2027",
-      "assessment": "Still active and useful as an official-link cross-check; incremental coverage substantially overlaps the deterministic pool."
+      "source": "vanshb03/New-Grad-2027",
+      "assessment": "Useful cross-check with recent updates, but substantial overlap with existing feeds.",
+      "action": "Reference for discovery only."
     },
     {
-      "repository": "SimplifyJobs/New-Grad-Positions",
-      "assessment": "Maintained daily but not 2027-specific enough to justify a new adapter today."
+      "source": "SimplifyJobs/New-Grad-Positions",
+      "assessment": "Broad and actively maintained, but mixes cycles and requires employer-page verification.",
+      "action": "Keep as discovery/reference source."
     },
     {
-      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027",
-      "assessment": "Active but noisy; retained as discovery-only."
-    },
-    {
-      "repository": "Integration decision",
-      "assessment": "No new adapter added today; current sources already capture the useful role and integrating the noisier feeds would increase duplicates and false positives."
+      "source": "zapplyjobs/New-Grad-Software-Engineering-Jobs",
+      "assessment": "Current additional coverage but weaker signal-to-duplicate ratio than the primary feeds.",
+      "action": "No ingestion change."
     }
   ],
   "watchlist": [
@@ -271,9 +283,25 @@
       "company": "Old Mission Capital",
       "role": "Software Engineer - 2027 Graduate Program (August Start)",
       "reason": "Official careers page indicates the graduate opening is active, and public mirrors report $175k-$200k. However the work is centered on modern C++ trading systems and the exact employer-hosted requisition details were not fully accessible, so it remains a lower-fit review candidate rather than Apply Now."
+    },
+    {
+      "company": "Google",
+      "role": "Data Engineer, Google Maps",
+      "reason": "Official live early-career-level posting pays $106k-$150k, but GIS/ArcGIS/FME requirements make resume-screen fit weak; Yuhan also already has a Google application."
+    },
+    {
+      "company": "OpenAI",
+      "role": "Training: ML Framework Engineer",
+      "reason": "Official careers listing is live and technically attractive, but no early-career/new-grad eligibility was verified; prestige alone is not enough for Apply Now."
     }
   ],
   "vetoed_today": [
+    {
+      "company": "Freeform",
+      "role": "Software Engineer, New Grad (Summer 2027)",
+      "reason": "Official application requires U.S. Person status under ITAR. This is a hard work-authorization veto despite the new-grad title and systems content.",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
+    },
     {
       "company": "Five Rings",
       "role": "LINK 2027",
@@ -328,5 +356,5 @@
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
   ],
-  "official_links_verified_at": "2026-08-20"
+  "official_links_verified_at": "2026-08-21"
 }
