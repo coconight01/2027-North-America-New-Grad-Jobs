@@ -104,13 +104,18 @@ def personalize(j,prefs):
     if j["phd_required"]=="Yes":
         if fit>=int(r.get("phd_rescue_fit_score",34)):score-=int(r.get("phd_strong_fit_penalty",12));reasons.append("PhD required, retained for exceptional fit")
         else:score-=int(r.get("phd_penalty",42));reasons.append("PhD required")
-    if "2027" in str(j.get("match","")) or j.get("graduation")=="2027":score+=int(r.get("explicit_2027_bonus",5))
+    if j.get("match")=="Explicit 2027" or j.get("graduation")=="2027":score+=int(r.get("explicit_2027_bonus",5))
     score=max(0,min(100,score));j["personalized_score"]=score;j["priority"]="Top" if score>=85 else ("Strong" if score>=70 else ("Consider" if score>=50 else "Stretch"));j["personalized_reason"]="; ".join(dict.fromkeys(reasons));return j
 def eligible(j,include_general):
-    text=" ".join([j.get("role",""),j.get("description",""),j.get("graduation",""),j.get("start_date","")])
-    if citizen_required(j) or EXCLUDE.search(j.get("role","")) or pure_hardware(j) or j.get("sponsorship")=="No":return False
+    role=j.get("role","")
+    text=" ".join([role,j.get("description",""),j.get("graduation",""),j.get("start_date","")])
+    if citizen_required(j) or EXCLUDE.search(role) or pure_hardware(j) or j.get("sponsorship")=="No":return False
+    if EXPLICIT_2026_ROLE.search(role) and not YEAR_2027.search(role):return False
     if OLD_YEAR.search(text) and not YEAR_2027.search(text):return False
     if not NORTH_AMERICA.search(j.get("location","")+" "+j.get("country","")):return False
+    if UNVERIFIED_SOURCE_CYCLE.search(j.get("graduation","")):
+        j["match"]="Third-party 2027 discovery source; eligibility unverified"
+        return True
     if YEAR_2027.search(text):j["match"]="Explicit 2027";return True
     if include_general and NEW_GRAD.search(text):j["match"]="General new grad";return True
     return False
