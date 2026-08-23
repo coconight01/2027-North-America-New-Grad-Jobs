@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22",
+  "updated_at": "2026-08-23",
   "reviewer": "ChatGPT personalized daily review",
   "candidate_focus": [
     "ML Systems",
@@ -9,53 +9,37 @@
     "Systems / Backend SWE",
     "Quant SWE"
   ],
-  "summary": "Roblox's assessment was completed on August 21 at 9:53 PM PDT and the tracker now shows OA Completed rather than an overdue action. No new application, interview or rejection email arrived after that. Pangram remains the strongest unapplied role. GitHub Software Engineer I - Secret Scanning and Expedia SDE I are newly promoted as company-diverse early-career options; Crusoe Storage and Cerebras Kernel move to watchlist because duplicate-company risk and modern-C++ specialization make them less actionable. MiniMax's exact 2027 ML Systems interview remains scheduled for August 24 at 11:00 China Standard Time.",
+  "summary": "No new application, OA, interview, or rejection evidence arrived after the Roblox completion confirmations. No newly verified opening is stronger and clearly more actionable than the existing shortlist. MiniMax's 2027 Machine Learning Systems interview is tonight at 10:00 PM Champaign time (August 24, 11:00 AM China Standard Time), so interview preparation outranks additional applications today. A newly surfaced NewsBreak ML Infra Junior/New Grad role is an exceptional technical match, but Gmail already contains a company-only NewsBreak application confirmation from August 12; verify the applicant portal before considering another submission. Nuro's AI Platform New Grad posting is live but requires graduation by December 2026, excluding a May 2027 graduate.",
   "changes_today": [
     {
-      "type": "assessment_completed",
-      "company": "Roblox",
-      "role": "[2027] Software Engineer, Early Career",
-      "reason": "CodeSignal and Roblox both confirmed completion on August 21 at 9:53 PM PDT; changed tracker status from OA to OA Completed and removed the expired deadline action."
+      "type": "no_new_application_evidence",
+      "reason": "Gmail review found no valid application, assessment, interview, or rejection update after the previously recorded Roblox completion; alerts and recommendations were not treated as application evidence."
     },
     {
-      "type": "new_recommendation",
-      "company": "GitHub",
-      "role": "Software Engineer I - Secret Scanning",
-      "reason": "Exact official requisition 5743 is live. Engineer I scope, remote U.S. location and platform/reliability work make it a strong elite general-SWE option, though not ML infrastructure."
+      "type": "high_fit_role_reviewed",
+      "company": "NewsBreak",
+      "role": "Software Engineer, ML Infra (Junior & New Grad)",
+      "reason": "Exact official Greenhouse requisition 4615879006 is live, accepts an MS without the BS-plus-two-years requirement, and directly covers training, model serving, feature infrastructure, Python and PyTorch. Not promoted because the August 12 NewsBreak confirmation does not identify which role was submitted."
     },
     {
-      "type": "new_recommendation",
-      "company": "Expedia Group",
-      "role": "Software Development Engineer I",
-      "reason": "Exact official Workday requisition R-108739 is live and level I; added as a secondary scalable-software option with compensation and exact 2027 eligibility left unknown."
+      "type": "eligibility_veto",
+      "company": "Nuro",
+      "role": "Software Engineer, AI Platform - New Grad",
+      "reason": "Nuro's official early-career page lists the live role, but the exact posting requires candidates graduating by December 2026; Yuhan graduates in May 2027."
     },
     {
-      "type": "recommendation_demoted",
-      "company": "Crusoe",
-      "role": "Software Engineer I, Storage",
-      "reason": "Moved from Apply Now to watchlist because a different Crusoe Engineer I application is already active and multiple-application policy is unverified."
-    },
-    {
-      "type": "recommendation_demoted",
-      "company": "Cerebras Systems",
-      "role": "Kernel Engineer - New Grad",
-      "reason": "Moved from Apply Now to watchlist because recent modern-C++/kernel specialization is a weak three-way fit relative to the available ML-infrastructure roles."
-    },
-    {
-      "type": "stale_source_rejected",
-      "company": "Observe.AI",
-      "role": "Software Engineer I - AI Agents",
-      "reason": "The exact official Greenhouse URL redirects to a generic careers page, so a highly aligned third-party row was not promoted."
+      "type": "source_evidence_fix",
+      "reason": "Fixed the discovery pipeline so a third-party repository's 2027 cycle label remains unverified instead of becoming 'Explicit 2027' or earning the explicit-year ranking bonus. Titles explicitly limited to 2026 are now rejected even when they appear in a 2027-branded source."
     },
     {
       "type": "source_review",
-      "reason": "Rechecked speedyapply, zapply, vanshb03, Simplify, jobright and ApplyGuy. ApplyGuy is current, machine-readable and already present in config/sources.yml; it added useful discovery coverage, but official verification and hard filters remain necessary because the feed includes defense, export-controlled and stale roles."
+      "reason": "Rechecked speedyapply, Simplify, vanshb03 and newly surfaced automated 2027 trackers. No additional source offered enough incremental official-link signal and low duplicate rate to justify another adapter today."
     }
   ],
   "recommendations": [
     {
       "rank": 1,
-      "category": "NEW TODAY / HIGH-QUALITY MISSED",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Pangram Labs",
       "role": "Machine Learning Engineer (Junior)",
       "location": "New York City, NY (onsite)",
@@ -109,7 +93,7 @@
     },
     {
       "rank": 4,
-      "category": "NEW TODAY / RECENT",
+      "category": "RECENT",
       "company": "Brain Co.",
       "role": "Early Career Machine Learning Engineer, Applied AI",
       "location": "San Francisco Bay Area, CA (hybrid)",
@@ -127,7 +111,7 @@
     },
     {
       "rank": 5,
-      "category": "NEW TODAY / RECENT",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Amazon",
       "role": "Software Development Engineer, Early Career - 2027, Device",
       "location": "Shenzhen, China",
@@ -145,7 +129,7 @@
     },
     {
       "rank": 6,
-      "category": "NEW TODAY / RECENT",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "GitHub",
       "role": "Software Engineer I - Secret Scanning",
       "location": "Remote - United States",
@@ -163,7 +147,7 @@
     },
     {
       "rank": 7,
-      "category": "NEW TODAY / RECENT",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Handshake",
       "role": "Associate Software Engineer, Operator Experience",
       "location": "San Francisco, CA",
@@ -181,7 +165,7 @@
     },
     {
       "rank": 8,
-      "category": "NEW TODAY / RECENT",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Expedia Group",
       "role": "Software Development Engineer I",
       "location": "Seattle, WA",
@@ -217,7 +201,7 @@
     },
     {
       "rank": 10,
-      "category": "NEW TODAY / RECENT",
+      "category": "HIGH-QUALITY MISSED / OLDER ACTIVE",
       "company": "Twitch",
       "role": "Software Engineer I, Payments",
       "location": "San Francisco, CA",
@@ -236,29 +220,19 @@
   ],
   "source_discovery_today": [
     {
-      "source": "ApplyGuy/2027-New-Grad-Jobs",
-      "assessment": "Refreshed August 22 with 307 recent U.S. roles, 93 explicitly early-career/new-grad roles and a machine-readable feed. Good recency and official-link coverage, but high duplicate/defense noise.",
-      "action": "Already integrated in config/sources.yml; retain with existing normalization and hard filters."
+      "source": "speedyapply/2027-SWE-College-Jobs and 2027-AI-College-Jobs",
+      "assessment": "Still the freshest broad discovery feeds, but today's audit confirmed that repository cycle membership is not requisition-level 2027 evidence; the feeds also mix 2026-only, mid-level, frontend and export-controlled roles.",
+      "action": "Retain with the corrected unverified-source-cycle handling and exact official verification before Apply Now."
     },
     {
-      "source": "speedyapply/2027-SWE-College-Jobs",
-      "assessment": "Updated daily with broad U.S./international coverage and official links; strongest incremental source for fresh level-I postings.",
-      "action": "Retain existing adapters."
+      "source": "SimplifyJobs/New-Grad-Positions and vanshb03/New-Grad-2027",
+      "assessment": "Maintained and useful for cross-checking, but today's incremental high-signal roles were duplicates or had eligibility/start-date caveats.",
+      "action": "No new adapter change."
     },
     {
-      "source": "speedyapply/2027-AI-College-Jobs",
-      "assessment": "Updated daily with broad AI/ML coverage; many new rows are TikTok/ByteDance, internships or non-2027 roles.",
-      "action": "Retain; TikTok/ByteDance remain HOLD."
-    },
-    {
-      "source": "Donkey0322/JobRadar-AI",
-      "assessment": "Technically interesting ATS-based tracker but mixes all levels, internships and product/security roles, creating substantial normalization and eligibility noise.",
+      "source": "SuryaHarikrishnan/2027-internship-tracker",
+      "assessment": "Updated August 23 and automated, but mixes internships with new-grad roles and aggregates multiple sources, producing high duplication and weaker provenance than existing feeds.",
       "action": "Do not integrate today."
-    },
-    {
-      "source": "zapplyjobs / vanshb03 / Simplify / jobright",
-      "assessment": "Useful cross-checks, but today's incremental rows were duplicates, lower-fit, Canada-only, frontend, defense/export-controlled or inadequately verified.",
-      "action": "No adapter change."
     }
   ],
   "watchlist": [
@@ -270,11 +244,6 @@
       "company": "Lightfield",
       "role": "Software Engineer, Infrastructure (Early Career)",
       "reason": "Excellent fit and official $150k-$170k range, but public visa evidence conflicts. Require employer confirmation before Apply Now."
-    },
-    {
-      "company": "Nuro",
-      "role": "Software Engineer, AI Platform / ML Infrastructure",
-      "reason": "Strong apparent fit, but no exact official new-grad requisition accepting applications was verified today."
     },
     {
       "company": "DeepSeek",
@@ -315,14 +284,30 @@
       "company": "Hyve Solutions",
       "role": "Software Engineer - New College Grad",
       "reason": "Exact official new-college-grad requisition is live, but compensation, sponsorship and technical scope are insufficiently clear and company/role fit is weaker than the actionable shortlist."
+    },
+    {
+      "company": "NewsBreak",
+      "role": "Software Engineer, ML Infra (Junior & New Grad)",
+      "reason": "Exact official role is live and is one of the best technical matches ($125k-$175k; training, serving, feature infrastructure, Python/PyTorch). Gmail already proves a NewsBreak application on August 12 but not the role, so check the portal before any second application."
+    },
+    {
+      "company": "Retell AI",
+      "role": "Software Engineer (New Grad)",
+      "reason": "Official Ashby role is live and the Founders Initiatives AI-agent work matches the TikTok internship, but the public $83k-$104k band is barely above the compensation veto boundary and May 2027 start timing is unstated; do not prioritize before the existing shortlist."
     }
   ],
   "vetoed_today": [
     {
-      "company": "Observe.AI",
-      "role": "Software Engineer I - AI Agents",
-      "reason": "A third-party listing looked highly aligned, but the exact official Greenhouse requisition redirects to the generic Observe.AI careers page rather than an accepting job application. Treat as closed/stale until a new exact official requisition appears.",
-      "url": "https://job-boards.greenhouse.io/observeai/jobs/5182951008"
+      "company": "Nuro",
+      "role": "Software Engineer, AI Platform - New Grad",
+      "reason": "Exact official role is live, but the posting requires candidates graduating by December 2026. May 2027 graduation is outside the stated window.",
+      "url": "https://nuro.ai/careersitem?gh_jid=7351066"
+    },
+    {
+      "company": "Amazon",
+      "role": "Front-End Engineer - 2026 - US",
+      "reason": "Explicitly 2026 and frontend-focused. A third-party 2027 source label is not eligibility evidence; the corrected pipeline will no longer classify it as Explicit 2027.",
+      "url": "https://www.amazon.jobs/jobs/10428762/apply"
     },
     {
       "company": "Freeform",
@@ -331,52 +316,10 @@
       "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
     },
     {
-      "company": "Five Rings",
-      "role": "LINK 2027",
-      "reason": "Official page identifies a one-week intensive workshop for current college sophomores with a $2,000 stipend; not ordinary full-time employment and Yuhan is not in the target class year.",
-      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
-    },
-    {
       "company": "Roblox",
       "role": "Software Engineer, Foundation AI - Agent Infra",
       "reason": "Technically excellent recent-grad fit, but the official posting warns that Roblox may not support future H-1B sponsorship; hard work-authorization veto. Yuhan also already has a Roblox 2027 application/OA path.",
       "url": "https://careers.roblox.com/jobs/8123004"
-    },
-    {
-      "company": "Apple",
-      "role": "New Shanghai AiDP / data-solutions openings",
-      "reason": "Newly surfaced official roles require 5-6+ years of production or enterprise experience; senior in substance and not eligible early-career recommendations.",
-      "url": "https://jobs.apple.com/en-us/search?location=shanghai-SHA"
-    },
-    {
-      "company": "Anduril Industries",
-      "role": "2027 Early Career Software Engineer",
-      "reason": "Official posting requires U.S. Person status due to export-controlled access and may require clearance; hard work-authorization veto."
-    },
-    {
-      "company": "Applied Intuition",
-      "role": "Vehicle Test Engineer - New Grad (2027)",
-      "reason": "Official $90k-$115k range and test/vehicle focus are materially weaker than the Research Engineer role; not promoted."
-    },
-    {
-      "company": "General Motors",
-      "role": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
-      "reason": "Official exact posting requires degree completion by Spring/August 2026; start-cycle mismatch for a May 2027 MS graduate, despite excellent vLLM/inference/systems fit and a $119,250-$150,850 range."
-    },
-    {
-      "company": "Appian",
-      "role": "Software Engineer (2027 Graduates)",
-      "reason": "Official exact posting explicitly states it will not sponsor a new applicant for employment authorization."
-    },
-    {
-      "company": "Apple",
-      "role": "Applied AI & Data Engineer - Business & Education / iCloud Data",
-      "reason": "New August 13 posting requires 8+ years across data/software/ML engineering; senior in substance despite the non-senior title."
-    },
-    {
-      "company": "Apple",
-      "role": "ASE Observability",
-      "reason": "Official requirements call for roughly 10-15 years of industry experience; prestige and systems relevance do not make it early-career eligible."
     },
     {
       "company": "Cerebras",
@@ -384,5 +327,5 @@
       "reason": "Exact official requisition remains closed; cached results are not accepted."
     }
   ],
-  "official_links_verified_at": "2026-08-22"
+  "official_links_verified_at": "2026-08-23"
 }
