@@ -73,10 +73,15 @@ def is_eligible(job: Job, include_general: bool = False) -> bool:
     text = " ".join([job.role, job.description, job.graduation, job.start_date])
     if EXCLUDE_EMPLOYMENT.search(job.role):
         return False
+    if EXPLICIT_2026_ROLE.search(job.role) and not EXPLICIT_2027.search(job.role):
+        return False
     if CONTRADICTORY_YEAR.search(text) and not EXPLICIT_2027.search(text):
         return False
     if not NORTH_AMERICA.search(" ".join([job.location, job.country])):
         return False
+    if UNVERIFIED_SOURCE_CYCLE.search(job.graduation):
+        job.match = "Third-party 2027 discovery source; eligibility unverified"
+        return True
     if EXPLICIT_2027.search(text):
         job.match = "Explicit 2027"
         return True
@@ -91,7 +96,9 @@ def normalize(job: Job) -> Job:
     job.category = job.category if job.category not in ("", "Other") else classify(combined)
     if job.country in ("", "Unknown"):
         job.country = infer_country(job.location)
-    if EXPLICIT_2027.search(" ".join([job.role, job.description, job.graduation, job.start_date])):
+    if UNVERIFIED_SOURCE_CYCLE.search(job.graduation):
+        job.match = "Third-party 2027 discovery source; eligibility unverified"
+    elif EXPLICIT_2027.search(" ".join([job.role, job.description, job.graduation, job.start_date])):
         job.match = "Explicit 2027"
         if job.graduation == "Unknown":
             job.graduation = "Includes 2027 graduates"
