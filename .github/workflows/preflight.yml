@@ -1,0 +1,59 @@
+name: Job pipeline preflight
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "src/**"
+      - "config/resume_profile.yml"
+      - ".github/workflows/preflight.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-pipeline-preflight
+  cancel-in-progress: true
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Compile critical modules
+        run: |
+          python -m py_compile \
+            scripts/update_jobs.py scripts/pipeline_runner.py \
+            scripts/profile_ranker.py scripts/smart_rank_jobs.py \
+            scripts/smoke_test.py scripts/reconcile_tracker_updates.py \
+            src/ng_jobs/filters.py src/ng_jobs/models.py
+
+      - name: Runtime smoke tests
+        run: python scripts/smoke_test.py
+
+      - name: Persist smoke diagnostics
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/smoke_status.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: record job pipeline preflight"
+          git pull --rebase origin main
+          git push origin HEAD:main
