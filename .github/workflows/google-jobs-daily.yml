@@ -8,15 +8,13 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/google-jobs-daily.yml"
-      - "scripts/**"
-      - "config/**"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-jobs
-  cancel-in-progress: false
+  group: google-jobs-daily
+  cancel-in-progress: true
 
 jobs:
   google-jobs:
