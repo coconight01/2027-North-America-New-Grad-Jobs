@@ -46,7 +46,8 @@ jobs:
           python -m py_compile \
             scripts/update_jobs.py scripts/extra_discovery.py scripts/order_jobs.py \
             scripts/pipeline_runner.py scripts/profile_ranker.py \
-            scripts/smart_rank_jobs.py scripts/smoke_test.py
+            scripts/smart_rank_jobs.py scripts/smoke_test.py \
+            scripts/reconcile_tracker_updates.py
           python scripts/smoke_test.py
 
       - name: Discover Google Jobs
@@ -55,11 +56,12 @@ jobs:
         continue-on-error: true
         run: python scripts/pipeline_runner.py extra --workers 5 --max-detail-pages 120 --skip-github
 
-      - name: Apply new-grad qualification and rebuild review queue
+      - name: Apply qualification, tracker updates, and rebuild review queue
         id: postprocess
         if: env.SERPAPI_KEY != '' && steps.google_discovery.outcome == 'success'
         run: |
           python scripts/order_jobs.py
+          python scripts/reconcile_tracker_updates.py
           python scripts/smart_rank_jobs.py --max-detail-pages 80
 
       - name: Record Google Jobs status
