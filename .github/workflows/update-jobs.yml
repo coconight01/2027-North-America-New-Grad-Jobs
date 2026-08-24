@@ -44,7 +44,8 @@ jobs:
             scripts/bigtech_discovery.py scripts/final_guard.py \
             scripts/order_jobs.py scripts/china_discovery.py \
             scripts/pipeline_runner.py scripts/profile_ranker.py \
-            scripts/smart_rank_jobs.py scripts/smoke_test.py
+            scripts/smart_rank_jobs.py scripts/smoke_test.py \
+            scripts/reconcile_tracker_updates.py
 
       - name: Runtime smoke test
         id: smoke
@@ -73,6 +74,10 @@ jobs:
         id: qualify
         run: python scripts/order_jobs.py
 
+      - name: Reconcile reviewed Gmail application status updates
+        id: tracker
+        run: python scripts/reconcile_tracker_updates.py
+
       - name: Build resume-aware semantic-review queue
         id: review_queue
         run: python scripts/smart_rank_jobs.py --max-detail-pages 120
@@ -92,6 +97,7 @@ jobs:
           EXTRA: ${{ steps.extra.outcome }}
           GUARD: ${{ steps.guard.outcome }}
           QUALIFY: ${{ steps.qualify.outcome }}
+          TRACKER: ${{ steps.tracker.outcome }}
           REVIEW_QUEUE: ${{ steps.review_queue.outcome }}
           CHINA: ${{ steps.china.outcome }}
         run: |
@@ -107,10 +113,11 @@ jobs:
               "extra_discovery": os.environ.get("EXTRA", "skipped"),
               "final_guard": os.environ.get("GUARD", "skipped"),
               "qualification": os.environ.get("QUALIFY", "skipped"),
+              "tracker_reconciliation": os.environ.get("TRACKER", "skipped"),
               "review_queue": os.environ.get("REVIEW_QUEUE", "skipped"),
               "china_discovery": os.environ.get("CHINA", "skipped"),
           }
-          critical = ["validate", "smoke", "final_guard", "qualification", "review_queue"]
+          critical = ["validate", "smoke", "final_guard", "qualification", "tracker_reconciliation", "review_queue"]
           warnings = [k for k, v in stages.items() if v == "failure" and k not in critical]
           failed = [k for k in critical if stages.get(k) == "failure"]
           status = {
@@ -146,9 +153,10 @@ jobs:
           SMOKE: ${{ steps.smoke.outcome }}
           GUARD: ${{ steps.guard.outcome }}
           QUALIFY: ${{ steps.qualify.outcome }}
+          TRACKER: ${{ steps.tracker.outcome }}
           REVIEW_QUEUE: ${{ steps.review_queue.outcome }}
         run: |
-          for value in "$VALIDATE" "$SMOKE" "$GUARD" "$QUALIFY" "$REVIEW_QUEUE"; do
+          for value in "$VALIDATE" "$SMOKE" "$GUARD" "$QUALIFY" "$TRACKER" "$REVIEW_QUEUE"; do
             if [ "$value" = "failure" ]; then
               exit 1
             fi
