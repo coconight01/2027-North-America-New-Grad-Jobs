@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Second-stage, resume-aware reranker and Apply-Now shortlist generator."""
+"""Second-stage resume-aware prefilter that builds a review queue for human/LLM judgment."""
 from __future__ import annotations
 
 import argparse
@@ -19,7 +19,7 @@ from profile_ranker import load_profile, norm, official_source, score_job, smart
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 TODAY = date.today().isoformat()
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.1)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.2)"}
 TIMEOUT = 18
 
 NON_FTE_TITLE = re.compile(
@@ -143,12 +143,12 @@ def already_in_process(job: dict, exact: set[str], company_only: set[str]) -> bo
     return False
 
 
-def shortlist(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
+def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
+    """Recall-oriented queue. Machine score prioritizes review but never becomes Apply Now by itself."""
     ranking = profile.get("ranking") or {}
-    threshold = int(ranking.get("shortlist_min_score", 76))
-    limit = int(ranking.get("shortlist_size", 32))
-    per_company = int(ranking.get("max_per_company", 2))
-    exceptional_phd = int(ranking.get("exceptional_phd_score", 93))
+    threshold = max(58, int(ranking.get("shortlist_min_score", 76)) - 18)
+    limit = max(60, int(ranking.get("shortlist_size", 32)) * 3)
+    per_company = max(4, int(ranking.get("max_per_company", 2)) * 2)
     exact, company_only, hold_groups = tracker_blocks(tracker)
     chosen, counts = [], {}
     for row in sorted(rows, key=smart_sort_key):
@@ -157,20 +157,9 @@ def shortlist(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
             continue
         if row.get("status") != "Open" or row.get("ng_confidence") == "Not NG":
             continue
-        if company_group(row.get("company")) in hold_groups:
-            continue
-        if already_in_process(row, exact, company_only):
-            continue
-        if str(row.get("phd_required") or "").casefold() == "yes" and score < exceptional_phd:
-            continue
-        # Weak third-party rows need substantially more evidence before reaching Apply Now.
-        if not official_source(row) and score < 84:
-            continue
-        if str(row.get("ng_confidence") or "Uncertain") == "Uncertain" and (
-            score < 90 or not official_source(row)
-        ):
-            continue
         group = company_group(row.get("company"))
+        if group in hold_groups or already_in_process(row, exact, company_only):
+            continue
         if counts.get(group, 0) >= per_company:
             continue
         chosen.append(row)
@@ -180,33 +169,28 @@ def shortlist(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
     return chosen
 
 
-def recommendation(row: dict, rank: int) -> dict:
-    score = int(row.get("personalized_score") or 0)
-    ng = row.get("ng_confidence") or "Review"
-    caveats = []
-    if ng == "Uncertain":
-        caveats.append("2027/new-grad eligibility still needs employer-page confirmation")
-    if not row.get("salary_max_annual"):
-        caveats.append("compensation is not reliably stated")
-    if row.get("sponsorship") != "Yes":
-        caveats.append("sponsorship is not explicitly stated")
-    if not official_source(row):
-        caveats.append("current canonical source is third-party; verify employer page before applying")
+def queue_record(row: dict, rank: int, detail_text: str) -> dict:
     return {
-        "rank": rank,
-        "category": "AUTO · RESUME-AWARE",
+        "machine_rank": rank,
+        "machine_score": int(row.get("personalized_score") or 0),
+        "machine_tier": row.get("priority") or "",
+        "machine_reason": row.get("personalized_reason") or "",
         "company": row.get("company", ""),
         "role": row.get("role", ""),
+        "category": row.get("category", ""),
         "location": row.get("location", ""),
         "salary": row.get("salary") or "Not listed",
-        "fit": f"{score}/100 · {row.get('priority', '')}",
-        "reason": row.get("personalized_reason") or "Strong profile overlap",
-        "new_grad": f"{ng}: {row.get('ng_evidence') or 'current pipeline assessment'}",
-        "sponsorship": "Sponsorship stated" if row.get("sponsorship") == "Yes" else "Not stated; no explicit veto in current data",
-        "urgency": "APPLY FIRST" if score >= 90 else "APPLY SOON" if score >= 82 else "GOOD BACKLOG",
-        "caveat": "; ".join(caveats),
-        "application_limit": "Application tracker checked; exact/company-level in-process matches and explicit company holds are suppressed.",
+        "salary_max_annual": row.get("salary_max_annual", ""),
+        "ng_confidence": row.get("ng_confidence") or "Uncertain",
+        "ng_evidence": row.get("ng_evidence") or "",
+        "sponsorship": row.get("sponsorship") or "Unknown",
+        "phd_required": row.get("phd_required") or "Unknown",
+        "posted_date": row.get("posted_date") or row.get("date_added") or "",
+        "source": row.get("source") or "",
+        "official_source": official_source(row),
         "url": row.get("url", ""),
+        "jd_excerpt": detail_text[:5000],
+        "review_status": "Needs semantic review",
     }
 
 
@@ -222,7 +206,6 @@ def main() -> None:
     if not rows:
         raise SystemExit("data/jobs.json is empty")
 
-    # Defense in depth: the full web data should not keep obvious internship/2026-only leakage.
     veto_counts = {}
     clean_rows = []
     for row in rows:
@@ -276,26 +259,24 @@ def main() -> None:
 
     rows.sort(key=smart_sort_key)
     tracker = load_json(DATA / "application_tracker.json", {})
-    picks = shortlist(rows, profile, tracker)
-    auto = {
+    queue_rows = build_review_queue(rows, profile, tracker)
+    by_url = {str(row.get("url") or ""): i for i, row in enumerate(rows)}
+    queue = {
         "updated_at": TODAY,
-        "reviewer": "Automated resume-aware ranker v2.1",
+        "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
+        "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality.",
         "candidate_focus": (profile.get("candidate") or {}).get("primary_tracks", []),
-        "summary": (
-            f"Ranked {len(rows)} full-time/2027-compatible candidates with two-stage resume-aware scoring; "
-            f"{len(picks)} roles passed Apply-Now after application-tracker, company-hold, source-confidence, and false-positive guards."
-        ),
-        "changes_today": [
-            {"type": "automated_rerank", "reason": "Fit bands now outrank raw recency; title-scoped mismatch signals prevent page-boilerplate penalties."},
-            {"type": "quality_guard", "reason": f"Removed obvious non-FTE, explicit-2026-only, and suspicious-attribution rows before web output: {veto_counts}."},
+        "veto_counts": veto_counts,
+        "candidates": [
+            queue_record(row, rank, detail_text.get(by_url.get(str(row.get("url") or ""), -1), ""))
+            for rank, row in enumerate(queue_rows, start=1)
         ],
-        "recommendations": [recommendation(row, i + 1) for i, row in enumerate(picks)],
     }
 
     if args.dry_run:
         print("vetoes:", veto_counts)
-        for row in picks[:15]:
-            print(row.get("personalized_score"), row.get("company"), "-", row.get("role"), "::", row.get("personalized_reason"))
+        for item in queue["candidates"][:20]:
+            print(item["machine_score"], item["company"], "-", item["role"], "::", item["machine_reason"])
         return
 
     jobs_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -314,8 +295,11 @@ def main() -> None:
     active_urls = {str(row.get("url") or "") for row in rows if row.get("url")}
     pruned = {url: entry for url, entry in cache.items() if url in active_urls}
     cache_path.write_text(json.dumps(pruned, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (DATA / "ai_recommendations.json").write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Smart-ranked {len(rows)} jobs; generated {len(picks)} Apply-Now recommendations; vetoed {sum(veto_counts.values())}")
+    (DATA / "model_review_queue.json").write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(
+        f"Smart-ranked {len(rows)} jobs; queued {len(queue_rows)} for semantic review; "
+        f"vetoed {sum(veto_counts.values())}. Existing ai_recommendations.json was not modified."
+    )
 
 
 if __name__ == "__main__":
