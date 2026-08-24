@@ -2,7 +2,13 @@
 """Fast runtime checks that catch NameError and ranking regressions missed by py_compile."""
 from __future__ import annotations
 
+import sys
+from pathlib import Path
 from types import SimpleNamespace
+
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from pipeline_runner import patch_update_jobs
 from profile_ranker import load_profile, score_job
