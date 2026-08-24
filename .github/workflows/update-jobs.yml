@@ -16,8 +16,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-jobs
-  cancel-in-progress: false
+  group: update-jobs-main
+  cancel-in-progress: true
 
 jobs:
   update:
