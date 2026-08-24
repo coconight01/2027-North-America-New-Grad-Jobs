@@ -37,6 +37,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Validate Python syntax
+        id: validate
         run: |
           python -m py_compile \
             scripts/update_jobs.py scripts/extra_discovery.py \
@@ -46,38 +47,109 @@ jobs:
             scripts/smart_rank_jobs.py scripts/smoke_test.py
 
       - name: Runtime smoke test
+        id: smoke
         run: python scripts/smoke_test.py
 
       - name: Discover and enrich jobs
+        id: primary
+        continue-on-error: true
         run: python scripts/pipeline_runner.py update --workers 6 --max-detail-pages 300
 
       - name: Discover official big-tech roles
+        id: bigtech
+        continue-on-error: true
         run: python scripts/bigtech_discovery.py
 
       - name: Discover from expanded GitHub lists
+        id: extra
+        continue-on-error: true
         run: python scripts/pipeline_runner.py extra --workers 6 --max-detail-pages 250 --skip-google
 
       - name: Remove internships fellowships and special programs
+        id: guard
         run: python scripts/final_guard.py
 
       - name: Qualify new-grad roles and apply eligibility filters
+        id: qualify
         run: python scripts/order_jobs.py
 
-      - name: Resume-aware rerank and Apply-Now shortlist
+      - name: Build resume-aware semantic-review queue
+        id: review_queue
         run: python scripts/smart_rank_jobs.py --max-detail-pages 120
 
       - name: Discover high-value China roles
+        id: china
+        continue-on-error: true
         run: python scripts/china_discovery.py
 
-      - name: Commit changes
+      - name: Record pipeline status
+        if: always()
+        env:
+          VALIDATE: ${{ steps.validate.outcome }}
+          SMOKE: ${{ steps.smoke.outcome }}
+          PRIMARY: ${{ steps.primary.outcome }}
+          BIGTECH: ${{ steps.bigtech.outcome }}
+          EXTRA: ${{ steps.extra.outcome }}
+          GUARD: ${{ steps.guard.outcome }}
+          QUALIFY: ${{ steps.qualify.outcome }}
+          REVIEW_QUEUE: ${{ steps.review_queue.outcome }}
+          CHINA: ${{ steps.china.outcome }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          stages = {
+              "validate": os.environ.get("VALIDATE", "skipped"),
+              "smoke": os.environ.get("SMOKE", "skipped"),
+              "primary_discovery": os.environ.get("PRIMARY", "skipped"),
+              "bigtech_discovery": os.environ.get("BIGTECH", "skipped"),
+              "extra_discovery": os.environ.get("EXTRA", "skipped"),
+              "final_guard": os.environ.get("GUARD", "skipped"),
+              "qualification": os.environ.get("QUALIFY", "skipped"),
+              "review_queue": os.environ.get("REVIEW_QUEUE", "skipped"),
+              "china_discovery": os.environ.get("CHINA", "skipped"),
+          }
+          critical = ["validate", "smoke", "final_guard", "qualification", "review_queue"]
+          warnings = [k for k, v in stages.items() if v == "failure" and k not in critical]
+          failed = [k for k in critical if stages.get(k) == "failure"]
+          status = {
+              "checked_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+              "overall": "failure" if failed else ("warning" if warnings else "success"),
+              "critical_failures": failed,
+              "warnings": warnings,
+              "stages": stages,
+          }
+          Path("data").mkdir(exist_ok=True)
+          Path("data/pipeline_status.json").write_text(json.dumps(status, indent=2) + "\n", encoding="utf-8")
+          print(status)
+          PY
+
+      - name: Commit changes and diagnostics
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "4189823+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A -- README.md CHINA.md data
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-          git commit -m "chore: update and smart-rank 2027 new-grad jobs"
+          git commit -m "chore: update 2027 jobs and pipeline status"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Fail only on critical local pipeline errors
+        if: always()
+        env:
+          VALIDATE: ${{ steps.validate.outcome }}
+          SMOKE: ${{ steps.smoke.outcome }}
+          GUARD: ${{ steps.guard.outcome }}
+          QUALIFY: ${{ steps.qualify.outcome }}
+          REVIEW_QUEUE: ${{ steps.review_queue.outcome }}
+        run: |
+          for value in "$VALIDATE" "$SMOKE" "$GUARD" "$QUALIFY" "$REVIEW_QUEUE"; do
+            if [ "$value" = "failure" ]; then
+              exit 1
+            fi
+          done
