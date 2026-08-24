@@ -23,7 +23,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.3)"}
 TIMEOUT = 18
 
 NON_FTE_TITLE = re.compile(
-    r"\b(?:intern(?:ship)?|co[- ]?op|fellowship|apprentice(?:ship)?|skillbridge|"
+    r"\b(?:intern(?:ship)?s?|co[- ]?op|fellowship|apprentice(?:ship)?|skillbridge|"
     r"returnship|externship|student researcher|student worker|part[- ]?time|contract(?:or|ing)?)\b",
     re.I,
 )
