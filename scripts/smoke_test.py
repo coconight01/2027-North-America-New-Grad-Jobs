@@ -2,9 +2,12 @@
 """Fast runtime checks that catch NameError and ranking regressions missed by py_compile."""
 from __future__ import annotations
 
+from types import SimpleNamespace
+
 from pipeline_runner import patch_update_jobs
 from profile_ranker import load_profile, score_job
 from smart_rank_jobs import build_review_queue, hard_veto
+from src.ng_jobs import filters as package_filters
 
 
 def base_job(role: str, category: str = "Software Engineering") -> dict:
@@ -35,6 +38,19 @@ def main() -> None:
     update_jobs = patch_update_jobs()
     row = base_job("Software Engineer, Early Career")
     assert update_jobs.eligible(dict(row), True) is True
+
+    # Exercise the package implementation too; py_compile alone would miss undefined globals.
+    package_2026 = SimpleNamespace(
+        role="Software Engineer - New Grad 2026", description="", graduation="Unknown",
+        start_date="", location="Seattle, WA", country="United States", match="",
+    )
+    assert package_filters.is_eligible(package_2026, True) is False
+    package_unverified = SimpleNamespace(
+        role="Software Engineer, Early Career", description="",
+        graduation="2027 source cycle (unverified)", start_date="",
+        location="Seattle, WA", country="United States", match="",
+    )
+    assert package_filters.is_eligible(package_unverified, True) is True
 
     profile = load_profile()
     ml = base_job("Machine Learning Systems Engineer, New Grad", "AI / Machine Learning")
@@ -74,9 +90,39 @@ def main() -> None:
     }
     assert build_review_queue([held], profile, tracker) == []
 
+    # Exact role evidence suppresses the duplicate role.
+    exact = base_job("Software Engineer, Early Career")
+    exact["company"] = "ExampleCo"
+    exact["personalized_score"] = 100
+    exact_tracker = {
+        "applications": [{
+            "company": "ExampleCo",
+            "role": "Software Engineer, Early Career",
+            "status": "Applied",
+            "confidence": "Exact",
+        }]
+    }
+    assert build_review_queue([exact], profile, exact_tracker) == []
+
+    # Company-only evidence must warn, not hide every role at that company.
+    possible = base_job("Machine Learning Infrastructure Engineer")
+    possible["company"] = "MaybeCo"
+    possible["personalized_score"] = 100
+    possible_tracker = {
+        "applications": [{
+            "company": "MaybeCo",
+            "role": "Role uncertain",
+            "status": "Applied",
+            "confidence": "Company-only",
+        }]
+    }
+    possible_queue = build_review_queue([possible], profile, possible_tracker)
+    assert len(possible_queue) == 1
+    assert possible_queue[0]["application_match"] == "Company-only possible"
+
     print(
         f"smoke ok: ml={ml_score}, backend={backend_score}, frontend={frontend_score}, "
-        f"infra={infra_result['score']}"
+        f"infra={infra_result['score']}, application-dedupe=ok"
     )
 
 
