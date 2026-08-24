@@ -83,7 +83,8 @@ def anchor_score(text: str, profile: dict) -> tuple[int, list[tuple[int, str, li
     return min(total, 32), hits[:3]
 
 
-def signal_delta(title: str, text: str, profile: dict) -> tuple[int, list[str], list[str]]:
+def signal_delta(title: str, profile: dict) -> tuple[int, list[str], list[str]]:
+    """Role-shape signals are title-scoped to avoid page-shell boilerplate false positives."""
     positive, negative = [], []
     delta = 0
     for signal in profile.get("positive_title_signals", []):
@@ -91,7 +92,7 @@ def signal_delta(title: str, text: str, profile: dict) -> tuple[int, list[str], 
             delta += int(signal.get("weight", 0))
             positive.append(str(signal.get("label", "positive role signal")))
     for signal in profile.get("negative_signals", []):
-        if matched_terms(" ".join([title, text]), signal.get("terms", [])):
+        if matched_terms(title, signal.get("terms", [])):
             delta -= int(signal.get("weight", 0))
             negative.append(str(signal.get("label", "mismatch")))
     return delta, positive[:2], negative[:2]
@@ -118,15 +119,15 @@ def freshness_days(job: dict) -> int:
 def score_job(job: dict, profile: dict, detail_text: str = "") -> dict:
     ranking = profile.get("ranking") or {}
     title = str(job.get("role") or "")
+    # Do not feed the previous scorer's personalized_reason back into this scorer.
     metadata = " ".join([
         title, str(job.get("category") or ""), str(job.get("skills") or ""),
-        str(job.get("personalized_reason") or ""), str(job.get("ng_evidence") or ""),
-        str(job.get("match") or ""),
+        str(job.get("ng_evidence") or ""), str(job.get("match") or ""),
     ])
     combined = " ".join([metadata, detail_text])
     tscore, tracks = track_score(job, combined, profile)
     ascore, anchors = anchor_score(combined, profile)
-    signals, positives, negatives = signal_delta(title, combined, profile)
+    signals, positives, negatives = signal_delta(title, profile)
     sscore, skills = skill_score(job, combined, profile)
     score = int(ranking.get("base_score", 32)) + tscore + ascore + signals + sscore
 
@@ -191,11 +192,14 @@ def score_job(job: dict, profile: dict, detail_text: str = "") -> dict:
 
 
 def smart_sort_key(job: dict) -> tuple:
+    """Fit band first; freshness breaks ties inside similarly strong matches."""
     days = freshness_days(job)
-    bucket = 0 if days <= 3 else 1 if days <= 10 else 2 if days <= 30 else 3
+    score = number(job.get("personalized_score"))
+    fit_band = 0 if score >= 90 else 1 if score >= 82 else 2 if score >= 74 else 3 if score >= 58 else 4
+    freshness_bucket = 0 if days <= 3 else 1 if days <= 10 else 2 if days <= 30 else 3
     ng = {"Confirmed": 0, "Likely": 1, "Uncertain": 2}.get(str(job.get("ng_confidence") or "Uncertain"), 2)
     phd = 1 if str(job.get("phd_required") or "").casefold() == "yes" else 0
     return (
-        bucket, -number(job.get("personalized_score")), ng, phd, days,
+        fit_band, freshness_bucket, -score, ng, phd, days,
         -number(job.get("salary_max_annual")), norm(job.get("company")), norm(job.get("role")),
     )
