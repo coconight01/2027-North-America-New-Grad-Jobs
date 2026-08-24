@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pipeline_runner import patch_update_jobs
 from profile_ranker import load_profile, score_job
-from smart_rank_jobs import hard_veto, shortlist
+from smart_rank_jobs import build_review_queue, hard_veto
 
 
 def base_job(role: str, category: str = "Software Engineering") -> dict:
@@ -49,19 +49,16 @@ def main() -> None:
     assert ml_score > backend_score > frontend_score, (ml_score, backend_score, frontend_score)
     assert ml_score >= 80, ml_score
 
-    # Page-shell words must not make an infrastructure title look frontend/mobile-heavy.
     infra = base_job("Software Engineer Graduate - AI Search Infra Team - 2027 Start")
     noisy_page = "Build inference infrastructure with CUDA and distributed systems. TikTok is a mobile video product with frontend experiences."
     infra_result = score_job(infra, profile, noisy_page)
     assert "frontend-heavy" not in infra_result["negative_signals"], infra_result
     assert "mobile specialization" not in infra_result["negative_signals"], infra_result
 
-    # Defense-in-depth guards catch leakage even if an upstream cache misclassified it.
     assert hard_veto(base_job("NVIDIA 2027 Internships: Developer and Performance Technology"))
     assert hard_veto(base_job("Research Scientist - R&D - 2026"))
     assert not hard_veto(base_job("Machine Learning Engineer Graduate - 2027 Start"))
 
-    # Explicit tracker company holds suppress an entire application-limited group.
     held = base_job("Machine Learning Engineer Graduate (AML Engine) - 2027 Start", "AI / Machine Learning")
     held["company"] = "TikTok"
     held["personalized_score"] = 100
@@ -75,7 +72,7 @@ def main() -> None:
             "next_action": "Keep all additional ByteDance/TikTok roles on hold",
         }]
     }
-    assert shortlist([held], profile, tracker) == []
+    assert build_review_queue([held], profile, tracker) == []
 
     print(
         f"smoke ok: ml={ml_score}, backend={backend_score}, frontend={frontend_score}, "
