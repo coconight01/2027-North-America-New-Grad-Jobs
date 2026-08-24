@@ -6,7 +6,7 @@ from collections.abc import Iterable
 from .models import Job
 
 EXCLUDE_EMPLOYMENT = re.compile(
-    r"\b(intern(ship)?|co-?op|apprentice|part[- ]?time|contract)\b", re.I
+    r"\b(intern(?:ship)?s?|co-?op|apprentice|part[- ]?time|contract)\b", re.I
 )
 NEW_GRAD = re.compile(
     r"\b(new grad(uate)?|university grad(uate)?|college grad|graduate "
