@@ -53,13 +53,19 @@ def test_package_filters() -> str:
         start_date="", location="Seattle, WA", country="United States", match="",
     )
     assert package_filters.is_eligible(package_2026, True) is False
+    package_internships = SimpleNamespace(
+        role="NVIDIA 2027 Internships: Developer and Performance Technology",
+        description="", graduation="2027", start_date="", location="Santa Clara, CA",
+        country="United States", match="",
+    )
+    assert package_filters.is_eligible(package_internships, True) is False
     package_unverified = SimpleNamespace(
         role="Software Engineer, Early Career", description="",
         graduation="2027 source cycle (unverified)", start_date="",
         location="Seattle, WA", country="United States", match="",
     )
     assert package_filters.is_eligible(package_unverified, True) is True
-    return "package filters runtime ok"
+    return "package filters runtime ok, including plural internships"
 
 
 def test_ranking() -> str:
@@ -100,7 +106,7 @@ def test_application_dedupe() -> str:
     profile = load_profile()
 
     held = base_job("Machine Learning Engineer Graduate (AML Engine) - 2027 Start", "AI / Machine Learning")
-    held["company"] = "TikTok"
+    held["company"] = "TikTok USDS Joint Venture"
     held["personalized_score"] = 100
     held["priority"] = "Top"
     hold_tracker = {
@@ -141,7 +147,7 @@ def test_application_dedupe() -> str:
     queue = build_review_queue([possible], profile, possible_tracker)
     assert len(queue) == 1, queue
     assert queue[0]["application_match"] == "Company-only possible", queue[0]
-    return "application dedupe/warning semantics ok"
+    return "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
 
 
 def main() -> None:
