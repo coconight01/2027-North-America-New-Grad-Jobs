@@ -1,0 +1,92 @@
+version: 2
+candidate:
+  graduation_year: 2027
+  degree_level: MS
+  primary_tracks:
+    - ML Systems / LLM Infrastructure
+    - Distributed / Systems
+    - Performance / Runtime
+    - Applied LLM / Agents
+
+ranking:
+  base_score: 32
+  shortlist_min_score: 76
+  shortlist_size: 32
+  max_per_company: 2
+  detail_fetch_limit: 120
+  detail_cache_days: 7
+  exceptional_phd_score: 93
+
+tracks:
+  - name: ML Systems / LLM Infrastructure
+    weight: 30
+    title_terms: [ml systems, machine learning systems, ai infrastructure, ml infrastructure, llm infrastructure, machine learning infrastructure, inference engineer, training infrastructure, model serving]
+    body_terms: [distributed training, llm inference, model serving, inference serving, training platform, inference platform, gpu cluster, multi-gpu, collective communication, vllm, nccl, tensor parallel, pipeline parallel, data parallel, expert parallel, parallelism]
+  - name: Performance / Runtime
+    weight: 27
+    title_terms: [performance engineer, performance modeling, runtime engineer, compiler engineer, gpu software, systems performance, kernel engineer]
+    body_terms: [performance modeling, profiling, benchmarking, bottleneck, throughput, latency, runtime, compiler, kernel, cuda, gpu, memory bandwidth, interconnect, communication library]
+  - name: Distributed / Systems
+    weight: 24
+    title_terms: [distributed systems, systems engineer, infrastructure engineer, platform engineer, backend infrastructure, software engineer infrastructure]
+    body_terms: [distributed systems, scheduling, cluster, fault tolerance, storage, networking, linux, systems programming, orchestration, resource management, scalability]
+  - name: Applied LLM / Agents
+    weight: 20
+    title_terms: [llm engineer, ai engineer, applied ai, agent engineer, machine learning engineer]
+    body_terms: [agentic, llm agent, tool use, function calling, retrieval, rag, mcp, workflow, evaluation, model evaluation, prompt, production ai]
+  - name: Quant / Performance SWE
+    weight: 15
+    title_terms: [quantitative developer, quantitative researcher, trading engineer, software engineer trading]
+    body_terms: [low latency, high performance, c++, algorithms, optimization, distributed systems, market data]
+
+experience_anchors:
+  - label: distributed training / parallelism
+    weight: 11
+    terms: [distributed training, tensor parallel, pipeline parallel, data parallel, expert parallel, multi-gpu, parallelism]
+  - label: LLM inference / serving
+    weight: 12
+    terms: [llm inference, inference serving, model serving, vllm, serving runtime, inference engine]
+  - label: GPU communication / performance
+    weight: 12
+    terms: [nccl, collective communication, cuda, gpu communication, interconnect, communication library, gpu cluster]
+  - label: profiling / performance modeling
+    weight: 10
+    terms: [profiling, performance modeling, benchmark, benchmarking, bottleneck, throughput, latency, simulation]
+  - label: systems scheduling / planning
+    weight: 9
+    terms: [scheduling, planner, resource management, placement, search, optimization, cluster scheduling]
+  - label: production LLM agents / tools
+    weight: 8
+    terms: [llm agent, agentic, tool use, function calling, mcp, retrieval, workflow, model evaluation]
+
+positive_title_signals:
+  - {label: systems/performance role, weight: 10, terms: [systems engineer, infrastructure engineer, performance engineer, runtime engineer, compiler engineer, gpu software]}
+  - {label: entry-level ML role, weight: 7, terms: [machine learning engineer, applied ai, ai engineer]}
+  - {label: early-career SWE, weight: 5, terms: [software engineer i, software development engineer i, early career, new grad, graduate software]}
+
+negative_signals:
+  - {label: frontend-heavy, weight: 18, terms: [frontend, front-end, react, ui engineer, web frontend]}
+  - {label: mobile specialization, weight: 18, terms: [android, ios, mobile engineer]}
+  - {label: qa/test specialization, weight: 22, terms: [quality engineer, qa engineer, software test, test engineer, sdet]}
+  - {label: data/analytics mismatch, weight: 16, terms: [data analyst, analytics engineer, business intelligence]}
+  - {label: product/non-engineering mismatch, weight: 20, terms: [product manager, program manager, solutions consultant, sales engineer]}
+  - {label: security specialization, weight: 9, terms: [security engineer, cybersecurity, threat detection, secret scanning]}
+  - {label: generic CRUD/backend, weight: 5, terms: [crud, rest api, web application, full stack, full-stack]}
+
+skills:
+  C++: 5
+  Python: 4
+  Linux: 4
+  CUDA: 6
+  Distributed Systems: 6
+  Networking: 3
+  Compilers: 5
+  PyTorch: 2
+  JAX: 2
+  Kubernetes: 2
+
+company_bonus:
+  frontier_or_infra: 3
+  quant: 2
+  companies: [OpenAI, Anthropic, xAI, NVIDIA, Databricks, CoreWeave, Baseten, Fireworks AI, Cerebras, Modal, Together AI, Crusoe, Anyscale, Google, Meta]
+  quant_companies: [Jane Street, Hudson River Trading, Citadel, Citadel Securities, Optiver, Five Rings, IMC Trading, Jump Trading, DRW, D. E. Shaw, Two Sigma]
