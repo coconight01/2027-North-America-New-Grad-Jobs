@@ -1,5 +1,5 @@
 {
-  "overall": "failure",
+  "overall": "success",
   "tests": {
     "legacy_runtime": {
       "outcome": "success",
@@ -14,10 +14,8 @@
       "detail": "ranking ok: ml=100, backend=65, frontend=47"
     },
     "title_noise_and_vetoes": {
-      "outcome": "failure",
-      "error_type": "AssertionError",
-      "error": "",
-      "traceback": "Traceback (most recent call last):\n  File \"/home/runner/work/2027-North-America-New-Grad-Jobs/2027-North-America-New-Grad-Jobs/scripts/smoke_test.py\", line 158, in main\n    detail = fn()\n             ^^^^\n  File \"/home/runner/work/2027-North-America-New-Grad-Jobs/2027-North-America-New-Grad-Jobs/scripts/smoke_test.py\", line 91, in test_title_noise_and_vetoes\n    assert hard_veto(base_job(\"NVIDIA 2027 Internships: Developer and Performance Technology\"))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n"
+      "outcome": "success",
+      "detail": "title-noise/vetoes ok: infra=89"
     },
     "application_dedupe": {
       "outcome": "success",

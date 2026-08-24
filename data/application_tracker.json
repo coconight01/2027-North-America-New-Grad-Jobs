@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22",
+  "updated_at": "2026-08-24",
   "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
   "applications": [
     {
@@ -7,10 +7,10 @@
       "role": "机器学习系统研发工程师-2027届",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-08-20",
+      "status_date": "2026-08-24",
       "confidence": "Exact",
-      "evidence": "Official MiniMax Feishu recruiting email names the exact 2027 ML systems role and invites the candidate to a video interview",
-      "next_action": "Video interview scheduled for 2026-08-24 11:00 China Standard Time"
+      "evidence": "Official MiniMax interview invitation named the exact 2027 ML systems role; a post-interview satisfaction questionnaire received on 2026-08-24 confirms the interview was attended.",
+      "next_action": "Interview completed; wait for recruiting outcome."
     },
     {
       "company": "Applied Intuition",
@@ -258,12 +258,12 @@
     {
       "company": "Maven Securities",
       "role": "Graduate Developer Programme Chicago 2027",
-      "status": "OA",
+      "status": "Rejected",
       "applied_date": "2026-08-03",
-      "status_date": "2026-08-11",
+      "status_date": "2026-08-19",
       "confidence": "Exact",
-      "evidence": "Application confirmation + Arctic Shores assessment invitation + assessment feedback email confirming completion",
-      "next_action": "Assessment completed; wait for review"
+      "evidence": "Application and assessment history identify the exact Graduate Developer Programme Chicago 2027 role; Maven's 2026-08-19 email states the application will not move forward after the online assessments.",
+      "next_action": "Closed."
     },
     {
       "company": "Pylon",
