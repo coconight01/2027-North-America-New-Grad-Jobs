@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-24T10:18:58+00:00",
+  "checked_at_utc": "2026-08-24T10:19:29+00:00",
   "overall": "failure",
   "critical_failures": [
     "smoke"
@@ -13,6 +13,7 @@
     "extra_discovery": "skipped",
     "final_guard": "skipped",
     "qualification": "skipped",
+    "tracker_reconciliation": "skipped",
     "review_queue": "skipped",
     "china_discovery": "skipped"
   }
