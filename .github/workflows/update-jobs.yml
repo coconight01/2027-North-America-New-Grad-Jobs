@@ -22,7 +22,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
@@ -54,7 +54,7 @@ jobs:
       - name: Discover and enrich jobs
         id: primary
         continue-on-error: true
-        run: python scripts/pipeline_runner.py update --workers 6 --max-detail-pages 300
+        run: python scripts/pipeline_runner.py update --workers 6 --max-detail-pages 120
 
       - name: Discover official big-tech roles
         id: bigtech
@@ -64,7 +64,7 @@ jobs:
       - name: Discover from expanded GitHub lists
         id: extra
         continue-on-error: true
-        run: python scripts/pipeline_runner.py extra --workers 6 --max-detail-pages 250 --skip-google
+        run: python scripts/pipeline_runner.py extra --workers 6 --max-detail-pages 120 --skip-google
 
       - name: Remove internships fellowships and special programs
         id: guard
@@ -80,7 +80,7 @@ jobs:
 
       - name: Build resume-aware semantic-review queue
         id: review_queue
-        run: python scripts/smart_rank_jobs.py --max-detail-pages 120
+        run: python scripts/smart_rank_jobs.py --max-detail-pages 80
 
       - name: Discover high-value China roles
         id: china
@@ -90,6 +90,7 @@ jobs:
       - name: Record pipeline status
         if: always()
         env:
+          SOURCE_SHA: ${{ github.sha }}
           VALIDATE: ${{ steps.validate.outcome }}
           SMOKE: ${{ steps.smoke.outcome }}
           PRIMARY: ${{ steps.primary.outcome }}
@@ -120,10 +121,23 @@ jobs:
           critical = ["validate", "smoke", "final_guard", "qualification", "tracker_reconciliation", "review_queue"]
           warnings = [k for k, v in stages.items() if v == "failure" and k not in critical]
           failed = [k for k in critical if stages.get(k) == "failure"]
+          cancelled = [k for k, v in stages.items() if v == "cancelled"]
+          incomplete = [k for k in critical if stages.get(k) not in {"success", "failure"}]
+          if cancelled:
+              overall = "cancelled"
+          elif failed or incomplete:
+              overall = "failure"
+          elif warnings:
+              overall = "warning"
+          else:
+              overall = "success"
           status = {
+              "source_sha": os.environ.get("SOURCE_SHA", ""),
               "checked_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-              "overall": "failure" if failed else ("warning" if warnings else "success"),
+              "overall": overall,
               "critical_failures": failed,
+              "incomplete_critical_stages": incomplete,
+              "cancelled_stages": cancelled,
               "warnings": warnings,
               "stages": stages,
           }
