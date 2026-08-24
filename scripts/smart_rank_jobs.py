@@ -19,7 +19,7 @@ from profile_ranker import load_profile, norm, official_source, score_job, smart
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 TODAY = date.today().isoformat()
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.2)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.3)"}
 TIMEOUT = 18
 
 NON_FTE_TITLE = re.compile(
@@ -84,6 +84,8 @@ def company_group(value: object) -> str:
         return "nvidia"
     if company in {"susquehanna international group", "sig"}:
         return "sig"
+    if company in {"citadel", "citadel securities", "citadel / citadel securities"}:
+        return "citadel"
     return company
 
 
@@ -103,12 +105,13 @@ def hard_veto(row: dict) -> str:
 
 
 def tracker_blocks(tracker: dict) -> tuple[set[str], set[str], set[str]]:
-    exact, company_only, hold_groups = set(), set(), set()
+    """Return exact role blocks, company-level possible matches, and explicit company holds."""
+    exact, possible_company, hold_groups = set(), set(), set()
     active_statuses = {"applied", "oa", "oa completed", "interview", "rejected", "offer"}
     for app in tracker.get("applications", []) or []:
         if str(app.get("status") or "").casefold() not in active_statuses:
             continue
-        company = norm(app.get("company"))
+        company = company_group(app.get("company"))
         role = norm(app.get("role"))
         confidence = str(app.get("confidence") or "").casefold()
         note = " ".join([
@@ -120,27 +123,28 @@ def tracker_blocks(tracker: dict) -> tuple[set[str], set[str], set[str]]:
             or "keep all additional" in note
             or ("additional" in note and "on hold" in note)
         ):
-            hold_groups.add(company_group(company))
-        if confidence == "company-only" or "role uncertain" in role or "exact requisition uncertain" in role:
-            if company:
-                company_only.add(company)
-        elif company and role:
+            hold_groups.add(company)
+        if confidence == "exact" and company and role:
             exact.add(company + "|" + role)
-    return exact, company_only, hold_groups
+        elif company:
+            possible_company.add(company)
+    return exact, possible_company, hold_groups
 
 
-def already_in_process(job: dict, exact: set[str], company_only: set[str]) -> bool:
-    company = norm(job.get("company"))
+def exact_application_match(job: dict, exact: set[str]) -> bool:
+    company = company_group(job.get("company"))
     role = norm(job.get("role"))
-    if company in company_only:
-        return True
     for item in exact:
         c, r = item.split("|", 1)
         if c != company:
             continue
-        if r == role or (len(r) >= 14 and (r in role or role in r)):
+        if r == role or (len(r) >= 14 and len(role) >= 10 and (r in role or role in r)):
             return True
     return False
+
+
+def possible_company_application(job: dict, possible_company: set[str]) -> bool:
+    return company_group(job.get("company")) in possible_company
 
 
 def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
@@ -149,7 +153,7 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
     threshold = max(58, int(ranking.get("shortlist_min_score", 76)) - 18)
     limit = max(60, int(ranking.get("shortlist_size", 32)) * 3)
     per_company = max(4, int(ranking.get("max_per_company", 2)) * 2)
-    exact, company_only, hold_groups = tracker_blocks(tracker)
+    exact, possible_company, hold_groups = tracker_blocks(tracker)
     chosen, counts = [], {}
     for row in sorted(rows, key=smart_sort_key):
         score = int(row.get("personalized_score") or 0)
@@ -158,10 +162,15 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
         if row.get("status") != "Open" or row.get("ng_confidence") == "Not NG":
             continue
         group = company_group(row.get("company"))
-        if group in hold_groups or already_in_process(row, exact, company_only):
+        if group in hold_groups or exact_application_match(row, exact):
             continue
         if counts.get(group, 0) >= per_company:
             continue
+        row["application_match"] = "Company-only possible" if possible_company_application(row, possible_company) else "None"
+        if row["application_match"] != "None":
+            row["application_note"] = "⚠ Possible prior application at this company; verify the applicant portal before applying."
+        else:
+            row["application_note"] = ""
         chosen.append(row)
         counts[group] = counts.get(group, 0) + 1
         if len(chosen) >= limit:
@@ -170,6 +179,7 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
 
 
 def queue_record(row: dict, rank: int, detail_text: str) -> dict:
+    possible = str(row.get("application_match") or "None") != "None"
     return {
         "machine_rank": rank,
         "machine_score": int(row.get("personalized_score") or 0),
@@ -190,7 +200,9 @@ def queue_record(row: dict, rank: int, detail_text: str) -> dict:
         "official_source": official_source(row),
         "url": row.get("url", ""),
         "jd_excerpt": detail_text[:5000],
-        "review_status": "Needs semantic review",
+        "application_match": row.get("application_match") or "None",
+        "application_note": row.get("application_note") or "",
+        "review_status": "Needs semantic review + application check" if possible else "Needs semantic review",
     }
 
 
@@ -206,13 +218,29 @@ def main() -> None:
     if not rows:
         raise SystemExit("data/jobs.json is empty")
 
+    tracker = load_json(DATA / "application_tracker.json", {})
+    exact, possible_company, hold_groups = tracker_blocks(tracker)
+
     veto_counts = {}
     clean_rows = []
+    exact_removed = 0
     for row in rows:
         reason = hard_veto(row)
         if reason:
             veto_counts[reason] = veto_counts.get(reason, 0) + 1
             continue
+        if exact_application_match(row, exact):
+            exact_removed += 1
+            continue
+        if possible_company_application(row, possible_company):
+            row["application_match"] = "Company-only possible"
+            row["application_note"] = "⚠ Possible prior application at this company; verify the applicant portal before applying."
+        elif company_group(row.get("company")) in hold_groups:
+            row["application_match"] = "Company hold"
+            row["application_note"] = "Application history indicates a company-level application limit/hold; keep visible but do not recommend another application now."
+        else:
+            row["application_match"] = "None"
+            row["application_note"] = ""
         clean_rows.append(row)
     rows = clean_rows
 
@@ -255,18 +283,21 @@ def main() -> None:
         result = score_job(row, profile, detail_text.get(index, ""))
         row["personalized_score"] = result["score"]
         row["priority"] = result["tier"]
-        row["personalized_reason"] = result["reason"]
+        reason = result["reason"]
+        if row.get("application_note"):
+            reason = row["application_note"] + "; " + reason
+        row["personalized_reason"] = reason
 
     rows.sort(key=smart_sort_key)
-    tracker = load_json(DATA / "application_tracker.json", {})
     queue_rows = build_review_queue(rows, profile, tracker)
     by_url = {str(row.get("url") or ""): i for i, row in enumerate(rows)}
     queue = {
         "updated_at": TODAY,
         "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
-        "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality.",
+        "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed.",
         "candidate_focus": (profile.get("candidate") or {}).get("primary_tracks", []),
         "veto_counts": veto_counts,
+        "exact_tracked_jobs_removed": exact_removed,
         "candidates": [
             queue_record(row, rank, detail_text.get(by_url.get(str(row.get("url") or ""), -1), ""))
             for rank, row in enumerate(queue_rows, start=1)
@@ -274,9 +305,9 @@ def main() -> None:
     }
 
     if args.dry_run:
-        print("vetoes:", veto_counts)
+        print("vetoes:", veto_counts, "exact tracked removed:", exact_removed)
         for item in queue["candidates"][:20]:
-            print(item["machine_score"], item["company"], "-", item["role"], "::", item["machine_reason"])
+            print(item["machine_score"], item["company"], "-", item["role"], "::", item["application_match"], "::", item["machine_reason"])
         return
 
     jobs_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -284,7 +315,7 @@ def main() -> None:
     if csv_path.exists():
         with csv_path.open(encoding="utf-8", newline="") as handle:
             fields = csv.DictReader(handle).fieldnames or []
-        for extra in ("personalized_score", "priority", "personalized_reason"):
+        for extra in ("personalized_score", "priority", "personalized_reason", "application_match", "application_note"):
             if extra not in fields:
                 fields.append(extra)
         with csv_path.open("w", encoding="utf-8", newline="") as handle:
@@ -298,7 +329,8 @@ def main() -> None:
     (DATA / "model_review_queue.json").write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
         f"Smart-ranked {len(rows)} jobs; queued {len(queue_rows)} for semantic review; "
-        f"vetoed {sum(veto_counts.values())}. Existing ai_recommendations.json was not modified."
+        f"removed {exact_removed} exact tracked applications; vetoed {sum(veto_counts.values())}. "
+        "Existing ai_recommendations.json was not modified."
     )
 
 
