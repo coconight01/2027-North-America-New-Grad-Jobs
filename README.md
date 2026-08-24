@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-24** · Open roles: **1274**
+> Last automated update: **2026-08-24** · Open roles: **1287**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,22 +18,22 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 60 |
+| **Big Tech & Frontier AI** | 68 |
 | **AI Infra / Systems** | 6 |
 | **Quant / HFT** | 39 |
 | **Other high-value tech** | 14 |
-| **ByteDance / TikTok** (separate) | 318 |
-| Other companies | 837 |
+| **ByteDance / TikTok** (separate) | 319 |
+| Other companies | 841 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-08-21 | **Google** | [Data Engineer - Google Maps](https://www.google.com/about/careers/applications/jobs/results/72704944984990406) | $106000 - $150000 | Mountain View, CA | ❔ | ✅ Confirmed | — |
+| 2026-08-24 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8c233725fc4e7ae3db6ee3) | Not listed | Atlanta, GA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-24 | **Google** | [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8c1d6dd34f700f87fcf0f9) | $147K/yr - $210K/yr | Sunnyvale, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-21 | **Amazon** | [Front-End Engineer - Amazon Connect - AWS](https://www.amazon.jobs/jobs/10508283/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-08-20 | **NVIDIA** | [[NVIDIA 2027 Internships: Ph.D. Resear...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AIJR2023475)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | PhD only |
+| 2026-08-19 | **NVIDIA** | [[NVIDIA 2027 Internships: Systems Soft...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-EngineeringJR2023492)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-08-15 | **Amazon** | [Software Engineer I - Payments](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-08-10 | **Google** | [Software Engineer - Early Career - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | $123000 - $174000 | Mountain View, CA +9 | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
 | 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
@@ -83,10 +83,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>318 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>319 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-24 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a734bc38cd88e7ccbf577b2) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-22 | **TikTok** | [Brand Ads ML Engineer — Graduate (2027 Start)](https://www.jobleads.com/us/job/brand-ads-ml-engineer-graduate-2027-start--san-jose--northern--e5fd6fd0f60917a25203b73537e048e05) | $128,000–$256,000 | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-22 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start](https://jobright.ai/jobs/info/6a897ce84afae74a0834ec0d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-22 | **TikTok** | [Software Engineer Graduate - TikTok AI Search & Visual Search Infra Team - 2027 Start](https://lifeattiktok.com/search/7672517471946000645) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
@@ -98,15 +99,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-20 | **TikTok** | [Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start](https://jobright.ai/jobs/info/6a86674ccc81eb647e9f2b59) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **TikTok** | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a86675ed34f700f87fc1a2c) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8667432f4f0014cae29967) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-08-20 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8667482f4f0014cae29969) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 
-_Showing 12 of 318 active roles. Use the Job Radar for all roles._
+_Showing 12 of 319 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1274 active roles**. Featured groups account for **119** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1287 active roles**. Featured groups account for **127** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
