@@ -1,19 +1,17 @@
 #!/usr/bin/env python3
-"""Fast runtime checks that catch NameError and ranking regressions missed by py_compile."""
+"""Fast runtime checks with persisted diagnostics for GitHub Actions failures."""
 from __future__ import annotations
 
+import json
 import sys
+import traceback
 from pathlib import Path
 from types import SimpleNamespace
 
 ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data"
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
-
-from pipeline_runner import patch_update_jobs
-from profile_ranker import load_profile, score_job
-from smart_rank_jobs import build_review_queue, hard_veto
-from src.ng_jobs import filters as package_filters
 
 
 def base_job(role: str, category: str = "Software Engineering") -> dict:
@@ -40,12 +38,16 @@ def base_job(role: str, category: str = "Software Engineering") -> dict:
     }
 
 
-def main() -> None:
+def test_legacy_runtime() -> str:
+    from pipeline_runner import patch_update_jobs
     update_jobs = patch_update_jobs()
     row = base_job("Software Engineer, Early Career")
     assert update_jobs.eligible(dict(row), True) is True
+    return "legacy eligible() runtime ok"
 
-    # Exercise the package implementation too; py_compile alone would miss undefined globals.
+
+def test_package_filters() -> str:
+    from src.ng_jobs import filters as package_filters
     package_2026 = SimpleNamespace(
         role="Software Engineer - New Grad 2026", description="", graduation="Unknown",
         start_date="", location="Seattle, WA", country="United States", match="",
@@ -57,7 +59,11 @@ def main() -> None:
         location="Seattle, WA", country="United States", match="",
     )
     assert package_filters.is_eligible(package_unverified, True) is True
+    return "package filters runtime ok"
 
+
+def test_ranking() -> str:
+    from profile_ranker import load_profile, score_job
     profile = load_profile()
     ml = base_job("Machine Learning Systems Engineer, New Grad", "AI / Machine Learning")
     backend = base_job("Software Engineer I, Backend")
@@ -70,22 +76,34 @@ def main() -> None:
     frontend_score = score_job(frontend, profile, frontend_text)["score"]
     assert ml_score > backend_score > frontend_score, (ml_score, backend_score, frontend_score)
     assert ml_score >= 80, ml_score
+    return f"ranking ok: ml={ml_score}, backend={backend_score}, frontend={frontend_score}"
 
+
+def test_title_noise_and_vetoes() -> str:
+    from profile_ranker import load_profile, score_job
+    from smart_rank_jobs import hard_veto
+    profile = load_profile()
     infra = base_job("Software Engineer Graduate - AI Search Infra Team - 2027 Start")
     noisy_page = "Build inference infrastructure with CUDA and distributed systems. TikTok is a mobile video product with frontend experiences."
-    infra_result = score_job(infra, profile, noisy_page)
-    assert "frontend-heavy" not in infra_result["negative_signals"], infra_result
-    assert "mobile specialization" not in infra_result["negative_signals"], infra_result
-
+    result = score_job(infra, profile, noisy_page)
+    assert "frontend-heavy" not in result["negative_signals"], result
+    assert "mobile specialization" not in result["negative_signals"], result
     assert hard_veto(base_job("NVIDIA 2027 Internships: Developer and Performance Technology"))
     assert hard_veto(base_job("Research Scientist - R&D - 2026"))
     assert not hard_veto(base_job("Machine Learning Engineer Graduate - 2027 Start"))
+    return f"title-noise/vetoes ok: infra={result['score']}"
+
+
+def test_application_dedupe() -> str:
+    from profile_ranker import load_profile
+    from smart_rank_jobs import build_review_queue
+    profile = load_profile()
 
     held = base_job("Machine Learning Engineer Graduate (AML Engine) - 2027 Start", "AI / Machine Learning")
     held["company"] = "TikTok"
     held["personalized_score"] = 100
     held["priority"] = "Top"
-    tracker = {
+    hold_tracker = {
         "applications": [{
             "company": "ByteDance",
             "role": "Research Scientist Graduates - 2027 Start",
@@ -94,9 +112,8 @@ def main() -> None:
             "next_action": "Keep all additional ByteDance/TikTok roles on hold",
         }]
     }
-    assert build_review_queue([held], profile, tracker) == []
+    assert build_review_queue([held], profile, hold_tracker) == []
 
-    # Exact role evidence suppresses the duplicate role.
     exact = base_job("Software Engineer, Early Career")
     exact["company"] = "ExampleCo"
     exact["personalized_score"] = 100
@@ -110,7 +127,6 @@ def main() -> None:
     }
     assert build_review_queue([exact], profile, exact_tracker) == []
 
-    # Company-only evidence must warn, not hide every role at that company.
     possible = base_job("Machine Learning Infrastructure Engineer")
     possible["company"] = "MaybeCo"
     possible["personalized_score"] = 100
@@ -122,14 +138,38 @@ def main() -> None:
             "confidence": "Company-only",
         }]
     }
-    possible_queue = build_review_queue([possible], profile, possible_tracker)
-    assert len(possible_queue) == 1
-    assert possible_queue[0]["application_match"] == "Company-only possible"
+    queue = build_review_queue([possible], profile, possible_tracker)
+    assert len(queue) == 1, queue
+    assert queue[0]["application_match"] == "Company-only possible", queue[0]
+    return "application dedupe/warning semantics ok"
 
-    print(
-        f"smoke ok: ml={ml_score}, backend={backend_score}, frontend={frontend_score}, "
-        f"infra={infra_result['score']}, application-dedupe=ok"
-    )
+
+def main() -> None:
+    tests = [
+        ("legacy_runtime", test_legacy_runtime),
+        ("package_filters", test_package_filters),
+        ("ranking", test_ranking),
+        ("title_noise_and_vetoes", test_title_noise_and_vetoes),
+        ("application_dedupe", test_application_dedupe),
+    ]
+    report = {"overall": "success", "tests": {}}
+    for name, fn in tests:
+        try:
+            detail = fn()
+            report["tests"][name] = {"outcome": "success", "detail": detail}
+        except Exception as exc:
+            report["overall"] = "failure"
+            report["tests"][name] = {
+                "outcome": "failure",
+                "error_type": type(exc).__name__,
+                "error": str(exc),
+                "traceback": traceback.format_exc(limit=8),
+            }
+    DATA.mkdir(exist_ok=True)
+    (DATA / "smoke_status.json").write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps(report, indent=2))
+    if report["overall"] != "success":
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
