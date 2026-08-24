@@ -20,6 +20,14 @@ EXPLICIT_2027 = re.compile(
     r"fall 2026|mid-2027|2026[-–/]2027)\b",
     re.I,
 )
+EXPLICIT_2026_ROLE = re.compile(
+    r"\b(?:2026|class of 2026|2026 start|new college grad(?:uate)? 2026|new grad(?:uate)? 2026)\b",
+    re.I,
+)
+UNVERIFIED_SOURCE_CYCLE = re.compile(
+    r"\b2027 source cycle\s*\(unverified\)\b",
+    re.I,
+)
 CONTRADICTORY_YEAR = re.compile(r"\b(2024|2025)\b", re.I)
 
 NORTH_AMERICA = re.compile(
