@@ -1,14 +1,12 @@
 {
-  "checked_at_utc": "2026-08-24T10:22:40+00:00",
-  "overall": "failure",
-  "critical_failures": [
-    "smoke"
-  ],
+  "checked_at_utc": "2026-08-24T10:28:07+00:00",
+  "overall": "success",
+  "critical_failures": [],
   "warnings": [],
   "stages": {
     "validate": "success",
-    "smoke": "failure",
-    "primary_discovery": "skipped",
+    "smoke": "success",
+    "primary_discovery": "cancelled",
     "bigtech_discovery": "skipped",
     "extra_discovery": "skipped",
     "final_guard": "skipped",
