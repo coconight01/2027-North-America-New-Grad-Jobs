@@ -1,0 +1,19 @@
+# Reviewed recruiting-email observations that should be merged into
+# data/application_tracker.json. Keep this evidence-only: no Gmail IDs/private URLs.
+
+updates:
+  - company: MiniMax
+    role: 机器学习系统研发工程师-2027届
+    status: Interview
+    status_date: "2026-08-24"
+    confidence: Exact
+    evidence: "Official MiniMax interview invitation named the exact 2027 ML systems role; a post-interview satisfaction questionnaire received on 2026-08-24 confirms the interview was attended."
+    next_action: "Interview completed; wait for recruiting outcome."
+
+  - company: Maven Securities
+    role: Graduate Developer Programme Chicago 2027
+    status: Rejected
+    status_date: "2026-08-19"
+    confidence: Exact
+    evidence: "Application and assessment history identify the exact Graduate Developer Programme Chicago 2027 role; Maven's 2026-08-19 email states the application will not move forward after the online assessments."
+    next_action: "Closed."
