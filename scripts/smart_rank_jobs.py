@@ -19,7 +19,7 @@ from profile_ranker import load_profile, norm, official_source, score_job, smart
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 TODAY = date.today().isoformat()
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.3)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.4)"}
 TIMEOUT = 18
 
 NON_FTE_TITLE = re.compile(
@@ -78,7 +78,7 @@ def cache_fresh(entry: dict, days: int) -> bool:
 
 def company_group(value: object) -> str:
     company = norm(value)
-    if company in {"bytedance", "tiktok", "tiktok usds jv", "beijing bytedance technology co ltd"}:
+    if "bytedance" in company or "tiktok" in company:
         return "bytedance-tiktok"
     if company in {"nvidia", "nvidia ai"}:
         return "nvidia"
