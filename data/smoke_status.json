@@ -7,7 +7,7 @@
     },
     "package_filters": {
       "outcome": "success",
-      "detail": "package filters runtime ok"
+      "detail": "package filters runtime ok, including plural internships"
     },
     "ranking": {
       "outcome": "success",
@@ -19,7 +19,7 @@
     },
     "application_dedupe": {
       "outcome": "success",
-      "detail": "application dedupe/warning semantics ok"
+      "detail": "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
     }
   }
 }

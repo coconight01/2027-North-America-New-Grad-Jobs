@@ -1,18 +1,21 @@
 {
-  "checked_at_utc": "2026-08-24T10:28:07+00:00",
+  "source_sha": "7d94a28c642b8af3219afba6efd1e26f6cec4ffe",
+  "checked_at_utc": "2026-08-24T10:33:49+00:00",
   "overall": "success",
   "critical_failures": [],
+  "incomplete_critical_stages": [],
+  "cancelled_stages": [],
   "warnings": [],
   "stages": {
     "validate": "success",
     "smoke": "success",
-    "primary_discovery": "cancelled",
-    "bigtech_discovery": "skipped",
-    "extra_discovery": "skipped",
-    "final_guard": "skipped",
-    "qualification": "skipped",
-    "tracker_reconciliation": "skipped",
-    "review_queue": "skipped",
-    "china_discovery": "skipped"
+    "primary_discovery": "success",
+    "bigtech_discovery": "success",
+    "extra_discovery": "success",
+    "final_guard": "success",
+    "qualification": "success",
+    "tracker_reconciliation": "success",
+    "review_queue": "success",
+    "china_discovery": "success"
   }
 }

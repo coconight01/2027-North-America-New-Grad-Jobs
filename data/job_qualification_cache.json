@@ -135,6 +135,22 @@
     "reject_reason": "requires 3+ years professional/work experience",
     "checked_at": "2026-07-29"
   },
+  "http://innoflightinc.applytojob.com/apply/gghJvSnRN5/Software-Integration-Test-Engineer-I": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "ability to obtain a security clearance",
+    "phd_required": "No",
+    "salary": "$80,000 to $100,000 per year",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 100000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
   "http://mandsc.applytojob.com/apply/bQOBIRNOGY/Developer-I-Salesforce-Integration-Tier-2-Security-Clearance": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry Level",
@@ -213,6 +229,38 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-17",
+    "parser_version": 4
+  },
+  "http://omegahires.applytojob.com/apply/FU2ji4G4v5/UI-Developer": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
+  "http://omegahires.applytojob.com/apply/jJzxCq99z7/GCP-Cloud-Infra-Engineer": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "1-5+ years of experience with",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
     "parser_version": 4
   },
   "http://omegahires.applytojob.com/apply/rX9RST1hgA/AI-ML-Engineer": {
@@ -4289,6 +4337,22 @@
     "checked_at": "2026-08-23",
     "parser_version": 4
   },
+  "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Engineering-Interns--Spring-2027_10158141": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
   "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Software Engineer I",
@@ -6413,6 +6477,22 @@
     "checked_at": "2026-08-20",
     "parser_version": 4
   },
+  "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$125,000\u2013$135,000 annually",
+    "salary_min_annual": 125000,
+    "salary_max_annual": 135000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
   "https://job-boards.greenhouse.io/hanwharenewables/jobs/4321557009": {
     "ng_confidence": "Likely",
     "ng_evidence": "new-grad repository plus 2027-cycle evidence",
@@ -6899,6 +6979,38 @@
     "checked_at": "2026-08-17",
     "parser_version": 4
   },
+  "https://job-boards.greenhouse.io/pmg/jobs/8587038002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "do not offer sponsorship",
+    "phd_required": "No",
+    "salary": "$90,000 - $99,999",
+    "salary_min_annual": 90000,
+    "salary_max_annual": 99999,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/pmg/jobs/8587050002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "do not offer sponsorship",
+    "phd_required": "No",
+    "salary": "$90,000 - $99,999",
+    "salary_min_annual": 90000,
+    "salary_max_annual": 99999,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
   "https://job-boards.greenhouse.io/pmg/jobs/8587053002": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -7249,6 +7361,38 @@
     "checked_at": "2026-08-17",
     "parser_version": 4
   },
+  "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Ability to obtain a Security Clearance",
+    "phd_required": "No",
+    "salary": "$110,000 to $120,000",
+    "salary_min_annual": 110000,
+    "salary_max_annual": 120000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705347006": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Ability to obtain a Security Clearance",
+    "phd_required": "No",
+    "salary": "$110,000 to $120,000",
+    "salary_min_annual": 110000,
+    "salary_max_annual": 120000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
+    "parser_version": 4
+  },
   "https://job-boards.greenhouse.io/taxbit/jobs/6111068004": {
     "ng_confidence": "Not NG",
     "ng_evidence": "requires 3+ years professional/work experience",
@@ -7285,12 +7429,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
-    "checked_at": "2026-08-13",
+    "salary": "$80,500 - $86,900",
+    "salary_min_annual": 80500,
+    "salary_max_annual": 86900,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-08-24",
     "parser_version": 4
   },
   "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005": {
@@ -7746,8 +7890,8 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
-    "parser_version": 3
+    "checked_at": "2026-08-24",
+    "parser_version": 4
   },
   "https://jobright.ai/jobs/info/69fa2811a3d34b4f76f643cf": {
     "ng_confidence": "Confirmed",
@@ -7857,7 +8001,7 @@
     "salary_max_annual": 149000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-15",
+    "checked_at": "2026-08-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a42c124ff87fd527f9856fb": {
@@ -8931,8 +9075,8 @@
     "salary_max_annual": 150000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-05",
-    "parser_version": 3
+    "checked_at": "2026-08-24",
+    "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a5f989f6e0c3c7c7d3d7b01": {
     "ng_confidence": "Uncertain",
@@ -9610,8 +9754,8 @@
     "salary_max_annual": 104000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-03",
-    "parser_version": 3
+    "checked_at": "2026-08-24",
+    "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6a64b819d76667a2abf64f": {
     "ng_confidence": "Confirmed",
@@ -12727,11 +12871,11 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$125K/yr - $150K/yr",
-    "salary_min_annual": "125000",
-    "salary_max_annual": "150000",
+    "salary_min_annual": 125000,
+    "salary_max_annual": 150000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-09",
+    "checked_at": "2026-08-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a764b8367a1ad0bc53c9c3c": {
