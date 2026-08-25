@@ -163,11 +163,22 @@ jobs:
 
           for attempt in 1 2 3; do
             git fetch origin main
+
+            # ai_recommendations.json is human-reviewed Apply Now state. Preserve
+            # the newest main-branch copy instead of letting a long-running
+            # discovery checkout roll it back.
+            MANUAL_AI="$RUNNER_TEMP/ai_recommendations.json"
+            rm -f "$MANUAL_AI"
+            git show origin/main:data/ai_recommendations.json > "$MANUAL_AI" 2>/dev/null || true
+
             git reset --hard origin/main
             cp "$OUT/README.md" README.md
             cp "$OUT/CHINA.md" CHINA.md
             rm -rf data
             cp -a "$OUT/data" data
+            if [ -s "$MANUAL_AI" ]; then
+              cp "$MANUAL_AI" data/ai_recommendations.json
+            fi
             git add -A -- README.md CHINA.md data
 
             if git diff --cached --quiet; then
