@@ -6,6 +6,7 @@ greenhouse:
   - {company: Twitch, board: twitch}
   - {company: Nuro, board: nuro}
   - {company: xAI, board: xai}
+  - {company: Anthropic, board: anthropic}
   - {company: RadixArk, board: radixark}
   - {company: Scale AI, board: scaleai}
   - {company: Anduril, board: andurilindustries}
@@ -73,6 +74,8 @@ extra_github_discovery:
 
 # Optional Google Jobs discovery through SerpAPI.
 # It is skipped automatically until the repository secret SERPAPI_KEY is set.
+# Priority-company queries are deliberate discovery backstops for employers whose ATS is
+# custom/dynamic or whose strong systems roles may not use obvious new-grad titles.
 serpapi_google_jobs:
   enabled: true
   api_key_env: SERPAPI_KEY
@@ -85,5 +88,17 @@ serpapi_google_jobs:
     - {q: '"2027" quantitative researcher graduate', location: 'United States', gl: us}
     - {q: '"2027" new grad software engineer', location: 'Canada', gl: ca}
     - q: '("Google" OR "Meta" OR "Amazon" OR "Apple" OR "Microsoft" OR "Netflix") ("2027" OR "new grad" OR "university graduate" OR "early career") ("software engineer" OR "machine learning engineer")'
+      location: 'United States'
+      gl: us
+    - q: '"Waymo" ("2027" OR "new grad" OR "early career" OR "university graduate") ("software engineer" OR "machine learning" OR "systems engineer" OR "infrastructure")'
+      location: 'United States'
+      gl: us
+    - q: '("Anthropic" OR "NVIDIA" OR "Databricks" OR "CoreWeave") ("2027" OR "new grad" OR "early career" OR "university graduate") ("software" OR "ML systems" OR "inference" OR "distributed" OR "performance")'
+      location: 'United States'
+      gl: us
+    - q: '("Cerebras" OR "Baseten" OR "Fireworks AI" OR "Together AI" OR "Anyscale" OR "Modal") ("new grad" OR "early career" OR "0-2 years" OR "entry level") ("software" OR "inference" OR "systems" OR "infrastructure")'
+      location: 'United States'
+      gl: us
+    - q: '("Applied Intuition" OR "Perplexity" OR "Anysphere") ("new grad" OR "early career" OR "0-2 years") ("software engineer" OR "machine learning" OR "systems" OR "infrastructure")'
       location: 'United States'
       gl: us
