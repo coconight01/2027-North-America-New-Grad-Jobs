@@ -35,6 +35,7 @@ def base_job(role: str, category: str = "Software Engineering") -> dict:
         "match": "Third-party 2027 discovery source; eligibility unverified",
         "date_added": "2026-08-24",
         "posted_date": "2026-08-24",
+        "url": "https://example.com/job",
     }
 
 
@@ -150,6 +151,33 @@ def test_application_dedupe() -> str:
     return "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
 
 
+def test_priority_company_detail_recall() -> str:
+    from profile_ranker import load_profile
+    from smart_rank_jobs import company_priority, select_detail_indexes
+    profile = load_profile()
+    rows = []
+    for i in range(5):
+        row = base_job(f"Machine Learning Systems Engineer, New Grad {i}", "AI / Machine Learning")
+        row["company"] = f"HighScore{i}"
+        row["url"] = f"https://example.com/high-{i}"
+        rows.append(row)
+    waymo = base_job("Software Engineer, Simulation Tools", "Other")
+    waymo.update({
+        "company": "Waymo",
+        "skills": "",
+        "salary_max_annual": "",
+        "date_added": "2026-07-01",
+        "posted_date": "2026-07-01",
+        "url": "https://careers.withwaymo.com/jobs/example",
+    })
+    rows.append(waymo)
+    assert company_priority("Waymo", profile) == "Tier A"
+    indexes, metadata = select_detail_indexes(rows, profile, 3)
+    assert 5 in indexes, (indexes, metadata)
+    assert metadata["actual_unique_selections"]["priority_companies"] >= 1, metadata
+    return f"priority-company detail recall ok: selected={indexes}"
+
+
 def main() -> None:
     tests = [
         ("legacy_runtime", test_legacy_runtime),
@@ -157,6 +185,7 @@ def main() -> None:
         ("ranking", test_ranking),
         ("title_noise_and_vetoes", test_title_noise_and_vetoes),
         ("application_dedupe", test_application_dedupe),
+        ("priority_company_detail_recall", test_priority_company_detail_recall),
     ]
     report = {"overall": "success", "tests": {}}
     for name, fn in tests:
