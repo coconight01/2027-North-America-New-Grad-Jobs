@@ -436,6 +436,16 @@
       "confidence": "Exact",
       "evidence": "Application confirmation followed by explicit rejection",
       "next_action": "Closed"
+    },
+    {
+      "company": "AppLovin",
+      "role": "ML Infrastructure Engineer",
+      "status": "Applied",
+      "applied_date": "2026-08-25",
+      "status_date": "2026-08-25",
+      "confidence": "Exact",
+      "evidence": "Official AppLovin recruiting confirmation received on 2026-08-25 names the exact ML Infrastructure Engineer position and confirms the application was received.",
+      "next_action": "Wait for review; remove this exact role from recommendations."
     }
   ]
 }
