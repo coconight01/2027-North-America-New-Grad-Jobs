@@ -92,11 +92,42 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- README.md data
-          if git diff --cached --quiet; then
-            echo "No Google Jobs changes."
-            exit 0
-          fi
-          git commit -m "chore: refresh optional Google Jobs discovery"
-          git pull --rebase origin main
-          git push origin HEAD:main
+
+          OUT="$RUNNER_TEMP/google-jobs-output"
+          rm -rf "$OUT"
+          mkdir -p "$OUT"
+          cp README.md "$OUT/"
+          cp -a data "$OUT/data"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+
+            # Never replace the human-reviewed Apply Now shortlist with a stale
+            # copy from this long-running discovery job.
+            MANUAL_AI="$RUNNER_TEMP/ai_recommendations.json"
+            rm -f "$MANUAL_AI"
+            git show origin/main:data/ai_recommendations.json > "$MANUAL_AI" 2>/dev/null || true
+
+            git reset --hard origin/main
+            cp "$OUT/README.md" README.md
+            rm -rf data
+            cp -a "$OUT/data" data
+            if [ -s "$MANUAL_AI" ]; then
+              cp "$MANUAL_AI" data/ai_recommendations.json
+            fi
+            git add -A -- README.md data
+
+            if git diff --cached --quiet; then
+              echo "No Google Jobs changes after syncing latest main."
+              exit 0
+            fi
+
+            git commit -m "chore: refresh optional Google Jobs discovery"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push raced with another writer; retrying on latest main (attempt $attempt/3)."
+          done
+
+          echo "Unable to publish Google discovery outputs after 3 attempts."
+          exit 1
