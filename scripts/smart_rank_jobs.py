@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -19,7 +20,7 @@ from profile_ranker import load_profile, norm, official_source, score_job, smart
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 TODAY = date.today().isoformat()
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.4)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; smart-job-ranker/1.5)"}
 TIMEOUT = 18
 
 NON_FTE_TITLE = re.compile(
@@ -29,6 +30,13 @@ NON_FTE_TITLE = re.compile(
 )
 EXPLICIT_2026 = re.compile(r"\b(?:2026|class of 2026|2026 start|new college grad(?:uate)? 2026)\b", re.I)
 EXPLICIT_2027 = re.compile(r"\b(?:2027|class of 2027|2027 start|2027 grads?)\b", re.I)
+HIGH_POTENTIAL_TITLE = re.compile(
+    r"\b(?:ml systems?|machine learning systems?|ai infrastructure|ml infrastructure|"
+    r"inference|serving|runtime|compiler|performance|distributed|systems?|infrastructure|"
+    r"platform|gpu|cuda|kernel|network(?:ing)?|storage|database|training|research engineer|"
+    r"quantitative|trading|low latency)\b",
+    re.I,
+)
 SUSPICIOUS_COMPANIES = {"ecommerce guide"}
 
 
@@ -89,6 +97,20 @@ def company_group(value: object) -> str:
     return company
 
 
+def company_priority(value: object, profile: dict) -> str:
+    """Return Tier A / Tier B / Quant / empty using forgiving company-name matching."""
+    company = norm(value)
+    watch = profile.get("priority_company_watchlist") or {}
+    for key, label in (("tier_a", "Tier A"), ("quant", "Quant"), ("tier_b", "Tier B")):
+        for configured in watch.get(key, []) or []:
+            candidate = norm(configured)
+            if not candidate:
+                continue
+            if company == candidate or candidate in company or company in candidate:
+                return label
+    return ""
+
+
 def hard_veto(row: dict) -> str:
     role = str(row.get("role") or "")
     if NON_FTE_TITLE.search(role):
@@ -147,6 +169,120 @@ def possible_company_application(job: dict, possible_company: set[str]) -> bool:
     return company_group(job.get("company")) in possible_company
 
 
+def _job_date(row: dict) -> date:
+    for key in ("posted_date", "date_added"):
+        try:
+            return date.fromisoformat(str(row.get(key) or "")[:10])
+        except ValueError:
+            pass
+    return date.min
+
+
+def _take(selected: list[int], seen: set[int], ordered: list[int], quota: int) -> int:
+    taken = 0
+    for index in ordered:
+        if taken >= quota:
+            break
+        if index in seen:
+            continue
+        selected.append(index)
+        seen.add(index)
+        taken += 1
+    return taken
+
+
+def select_detail_indexes(rows: list[dict], profile: dict, fetch_limit: int) -> tuple[list[int], dict]:
+    """Recall-oriented sampling for full JD reads instead of blindly taking the top N scores."""
+    if fetch_limit <= 0:
+        return [], {}
+    ranking = profile.get("ranking") or {}
+    sampling = ranking.get("detail_sampling") or {}
+    eligible_indexes = [
+        i for i, row in enumerate(rows)
+        if row.get("url") and row.get("application_match") != "Company hold"
+    ]
+    if not eligible_indexes:
+        return [], {}
+
+    assessments = {i: score_job(rows[i], profile, "") for i in eligible_indexes}
+    score_order = sorted(
+        eligible_indexes,
+        key=lambda i: (
+            int(assessments[i]["score"]),
+            -int(assessments[i]["freshness_days"]),
+            _job_date(rows[i]),
+        ),
+        reverse=True,
+    )
+    new_days = int(sampling.get("new_job_days", 5))
+    cutoff = date.today() - timedelta(days=new_days)
+    new_order = sorted(
+        [i for i in eligible_indexes if _job_date(rows[i]) >= cutoff],
+        key=lambda i: (_job_date(rows[i]), int(assessments[i]["score"])),
+        reverse=True,
+    )
+    tier_rank = {"Tier A": 3, "Quant": 2, "Tier B": 1, "": 0}
+    priority_order = sorted(
+        [i for i in eligible_indexes if company_priority(rows[i].get("company"), profile)],
+        key=lambda i: (
+            tier_rank.get(company_priority(rows[i].get("company"), profile), 0),
+            int(assessments[i]["score"]),
+            _job_date(rows[i]),
+        ),
+        reverse=True,
+    )
+    title_order = sorted(
+        [i for i in eligible_indexes if HIGH_POTENTIAL_TITLE.search(str(rows[i].get("role") or ""))],
+        key=lambda i: (int(assessments[i]["score"]), _job_date(rows[i])),
+        reverse=True,
+    )
+    exploration_order = sorted(
+        eligible_indexes,
+        key=lambda i: hashlib.sha1(
+            (TODAY + "|" + str(rows[i].get("url") or i)).encode("utf-8")
+        ).hexdigest(),
+    )
+
+    fractions = {
+        "top_score": float(sampling.get("top_score_fraction", 0.42)),
+        "new_jobs": float(sampling.get("new_job_fraction", 0.22)),
+        "priority_companies": float(sampling.get("priority_company_fraction", 0.20)),
+        "high_potential_titles": float(sampling.get("high_potential_title_fraction", 0.10)),
+        "exploration": float(sampling.get("exploration_fraction", 0.06)),
+    }
+    quotas = {name: max(0, round(fetch_limit * frac)) for name, frac in fractions.items()}
+    # Avoid rounding above the hard network/detail budget.
+    while sum(quotas.values()) > fetch_limit:
+        name = max(quotas, key=quotas.get)
+        quotas[name] -= 1
+
+    selected: list[int] = []
+    seen: set[int] = set()
+    actual = {}
+    actual["top_score"] = _take(selected, seen, score_order, quotas["top_score"])
+    actual["new_jobs"] = _take(selected, seen, new_order, quotas["new_jobs"])
+    actual["priority_companies"] = _take(selected, seen, priority_order, quotas["priority_companies"])
+    actual["high_potential_titles"] = _take(selected, seen, title_order, quotas["high_potential_titles"])
+    actual["exploration"] = _take(selected, seen, exploration_order, quotas["exploration"])
+
+    # Empty/overlapping buckets never waste capacity: fill remaining slots by broad score order,
+    # then by exploration order so every requested detail slot is used when possible.
+    actual["fill"] = _take(selected, seen, score_order, fetch_limit - len(selected))
+    if len(selected) < fetch_limit:
+        actual["fill"] += _take(selected, seen, exploration_order, fetch_limit - len(selected))
+
+    metadata = {
+        "limit": fetch_limit,
+        "selected": len(selected),
+        "configured_quotas": quotas,
+        "actual_unique_selections": actual,
+        "priority_company_candidates": len(priority_order),
+        "new_job_candidates": len(new_order),
+        "high_potential_title_candidates": len(title_order),
+    }
+    return selected, metadata
+
+
 def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[dict]:
     """Recall-oriented queue. Machine score prioritizes review but never becomes Apply Now by itself."""
     ranking = profile.get("ranking") or {}
@@ -178,13 +314,14 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
     return chosen
 
 
-def queue_record(row: dict, rank: int, detail_text: str) -> dict:
+def queue_record(row: dict, rank: int, detail_text: str, profile: dict) -> dict:
     possible = str(row.get("application_match") or "None") != "None"
     return {
         "machine_rank": rank,
         "machine_score": int(row.get("personalized_score") or 0),
         "machine_tier": row.get("priority") or "",
         "machine_reason": row.get("personalized_reason") or "",
+        "company_priority": company_priority(row.get("company"), profile),
         "company": row.get("company", ""),
         "role": row.get("role", ""),
         "category": row.get("category", ""),
@@ -250,11 +387,7 @@ def main() -> None:
     cache_days = int(ranking.get("detail_cache_days", 7))
     fetch_limit = args.max_detail_pages or int(ranking.get("detail_fetch_limit", 120))
 
-    prelim = []
-    for index, row in enumerate(rows):
-        assessment = score_job(row, profile, "")
-        prelim.append((assessment["score"], -assessment["freshness_days"], index))
-    detail_indexes = [item[2] for item in sorted(prelim, reverse=True)[:max(0, fetch_limit)]]
+    detail_indexes, sampling_metadata = select_detail_indexes(rows, profile, fetch_limit)
 
     pending, detail_text = {}, {}
     for index in detail_indexes:
@@ -284,6 +417,9 @@ def main() -> None:
         row["personalized_score"] = result["score"]
         row["priority"] = result["tier"]
         reason = result["reason"]
+        company_tier = company_priority(row.get("company"), profile)
+        if company_tier:
+            reason = f"{company_tier} watchlist; " + reason
         if row.get("application_note"):
             reason = row["application_note"] + "; " + reason
         row["personalized_reason"] = reason
@@ -294,20 +430,22 @@ def main() -> None:
     queue = {
         "updated_at": TODAY,
         "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
-        "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed.",
+        "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
         "candidate_focus": (profile.get("candidate") or {}).get("primary_tracks", []),
+        "detail_sampling": sampling_metadata,
         "veto_counts": veto_counts,
         "exact_tracked_jobs_removed": exact_removed,
         "candidates": [
-            queue_record(row, rank, detail_text.get(by_url.get(str(row.get("url") or ""), -1), ""))
+            queue_record(row, rank, detail_text.get(by_url.get(str(row.get("url") or ""), -1), ""), profile)
             for rank, row in enumerate(queue_rows, start=1)
         ],
     }
 
     if args.dry_run:
+        print("detail sampling:", sampling_metadata)
         print("vetoes:", veto_counts, "exact tracked removed:", exact_removed)
         for item in queue["candidates"][:20]:
-            print(item["machine_score"], item["company"], "-", item["role"], "::", item["application_match"], "::", item["machine_reason"])
+            print(item["machine_score"], item["company_priority"], item["company"], "-", item["role"], "::", item["application_match"], "::", item["machine_reason"])
         return
 
     jobs_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -328,9 +466,9 @@ def main() -> None:
     cache_path.write_text(json.dumps(pruned, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (DATA / "model_review_queue.json").write_text(json.dumps(queue, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
-        f"Smart-ranked {len(rows)} jobs; queued {len(queue_rows)} for semantic review; "
-        f"removed {exact_removed} exact tracked applications; vetoed {sum(veto_counts.values())}. "
-        "Existing ai_recommendations.json was not modified."
+        f"Smart-ranked {len(rows)} jobs; detail-sampled {len(detail_indexes)} with recall buckets; "
+        f"queued {len(queue_rows)} for semantic review; removed {exact_removed} exact tracked applications; "
+        f"vetoed {sum(veto_counts.values())}. Existing ai_recommendations.json was not modified."
     )
 
 
