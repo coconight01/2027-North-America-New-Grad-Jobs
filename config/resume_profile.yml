@@ -1,4 +1,4 @@
-version: 2
+version: 3
 candidate:
   graduation_year: 2027
   degree_level: MS
@@ -16,6 +16,66 @@ ranking:
   detail_fetch_limit: 120
   detail_cache_days: 7
   exceptional_phd_score: 93
+  detail_sampling:
+    top_score_fraction: 0.42
+    new_job_fraction: 0.22
+    priority_company_fraction: 0.20
+    high_potential_title_fraction: 0.10
+    exploration_fraction: 0.06
+    new_job_days: 5
+
+priority_company_watchlist:
+  tier_a:
+    - Waymo
+    - OpenAI
+    - Anthropic
+    - xAI
+    - NVIDIA
+    - Google
+    - Meta
+    - Databricks
+    - CoreWeave
+    - Cerebras
+    - Baseten
+    - Fireworks AI
+    - Together AI
+    - Anyscale
+    - Modal
+    - Applied Intuition
+    - Perplexity
+    - Anysphere
+  tier_b:
+    - Microsoft
+    - Amazon
+    - Apple
+    - Snowflake
+    - Stripe
+    - Palantir
+    - Scale AI
+    - Crusoe
+    - Cloudflare
+    - Anduril
+    - Roblox
+    - Uber
+    - ByteDance
+    - TikTok
+    - Tesla
+    - Coinbase
+    - Ramp
+  quant:
+    - Jane Street
+    - Hudson River Trading
+    - Citadel Securities
+    - Citadel
+    - Optiver
+    - Five Rings
+    - Jump Trading
+    - IMC Trading
+    - DRW
+    - D. E. Shaw
+    - Two Sigma
+    - SIG
+    - Susquehanna International Group
 
 tracks:
   - name: ML Systems / LLM Infrastructure
@@ -88,5 +148,5 @@ skills:
 company_bonus:
   frontier_or_infra: 3
   quant: 2
-  companies: [OpenAI, Anthropic, xAI, NVIDIA, Databricks, CoreWeave, Baseten, Fireworks AI, Cerebras, Modal, Together AI, Crusoe, Anyscale, Google, Meta]
-  quant_companies: [Jane Street, Hudson River Trading, Citadel, Citadel Securities, Optiver, Five Rings, IMC Trading, Jump Trading, DRW, D. E. Shaw, Two Sigma]
+  companies: [Waymo, OpenAI, Anthropic, xAI, NVIDIA, Databricks, CoreWeave, Baseten, Fireworks AI, Cerebras, Modal, Together AI, Crusoe, Anyscale, Google, Meta, Applied Intuition, Perplexity, Anysphere, Scale AI]
+  quant_companies: [Jane Street, Hudson River Trading, Citadel, Citadel Securities, Optiver, Five Rings, IMC Trading, Jump Trading, DRW, D. E. Shaw, Two Sigma, SIG, Susquehanna International Group]
