@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-25** · Open roles: **1292**
+> Last automated update: **2026-08-25** · Open roles: **1301**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,21 +18,24 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 68 |
+| **Big Tech & Frontier AI** | 74 |
 | **AI Infra / Systems** | 6 |
 | **Quant / HFT** | 39 |
 | **Other high-value tech** | 14 |
 | **ByteDance / TikTok** (separate) | 322 |
-| Other companies | 843 |
+| Other companies | 846 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
+| 2026-08-25 | **Anthropic** | [Anthropic Fellows Program](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-24 | **Google** | [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8c1d6dd34f700f87fcf0f9) | $147K/yr - $210K/yr | Sunnyvale, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-24 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8c233725fc4e7ae3db6ee3) | $147K/yr - $210K/yr | Atlanta, GA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-21 | **Amazon** | [Front-End Engineer - Amazon Connect - AWS](https://www.amazon.jobs/jobs/10508283/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-20 | **NVIDIA** | [[NVIDIA 2027 Internships: Ph.D. Resear...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AIJR2023475)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | PhD only |
+| 2026-08-19 | **NVIDIA** | [[NVIDIA 2027 Internships: Systems Soft...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-EngineeringJR2023492)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-08-15 | **Amazon** | [Software Engineer I - Payments](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
@@ -106,7 +109,7 @@ _Showing 12 of 322 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1292 active roles**. Featured groups account for **127** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1301 active roles**. Featured groups account for **133** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
