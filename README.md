@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-25** · Open roles: **1321**
+> Last automated update: **2026-08-25** · Open roles: **1322**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 77 |
 | **AI Infra / Systems** | 6 |
 | **Quant / HFT** | 39 |
-| **Other high-value tech** | 14 |
+| **Other high-value tech** | 13 |
 | **ByteDance / TikTok** (separate) | 324 |
-| Other companies | 861 |
+| Other companies | 863 |
 
 ### Big Tech & Frontier AI
 
@@ -35,7 +35,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **NVIDIA** | [NVIDIA 2027 New College Graduate: Software Engineering - China](https://vostego.com/jobs/nvidia-nvidia-2027-new-college-graduate-software-engineer-361686f1) | Not listed | United States | ❔ | ❔ Review | — |
 | 2026-08-21 | **Amazon** | [Front-End Engineer - Amazon Connect - AWS](https://www.amazon.jobs/jobs/10508283/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-08-19 | **NVIDIA** | [[NVIDIA 2027 Internships: Systems Soft...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-EngineeringJR2023492)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
+| 2026-08-20 | **NVIDIA** | [[NVIDIA 2027 Internships: Ph.D. Resear...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AIJR2023475)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | PhD only |
 | 2026-08-15 | **Amazon** | [Software Engineer I - Payments](https://www.amazon.jobs/jobs/10502486/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **Meta** | [Software Engineer - Machine Learning RecSys](https://www.metacareers.com/jobs/1665891037811282) | Not listed | Sunnyvale, CA +3 | ❔ | ❔ Review | — |
@@ -78,7 +78,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-12 | **Snap** | [Software Engineer - ML Infrastructure - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) | $195k/yr | Los Angeles, CA +2 | ❔ | ❔ Review | — |
-| 2026-08-05 | **Roblox** | [[[2027] Software Engineer, Early Career](https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94?utm_campaign=Software%20Engineering&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Snap** | [Software Engineer - Backend - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q326SWEB2-2) | $195k/yr | Los Angeles, CA +3 | ❔ | ❔ Review | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-06-29 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | $135,000–$145,000/year | Chicago, IL | ❔ | ✅ Confirmed | — |
@@ -109,7 +108,7 @@ _Showing 12 of 324 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1321 active roles**. Featured groups account for **136** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1322 active roles**. Featured groups account for **135** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
