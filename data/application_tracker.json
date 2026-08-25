@@ -238,12 +238,12 @@
     {
       "company": "Roblox",
       "role": "[2027] Software Engineer, Early Career",
-      "status": "OA Completed",
+      "status": "OA",
       "applied_date": "2026-08-05",
-      "status_date": "2026-08-21",
+      "status_date": "2026-08-25",
       "confidence": "Exact",
-      "evidence": "Application confirmation plus assessment invitation; CodeSignal and Roblox both confirmed completion on 2026-08-21 at 9:53 PM PDT",
-      "next_action": "Wait for Roblox review; assessment deadline is no longer actionable"
+      "evidence": "Application confirmation and assessment history identify the exact 2027 Early Career SWE role; CodeSignal and Roblox confirmed assessment completion on 2026-08-21, and Roblox Immigration sent a required work-authorization questionnaire on 2026-08-25.",
+      "next_action": "Complete the Roblox Immigration Questionnaire within 3 business days; this is an immigration/work-authorization step, not evidence of an interview decision."
     },
     {
       "company": "Optiver",
@@ -446,6 +446,26 @@
       "confidence": "Exact",
       "evidence": "Official AppLovin recruiting confirmation received on 2026-08-25 names the exact ML Infrastructure Engineer position and confirms the application was received.",
       "next_action": "Wait for review; remove this exact role from recommendations."
+    },
+    {
+      "company": "Cerebras Systems",
+      "role": "Kernel Engineer - New Grad",
+      "status": "Applied",
+      "applied_date": "2026-08-25",
+      "status_date": "2026-08-25",
+      "confidence": "Exact",
+      "evidence": "Official Cerebras Systems application confirmation received on 2026-08-25 names the exact Kernel Engineer - New Grad role and confirms the application was submitted.",
+      "next_action": "Wait for review; remove this exact role from recommendations."
+    },
+    {
+      "company": "DRW",
+      "role": "Role uncertain",
+      "status": "Applied",
+      "applied_date": "2026-08-25",
+      "status_date": "2026-08-25",
+      "confidence": "Company-only",
+      "evidence": "Official DRW recruiting confirmation received on 2026-08-25 confirms an application was received, but the visible email content does not name the exact requisition.",
+      "next_action": "Wait for review; reconcile the exact DRW role only if later employer evidence names it."
     }
   ]
 }
