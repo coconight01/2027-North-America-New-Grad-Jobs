@@ -314,6 +314,15 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
     return chosen
 
 
+def index_detail_text_by_url(rows: list[dict], detail_text: dict[int, str]) -> dict[str, str]:
+    """Keep fetched JD text attached to its URL even if rows are sorted later."""
+    return {
+        str(row.get("url") or ""): str(detail_text.get(index, "") or "")
+        for index, row in enumerate(rows)
+        if row.get("url")
+    }
+
+
 def queue_record(row: dict, rank: int, detail_text: str, profile: dict) -> dict:
     possible = str(row.get("application_match") or "None") != "None"
     return {
@@ -424,9 +433,12 @@ def main() -> None:
             reason = row["application_note"] + "; " + reason
         row["personalized_reason"] = reason
 
+    # detail_text is indexed against the pre-sort row order. Convert it to a
+    # URL-keyed mapping before sorting so one job can never inherit another
+    # job's fetched JD excerpt.
+    detail_by_url = index_detail_text_by_url(rows, detail_text)
     rows.sort(key=smart_sort_key)
     queue_rows = build_review_queue(rows, profile, tracker)
-    by_url = {str(row.get("url") or ""): i for i, row in enumerate(rows)}
     queue = {
         "updated_at": TODAY,
         "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
@@ -436,7 +448,7 @@ def main() -> None:
         "veto_counts": veto_counts,
         "exact_tracked_jobs_removed": exact_removed,
         "candidates": [
-            queue_record(row, rank, detail_text.get(by_url.get(str(row.get("url") or ""), -1), ""), profile)
+            queue_record(row, rank, detail_by_url.get(str(row.get("url") or ""), ""), profile)
             for rank, row in enumerate(queue_rows, start=1)
         ],
     }
