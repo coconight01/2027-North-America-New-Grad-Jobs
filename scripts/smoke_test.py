@@ -151,6 +151,22 @@ def test_application_dedupe() -> str:
     return "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
 
 
+def test_jd_excerpt_stays_with_job_after_sort() -> str:
+    from smart_rank_jobs import index_detail_text_by_url
+
+    rows = [
+        {"company": "Alpha", "role": "First", "url": "https://example.com/alpha"},
+        {"company": "Beta", "role": "Second", "url": "https://example.com/beta"},
+    ]
+    detail_text = {0: "alpha-specific JD", 1: "beta-specific JD"}
+    by_url = index_detail_text_by_url(rows, detail_text)
+
+    rows.reverse()
+    assert by_url[rows[0]["url"]] == "beta-specific JD", by_url
+    assert by_url[rows[1]["url"]] == "alpha-specific JD", by_url
+    return "JD excerpts remain URL-associated after row sorting"
+
+
 def test_priority_company_detail_recall() -> str:
     from profile_ranker import load_profile
     from smart_rank_jobs import company_priority, select_detail_indexes
@@ -185,6 +201,7 @@ def main() -> None:
         ("ranking", test_ranking),
         ("title_noise_and_vetoes", test_title_noise_and_vetoes),
         ("application_dedupe", test_application_dedupe),
+        ("jd_excerpt_association", test_jd_excerpt_stays_with_job_after_sort),
         ("priority_company_detail_recall", test_priority_company_detail_recall),
     ]
     report = {"overall": "success", "tests": {}}
