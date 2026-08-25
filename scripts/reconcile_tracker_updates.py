@@ -27,6 +27,11 @@ def key(item: dict) -> tuple[str, str]:
     return norm(item.get("company")), norm(item.get("role"))
 
 
+def can_create(update: dict) -> bool:
+    """Exact reviewed email evidence may create a new tracker row by default."""
+    return bool(update.get("allow_create", False)) or norm(update.get("confidence")) == "exact"
+
+
 def main() -> None:
     tracker = json.loads(TRACKER.read_text(encoding="utf-8"))
     config = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
@@ -38,7 +43,7 @@ def main() -> None:
         lookup = (norm(update.get("company")), norm(update.get("role")))
         existing = by_key.get(lookup)
         if existing is None:
-            if not update.get("allow_create", False):
+            if not all(lookup) or not can_create(update):
                 print(f"skip unmatched tracker update: {lookup}")
                 continue
             existing = {
