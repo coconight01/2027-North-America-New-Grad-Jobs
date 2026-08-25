@@ -21,10 +21,6 @@
       "outcome": "success",
       "detail": "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
     },
-    "jd_excerpt_association": {
-      "outcome": "success",
-      "detail": "JD excerpts remain URL-associated after row sorting"
-    },
     "priority_company_detail_recall": {
       "outcome": "success",
       "detail": "priority-company detail recall ok: selected=[0, 1, 5]"
