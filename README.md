@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-26** · Open roles: **1347**
+> Last automated update: **2026-08-26** · Open roles: **1350**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 80 |
+| **Big Tech & Frontier AI** | 81 |
 | **AI Infra / Systems** | 6 |
 | **Quant / HFT** | 39 |
 | **Other high-value tech** | 13 |
-| **ByteDance / TikTok** (separate) | 326 |
-| Other companies | 883 |
+| **ByteDance / TikTok** (separate) | 327 |
+| Other companies | 884 |
 
 ### Big Tech & Frontier AI
 
@@ -38,6 +38,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **NVIDIA** | [NVIDIA 2027 New College Graduate: Software Engineering - China](https://vostego.com/jobs/nvidia-nvidia-2027-new-college-graduate-software-engineer-361686f1) | Not listed | United States | ❔ | ❔ Review | — |
+| 2026-08-19 | **NVIDIA** | [[NVIDIA 2027 Internships: Systems Soft...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-EngineeringJR2023492)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-07-20 | **Apple** | [Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS](https://jobs.apple.com/en-us/details/200665480-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
 | 2026-07-20 | **Apple** | [Software Device Driver Engineer - Core I/O - Core OS](https://jobs.apple.com/en-us/details/200658892-0157) | $153k/yr | Austin, TX | ❔ | ❔ Review | — |
@@ -85,11 +86,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>326 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>327 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-08-26 | **TikTok** | [Data Engineer Graduate (Data Platform E-commerce) - 2027 Start](https://jobright.ai/jobs/info/6a8e595def981311b92fbed5) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-26 | **ByteDance** | [Research Scientist Graduates (Seed AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6a8f17433ac3a34f92d7f84d) | $207K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-26 | **TikTok** | [Software Engineer Graduate (Global Advertising Data Platform) - 2027 Start](https://tsenta.com/jobs/tiktok-software-engineer-graduate-global-advertising-data-0f5ea6a9-6d57-45f9-93d0-6a54ed14b3bc) | Not listed | United States | ❔ | ❔ Review | — |
 | 2026-08-25 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6a8d716c581f2d7bfdfe756d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-25 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8cdb5825fc4e7ae3dbab7c) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -100,15 +102,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-22 | **TikTok** | [Brand Ads ML Engineer — Graduate (2027 Start)](https://www.jobleads.com/us/job/brand-ads-ml-engineer-graduate-2027-start--san-jose--northern--e5fd6fd0f60917a25203b73537e048e05) | $128,000–$256,000 | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-22 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start](https://jobright.ai/jobs/info/6a897ce84afae74a0834ec0d) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-22 | **TikTok** | [Software Engineer Graduate - TikTok AI Search & Visual Search Infra Team - 2027 Start](https://lifeattiktok.com/search/7672517471946000645) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
-| 2026-08-21 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Forge Platform) - 2027 Start](https://jobright.ai/jobs/info/6a880f44cde3717f9e9b3fbe) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 326 active roles. Use the Job Radar for all roles._
+_Showing 12 of 327 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1347 active roles**. Featured groups account for **138** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1350 active roles**. Featured groups account for **139** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
