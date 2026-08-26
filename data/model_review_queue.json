@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25",
+  "updated_at": "2026-08-26",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,12 +27,12 @@
       "fill": 0
     },
     "priority_company_candidates": 145,
-    "new_job_candidates": 103,
+    "new_job_candidates": 85,
     "high_potential_title_candidates": 159
   },
   "veto_counts": {
     "explicit 2026-only title": 6,
-    "non-full-time program title": 2
+    "non-full-time program title": 4
   },
   "exact_tracked_jobs_removed": 5,
   "candidates": [
@@ -88,31 +88,6 @@
     },
     {
       "machine_rank": 3,
-      "machine_score": 95,
-      "machine_tier": "Top",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Anduril Industries",
-      "role": "2027 Early Career Software Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "Seattle, WA",
-      "salary": "$112,000–$149,000",
-      "salary_max_annual": "149000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-15",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": false,
-      "url": "https://www.linkedin.com/jobs/view/2027-early-career-software-engineer-at-anduril-industries-4427643568",
-      "jd_excerpt": "2027 Early Career Software Engineer at Anduril Industries — Seattle, WA | LinkedIn Jobs Skip to main content LinkedIn 2027 Early Career Software Engineer in Boydton, VA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now 2027 Early Career Software Engineer Anduril Industries Seattle, WA Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . 2027 Early Career Software Engineer Anduril Industries Seattle, WA 1 week ago Over 200 applicants See who Anduril Industries has hired for this role Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. While this exact role may not be open today, we are always looking ahead and want to connect with talented people like you for future opportunities. We will begin reviewing applications in August 2026 for positions starting in 2027 . We highly encourage you to apply early to get a head start! By submitting your application today, you'll be on our radar, and an Anduril recruiter will reach out to you directly as soon as a matching role opens up. We are looking for Software Engineers to join our rapidly growing team! We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! What You’ll Do Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. Required Qualifications Must be pursuing or have recently completed a Bachelor’s or Master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field. Able to start full time in 2027. Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. Must be a U.S. Person due to required access to U.S. export controlled information or facilities; U.S. clearance eligibility may be required depending on program. Preferred Qualifications Have a bias for action. If you see a problem, you want to solve and fix",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 4,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -137,7 +112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Linux, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -162,7 +137,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -187,7 +162,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 96,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -207,6 +182,31 @@
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
       "jd_excerpt": "Job Application for Software Engineer, Entry-Level at Muon Space Back to jobs Software Engineer, Entry-Level San Jose, CA Apply About the role Software Engineers at Muon work on embedded software on satellites and test equipment, physics simulations, customer-facing APIs and services, user interfaces, scheduling algorithms, data pipelines, computer vision, signal processing, cloud systems and more. They make it possible to build, test, launch, and run constellations of satellites for a wide variety of missions. Entry-level software engineers are expected to bring significant skills and training, and then to quickly develop into experts in their domains to accelerate Muon's Mission with high quality software and systems. They must be a high performer ready to work in an exciting, fast-paced environment that values continuous improvement, embraces taking risks, and crafts the right solutions to delight our customers. This position is hybrid and requires working on-site in our San Jose, CA office three days per week. Responsibilities Take ownership of the code for a new software capability on ground or in space Propose and iterate on the design for software components Write tests and monitoring to validate correctness of one's own code Conduct analysis to support both development and testing Quickly learn new skills, technology and techniques Communicate clearly and accurately Complete work in a timely manner Required Qualifications A bachelor's degree in computer science, aerospace engineering, computational mathematics or a related field Proficient in C++, Python, TypeScript or a similar high-level language Coursework or relevant experience in operating systems, algorithms, data structures, physics and statistics Desirable Qualifications Expertise in embedded software, network protocols, hardware and software testing, FPGA programming, GPU programming or other relevant disciplines Experience with satellites, robots, or other autonomous systems Previous experience on technical project teams (i.e. programming, robotics or rocket club, etc.) Understanding of orbital mechanics Experience with mathematical optimization, machine learning, signal processing or advanced algorithms Experience with cloud environments and distributed systems Advanced coursework or experience in physics, statistics, distributed systems, or embedded software Salary The salary range for this role is $142,000 - $169,000 , plus a competitive equity grant and comprehensive benefits package. Final compensation will be determined based on skills, qualifications, experience, and geographic location as assessed during the interview process. About Muon Space Founded in 2021, Muon Space is an end-to-end Space Systems Provider that designs, builds, and operates LEO satellite constellations delivering mission-critical data. Our revolutionary, integrated technology stack enables customers to optimize every dimension of their missions for faster time-to-orbit and superior constellation remote sensing performance. Our state-of-the-art facility in the heart of Silicon Valley is optimized for manufacturing spacecraft and rapid, flexible payload integration at scale. From climate monitoring to national security, Muon Space is dedicated to delivering Earth Intelligence for a safer and more resilient world. Taking Care of Our Team At Muon salary is only part of our total compensation package. In addition to salary, full-time employees receive equity compensation as well as benefits including medical, dental, and vision insurance, a 401k retirement plan, short & long term disability and life insurance. We also offer three weeks paid vacation for new employees, along with 12 paid holidays, unlimited sick time and paid parental leave. Our mission embraces the entire planet and we believe our team should too.  Muon is dedicated to creating a diverse and dynamic company and workforce. We believe in equal employment opportunity regardless of race, color, ancestry, religion, sex, age, national origin, citizenship, sexual orientation, marital status, disability, or gender identity. We value diversity in the workplace, and that starts with our applicants. We encourage you to apply, even if you don't check all the boxes, and we look forward to reviewing your application! In addition, if you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know. ITAR/EAR Requirements This position requires access to export controlled information. To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 7,
+      "machine_score": 95,
+      "machine_tier": "Top",
+      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Anduril Industries",
+      "role": "2027 Early Career Software Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Seattle, WA",
+      "salary": "$112,000–$149,000",
+      "salary_max_annual": "149000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-15",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": false,
+      "url": "https://www.linkedin.com/jobs/view/2027-early-career-software-engineer-at-anduril-industries-4427643568",
+      "jd_excerpt": "2027 Early Career Software Engineer at Anduril Industries — Seattle, WA | LinkedIn Jobs Skip to main content LinkedIn 2027 Early Career Software Engineer in Boydton, VA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now 2027 Early Career Software Engineer Anduril Industries Seattle, WA Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . 2027 Early Career Software Engineer Anduril Industries Seattle, WA 1 week ago Over 200 applicants See who Anduril Industries has hired for this role Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. While this exact role may not be open today, we are always looking ahead and want to connect with talented people like you for future opportunities. We will begin reviewing applications in August 2026 for positions starting in 2027 . We highly encourage you to apply early to get a head start! By submitting your application today, you'll be on our radar, and an Anduril recruiter will reach out to you directly as soon as a matching role opens up. We are looking for Software Engineers to join our rapidly growing team! We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! What You’ll Do Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. Required Qualifications Must be pursuing or have recently completed a Bachelor’s or Master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field. Able to start full time in 2027. Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. Must be a U.S. Person due to required access to U.S. export controlled information or facilities; U.S. clearance eligibility may be required depending on program. Preferred Qualifications Have a bias for action. If you see a problem, you want to solve and fix",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
