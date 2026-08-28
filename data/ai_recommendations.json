@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26",
+  "updated_at": "2026-08-28",
   "reviewer": "ChatGPT semantic JD review",
-  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-08-26 review. Third-party lists, search snippets, and generic JavaScript shells are discovery/review evidence only.",
+  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job, current requirements, and an active Apply/application form during the 2026-08-28 review. Third-party repositories are discovery-only; generic ATS shells, cached snippets, and closed redirects are excluded.",
   "candidate_focus": [
     "ML Systems / LLM Infrastructure",
     "Distributed / Systems",
@@ -9,45 +9,47 @@
     "Applied LLM / Agents",
     "Selective Quant"
   ],
-  "summary": "No stronger exact-live 2027 ML-systems opening was found on Aug 26. The shortlist keeps six unapplied roles whose exact official forms were reverified, favors exact graduation eligibility and three-way fit, and records Roblox's post-OA immigration questionnaire as the day's urgent recruiting action.",
+  "summary": "The highest-value action is the active IMC Graduate SWE assessment, not another application. No stronger exact-live unapplied ML-systems opening was found on Aug 28. Five company-diverse official requisitions remain actionable; TikTok/ByteDance stay on hold.",
   "changes_today": [
     {
       "type": "process_update",
-      "company": "Roblox",
-      "role": "[2027] Software Engineer, Early Career",
-      "reason": "Roblox Immigration sent a required work-authorization questionnaire on 2026-08-25 after the completed OA. Complete it within 3 business days; this is a real recruiting progression, but not yet an interview decision."
+      "company": "IMC Trading",
+      "role": "Graduate Software Engineer",
+      "reason": "Advanced to a 120-minute, two-question HackerRank using the Desktop App with webcam. Complete the consent form first and target the HackerRank invitation's earlier 72-hour window: 2026-08-30 2:14 PM CDT."
     },
     {
-      "type": "application_reconciliation",
-      "company": "AppLovin",
-      "role": "ML Infrastructure Engineer",
-      "reason": "Exact employer confirmation received 2026-08-25; remains removed from Apply Now."
-    },
-    {
-      "type": "application_reconciliation",
+      "type": "process_update",
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
-      "reason": "Exact employer confirmation received 2026-08-25; retained in tracker and not recommended again."
+      "reason": "Advanced to a 45-minute virtual 1:1 via Microsoft Teams and HackerRank. Availability was submitted; wait for the finalized time. Recruiter separately asked about Winter 2027 internship availability."
     },
     {
       "type": "application_reconciliation",
-      "company": "DRW",
-      "role": "Role uncertain",
-      "reason": "Employer confirmation proves a DRW application, but the exact requisition is absent; preserve company-level uncertainty and avoid recommending DRW until reconciled."
+      "company": "AXQ Capital",
+      "role": "Quantitative Developer - 2027 Graduate",
+      "reason": "Official confirmation received 2026-08-28; added to tracker and excluded from recommendations."
     },
     {
-      "type": "stale_link_cleanup",
-      "reason": "Eventual, Sciforium, Pangram, Abridge, Brain Co. and other generic Ashby shells remain outside Apply Now unless the exact official form can be proven live. Cerebras ML Research Engineer (Inference) remains excluded because the accessible requisition is in India."
+      "type": "rejection_reconciliation",
+      "company": "Hudson River Trading",
+      "role": "Software Engineer",
+      "reason": "Official rejection received 2026-08-27; HRT states a cooldown for this role until the next recruiting cycle."
     },
     {
-      "type": "non_actionable_review",
-      "company": "Vercel",
-      "role": "Software Engineer, Data Platform",
-      "reason": "Exact official form is live and the data-platform work is attractive, but the role asks for 1-3 years and is not a 2027 campus requisition; do not place it in the ordinary May 2027 Apply Now list."
+      "type": "portal_reconciliation",
+      "company": "Google",
+      "role": "Software Engineering Intern, MS, Summer 2027",
+      "reason": "User-reported portal status is Not proceeding; kept separate from the still-active Early Career Campus full-time application."
     },
     {
-      "type": "systematic_bug_fix",
-      "reason": "Semantic-review JD excerpts are now keyed by exact URL after sorting, with a passing smoke test. Both discovery workflows now preserve the newest human-reviewed ai_recommendations.json before publishing generated data, preventing long-running jobs from rolling Apply Now back."
+      "type": "source_audit",
+      "reason": "SpeedyApply 2027 AI/SWE and Zapply 2027 feeds are already integrated as discovery sources. Their salary/year labels remain untrusted until verified on the exact employer posting, so no duplicate adapter was added."
+    },
+    {
+      "type": "new_role_review",
+      "company": "IMC Trading",
+      "role": "Graduate Performance Engineer",
+      "reason": "Exact official form is live and unusually relevant to Python, AI agents, networks and systems, but Yuhan is already in the IMC Graduate SWE process and IMC encourages focus; watchlist only."
     }
   ],
   "recommendations": [
@@ -59,14 +61,14 @@
       "location": "Chicago, IL or limited New York placement (hybrid)",
       "salary": "$200,000 base + discretionary bonus",
       "fit": "Strong systems/algorithms/quant-SWE fit",
-      "reason": "Build distributed real-time trading infrastructure and applications. The role accepts Java, C++, or Python experience from coursework or internships and values algorithms, multithreading, and demonstrated technical achievement. Yuhan's NOI background, systems research, Python/Linux work, and production internship make screening plausible without pretending recent low-latency C++ specialization.",
+      "reason": "Distributed real-time infrastructure plus Python/algorithms/multithreading fits Yuhan's systems research, NOI background, Linux work and production internship without presenting her as a recent low-latency C++ specialist.",
       "new_grad": "Exact eligibility: graduating December 2026-June 2027.",
-      "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact official application page.",
+      "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact official page.",
       "urgency": "APPLY FIRST",
-      "caveat": "Less direct MLSys overlap than Pangram/AppLovin, and interview preparation will emphasize systems, concurrency, algorithms, and trading-oriented engineering.",
-      "application_limit": "One application per position in the recruiting cycle; Chicago and New York postings are the same job, so apply only once and select location preferences.",
-      "live_verified_at": "2026-08-26",
-      "official_live_evidence": "Exact Greenhouse page displayed the job, eligibility, compensation, and application form.",
+      "caveat": "Less direct MLSys overlap than a dedicated ML-infrastructure role; interviews will emphasize systems, concurrency and algorithms.",
+      "application_limit": "One application per position; Chicago and New York are the same job, so apply only once and select location preferences.",
+      "live_verified_at": "2026-08-28",
+      "official_live_evidence": "Exact Greenhouse page displayed the job, graduation window, $200,000 base and full application form.",
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"
     },
     {
@@ -77,85 +79,67 @@
       "location": "Shenzhen, China",
       "salary": "Not posted",
       "fit": "Strong distributed backend/general SWE fit",
-      "reason": "The official JD explicitly includes scalable cloud-native services, microservices, resilient distributed systems, production monitoring and debugging. Python, algorithms, systems work, and the TikTok internship are credible evidence; mainland China avoids OPT uncertainty.",
+      "reason": "Scalable services, lifecycle ownership and production operations match Python, algorithms, distributed systems and TikTok engineering. Mainland China avoids OPT uncertainty.",
       "new_grad": "Exact eligibility: graduating October 2026-July 2027.",
       "sponsorship": "China role; U.S. OPT does not apply. No special citizenship or clearance restriction stated.",
       "urgency": "APPLY SOON",
-      "caveat": "Device organization and general backend are less directly aligned with LLM inference than a dedicated ML-infrastructure team.",
-      "application_limit": "Apply to this one targeted Amazon China SDE rather than multiple nearly identical Beijing/Shenzhen requisitions.",
-      "live_verified_at": "2026-08-26",
-      "official_live_evidence": "Exact Amazon job page displayed Job ID 10501875 and Apply now.",
+      "caveat": "Device/general backend is less direct than LLM inference infrastructure.",
+      "application_limit": "Apply to this targeted Amazon China SDE rather than multiple nearly identical requisitions.",
+      "live_verified_at": "2026-08-28",
+      "official_live_evidence": "Exact Amazon page displayed Job ID 10501875, graduation window and Apply now.",
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
     {
       "rank": 3,
-      "category": "APPLY · EXACT 2027 · QUANT RESEARCH",
-      "company": "IMC Trading",
-      "role": "Graduate Quantitative Researcher (BS/MS)",
-      "location": "Chicago, IL",
-      "salary": "$250,000 base + discretionary bonus",
-      "fit": "Strong algorithms/research alternative; not MLSys",
-      "reason": "The role values rigorous quantitative reasoning, mathematical modeling, programming, and research/problem solving. Tsinghua math/CS training, NOI Silver, research experience, and Python fit the screen, while the compensation and exact 2027 timing are exceptional.",
-      "new_grad": "Exact eligibility: graduating September 2026-July 2027; February or August 2027 start.",
-      "sponsorship": "The official form asks about present and future immigration sponsorship; it does not state a no-sponsorship veto.",
-      "urgency": "APPLY ONLY IF QUANT RESEARCH IS A REAL TARGET",
-      "caveat": "Yuhan already applied to IMC Graduate Software Engineer. This is a distinct interview track requiring probability/statistics/quant preparation and should not be added only for prestige.",
-      "application_limit": "One application per role per year; IMC strongly encourages focusing on the best-matching role and asks about prior IMC applications.",
-      "live_verified_at": "2026-08-26",
-      "official_live_evidence": "Exact Greenhouse page displayed Apply, May 2027 eligibility, sponsorship questions, and $250,000 base.",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907368101"
-    },
-    {
-      "rank": 4,
-      "category": "APPLY · EXACT 2027 · QUANT SWE",
+      "category": "APPLY · EXACT 2027 · SPONSORSHIP CONFIRMED",
       "company": "Belvedere Trading",
       "role": "Software Engineer - Entry Level 2027",
       "location": "Chicago, IL (hybrid)",
       "salary": "$140,000 base + discretionary bonus",
       "fit": "Good algorithms/performance SWE fit; modern C++ caveat",
-      "reason": "The role covers end-to-end development, debugging, optimization, and high-performance trading systems. It accepts object-oriented experience in C++, C#, or Java, and the official posting explicitly says sponsorship is available. Yuhan's algorithms record and earlier C++ background help, while Python/Linux/systems work provides broader engineering evidence.",
+      "reason": "End-to-end development, debugging and optimization value algorithms and systems skill; the posting explicitly offers sponsorship. Earlier C++ experience supports the screen, while current Python/Linux work remains the lead story.",
       "new_grad": "Exact eligibility: December 2026 or May/June 2027 graduation.",
       "sponsorship": "Official posting says Sponsorship: Yes.",
       "urgency": "APPLY AFTER CTC / AMAZON",
-      "caveat": "Low-latency modern C++ is central, so this should rank below roles that value current Python/MLSys work more directly.",
+      "caveat": "Modern C++ and low-latency trading are more central than Yuhan's recent experience.",
       "application_limit": "No public per-candidate cap found.",
-      "live_verified_at": "2026-08-26",
-      "official_live_evidence": "Exact Lever page displayed the active application link, graduation window, $140,000 salary, and Sponsorship: Yes.",
+      "live_verified_at": "2026-08-28",
+      "official_live_evidence": "Exact Lever page displayed the application link, graduation window, $140,000 base and Sponsorship: Yes.",
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     {
-      "rank": 5,
-      "category": "SECONDARY · EXACT 2027 · QUANT SWE",
+      "rank": 4,
+      "category": "SECONDARY · EXACT 2027 · PYTHON ACCEPTED",
       "company": "DV Trading",
       "role": "2027 Graduate Software Engineer (DV Commodities)",
       "location": "New York, NY (5 days/week onsite)",
       "salary": "$135,000-$150,000 base + discretionary bonus",
       "fit": "Good Python/Linux/algorithms fit; lower MLSys overlap",
-      "reason": "Official requirements accept C++ and/or Python in Linux and emphasize greenfield systems, production ownership, edge cases, and collaboration with traders/researchers. The resume can support Python, Linux, algorithms, debugging, and production work without leading with recent C++ specialization.",
+      "reason": "The official requirements accept Python and/or C++ in Linux and value greenfield design, production ownership and edge-case handling, all supportable from Yuhan's current resume.",
       "new_grad": "Exact requirement: graduate by Summer 2027.",
       "sponsorship": "No explicit no-sponsorship, citizenship, or clearance language found on the exact posting.",
       "urgency": "SECONDARY",
-      "caveat": "Five-day onsite and commodities tooling are less aligned with MLSys; low-latency/quant experience is preferred rather than required.",
+      "caveat": "Five-day onsite and commodities systems are less aligned with MLSys; sponsorship is not stated.",
       "application_limit": "No public cap found.",
-      "live_verified_at": "2026-08-26",
-      "official_live_evidence": "Exact Greenhouse page displayed Apply Now, Summer 2027 eligibility, requirements, salary, and full application form.",
+      "live_verified_at": "2026-08-28",
+      "official_live_evidence": "Exact Greenhouse page displayed Summer 2027 eligibility, salary and complete application form.",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "category": "STRETCH · EXACT 2027 · AUTONOMOUS DRIVING",
       "company": "WeRide",
       "role": "New Grads 2027 - Software Engineer, Algorithm",
       "location": "San Jose, CA (onsite)",
       "salary": "Not posted",
       "fit": "Plausible simulation/planning/algorithms fit with robotics gap",
-      "reason": "Simulation-core and planning work overlap with performance modeling, configuration research, algorithmic problem solving, and Python. The MS degree and graduation date match exactly, and C++ or Python is accepted.",
+      "reason": "Simulation core, analytical problem solving and Python overlap with configuration research and performance modeling; the MS graduation window matches exactly.",
       "new_grad": "Exact eligibility: MS/PhD graduating December 2026-June 2027.",
       "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact posting.",
       "urgency": "SELECTIVE STRETCH",
-      "caveat": "Autonomous-driving prediction, localization, control, CV/graphics, and modern C++ are meaningful gaps. Prefer simulation-core framing and do not present robotics experience that is not on the resume.",
+      "caveat": "Autonomous-driving prediction/control, CV/graphics and modern C++ are meaningful gaps; frame only the simulation/system overlap.",
       "application_limit": "No public cap found.",
-      "live_verified_at": "2026-08-26",
+      "live_verified_at": "2026-08-28",
       "official_live_evidence": "Exact Lever page displayed the named 2027 campus role and active application link.",
       "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
     }
