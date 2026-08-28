@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27",
+  "updated_at": "2026-08-28",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,12 +27,12 @@
       "fill": 0
     },
     "priority_company_candidates": 150,
-    "new_job_candidates": 94,
+    "new_job_candidates": 86,
     "high_potential_title_candidates": 165
   },
   "veto_counts": {
-    "non-full-time program title": 3,
-    "explicit 2026-only title": 6
+    "non-full-time program title": 5,
+    "explicit 2026-only title": 5
   },
   "exact_tracked_jobs_removed": 6,
   "candidates": [
@@ -163,31 +163,6 @@
     },
     {
       "machine_rank": 6,
-      "machine_score": 100,
-      "machine_tier": "Top",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "NewsBreak",
-      "role": "Applied AI Engineer - Advertising Agents - New Grad",
-      "category": "AI / Machine Learning",
-      "location": "Mountain View, CA",
-      "salary": "$135,000–$155,000",
-      "salary_max_annual": "155000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-28",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
-      "jd_excerpt": "Job Application for Applied AI Engineer, Advertising Agents (New Grad) at NewsBreak Back to jobs Applied AI Engineer, Advertising Agents (New Grad) Mountain View, California, United States Apply About NewsBreak Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech. Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale. Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence. If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/about About the Role Are you a recent graduate excited to apply LLMs and Agent technology to real advertising products from day one? Join our advertising team to help build an AI-driven intelligent account hosting and optimization platform. You'll work alongside senior engineers to develop AI advertising expert systems (AI Agents) that diagnose accounts and safely auto-tune delivery in a closed optimization loop. Your work will directly lower the delivery barrier for global advertisers on our platform. While ensuring the health and compliance of the account ecosystem, your contributions will help maximize advertisers' willingness to spend and platform revenue. Responsibilities Contribute to the In-house AI Account Manager System: Support the design and implementation of components of the \"AI Account Manager,\" including automated hosting, optimization scheduling, and monitoring across concurrently running advertiser accounts. Help Build Intelligent Diagnosis and Strategy Recommendation Models: Work with performance data and delivery history to help identify account health signals and delivery pain points (such as inability to scale volume, sudden drops in ROI, or budget capping); assist in using LLMs to generate actionable, auditable account-level tuning strategies. Support Reliability and Measurable Quality: Help build and maintain observability, dry-run safeguards, and offline/online evaluation pipelines that keep optimization quality measurable and catch regressions before they reach live spend. Collaborate and Learn: Work closely with senior engineers, the platform-side ad delivery algorithm team, and product managers, gaining exposure to how AI account management capabilities translate into commercial impact. Minimum Qualifications Education Background: Bachelor's/Master's degree (recently completed or completing within the next 6 months) in Computer Science, Artificial Intelligence, Data Science, or related fields. Work Experience: No professional work experience required; relevant internships, research, coursework, or personal projects involving LLMs, agents, or ML are a plus. Exposure to building or experimenting with agentic systems (e.g., through coursework, hackathons, internships, or personal projects). Solid software-engineering fundamentals: ability to write clean, testable code; familiarity with asynchronous/concurrent programming and typed/data-modeled code. Core Technical Stack: Foundational understanding of LLMs, RAG, tool-use, and agent orchestration concepts (including MCP-style tool ecosystems), gained through coursework, projects, or self-study. Some hands-on experience with structured/schema-validated LLM outputs and modern model APIs (e.g., through class projects or internships). Familiarity with REST/API integration; exposure to deployment tools such as Docker or Kubernetes is a plus. Solid grounding in machine learning and AI fundamentals. Strong analytical skills and eagerness to learn complex problem-solving in a production environment. Preferred Qualifications Internship or research experience involving large language models, agent-based systems, or recommendation/ads systems. Exposure to advertising or recommendation system concepts and metrics (CPA, ROAS, CVR, CTR, conversions). Personal or academic projects demonstrating initiative in building AI agents or automation tools. What We Offer A Launchpad for Applied AI Careers: Learn to apply cutting-edge Generative AI and Agent technologies to reshape the B-end ad monetization ecosystem, with mentorship from senior engineers. Direct Commercial Impact: See your contributions reflected in real advertiser growth and the platform's revenue flywheel. Top-tier Computing Resources and Environment: Access to industry-leading foundation models, large-scale computing infrastructure, and the opportunity to learn alongside world-class adver",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 7,
       "machine_score": 96,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -212,7 +187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -237,7 +212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -257,6 +232,31 @@
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/amiralearning/jobs/4333066009",
       "jd_excerpt": "Job Application for Machine Learning Engineer / AI Systems Engineer at Amira Learning Back to jobs Machine Learning Engineer / AI Systems Engineer Texas Apply About Us: Amira Learning accelerates literacy outcomes by delivering the latest reading and neuroscience with AI. As the leader in third-generation edtech, Amira listens to students read out loud, assesses mastery, helps teachers supplement instruction and delivers 1:1 tutoring. Validated by independent university and SEA efficacy research, Amira is the only AI literacy platform proven to achieve gains surpassing 1:1 human tutoring, consistently delivering effect sizes over 0.4. Rooted in over thirty years of research, Amira is the first, foremost, and only proven Intelligent Assistant for teachers and AI Reading Tutor for students. The platform serves as a school district’s Intelligent Growth Engine, driving instructional coherence by unifying assessment, instruction, and tutoring around the chosen curriculum. Unlike any other edtech tool, Amira continuously identifies each student’s skill gaps and collaborates with teachers to build lesson plans aligned with district curricula, pulling directly from the district’s high-quality instructional materials. Teachers can finally differentiate instruction with evidence and ease, and students get the 1:1 practice they specifically need, whether they are excelling or working below grade level. Trusted by more than 2,000 districts and working in partnership with twelve state education agencies, Amira is helping 3.5 million students worldwide become motivated and masterful readers. Essential Functions: Design, develop, and maintain automated educational evaluation and learning systems leveraging speech recognition, NLP, and large language models (LLMs) to assess real‑time user performance and feedback. Integrate and fine‑tune third‑party AI services, open‑weight LLMs, and proprietary models to deliver adaptive, conversational learning experiences personalized to user proficiency. Architect and implement end‑to‑end ML pipelines for data extraction, semantic analysis, multi‑label classification, and predictive modeling supporting real‑time content delivery. Build scalable Python backend services and cloud‑native infrastructure engineered for low‑latency inference in production AI environments. Conduct rigorous model validation and bias analysis to ensure accuracy, scalability, and reliability across diverse user populations. Develop distributed data engineering solutions to process, transform, and serve large‑scale educational datasets for model training and real‑time inference. Collaborate with cross‑functional engineering, data science, and product teams to translate complex business requirements into robust AI architectures. Author technical design documents, algorithm specifications, and architecture decision records; communicate progress, risks, and trade‑offs to technical and non‑technical stakeholders. Fully remote; work from any U.S. location (no relocation required) Qualifications (Education and Experience): Master’s degree (or foreign equivalent) in Computer Science or a related field and 18 months of experience in the job offered or in a related occupation within a startup environment, involving the design, development, and operation of machine learning–powered services deployed in production. Benefits: Competitive Salary Medical, dental, and vision benefits 401(k) with company matching Flexible time off Stock option ownership Cutting-edge work The opportunity to help children around the world reach their full potential Commitment to Diversity: Amira Learning serves a diverse group of students and educators across the United States and internationally. We believe every student should have access to a high-quality education and that it takes a diverse group of people with a wide range of experiences to develop and deliver a product that meets that goal. We are proud to be an equal opportunity employer. The posted salary range reflects the minimum and maximum base salary the company reasonably expects to pay for this role. Salary ranges are determined by role, level, and location. Individual pay is based on location, job-related skills, experience, and relevant education or training. We are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, ancestry, national origin, sex, sexual orientation, gender identity or expression, age, disability, medical condition, pregnancy, genetic information, marital status, military service, or any other status protected by law. Apply for this job * indicates a required field First Name * Last Name * Preferred First Name Email * Phone Country Phone Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile Website Do you currently ",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 9,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "NewsBreak",
+      "role": "Applied AI Engineer - Advertising Agents - New Grad",
+      "category": "AI / Machine Learning",
+      "location": "Mountain View, CA",
+      "salary": "$135,000–$155,000",
+      "salary_max_annual": "155000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-28",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+      "jd_excerpt": "Job Application for Applied AI Engineer, Advertising Agents (New Grad) at NewsBreak Back to jobs Applied AI Engineer, Advertising Agents (New Grad) Mountain View, California, United States Apply About NewsBreak Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech. Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale. Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence. If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/about About the Role Are you a recent graduate excited to apply LLMs and Agent technology to real advertising products from day one? Join our advertising team to help build an AI-driven intelligent account hosting and optimization platform. You'll work alongside senior engineers to develop AI advertising expert systems (AI Agents) that diagnose accounts and safely auto-tune delivery in a closed optimization loop. Your work will directly lower the delivery barrier for global advertisers on our platform. While ensuring the health and compliance of the account ecosystem, your contributions will help maximize advertisers' willingness to spend and platform revenue. Responsibilities Contribute to the In-house AI Account Manager System: Support the design and implementation of components of the \"AI Account Manager,\" including automated hosting, optimization scheduling, and monitoring across concurrently running advertiser accounts. Help Build Intelligent Diagnosis and Strategy Recommendation Models: Work with performance data and delivery history to help identify account health signals and delivery pain points (such as inability to scale volume, sudden drops in ROI, or budget capping); assist in using LLMs to generate actionable, auditable account-level tuning strategies. Support Reliability and Measurable Quality: Help build and maintain observability, dry-run safeguards, and offline/online evaluation pipelines that keep optimization quality measurable and catch regressions before they reach live spend. Collaborate and Learn: Work closely with senior engineers, the platform-side ad delivery algorithm team, and product managers, gaining exposure to how AI account management capabilities translate into commercial impact. Minimum Qualifications Education Background: Bachelor's/Master's degree (recently completed or completing within the next 6 months) in Computer Science, Artificial Intelligence, Data Science, or related fields. Work Experience: No professional work experience required; relevant internships, research, coursework, or personal projects involving LLMs, agents, or ML are a plus. Exposure to building or experimenting with agentic systems (e.g., through coursework, hackathons, internships, or personal projects). Solid software-engineering fundamentals: ability to write clean, testable code; familiarity with asynchronous/concurrent programming and typed/data-modeled code. Core Technical Stack: Foundational understanding of LLMs, RAG, tool-use, and agent orchestration concepts (including MCP-style tool ecosystems), gained through coursework, projects, or self-study. Some hands-on experience with structured/schema-validated LLM outputs and modern model APIs (e.g., through class projects or internships). Familiarity with REST/API integration; exposure to deployment tools such as Docker or Kubernetes is a plus. Solid grounding in machine learning and AI fundamentals. Strong analytical skills and eagerness to learn complex problem-solving in a production environment. Preferred Qualifications Internship or research experience involving large language models, agent-based systems, or recommendation/ads systems. Exposure to advertising or recommendation system concepts and metrics (CPA, ROAS, CVR, CTR, conversions). Personal or academic projects demonstrating initiative in building AI agents or automation tools. What We Offer A Launchpad for Applied AI Careers: Learn to apply cutting-edge Generative AI and Agent technologies to reshape the B-end ad monetization ecosystem, with mentorship from senior engineers. Direct Commercial Impact: See your contributions reflected in real advertiser growth and the platform's revenue flywheel. Top-tier Computing Resources and Environment: Access to industry-leading foundation models, large-scale computing infrastructure, and the opportunity to learn alongside world-class adver",
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
@@ -897,7 +897,7 @@
       "category": "Software Engineering",
       "location": "Los Angeles, CA, United States",
       "salary": "$125K/yr - $150K/yr",
-      "salary_max_annual": 150000,
+      "salary_max_annual": "150000",
       "ng_confidence": "Confirmed",
       "ng_evidence": "title says New Grad",
       "sponsorship": "Unknown",
