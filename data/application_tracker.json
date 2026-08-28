@@ -1,7 +1,17 @@
 {
   "updated_at": "2026-08-28",
-  "source_note": "Statuses are reconciled from application emails and user-confirmed history. Missing email is never treated as proof of no application. Gmail message IDs and private email links are intentionally not stored in this public dataset.",
+  "source_note": "Reconciled from connected Gmail, explicit user-reported portal state, and prior tracker evidence. Employer confirmations and process emails are treated as authoritative; generic alerts are excluded.",
   "applications": [
+    {
+      "company": "AXQ Capital",
+      "role": "Quantitative Developer - 2027 Graduate",
+      "status": "Applied",
+      "applied_date": "2026-08-28",
+      "status_date": "2026-08-28",
+      "confidence": "Exact",
+      "evidence": "User confirmed submitting the AXQ 2027 Quantitative Developer application; official Greenhouse confirmation received on 2026-08-28 confirms AXQ received the application.",
+      "next_action": "Wait for review; do not recommend the same AXQ requisition again."
+    },
     {
       "company": "MiniMax",
       "role": "机器学习系统研发工程师-2027届",
@@ -308,12 +318,12 @@
     {
       "company": "IMC Trading",
       "role": "Graduate Software Engineer",
-      "status": "Applied",
+      "status": "OA",
       "applied_date": "2026-08-08",
-      "status_date": "2026-08-10",
+      "status_date": "2026-08-27",
       "confidence": "Exact",
-      "evidence": "Application confirmation + IMC request for additional immigration sponsorship information",
-      "next_action": "Complete/respond to IMC sponsorship information request"
+      "evidence": "IMC invited Yuhan to the Graduate Software Engineer process on 2026-08-27. The exact employer email states a 120-minute, two-question HackerRank in the Desktop App with webcam, closed-book, using Java/Python/C++; the separate HackerRank invitation asks completion within 72 hours.",
+      "next_action": "Complete the IMC consent form, then finish the 120-minute HackerRank by 2026-08-30 2:14 PM CDT if possible. The IMC email says there is no firm deadline but recommends within 7 days; use the earlier HackerRank 72-hour window."
     },
     {
       "company": "Citadel / Citadel Securities",
@@ -327,13 +337,13 @@
     },
     {
       "company": "Hudson River Trading",
-      "role": "Software Engineer, 2027 Graduate / exact title pending confirmation",
-      "status": "Applied",
+      "role": "Software Engineer",
+      "status": "Rejected",
       "applied_date": "2026-08-08",
-      "status_date": "2026-08-08",
-      "confidence": "Likely",
-      "evidence": "HRT confirmed full-time student application; exact role title not present in snippet",
-      "next_action": "Wait for review"
+      "status_date": "2026-08-27",
+      "confidence": "Exact",
+      "evidence": "Official HRT rejection email on 2026-08-27 names the Software Engineer position and says the application will not proceed.",
+      "next_action": "Closed. HRT says this role has an application cooldown until the next recruiting cycle begins next fall."
     },
     {
       "company": "Amira Learning",
@@ -450,12 +460,12 @@
     {
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
-      "status": "Applied",
+      "status": "Interview",
       "applied_date": "2026-08-25",
-      "status_date": "2026-08-25",
+      "status_date": "2026-08-27",
       "confidence": "Exact",
-      "evidence": "Official Cerebras Systems application confirmation received on 2026-08-25 names the exact Kernel Engineer - New Grad role and confirms the application was submitted.",
-      "next_action": "Wait for review; remove this exact role from recommendations."
+      "evidence": "Cerebras recruiter invited Yuhan on 2026-08-27 to begin the interview process for Kernel Engineer - New Grad: a 45-minute virtual 1:1 via Microsoft Teams and HackerRank. Recruiter also asked about Winter 2027 internship availability.",
+      "next_action": "Availability has been submitted; wait for the finalized interview time, then prepare C++/systems/kernel fundamentals without overstating recent modern-C++ depth."
     },
     {
       "company": "DRW",
@@ -466,6 +476,16 @@
       "confidence": "Company-only",
       "evidence": "Official DRW recruiting confirmation received on 2026-08-25 confirms an application was received, but the visible email content does not name the exact requisition.",
       "next_action": "Wait for review; reconcile the exact DRW role only if later employer evidence names it."
+    },
+    {
+      "company": "Google",
+      "role": "Software Engineering Intern, MS, Summer 2027 - United States",
+      "status": "Rejected",
+      "applied_date": null,
+      "status_date": "2026-08-27",
+      "confidence": "Exact",
+      "evidence": "User-reported Google Careers portal status changed to Not proceeding for the exact Summer 2027 MS internship; no rejection email was received.",
+      "next_action": "Closed. Keep separate from the active Software Engineer, Early Career, Campus full-time application; likely graduation-timing mismatch because May 2027 graduation precedes the internship."
     }
   ]
 }
