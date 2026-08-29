@@ -15071,8 +15071,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7d10c7dc3dff2d1c0ca935": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -15082,7 +15082,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "256000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-08-29",
     "parser_version": 4
   },
@@ -31476,6 +31476,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-23",
+    "parser_version": 4
+  },
+  "https://www.indeed.com/viewjob?jk=8f0c880584805613": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$133,000\u2013$150,000",
+    "salary_min_annual": "133000",
+    "salary_max_annual": "150000",
+    "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": false,
+    "checked_at": "2026-08-29",
     "parser_version": 4
   },
   "https://www.indeed.com/viewjob?jk=939993c97e570c8d": {
