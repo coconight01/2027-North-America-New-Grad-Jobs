@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-08-30",
   "reviewer": "ChatGPT semantic JD review",
-  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job, current requirements, and an active Apply/application form during the 2026-08-28 review. Third-party repositories are discovery-only; generic ATS shells, cached snippets, and closed redirects are excluded.",
+  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-08-30 review. Company-level application confirmations are never used to suppress a named requisition; generic ATS shells, cached snippets, and closed redirects are excluded.",
   "candidate_focus": [
     "ML Systems / LLM Infrastructure",
     "Distributed / Systems",
@@ -9,47 +9,57 @@
     "Applied LLM / Agents",
     "Selective Quant"
   ],
-  "summary": "The highest-value action is the active IMC Graduate SWE assessment, not another application. No stronger exact-live unapplied ML-systems opening was found on Aug 28. Five company-diverse official requisitions remain actionable; TikTok/ByteDance stay on hold.",
+  "summary": "The highest-value action is the new DRW Codility, while IMC and Akuna assessments are now submitted. Five exact-live unapplied roles remain actionable. Two unusually strong OpenAI roles are retained as unlabeled early-career stretches, but OpenAI sent three generic confirmations on Aug 29, so Yuhan should cross-check the portal before submitting either.",
   "changes_today": [
     {
       "type": "process_update",
-      "company": "IMC Trading",
-      "role": "Graduate Software Engineer",
-      "reason": "Advanced to a 120-minute, two-question HackerRank using the Desktop App with webcam. Complete the consent form first and target the HackerRank invitation's earlier 72-hour window: 2026-08-30 2:14 PM CDT."
+      "company": "DRW",
+      "role": "Exact requisition unresolved",
+      "reason": "Advanced to a 115-minute, three-question proctored Codility on 2026-08-29; requested within three days. Python is allowed; DRW says at least one C++ answer may broaden team matching."
     },
     {
-      "type": "process_update",
-      "company": "Cerebras Systems",
-      "role": "Kernel Engineer - New Grad",
-      "reason": "Advanced to a 45-minute virtual 1:1 via Microsoft Teams and HackerRank. Availability was submitted; wait for the finalized time. Recruiter separately asked about Winter 2027 internship availability."
+      "type": "assessment_completed",
+      "company": "IMC Trading",
+      "role": "Graduate Software Engineer",
+      "reason": "HackerRank confirmed submission of the 2026-2027 Chicago SWE Assessment on 2026-08-29."
+    },
+    {
+      "type": "assessment_completed",
+      "company": "Akuna Capital",
+      "role": "Software Engineer (Entry-Level) - Python",
+      "reason": "HackerRank confirmed submission of Assessment 1 on 2026-08-29."
     },
     {
       "type": "application_reconciliation",
-      "company": "AXQ Capital",
-      "role": "Quantitative Developer - 2027 Graduate",
-      "reason": "Official confirmation received 2026-08-28; added to tracker and excluded from recommendations."
+      "company": "WeRide",
+      "role": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+      "reason": "Candidate email and recruiter reply confirm this exact profile was submitted on 2026-08-28; keep separate from the unapplied Algorithm requisition."
     },
     {
       "type": "rejection_reconciliation",
-      "company": "Hudson River Trading",
-      "role": "Software Engineer",
-      "reason": "Official rejection received 2026-08-27; HRT states a cooldown for this role until the next recruiting cycle."
+      "company": "Nextdoor",
+      "role": "Machine Learning Engineer - New Grad 2026",
+      "reason": "Official rejection on 2026-08-28 names the exact role."
     },
     {
-      "type": "portal_reconciliation",
-      "company": "Google",
-      "role": "Software Engineering Intern, MS, Summer 2027",
-      "reason": "User-reported portal status is Not proceeding; kept separate from the still-active Early Career Campus full-time application."
+      "type": "rejection_reconciliation",
+      "company": "Weekday AI / Mercor",
+      "role": "Machine Learning Engineer - Model Evaluation & Experimentation",
+      "reason": "Mercor states the hiring manager is not advancing this exact role; separate Model Expert interview history remains untouched."
+    },
+    {
+      "type": "application_reconciliation",
+      "company": "OpenAI",
+      "role": "Three exact requisitions unresolved",
+      "reason": "Three generic application confirmations arrived within six minutes on 2026-08-29. They are recorded separately as company-only evidence and do not suppress any named OpenAI role."
+    },
+    {
+      "type": "frontier_ai_audit",
+      "reason": "Official career sweeps covered OpenAI, Anthropic, xAI, Google DeepMind/Google, Meta, NVIDIA, Microsoft AI, Amazon AGI, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. OpenAI Workload Porting & Performance and Codex Agents have exceptional fit without explicit multi-year minimums; Anthropic's closest roles require 5-6+ years, OpenAI Accelerators requires 3+ years plus export-control caveat, Amazon AGI's closest inference role requires 5+ non-internship years, and Fireworks' retrieved research-engineer URL is now 404."
     },
     {
       "type": "source_audit",
-      "reason": "SpeedyApply 2027 AI/SWE and Zapply 2027 feeds are already integrated as discovery sources. Their salary/year labels remain untrusted until verified on the exact employer posting, so no duplicate adapter was added."
-    },
-    {
-      "type": "new_role_review",
-      "company": "IMC Trading",
-      "role": "Graduate Performance Engineer",
-      "reason": "Exact official form is live and unusually relevant to Python, AI agents, networks and systems, but Yuhan is already in the IMC Graduate SWE process and IMC encourages focus; watchlist only."
+      "reason": "Daily GitHub discovery found active Jobright, Simplify, vanshb03, SpeedyApply and Zapply lists plus China-focused xixicc2027. Existing SpeedyApply/Zapply integrations already cover the strongest machine-readable feeds; no low-signal or duplicative adapter was added."
     }
   ],
   "recommendations": [
@@ -61,14 +71,14 @@
       "location": "Chicago, IL or limited New York placement (hybrid)",
       "salary": "$200,000 base + discretionary bonus",
       "fit": "Strong systems/algorithms/quant-SWE fit",
-      "reason": "Distributed real-time infrastructure plus Python/algorithms/multithreading fits Yuhan's systems research, NOI background, Linux work and production internship without presenting her as a recent low-latency C++ specialist.",
+      "reason": "Distributed real-time infrastructure plus Python, algorithms and multithreading fit Yuhan's systems research, NOI background, Linux work and production internship.",
       "new_grad": "Exact eligibility: graduating December 2026-June 2027.",
       "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact official page.",
       "urgency": "APPLY FIRST",
-      "caveat": "Less direct MLSys overlap than a dedicated ML-infrastructure role; interviews will emphasize systems, concurrency and algorithms.",
-      "application_limit": "One application per position; Chicago and New York are the same job, so apply only once and select location preferences.",
-      "live_verified_at": "2026-08-28",
-      "official_live_evidence": "Exact Greenhouse page displayed the job, graduation window, $200,000 base and full application form.",
+      "caveat": "Less direct MLSys overlap than a dedicated ML-infrastructure role; interviews emphasize systems, concurrency and algorithms.",
+      "application_limit": "One application per position; Chicago and New York are the same job, so apply only once.",
+      "live_verified_at": "2026-08-30",
+      "official_live_evidence": "Exact Greenhouse page displayed the job, graduation window, $200,000 base and complete application form.",
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"
     },
     {
@@ -85,7 +95,7 @@
       "urgency": "APPLY SOON",
       "caveat": "Device/general backend is less direct than LLM inference infrastructure.",
       "application_limit": "Apply to this targeted Amazon China SDE rather than multiple nearly identical requisitions.",
-      "live_verified_at": "2026-08-28",
+      "live_verified_at": "2026-08-30",
       "official_live_evidence": "Exact Amazon page displayed Job ID 10501875, graduation window and Apply now.",
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
@@ -103,8 +113,8 @@
       "urgency": "APPLY AFTER CTC / AMAZON",
       "caveat": "Modern C++ and low-latency trading are more central than Yuhan's recent experience.",
       "application_limit": "No public per-candidate cap found.",
-      "live_verified_at": "2026-08-28",
-      "official_live_evidence": "Exact Lever page displayed the application link, graduation window, $140,000 base and Sponsorship: Yes.",
+      "live_verified_at": "2026-08-30",
+      "official_live_evidence": "Exact Lever page displayed the application link, graduation window, compensation and Sponsorship: Yes.",
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     {
@@ -115,33 +125,65 @@
       "location": "New York, NY (5 days/week onsite)",
       "salary": "$135,000-$150,000 base + discretionary bonus",
       "fit": "Good Python/Linux/algorithms fit; lower MLSys overlap",
-      "reason": "The official requirements accept Python and/or C++ in Linux and value greenfield design, production ownership and edge-case handling, all supportable from Yuhan's current resume.",
+      "reason": "The official requirements accept Python and/or C++ in Linux and value greenfield design, production ownership and edge-case handling.",
       "new_grad": "Exact requirement: graduate by Summer 2027.",
       "sponsorship": "No explicit no-sponsorship, citizenship, or clearance language found on the exact posting.",
       "urgency": "SECONDARY",
       "caveat": "Five-day onsite and commodities systems are less aligned with MLSys; sponsorship is not stated.",
       "application_limit": "No public cap found.",
-      "live_verified_at": "2026-08-28",
+      "live_verified_at": "2026-08-30",
       "official_live_evidence": "Exact Greenhouse page displayed Summer 2027 eligibility, salary and complete application form.",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
       "rank": 5,
-      "category": "STRETCH · EXACT 2027 · AUTONOMOUS DRIVING",
+      "category": "SELECTIVE STRETCH · EXACT 2027 · AUTONOMOUS DRIVING",
       "company": "WeRide",
       "role": "New Grads 2027 - Software Engineer, Algorithm",
       "location": "San Jose, CA (onsite)",
       "salary": "Not posted",
       "fit": "Plausible simulation/planning/algorithms fit with robotics gap",
-      "reason": "Simulation core, analytical problem solving and Python overlap with configuration research and performance modeling; the MS graduation window matches exactly.",
+      "reason": "Simulation core, analytical problem solving and Python overlap with configuration research and performance modeling; this exact Algorithm requisition is distinct from the submitted Perception/CV role.",
       "new_grad": "Exact eligibility: MS/PhD graduating December 2026-June 2027.",
       "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact posting.",
       "urgency": "SELECTIVE STRETCH",
-      "caveat": "Autonomous-driving prediction/control, CV/graphics and modern C++ are meaningful gaps; frame only the simulation/system overlap.",
-      "application_limit": "No public cap found.",
-      "live_verified_at": "2026-08-28",
+      "caveat": "Autonomous-driving prediction/control, CV/graphics and modern C++ are meaningful gaps; apply only if the simulation/system work is genuinely attractive.",
+      "application_limit": "No public cap found; do not confuse with the already-submitted Perception/CV requisition.",
+      "live_verified_at": "2026-08-30",
       "official_live_evidence": "Exact Lever page displayed the named 2027 campus role and active application link.",
       "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
+    }
+  ],
+  "high_value_stretch": [
+    {
+      "rank": 1,
+      "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
+      "company": "OpenAI",
+      "role": "Workload Porting & Performance Engineer",
+      "location": "San Francisco, CA (hybrid)",
+      "salary": "$293,000-$385,000 + equity",
+      "fit": "Exceptional ML-systems/performance overlap",
+      "reason": "Benchmarking, profiling, GPU/accelerator workloads, distributed environments and runtime optimization map directly to AutoScout, vLLM cold-start work and multi-GPU systems research.",
+      "eligibility": "The official posting is not campus-labeled but lists no numeric minimum years and exposes Apply now.",
+      "sponsorship": "No explicit no-sponsorship or citizenship restriction found; unlike Accelerators, this page does not state an export-control legal-status caveat.",
+      "caveat": "Unlabeled and likely extremely selective. One of the three Aug 29 OpenAI submissions may already be this role; verify in the OpenAI portal before applying.",
+      "live_verified_at": "2026-08-30",
+      "url": "https://openai.com/careers/workload-porting-and-performance-engineer-san-francisco/"
+    },
+    {
+      "rank": 2,
+      "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
+      "company": "OpenAI",
+      "role": "AI Systems Engineer, Codex Agents",
+      "location": "San Francisco, CA",
+      "salary": "$230,000-$385,000 + equity",
+      "fit": "Exceptional production-agent systems overlap",
+      "reason": "Tool-use orchestration, evals, failure analysis, observability, inference/runtime constraints and production reliability mirror Yuhan's TikTok MCP gateway and multi-agent evaluation work, while ML-systems research adds depth.",
+      "eligibility": "The official posting is not campus-labeled and lists no numeric minimum years; Rust is a bonus rather than a stated hard requirement.",
+      "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact page.",
+      "caveat": "The wording expects strong ownership and broad production depth. One of the three Aug 29 OpenAI submissions may already be this role; verify the portal before applying.",
+      "live_verified_at": "2026-08-30",
+      "url": "https://openai.com/careers/ai-systems-engineer-codex-agents-san-francisco/"
     }
   ]
 }
