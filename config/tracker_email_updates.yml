@@ -101,7 +101,7 @@ updates:
     next_action: "Closed for this exact role; preserve the separate Weekday/Mercor Model Expert interview record."
 
   - company: OpenAI
-    role: Exact requisition unresolved - confirmation 2026-08-29 #1
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #1"
     status: Applied
     applied_date: "2026-08-29"
     status_date: "2026-08-29"
@@ -111,7 +111,7 @@ updates:
     next_action: "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
 
   - company: OpenAI
-    role: Exact requisition unresolved - confirmation 2026-08-29 #2
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #2"
     status: Applied
     applied_date: "2026-08-29"
     status_date: "2026-08-29"
@@ -121,7 +121,7 @@ updates:
     next_action: "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
 
   - company: OpenAI
-    role: Exact requisition unresolved - confirmation 2026-08-29 #3
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #3"
     status: Applied
     applied_date: "2026-08-29"
     status_date: "2026-08-29"
