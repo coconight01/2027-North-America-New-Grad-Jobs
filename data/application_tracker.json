@@ -148,12 +148,12 @@
     {
       "company": "Akuna Capital",
       "role": "Software Engineer (Entry-Level) - Python",
-      "status": "OA",
+      "status": "OA Completed",
       "applied_date": "2026-08-12",
-      "status_date": "2026-08-18",
+      "status_date": "2026-08-29",
       "confidence": "Exact",
-      "evidence": "Application confirmation names the exact role; Akuna then explicitly moved the application forward to a HackerRank assessment for 2026-2027 Python Software Engineer I",
-      "next_action": "Complete HackerRank Assessment 1 by its stated deadline; do not use prohibited AI assistance"
+      "evidence": "The exact Python entry-level application and assessment invitation are already tracked; HackerRank confirmed submission of 2026-2027 Python Software Engineer I - Assessment 1 on 2026-08-29.",
+      "next_action": "Assessment submitted; wait for Akuna review."
     },
     {
       "company": "FlexAI",
@@ -318,12 +318,12 @@
     {
       "company": "IMC Trading",
       "role": "Graduate Software Engineer",
-      "status": "OA",
+      "status": "OA Completed",
       "applied_date": "2026-08-08",
-      "status_date": "2026-08-27",
+      "status_date": "2026-08-29",
       "confidence": "Exact",
-      "evidence": "IMC invited Yuhan to the Graduate Software Engineer process on 2026-08-27. The exact employer email states a 120-minute, two-question HackerRank in the Desktop App with webcam, closed-book, using Java/Python/C++; the separate HackerRank invitation asks completion within 72 hours.",
-      "next_action": "Complete the IMC consent form, then finish the 120-minute HackerRank by 2026-08-30 2:14 PM CDT if possible. The IMC email says there is no firm deadline but recommends within 7 days; use the earlier HackerRank 72-hour window."
+      "evidence": "The exact-role IMC assessment invitation is already tracked; HackerRank confirmed submission of the 2026-2027 Chicago SWE Assessment on 2026-08-29.",
+      "next_action": "Assessment submitted; wait for IMC review."
     },
     {
       "company": "Citadel / Citadel Securities",
@@ -369,12 +369,12 @@
     {
       "company": "Weekday AI",
       "role": "Machine Learning Engineer - Model Evaluation & Experimentation",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-08-05",
-      "status_date": "2026-08-05",
+      "status_date": "2026-08-28",
       "confidence": "Exact",
-      "evidence": "Application submitted confirmation",
-      "next_action": "Wait for review"
+      "evidence": "Mercor's official update names the exact Machine Learning Engineer - Model Evaluation & Experimentation role and states the hiring manager is not advancing it.",
+      "next_action": "Closed for this exact role; preserve the separate Weekday/Mercor Model Expert interview record."
     },
     {
       "company": "Arrowstreet Capital",
@@ -460,22 +460,22 @@
     {
       "company": "Cerebras Systems",
       "role": "Kernel Engineer - New Grad",
-      "status": "Applied",
+      "status": "Interview",
       "applied_date": "2026-08-25",
-      "status_date": "2026-08-25",
+      "status_date": "2026-08-27",
       "confidence": "Exact",
-      "evidence": "Official Cerebras Systems application confirmation received on 2026-08-25 names the exact Kernel Engineer - New Grad role and confirms the application was submitted.",
-      "next_action": "Wait for review; remove this exact role from recommendations."
+      "evidence": "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute technical interview using Microsoft Teams and HackerRank, and Yuhan submitted availability.",
+      "next_action": "Availability submitted; wait for the finalized interview time. Recruiter also asked about Winter 2027 internship availability, but the tracked full-time requisition remains separate."
     },
     {
       "company": "DRW",
       "role": "Role uncertain",
-      "status": "Applied",
+      "status": "OA",
       "applied_date": "2026-08-25",
-      "status_date": "2026-08-25",
+      "status_date": "2026-08-29",
       "confidence": "Company-only",
-      "evidence": "Official DRW recruiting confirmation received on 2026-08-25 confirms an application was received, but the visible email content does not name the exact requisition.",
-      "next_action": "Wait for review; reconcile the exact DRW role only if later employer evidence names it."
+      "evidence": "Official DRW confirmation proves an application, and a 2026-08-29 Codility invitation advances that application to a 115-minute, three-question proctored programming challenge. Neither visible email names the exact requisition.",
+      "next_action": "Complete the DRW Codility by 2026-09-01 6:36 PM CDT if possible. Python is allowed; DRW notes at least one C++ answer may broaden team matching, but do not force C++ if it reduces correctness."
     },
     {
       "company": "Google",
@@ -486,6 +486,56 @@
       "confidence": "Exact",
       "evidence": "User-reported Google Careers portal status changed to Not proceeding for the exact Summer 2027 MS internship; no rejection email was received.",
       "next_action": "Closed. Keep separate from the active Software Engineer, Early Career, Campus full-time application; likely graduation-timing mismatch because May 2027 graduation precedes the internship."
+    },
+    {
+      "company": "WeRide",
+      "role": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+      "status": "Applied",
+      "applied_date": "2026-08-28",
+      "status_date": "2026-08-28",
+      "confidence": "Exact",
+      "evidence": "Yuhan's sent email states she submitted the exact Perception/Computer Vision profile, and the recruiter replied that the hiring team will review it.",
+      "next_action": "Wait for hiring-team review; keep distinct from the still-unapplied Software Engineer, Algorithm requisition."
+    },
+    {
+      "company": "Nextdoor",
+      "role": "Machine Learning Engineer - New Grad 2026",
+      "status": "Rejected",
+      "applied_date": null,
+      "status_date": "2026-08-28",
+      "confidence": "Exact",
+      "evidence": "Official Nextdoor rejection names the exact Machine Learning Engineer - New Grad 2026 role.",
+      "next_action": "Closed. The older company-only Nextdoor row remains historical uncertainty and must not be silently merged with other requisitions."
+    },
+    {
+      "company": "OpenAI",
+      "role": "Exact requisition unresolved - confirmation 2026-08-29 #1",
+      "status": "Applied",
+      "applied_date": "2026-08-29",
+      "status_date": "2026-08-29",
+      "confidence": "Company-only",
+      "evidence": "OpenAI application confirmation received at 2:11 AM CDT on 2026-08-29; the generic confirmation does not name the role.",
+      "next_action": "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
+    },
+    {
+      "company": "OpenAI",
+      "role": "Exact requisition unresolved - confirmation 2026-08-29 #2",
+      "status": "Applied",
+      "applied_date": "2026-08-29",
+      "status_date": "2026-08-29",
+      "confidence": "Company-only",
+      "evidence": "OpenAI application confirmation received at 2:14 AM CDT on 2026-08-29; the generic confirmation does not name the role.",
+      "next_action": "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
+    },
+    {
+      "company": "OpenAI",
+      "role": "Exact requisition unresolved - confirmation 2026-08-29 #3",
+      "status": "Applied",
+      "applied_date": "2026-08-29",
+      "status_date": "2026-08-29",
+      "confidence": "Company-only",
+      "evidence": "OpenAI application confirmation received at 2:17 AM CDT on 2026-08-29; the generic confirmation does not name the role.",
+      "next_action": "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
     }
   ]
 }

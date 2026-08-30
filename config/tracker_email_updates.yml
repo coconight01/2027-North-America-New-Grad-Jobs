@@ -29,22 +29,24 @@ updates:
 
   - company: Cerebras Systems
     role: Kernel Engineer - New Grad
-    status: Applied
+    status: Interview
     applied_date: "2026-08-25"
-    status_date: "2026-08-25"
+    status_date: "2026-08-27"
     confidence: Exact
-    evidence: "Official Cerebras Systems application confirmation received on 2026-08-25 names the exact Kernel Engineer - New Grad role and confirms the application was submitted."
-    next_action: "Wait for review; remove this exact role from recommendations."
+    evidence: "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute technical interview using Microsoft Teams and HackerRank, and Yuhan submitted availability."
+    next_action: "Availability submitted; wait for the finalized interview time. Recruiter also asked about Winter 2027 internship availability, but the tracked full-time requisition remains separate."
+
 
   - company: DRW
     role: Role uncertain
-    status: Applied
+    status: OA
     applied_date: "2026-08-25"
-    status_date: "2026-08-25"
+    status_date: "2026-08-29"
     confidence: Company-only
     allow_create: true
-    evidence: "Official DRW recruiting confirmation received on 2026-08-25 confirms an application was received, but the visible email content does not name the exact requisition."
-    next_action: "Wait for review; reconcile the exact DRW role only if later employer evidence names it."
+    evidence: "Official DRW confirmation proves an application, and a 2026-08-29 Codility invitation advances that application to a 115-minute, three-question proctored programming challenge. Neither visible email names the exact requisition."
+    next_action: "Complete the DRW Codility by 2026-09-01 6:36 PM CDT if possible. Python is allowed; DRW notes at least one C++ answer may broaden team matching, but do not force C++ if it reduces correctness."
+
 
   - company: Roblox
     role: "[2027] Software Engineer, Early Career"
@@ -53,3 +55,77 @@ updates:
     confidence: Exact
     evidence: "Application confirmation and assessment history identify the exact 2027 Early Career SWE role; CodeSignal and Roblox confirmed assessment completion on 2026-08-21, and Roblox Immigration sent a required work-authorization questionnaire on 2026-08-25."
     next_action: "Complete the Roblox Immigration Questionnaire within 3 business days; this is an immigration/work-authorization step, not evidence of an interview decision."
+
+  - company: IMC Trading
+    role: Graduate Software Engineer
+    status: OA Completed
+    applied_date: "2026-08-08"
+    status_date: "2026-08-29"
+    confidence: Exact
+    evidence: "The exact-role IMC assessment invitation is already tracked; HackerRank confirmed submission of the 2026-2027 Chicago SWE Assessment on 2026-08-29."
+    next_action: "Assessment submitted; wait for IMC review."
+
+  - company: Akuna Capital
+    role: Software Engineer (Entry-Level) - Python
+    status: OA Completed
+    applied_date: "2026-08-12"
+    status_date: "2026-08-29"
+    confidence: Exact
+    evidence: "The exact Python entry-level application and assessment invitation are already tracked; HackerRank confirmed submission of 2026-2027 Python Software Engineer I - Assessment 1 on 2026-08-29."
+    next_action: "Assessment submitted; wait for Akuna review."
+
+  - company: WeRide
+    role: New Grads 2027 - Software Engineer - Perception/Computer Vision
+    status: Applied
+    applied_date: "2026-08-28"
+    status_date: "2026-08-28"
+    confidence: Exact
+    evidence: "Yuhan's sent email states she submitted the exact Perception/Computer Vision profile, and the recruiter replied that the hiring team will review it."
+    next_action: "Wait for hiring-team review; keep distinct from the still-unapplied Software Engineer, Algorithm requisition."
+
+  - company: Nextdoor
+    role: Machine Learning Engineer - New Grad 2026
+    status: Rejected
+    status_date: "2026-08-28"
+    confidence: Exact
+    evidence: "Official Nextdoor rejection names the exact Machine Learning Engineer - New Grad 2026 role."
+    next_action: "Closed. The older company-only Nextdoor row remains historical uncertainty and must not be silently merged with other requisitions."
+
+  - company: Weekday AI
+    role: Machine Learning Engineer - Model Evaluation & Experimentation
+    status: Rejected
+    applied_date: "2026-08-05"
+    status_date: "2026-08-28"
+    confidence: Exact
+    evidence: "Mercor's official update names the exact Machine Learning Engineer - Model Evaluation & Experimentation role and states the hiring manager is not advancing it."
+    next_action: "Closed for this exact role; preserve the separate Weekday/Mercor Model Expert interview record."
+
+  - company: OpenAI
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #1"
+    status: Applied
+    applied_date: "2026-08-29"
+    status_date: "2026-08-29"
+    confidence: Company-only
+    allow_create: true
+    evidence: "OpenAI application confirmation received at 2:11 AM CDT on 2026-08-29; the generic confirmation does not name the role."
+    next_action: "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
+
+  - company: OpenAI
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #2"
+    status: Applied
+    applied_date: "2026-08-29"
+    status_date: "2026-08-29"
+    confidence: Company-only
+    allow_create: true
+    evidence: "OpenAI application confirmation received at 2:14 AM CDT on 2026-08-29; the generic confirmation does not name the role."
+    next_action: "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
+
+  - company: OpenAI
+    role: "Exact requisition unresolved - confirmation 2026-08-29 #3"
+    status: Applied
+    applied_date: "2026-08-29"
+    status_date: "2026-08-29"
+    confidence: Company-only
+    allow_create: true
+    evidence: "OpenAI application confirmation received at 2:17 AM CDT on 2026-08-29; the generic confirmation does not name the role."
+    next_action: "Reconcile against the OpenAI application portal; do not use this company-level evidence to suppress any named requisition."
