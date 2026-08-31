@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30",
+  "updated_at": "2026-08-31",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,7 +27,7 @@
       "fill": 0
     },
     "priority_company_candidates": 155,
-    "new_job_candidates": 115,
+    "new_job_candidates": 85,
     "high_potential_title_candidates": 173
   },
   "veto_counts": {
@@ -588,6 +588,31 @@
     },
     {
       "machine_rank": 23,
+      "machine_score": 81,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "SimpliSafe",
+      "role": "Software Engineer I - Device Control",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "salary": "$75,100–$100,100",
+      "salary_max_annual": "100100",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "jd_excerpt": "Job Application for Software Engineer I - Device Control  at SimpliSafe Back to jobs Software Engineer I - Device Control Boston, MA Apply About SimpliSafe We’re a high-tech home security company that’s passionate about protecting the life you’ve built and our mission of keeping Every Home Secure. And we’ve created a culture here that cares just as deeply about the career you’re building. Ours is a no ego culture of collaboration and innovation where those seeking their next challenge can find big opportunities and make a huge impact on the lives of all those who we protect. We don’t just want you to work here. We want you to grow and thrive here. We’re embracing a hybrid work model that enables our teams to split their time between office and home. Hybrid for us means we expect our teams to come together in our state-of-the-art office on two core days, typically Tuesday, Wednesday, or Thursday – working together in person and choosing where they work for the remainder of the week. We all benefit from flexibility and get to use the best of both worlds to get our work done. Why are we hiring? Well, we’re growing and thriving. So, we need smart, talented, and humble people who share our values to join us as we disrupt the home security space and relentlessly pursue our mission of keeping Every Home Secure. What You'll Do SimpliSafe’s Device Cloud Services team is on a mission to level up the cloud-based systems that empower customers to interact with their home security systems from anywhere in the world. We’re looking for a motivated Software Engineer 1 to join our backend team, learn how we solve large-scale distributed problems, and start contributing to the systems that give customers real-time control and visibility into their security systems. Because we deal with life safety, reliability, simplicity, and performance are our key pillars. Primary Responsibilities Include: Work closely with senior engineers and your manager to learn our codebase, systems, and engineering practices while contributing to real features from day one. Use AI-assisted development tools, including Claude Code, to accelerate coding, testing, and debugging, and continually build your skill at working effectively alongside AI in your day-to-day engineering work. Design and build well-tested software components under the guidance of more senior engineers, growing your ability to deliver simple, reliable solutions at scale. Write and maintain automated tests so your code stays reliable and safe to change and refactor. Debug issues, fix bugs, and make incremental improvements to existing systems as you build context on how our services work. Document the systems you work on so they can be understood and maintained by others. Participate actively in code reviews, both giving and receiving feedback, as a way to sharpen your engineering skills. After an onboarding and ramp-up period, join the on-call rotation as a first responder for software owned by your team, with support and mentorship from more senior engineers. What You'll Bring A Bachelor's degree in Computer Science, Computer Engineering, or a related field, completed or expected soon (or equivalent practical experience). A solid foundation in data structures, algorithms, and object-oriented design principles. Exposure to at least one modern programming language (e.g., C#, JavaScript/TypeScript, Java, C++, Go, Python) through coursework, internships, or personal projects. Familiarity with version control (e.g., Git). Strong problem-solving skills and attention to detail. Curiosity, humility, and a genuine desire to continuously learn and grow. Comfort working collaboratively in a team environment and communicating clearly about your work. Nice-to-Haves Internship, co-op, research, or personal/open-source project experience building software. Exposure to cloud platforms (AWS, Azure, or GCP) or building/deploying cloud-based services. Coursework or projects involving distributed systems, APIs, or IoT/embedded devices. Familiarity with Agile/Scrum practices. What Values You’ll Share Customer Obsessed - Building deep empathy for our customers, putting them at the core of our work, and developing strong, long-term relationships with them. Aim High - Always challenging ourselves and others to raise the bar. No Ego - Maintaining a “no job too small” attitude, and an open, inclusive and humble style. One Team - Taking a highly collaborative approach to achieving success. Lift As We Climb - Investing in developing others and helping others around us succeed. Lean & Nimble - Working with agility and efficiency to experiment in an often ambiguous environment. What We Offer A mission- and values-driven culture and a safe, inclusive environment where you can build, grow and thrive A comprehensive total rewards package that supports your wellness and provides security for SimpliSafers and their families (For more information on our total rewards please click here ) Free SimpliSafe system and p",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 24,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; new-grad: confirmed",
@@ -612,7 +637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 25,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -637,7 +662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 26,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -662,7 +687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 27,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -687,7 +712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 28,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -712,7 +737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 29,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -737,7 +762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 30,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, PyTorch; $200k+ stated ceiling",
@@ -762,7 +787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 31,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -787,7 +812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 32,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -812,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -837,7 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 34,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -862,7 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 35,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -887,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 36,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -912,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 37,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -937,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 38,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; new-grad: confirmed; $200k+ stated ceiling",
@@ -962,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 39,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
@@ -987,107 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Freeform",
-      "role": "Software Engineer (New Grad Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA, United States",
-      "salary": "$125K/yr - $150K/yr",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-20",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
       "machine_rank": 40,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Freeform",
-      "role": "[Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003)",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA (On-site)",
-      "salary": "$125,000–$150,000",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-20",
-      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 41,
-      "machine_score": 71,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch; role shape: early-career SWE",
-      "company_priority": "",
-      "company": "WeRide.ai",
-      "role": "New Grads 2027 - Software Engineer - Algorithm",
-      "category": "AI / Machine Learning",
-      "location": "San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-10",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
-      "jd_excerpt": "Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4 and is the world's first publicly listed autonomous vehicle (AV) company. Its business footprint now spans more than 60 cities across 13 countries. Powered by the intelligent, versatile, and highly adaptable WeRide One platform, the company provides autonomous driving products and services ranging from Level 2 to Level 4, addressing mobility, logistics, and urban services. Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4 and is the world's first publicly listed autonomous vehicle (AV) company. Its business footprint now spans more than 60 cities across 13 countries. Powered by the intelligent, versatile, and highly adaptable WeRide One platform, the company provides autonomous driving products and services ranging from Level 2 to Level 4, addressing mobility, logistics, and urban services. What Happens Next:\n \nWe’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision.\n \nDuring the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process.\n \nWe recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today!\n \n\n\nWeRide.ai offers competitive salary depending on the experience. Employee benefits include:\nPremium Medical, Dental and Vision Plan (No cost from employees or their families)\nFree Daily Breakfast, Lunch and Dinner\nPaid vacations and holidays\n401K plan What Happens Next: We’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision. During the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process. We recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today! WeRide.ai offers competitive salary depending on the experience. Employee benefits include: Premium Medical, Dental and Vision Plan (No cost from employees or their families) Free Daily Breakfast, Lunch and Dinner Paid vacations and holidays 401K plan What You May Work On: Prediction : Design models that forecast the behaviors and intentions of surrounding vehicles, pedestrians, and other dynamic agents, enabling safer driving decisions Mapping & Localization : Explore algorithms for vehicle localization and environment representation, leveraging maps, onboard sensors, and learning-based methods to ensure reliable positioning in diverse conditions Planning & Control : Contribute to motion planning and decision-making modules that support safe, efficient, and human-like driving behaviors, as well as robust vehicle control algorithms Simulation Core : Build simulation platforms with realistic sensor modeling and 3D environment reconstruction to accelerate the validation and development of autonomous driving technologies Qualifications: MS/PhD degree in Robotics, Computer Science, Physics, Computer Vision, Graphics, Machine Learning, Automation or equivalent practical experience, with an expected graduation date between December 2026 and June 2027 . Proficient in C++ and/or Python with knowledge of its latest features. Strong analytical and problem-solving skills. Excellent communication, and cross-functional team collaboration abilities. Passion for innovation in the autonomous vehicle industry. Bonus Points: Published research presented at leading machine learning or robotics conferences such as NeurIPS, CVPR, ICML, ICLR, ICCV, ECCV, IROS, or ICRA. Proficient in machine learning frameworks, such as TensorFlow or PyTorch. Experience in open-source competitions or challenges related to autonomous driving. Team Introductions: Prediction Team: The Prediction team liaises with the perception team upstream and the",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 42,
-      "machine_score": 70,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "MyKargo",
-      "role": "Agentic AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/kargo/jobs/6100171004",
-      "jd_excerpt": "Job Application for Agentic AI Engineer at Kargo Back to jobs Agentic AI Engineer Locations: San Francisco Apply At Kargo, our mission is to build a connective tissue between the physical world of freight and the digital ecosystem used to manage it. We believe that advancements in smart infrastructure are critical to enabling a safer and more efficient future for logistics.  Our loading dock sensor platform verifies all incoming and outgoing freight, aggregating data that enables shippers and carriers to efficiently manage dock operations, switch out suppliers and understand material flow in real time. We care deeply about delivering the best solutions for our customers. As a member of the Kargo team, you will have the opportunity to develop and deploy tomorrow’s hardware & software solutions and help revolutionize logistics. Responsibilities Build AI agents that autonomously navigate websites and execute complex workflows. Develop browser automation solutions using Playwright, Selenium, or similar frameworks. Design agent architectures leveraging LLMs, tool calling, memory, and planning capabilities. Integrate AI agents with APIs, SaaS platforms, and internal systems. Improve agent reliability through evaluation, testing, monitoring, and guardrails. Optimize agent performance, scalability, and operational cost. Collaborate with product and engineering teams to identify and automate high-value workflows. Stay current on emerging agent frameworks, models, and AI technologies. Experience 3+ years of software engineering experience building production systems. 1+ years experience building agentic workflows. Strong Python programming skills. Experience with LLMs, agent frameworks and browser automation tools. Experience integrating APIs and third-party services. Familiarity with cloud platforms such as AWS or GCP. Startup experience and ability to work in a fast-paced environment is preferred. BS/MS in Computer Science, Engineering, AI, or a related field. Kargo is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Add another LinkedIn Profile * Are you legally authorized to work in the United States? * Select... What is your current location? * Will you now or in the future require visa transfer or sponsorship? (if yes, please share more details on the kind of visa you have, when it expires, and any other details you think would be good for us to know) * When can you start a new job? * Voluntary Self-Identification For government reporting purposes, we ask candidates to respond to the below self-identification survey.\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring\nprocess or thereafter. Any information that you do provide will be recorded and maintained in a\nconfidential file. As set forth in Kargo’s Equal Employment Opportunity policy,\nwe do not discriminate on the basis of any protected group status under any applicable law. Gender Select... Are you Hispanic/Latino? Select... Race & Ethnicity Definitions If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.\n  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure\n  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories\n  is as follows: A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability. A \"recently separated veteran\" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service. An \"active duty wartime or campaign badge veteran\" means a veteran who served on active dut",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 43,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1112,32 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
-      "company_priority": "Tier A",
-      "company": "Baseten",
-      "role": "Applied AI Inference Engineer",
-      "category": "Other",
-      "location": "Remote - San Francisco, CA +1",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa",
-      "jd_excerpt": "Jobs You need to enable JavaScript to run this app.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 45,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1162,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1187,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 43,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed",
@@ -1212,57 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Amazon OpenSearch - OpenSearch Core",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10487557/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 49,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS OpenSearch Service",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10477971/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 50,
+      "machine_rank": 44,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1287,7 +1137,57 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 45,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Freeform",
+      "role": "Software Engineer (New Grad Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA, United States",
+      "salary": "$125K/yr - $150K/yr",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-20",
+      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 46,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Freeform",
+      "role": "[Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA (On-site)",
+      "salary": "$125,000–$150,000",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-20",
+      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 47,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1312,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 48,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1337,32 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Squarepoint Capital",
-      "role": "Quantitative Researcher - Volatility",
-      "category": "Other",
-      "location": "New York City, NY",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 54,
+      "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1387,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 50,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1412,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 51,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1437,7 +1312,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 52,
+      "machine_score": 70,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
+      "company_priority": "",
+      "company": "MyKargo",
+      "role": "Agentic AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/kargo/jobs/6100171004",
+      "jd_excerpt": "Job Application for Agentic AI Engineer at Kargo Back to jobs Agentic AI Engineer Locations: San Francisco Apply At Kargo, our mission is to build a connective tissue between the physical world of freight and the digital ecosystem used to manage it. We believe that advancements in smart infrastructure are critical to enabling a safer and more efficient future for logistics.  Our loading dock sensor platform verifies all incoming and outgoing freight, aggregating data that enables shippers and carriers to efficiently manage dock operations, switch out suppliers and understand material flow in real time. We care deeply about delivering the best solutions for our customers. As a member of the Kargo team, you will have the opportunity to develop and deploy tomorrow’s hardware & software solutions and help revolutionize logistics. Responsibilities Build AI agents that autonomously navigate websites and execute complex workflows. Develop browser automation solutions using Playwright, Selenium, or similar frameworks. Design agent architectures leveraging LLMs, tool calling, memory, and planning capabilities. Integrate AI agents with APIs, SaaS platforms, and internal systems. Improve agent reliability through evaluation, testing, monitoring, and guardrails. Optimize agent performance, scalability, and operational cost. Collaborate with product and engineering teams to identify and automate high-value workflows. Stay current on emerging agent frameworks, models, and AI technologies. Experience 3+ years of software engineering experience building production systems. 1+ years experience building agentic workflows. Strong Python programming skills. Experience with LLMs, agent frameworks and browser automation tools. Experience integrating APIs and third-party services. Familiarity with cloud platforms such as AWS or GCP. Startup experience and ability to work in a fast-paced environment is preferred. BS/MS in Computer Science, Engineering, AI, or a related field. Kargo is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Add another LinkedIn Profile * Are you legally authorized to work in the United States? * Select... What is your current location? * Will you now or in the future require visa transfer or sponsorship? (if yes, please share more details on the kind of visa you have, when it expires, and any other details you think would be good for us to know) * When can you start a new job? * Voluntary Self-Identification For government reporting purposes, we ask candidates to respond to the below self-identification survey.\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring\nprocess or thereafter. Any information that you do provide will be recorded and maintained in a\nconfidential file. As set forth in Kargo’s Equal Employment Opportunity policy,\nwe do not discriminate on the basis of any protected group status under any applicable law. Gender Select... Are you Hispanic/Latino? Select... Race & Ethnicity Definitions If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.\n  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure\n  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories\n  is as follows: A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability. A \"recently separated veteran\" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service. An \"active duty wartime or campaign badge veteran\" means a veteran who served on active dut",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 53,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1462,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1487,7 +1387,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 55,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
+      "company_priority": "Tier A",
+      "company": "Baseten",
+      "role": "Applied AI Inference Engineer",
+      "category": "Other",
+      "location": "Remote - San Francisco, CA +1",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa",
+      "jd_excerpt": "Jobs You need to enable JavaScript to run this app.",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1512,32 +1437,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "SimpliSafe",
-      "role": "Software Engineer I - Device Control",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
       "category": "Software Engineering",
-      "location": "Boston, MA",
-      "salary": "$75,100–$100,100",
-      "salary_max_annual": "100100",
+      "location": "Cupertino, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
+      "ng_evidence": "title says Engineer I",
       "sponsorship": "Unknown",
       "phd_required": "No",
       "posted_date": "2026-07-20",
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "url": "https://www.amazon.jobs/jobs/10464055/apply",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1562,7 +1487,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 59,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10464040/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 60,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1587,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1562,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1587,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1662,7 +1612,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1687,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1712,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1737,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1762,7 +1712,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 68,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Squarepoint Capital",
+      "role": "Quantitative Researcher - Volatility",
+      "category": "Other",
+      "location": "New York City, NY",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 69,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
