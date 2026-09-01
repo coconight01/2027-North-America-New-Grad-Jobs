@@ -27,12 +27,12 @@
       "fill": 0
     },
     "priority_company_candidates": 154,
-    "new_job_candidates": 66,
+    "new_job_candidates": 75,
     "high_potential_title_candidates": 175
   },
   "veto_counts": {
-    "non-full-time program title": 5,
-    "explicit 2026-only title": 5
+    "non-full-time program title": 4,
+    "explicit 2026-only title": 6
   },
   "exact_tracked_jobs_removed": 7,
   "candidates": [
@@ -763,6 +763,81 @@
     },
     {
       "machine_rank": 30,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Deloitte",
+      "role": "Tech & Transformation - Cyber - Digital Trust & Privacy - New Grad 2027 - Multiple Locations",
+      "category": "Cybersecurity",
+      "location": "Winnipeg, MB, Canada",
+      "salary": "$65K/yr - $122K/yr",
+      "salary_max_annual": 122000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-01",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a969519455eaf6a08c18227",
+      "jd_excerpt": "Tech & Transformation - Cyber - Digital Trust & Privacy - New Grad 2027 - Multiple Locations @ Deloitte | Jobright.ai SIGN IN JOIN NOW Tech & Transformation - Cyber - Digital Trust & Privacy - New Grad 2027 - Multiple Locations jobs in United States Overview Company Apply on Employer Site APPLY NOW Deloitte · 2 hours ago Tech & Transformation - Cyber - Digital Trust & Privacy - New Grad 2027 - Multiple Locations Winnipeg, MB +6 more Full-time Hybrid New Grad $65K/yr - $122K/yr 0+ years exp Deloitte is a professional services firm that helps organizations address complex business issues and create meaningful impact. The Digital Trust & Privacy Practitioner will help clients transform cyber and technology risk management through strategy, governance, privacy, data protection, identity, and executive reporting initiatives. Accounting Consulting Finance Legal Professional Services Property & Casualty Insurance Financial Services Innovation Management Risk Management Growth Opportunities Responsibilities Shape cyber strategy and transformation roadmaps – Help clients define their cyber vision, target operating model, and multi-year transformation roadmap that align cyber to business priorities and enable secure digital transformation Build the case for change – Analyze client challenges, quantify costs and benefits, and develop business cases, investment options, and executive-ready recommendations for new cyber and technology initiatives Design cyber governance and risk management processes – Advise on the design and uplift of cyber governance, policies, risk taxonomies, risk appetite, three lines of defense, and cyber and technology risk management process (e.g., risk assessments, controls testing and monitoring, regulatory management, reporting) Bring insight to executive and boards – Develop cyber metrics, dashboards, and board-level reporting that translate technical cyber risk into clear, outcome-driven insights to support leadership decision-making Bridge business and technology – Break down complex technical concepts and explain them in a simple, business-focused way for non-technical stakeholders, including executives and board members Co-create with clients – Facilitate and lead workshops, interviews, and working session with clients and Deloitte teams to understand problem statements and co-create practical, business-aligned solutions Stay on top of what’s trending – Research industry trends, threats, evolving regulations (e.g., OSFI, NIST, ISO), and leading practices, using access to the Deloitte global network to bring “what good looks like” to our clients Improve how we work at Deloitte – Contribute ideas to enhance Deloitte methodologies, tools, and accelerators, including how we can use emerging technologies like AI and automation Learn a lot, fast – Grow your skills through client work, coaching, networking, and training Qualification Identity and Access Management Privacy and Data Protection Data Governance AI Governance Regulatory Compliance Cybersecurity Microsoft Office Suite Power BI Tableau Required Have completed or are currently working towards completing a post-secondary degree or diploma program (e.g., Business, Commerce, Cybersecurity, Computer Science, Engineering, Privacy Law , AI or a related field) Are graduating within one year of your start date Winter 2027: You must be graduating between January 2026-December 2026 Spring/Summer 2027: You must be graduating between May 2026-April 2027 Fall 2027: You must be graduating between September 2026-August 2027 Have a strong interest in identity and access management, privacy, data governance, AI governance, regulatory compliance, and digital trust Stay current on emerging trends in AI, privacy, data protection, cybersecurity, and regulatory change Enjoy solving complex business challenges and collaborating with diverse stakeholders Enjoy working in teams, facilitating workshops and discussions, and co-creating practical solutions with others Display initiative, creativity, enjoy problem solving and are looking to make an impact Can demonstrate strong proficiency in MS Office Suite (Word, PowerPoint, Excel, Visio, Project) and interested in using dashboards (e.g. Power BI, Tableau) and tools to turn cyber and risk data into clear and executive-ready insights Are eager to learn on the job and are interested in pursuing relevant certifications (e.g., CISSP, CISM, PMP, CPA, CIPP, CIPM, AI governance or responsible AI certifications) Are legally eligible to work in Canada and able to enter the USA to work on client assignments Curiosity - You are eager to learn, ask thoughtful questions, and are always connecting the dots Analytical Thinking - You can dissect problems to uncover insights with strong attention to detail Teamwork - You work collaboratively with others to deliver on team goals and client outcomes Adaptability - You are comfortable with ambiguity and can pivot with rapidly evolving demands Leadership - You proactively anticipate",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 31,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Deloitte",
+      "role": "Tech & Transformation - Cyber - Strategy & Transformation - New Grad 2027 - Multiple Locations",
+      "category": "Cybersecurity",
+      "location": "Winnipeg, MB, Canada",
+      "salary": "$65K/yr - $122K/yr",
+      "salary_max_annual": 122000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-01",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a969507455eaf6a08c18222",
+      "jd_excerpt": "Tech & Transformation - Cyber - Strategy & Transformation - New Grad 2027 - Multiple Locations @ Deloitte | Jobright.ai SIGN IN JOIN NOW Tech & Transformation - Cyber - Strategy & Transformation - New Grad 2027 - Multiple Locations jobs in United States Overview Company Apply on Employer Site APPLY NOW Deloitte · 2 hours ago Tech & Transformation - Cyber - Strategy & Transformation - New Grad 2027 - Multiple Locations Winnipeg, MB +6 more Full-time Hybrid New Grad $65K/yr - $122K/yr Deloitte is a Canadian professional services firm focused on helping organizations address complex business, technology, and cyber challenges. The Cyber Strategy & Transformation Practitioner will help clients manage cyber and technology risk by developing strategies, governance processes, transformation roadmaps, business cases, executive reporting, and practical solutions for secure digital transformation. Accounting Consulting Finance Legal Professional Services Property & Casualty Insurance Financial Services Innovation Management Risk Management Growth Opportunities Responsibilities Shape cyber strategy and transformation roadmaps – Help clients define their cyber vision, target operating model, and multi-year transformation roadmap that align cyber to business priorities and enable secure digital transformation Build the case for change – Analyze client challenges, quantify costs and benefits, and develop business cases, investment options, and executive-ready recommendations for new cyber and technology initiatives Design cyber governance and risk management processes – Advise on the design and uplift of cyber governance, policies, risk taxonomies, risk appetite, three lines of defense, and cyber and technology risk management process (e.g., risk assessments, controls testing and monitoring, regulatory management, reporting) Bring insight to executive and boards – Develop cyber metrics, dashboards, and board-level reporting that translate technical cyber risk into clear, outcome-driven insights to support leadership decision-making Bridge business and technology – Break down complex technical concepts and explain them in a simple, business-focused way for non-technical stakeholders, including executives and board members Co-create with clients – Facilitate and lead workshops, interviews, and working session with clients and Deloitte teams to understand problem statements and co-create practical, business-aligned solutions Stay on top of what’s trending – Research industry trends, threats, evolving regulations (e.g., OSFI, NIST, ISO), and leading practices, using access to the Deloitte global network to bring “what good looks like” to our clients Improve how we work at Deloitte – Contribute ideas to enhance Deloitte methodologies, tools, and accelerators, including how we can use emerging technologies like AI and automation Learn a lot, fast – Grow your skills through client work, coaching, networking, and training Qualification Cyber Risk Management Cybersecurity Cloud Technologies Artificial Intelligence Data Protection Security Frameworks Microsoft Office Power BI Tableau Workshop Facilitation Required Have completed or are currently working towards completing a post-secondary degree or diploma program (e.g., Business, Commerce, Cybersecurity, Computer Science, Engineering, or a related field) Are graduating within one year of your start date Winter 2027: You must be graduating between January 2026-December 2026 Spring/Summer 2027: You must be graduating between May 2026-April 2027 Fall 2027: You must be graduating between September 2026-August 2027 Have a strong interest in how organizations govern cyber risk, protect their business, and enable secure digital transformation Actively keep up with emerging trends in areas such as cyber risk management, cloud technologies, AI, data protection, privacy, cybersecurity threats, regulatory change, and security frameworks Enjoy working in teams, facilitating workshops and discussions, and co-creating practical solutions with others Display initiative, creativity, enjoy problem solving and are looking to make an impact Can demonstrate strong proficiency in MS Office Suite (Word, PowerPoint, Excel, Visio, Project) and interested in using dashboards (e.g. Power BI, Tableau) and tools to turn cyber and risk data into clear and executive-ready insights Are eager to learn on the job and are interested in pursuing relevant certifications (e.g., CISSP, CISM, PMP, CPA) Are legally eligible to work in Canada and able to enter the USA to work on client assignments Curiosity - You are eager to learn, ask thoughtful questions, and are always connecting the dots Analytical Thinking - You can dissect problems to uncover insights with strong attention to detail Teamwork - You work collaboratively with others to deliver on team goals and client outcomes Adaptability - You are comfortable with ambiguity and can pivot with rapidly evolving demands Leadership - You proactively anticipate needs an",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 32,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Deloitte",
+      "role": "Tech & Transformation - EAI&D- Op, Industry & Domain Sol - New Grad 2027- Multiple Locations",
+      "category": "Other",
+      "location": "Winnipeg, MB, Canada",
+      "salary": "$65K/yr - $122K/yr",
+      "salary_max_annual": 122000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-01",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a96950969b865490a632c34",
+      "jd_excerpt": "Tech & Transformation - EAI&D- Op, Industry & Domain Sol - New Grad 2027- Multiple Locations @ Deloitte | Jobright.ai SIGN IN JOIN NOW Tech & Transformation - EAI&D- Op, Industry & Domain Sol - New Grad 2027- Multiple Locations jobs in United States Overview Company Apply on Employer Site APPLY NOW Deloitte · 2 hours ago Tech & Transformation - EAI&D- Op, Industry & Domain Sol - New Grad 2027- Multiple Locations Winnipeg, MB +6 more Full-time Hybrid New Grad $65K/yr - $122K/yr 0+ years exp Deloitte is a Canadian professional services firm that combines strategy, technology, analytics, and operations expertise to help organizations transform and achieve pragmatic outcomes. The New Graduate Consultant will conduct research, synthesize results, prepare client workshops and presentations, analyze and visualize data, design products and digital assets, innovate tools and methodologies, and support strategic firm initiatives across industries and competencies. Accounting Consulting Finance Legal Professional Services Property & Casualty Insurance Financial Services Innovation Management Risk Management Growth Opportunities Responsibilities Conducting research, synthesizing results, preparing client workshops and presentations, analyzing and visualizing data, designing new products and digital assets, innovating tools and methodologies, and supporting strategic firm initiatives Advise banking, payments, and investment management clients on business and technology transformations that drive growth, operational efficiency, and digital innovation Partner with insurance clients to design and implement business, technology, and operating model transformations that enhance customer experience and enable long-term growth Support public and private healthcare organizations in addressing complex operational and strategic challenges through transformation initiatives that improve service delivery and organizational performance Help government and public sector organizations deliver large-scale transformation programs that improve public services, operational effectiveness, and citizen outcomes Work with retail clients to develop and execute strategies that enhance customer experience, optimize operations, and drive growth in an evolving marketplace Lead and support complex business and technology transformation programs across various industries, such as Financial Services, Insurance, Government and Public Services, Defence, and Consumer Demonstrate curiosity and a growth mindset, continuously learning and connecting ideas across business, operational, and technology domains Apply strong analytical and problem-solving skills to evaluate business challenges and develop practical recommendations Collaborate effectively across teams and stakeholders, building strong relationships and contributing to successful outcomes Thrive in dynamic environments, balancing multiple priorities while adapting to evolving client needs Take initiative and ownership, proactively identifying opportunities and delivering high-quality work Communicate complex ideas clearly and concisely through presentations, discussions, and written materials Demonstrate leadership potential through academic, extracurricular, professional, or community experiences Have a passion for helping organizations transform their business through operational, strategic, and technology-enabled solutions Qualification Curiosity Growth Mindset Analytical Skills Problem-Solving Collaboration Relationship Building Adaptability Initiative Ownership Communication Leadership Potential Passion for Transformation Required • Demonstrate curiosity and a growth mindset, continuously learning and connecting ideas across business, operational, and technology domains • Apply strong analytical and problem-solving skills to evaluate business challenges and develop practical recommendations • Collaborate effectively across teams and stakeholders, building strong relationships and contributing to successful outcomes • Thrive in dynamic environments, balancing multiple priorities while adapting to evolving client needs • Take initiative and ownership, proactively identifying opportunities and delivering high-quality work • Communicate complex ideas clearly and concisely through presentations, discussions, and written materials • Demonstrate leadership potential through academic, extracurricular, professional, or community experiences • Have a passion for helping organizations transform their business through operational, strategic, and technology-enabled solutions • Are completing an undergraduate or post-graduate degree program and graduating by September 2027 • Are legally eligible to work in Canada and able to enter the USA to work on client assignments •We require basic English language skills to meet the needs of our clients. In the context of mandates, you could work for clients with activities outside of Quebec and where the first language is English • Employees in the Ottawa Consulting",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 33,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -787,7 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 34,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -812,7 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -837,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 36,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; new-grad: confirmed; $200k+ stated ceiling",
@@ -862,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 37,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -887,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 38,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -912,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 39,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -937,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 40,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
@@ -962,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 41,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -987,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 42,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1012,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 43,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1037,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 44,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1062,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 45,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1087,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1112,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 47,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1137,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 48,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1162,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1187,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 50,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1212,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 51,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1237,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 52,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1262,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 53,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1287,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1312,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1337,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 56,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1362,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1387,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1412,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1437,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1462,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 61,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed",
@@ -1487,7 +1562,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 62,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1512,7 +1587,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1537,7 +1612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1562,7 +1637,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1587,7 +1662,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1687,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1662,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1687,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1712,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 71,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1737,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 72,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
