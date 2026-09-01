@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-08-31** · Open roles: **1421**
+> Last automated update: **2026-09-01** · Open roles: **1421**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -31,15 +31,16 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-08-30 | **Amazon** | [Software Development Engineer - Reporting Data Platform](https://www.amazon.jobs/jobs/10519658/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-08-28 | **Apple** | [Software Engineer - Early Career (Front-end)](https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
-| 2026-08-28 | **Apple** | [Software Engineer - Early Career (Front-end)](https://jobs.apple.com/en-us/details/200680752-0836/software-engineer-early-career-front-end?team=SFTWR) | Not listed | Cupertino | ❔ | ✅ Confirmed | — |
 | 2026-08-28 | **Amazon** | [Software Engineer I - Memberships](https://www.amazon.jobs/jobs/10515912/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
+| 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
 | 2026-08-26 | **Meta** | [Research Scientist -Meta Recommendation System Core modeling](https://www.metacareers.com/jobs/1737658657562156) | Not listed | Bellevue, Australia +1 | ❔ | ❔ Review | — |
 | 2026-08-25 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8d370b581f2d7bfdfe6e44) | $147K/yr - $210K/yr | San Bruno, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-25 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8d37002f736c304f2a8fef) | $147K/yr - $210K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **NVIDIA** | [NVIDIA 2027 New College Graduate: Software Engineering - China](https://vostego.com/jobs/nvidia-nvidia-2027-new-college-graduate-software-engineer-361686f1) | Not listed | United States | ❔ | ❔ Review | — |
+| 2026-08-20 | **NVIDIA** | [[NVIDIA 2027 Internships: Ph.D. Resear...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AIJR2023475)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | PhD only |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
 
 ### AI Infra / Systems
