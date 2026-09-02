@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01",
+  "updated_at": "2026-09-02",
   "reviewer": "ChatGPT semantic JD review",
-  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-09-01 review. Deduplication is by exact requisition: company-level confirmations never suppress other named roles. Cached snippets, generic careers shells, closed redirects and third-party mirrors remain discovery-only.",
+  "verification_policy": "Apply Now contains only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-09-02 review. Deduplication is by exact requisition: company-level confirmations never suppress other named roles. Cached snippets, generic careers shells, closed redirects and third-party mirrors remain discovery-only.",
   "candidate_focus": [
     "ML Systems / LLM Infrastructure",
     "Distributed / Systems",
@@ -9,56 +9,16 @@
     "Applied LLM / Agents",
     "Selective Quant"
   ],
-  "summary": "Akuna advanced the exact Python entry-level application to HackerRank Assessment 2; Waymo confirmed the exact Foundation Model Infrastructure application. SpaceXAI's generic confirmation is context-linked to RL Inference but remains formally uncertain, and a fourth generic OpenAI confirmation still requires portal reconciliation. Seven exact-live Apply Now roles remain, led by IMC Performance and NVIDIA China 2027 Software Engineering. New high-value unlabeled stretches include Google DeepMind Frontier AI, OpenAI Compute Infrastructure and OpenAI RL Training Infrastructure.",
+  "summary": "CTC Associate Engineer and Google DeepMind Frontier AI are now exact Applied; DeepMind also has a confirmed Googler referral. Cerebras scheduling follow-up was sent, while DRW still has no Gmail completion evidence after the conservative OA target. Six exact-live Apply Now roles remain. A newly surfaced OpenAI GPT Infrastructure role is the strongest current frontier stretch because its official JD directly combines distributed inference, vLLM, collective communication, automated configuration search, profiling and evaluation.",
   "changes_today": [
-    {
-      "type": "email_reconciliation",
-      "reason": "Both connected Gmail accounts were reconciled through 2026-09-01. Akuna advanced the exact Python entry-level application to Assessment 2; Waymo confirmed the exact Foundation Model Infrastructure application. SpaceXAI and OpenAI confirmations did not name exact roles."
-    },
-    {
-      "type": "process_priority",
-      "company": "DRW",
-      "role": "Exact requisition unresolved",
-      "reason": "No completion confirmation was found. The 115-minute, three-question proctored Codility remains due by the conservative deadline of 2026-09-01 6:36 PM CDT; Python is allowed and correctness should take priority over forcing C++."
-    },
-    {
-      "type": "assessment_update",
-      "company": "Akuna Capital",
-      "role": "Software Engineer (Entry-Level) - Python",
-      "reason": "Assessment 2 arrived 2026-08-31. It must be completed in Python within 30 days, allows 180 minutes once opened, prohibits AI/outside sources, and may feed into UIUC on-campus finals on 2026-10-02."
-    },
-    {
-      "type": "application_reconciliation",
-      "company": "Waymo",
-      "role": "ML Engineer, Foundation Model Infrastructure",
-      "reason": "Exact-role confirmation received 2026-08-31; removed from the actionable stretch section without suppressing other Waymo requisitions."
-    },
-    {
-      "type": "application_reconciliation",
-      "company": "SpaceXAI (xAI)",
-      "role": "Member of Technical Staff - RL Inference",
-      "reason": "Generic SpaceXAI confirmation followed the user's RL Inference application-field work. Stored as likely/context-supported and removed from actionable recommendations, while preserving exact-requisition uncertainty."
-    },
-    {
-      "type": "application_reconciliation",
-      "company": "OpenAI",
-      "role": "Exact requisition unresolved - confirmation 2026-08-31 #4",
-      "reason": "A fourth generic OpenAI confirmation was received. It does not identify the requisition and therefore does not suppress any named OpenAI role."
-    },
-    {
-      "type": "recommendation_added",
-      "company": "NVIDIA",
-      "role": "2027 New College Graduate: Software Engineering - China (JR2024111)",
-      "reason": "Official Workday requisition is active, explicitly targets 2027 BS/MS/PhD graduates in China, and covers cloud storage, distributed systems, developer tools, Linux, Python/C++/CUDA, schedulers, containers and ML software."
-    },
-    {
-      "type": "frontier_ai_audit",
-      "reason": "Official-career sweeps covered OpenAI, Anthropic, SpaceXAI/xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. Google DeepMind Frontier AI, OpenAI Compute Infrastructure and OpenAI RL Training Infra are live, non-senior titles with no numeric minimum-year veto and unusually strong fit. Closest Anthropic performance roles still demand deep production GPU experience; current Databricks inference openings are staff/senior with 5-8+ years; Amazon AGI matches continue to carry 3+ non-internship-year or higher requirements."
-    },
-    {
-      "type": "source_audit",
-      "reason": "GitHub discovery rechecked zapplyjobs, vanshb03, aprameyak, DereC4 and ApplyGuy. ApplyGuy is fresh (91 active roles, ATS-verified dates, 15-minute refresh, machine-readable JSON) and is already integrated in config/sources.yml; no redundant adapter or noise-only source change was needed."
-    }
+    "Gmail exact-role reconciliation: CTC Associate Engineer - 2027 Start moved to Applied on 2026-09-02 and was removed from Apply Now.",
+    "Gmail exact-role reconciliation: Google DeepMind Research Engineer, Frontier AI, Incubation moved to Applied; a Googler referral email names the exact role.",
+    "Cerebras Kernel Engineer - New Grad remains Interview; Yuhan sent a scheduling follow-up to recruiter Winnie Ai on 2026-09-02.",
+    "DRW remains OA because no closure email was found, but no submission confirmation was found after the conservative 2026-09-01 target; dashboard check is now urgent.",
+    "New frontier stretch: OpenAI Software Engineer, GPT Infrastructure is live with $293K-$385K + equity and no numeric minimum-years requirement.",
+    "All six retained Apply Now exact employer/ATS URLs were rechecked live on 2026-09-02; CTC was also live but removed solely because exact application evidence now exists.",
+    "Mandatory frontier sweep covered OpenAI, Anthropic, xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. Anthropic's close systems roles remain experience-heavy; OpenAI Model Inference has a 5-year hard veto.",
+    "GitHub discovery rechecked Simplify, vanshb03, zapplyjobs, speedyapply, ApplyGuy and the new workopia feed. Speedyapply is already integrated. Workopia updates daily but shows extreme daily churn and mixed internship/new-grad coverage, so it was not integrated without a quality/deduplication audit."
   ],
   "recommendations": [
     {
@@ -99,24 +59,6 @@
     },
     {
       "rank": 3,
-      "category": "APPLY FIRST · EXACT 2027 · DISTRIBUTED SYSTEMS",
-      "company": "Chicago Trading Company (CTC)",
-      "role": "Associate Engineer - 2027 Start",
-      "location": "Chicago, IL or limited New York placement (hybrid)",
-      "salary": "$200,000 base + discretionary bonus",
-      "fit": "Strong systems/algorithms/quant-SWE fit",
-      "reason": "Distributed real-time infrastructure plus Python, algorithms and multithreading fit Yuhan's systems research, NOI background, Linux work and production internship.",
-      "new_grad": "Exact eligibility: graduating December 2026-June 2027.",
-      "sponsorship": "No explicit no-sponsorship, citizenship, or clearance restriction found on the exact official page.",
-      "urgency": "APPLY AFTER NVIDIA",
-      "caveat": "Less direct MLSys overlap than a dedicated ML-infrastructure role; interviews emphasize systems, concurrency and algorithms.",
-      "application_limit": "One application per position; Chicago and New York are the same job, so apply only once.",
-      "live_verified_at": "2026-09-01",
-      "official_live_evidence": "Exact Greenhouse page displayed the job, graduation window, $200,000 base and complete application form.",
-      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"
-    },
-    {
-      "rank": 4,
       "category": "APPLY SOON · EXACT 2027 · CHINA DISTRIBUTED BACKEND",
       "company": "Amazon China",
       "role": "Software Development Engineer, Early Career - 2027, Device - Shenzhen",
@@ -134,7 +76,7 @@
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "category": "APPLY · EXACT 2027 · SPONSORSHIP CONFIRMED",
       "company": "Belvedere Trading",
       "role": "Software Engineer - Entry Level 2027",
@@ -152,7 +94,7 @@
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "category": "SECONDARY · EXACT 2027 · PYTHON ACCEPTED",
       "company": "DV Trading",
       "role": "2027 Graduate Software Engineer (DV Commodities)",
@@ -170,7 +112,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "category": "SELECTIVE STRETCH · EXACT 2027 · AUTONOMOUS DRIVING",
       "company": "WeRide",
       "role": "New Grads 2027 - Software Engineer, Algorithm",
@@ -191,18 +133,18 @@
   "high_value_stretch": [
     {
       "rank": 1,
-      "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
-      "company": "Google DeepMind",
-      "role": "Research Engineer, Frontier AI, Incubation",
-      "location": "Mountain View, CA",
-      "salary": "$174,000-$252,000 + 15% bonus target + equity",
-      "fit": "Exceptional research-to-production ML/agent systems overlap",
-      "reason": "The exact role asks for Python or C++, ML, algorithms, distributed software systems, foundation-model optimization, agentic workflows, training/serving infrastructure and end-to-end deployment. AutoScout, Agentless, TikTok MCP/agents and vLLM give direct evidence on nearly every axis.",
-      "eligibility": "Bachelor's or equivalent plus relevant project experience; the official posting has no numeric professional-experience minimum and is not senior-labeled.",
+      "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER · NEWLY SURFACED",
+      "company": "OpenAI",
+      "role": "Software Engineer, GPT Infrastructure",
+      "location": "San Francisco, CA or Seattle, WA",
+      "salary": "$293,000-$385,000 + equity",
+      "fit": "Exceptional automated ML-systems optimization and inference-platform overlap",
+      "reason": "The exact JD unifies distributed model execution, profiling and benchmarking, vLLM/SGLang, collective communication, parallelism, automated configuration/search, evaluation harnesses, orchestration and Linux infrastructure. AutoScout, vLLM cold-start work, NeuronaBox/NCCL and TikTok production systems provide unusually direct evidence.",
+      "eligibility": "The official posting is not campus-labeled, has a non-senior title, no numeric professional-experience minimum and an active Apply link.",
       "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact official page.",
-      "caveat": "The role expects research-to-production ownership and foundation-model recipe depth; Yuhan is plausible but this is highly selective. The prior generic Google Early Career confirmation does not identify this requisition.",
-      "live_verified_at": "2026-09-01",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/132538578914681542-research-engineer/"
+      "caveat": "Extremely selective and asks for strong production platform ownership; compiler/kernel depth is preferred but not required. Generic OpenAI confirmations do not identify requisitions, so verify the OpenAI portal before applying.",
+      "live_verified_at": "2026-09-02",
+      "url": "https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/"
     },
     {
       "rank": 2,
