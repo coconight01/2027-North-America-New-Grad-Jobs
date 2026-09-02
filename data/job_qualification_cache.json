@@ -12036,8 +12036,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a701c15f5953013637f72e3": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -12047,7 +12047,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
@@ -19599,18 +19599,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97655be4e60e4b8da5de15": {
-    "ng_confidence": "Confirmed",
-    "ng_evidence": "title says Engineer I",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$78K/yr - $125K/yr",
+    "salary_min_annual": 78000,
+    "salary_max_annual": 125000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
