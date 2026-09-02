@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-09-02",
-  "source_note": "Reconciled from both connected Gmail accounts, explicit user/context evidence, and prior tracker evidence. Exact employer/role confirmations are authoritative; generic company confirmations remain requisition-unresolved and never suppress other named roles.",
+  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-02. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
       "company": "AXQ Capital",
@@ -462,10 +462,10 @@
       "role": "Kernel Engineer - New Grad",
       "status": "Interview",
       "applied_date": "2026-08-25",
-      "status_date": "2026-08-27",
+      "status_date": "2026-09-02",
       "confidence": "Exact",
-      "evidence": "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute technical interview using Microsoft Teams and HackerRank, and Yuhan submitted availability.",
-      "next_action": "Availability submitted; wait for the finalized interview time. Recruiter also asked about Winter 2027 internship availability, but the tracked full-time requisition remains separate."
+      "evidence": "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute technical interview using Microsoft Teams and HackerRank, and Yuhan submitted availability. Yuhan sent a concise scheduling follow-up to recruiter Winnie Ai on 2026-09-02.",
+      "next_action": "Follow-up sent 2026-09-02; wait for the finalized interview time. Keep the recruiter-raised Winter 2027 internship discussion separate from the full-time requisition."
     },
     {
       "company": "DRW",
@@ -475,7 +475,7 @@
       "status_date": "2026-08-29",
       "confidence": "Company-only",
       "evidence": "Official DRW confirmation proves an application, and a 2026-08-29 Codility invitation advances that application to a 115-minute, three-question proctored programming challenge. Neither visible email names the exact requisition.",
-      "next_action": "Complete the DRW Codility by 2026-09-01 6:36 PM CDT if possible. Python is allowed; DRW notes at least one C++ answer may broaden team matching, but do not force C++ if it reduces correctness."
+      "next_action": "The conservative 2026-09-01 6:36 PM CDT target has passed and Gmail contains no completion confirmation. Check the Codility dashboard immediately; complete it if the link remains open. Preserve OA status until DRW or Codility explicitly closes the assessment."
     },
     {
       "company": "Google",
@@ -566,6 +566,26 @@
       "confidence": "Company-only",
       "evidence": "OpenAI application confirmation received at 12:28 PM CDT on 2026-08-31; the generic confirmation does not name the role.",
       "next_action": "Reconcile the four generic Aug 29/Aug 31 confirmations against the OpenAI application portal; do not use company-level evidence to suppress any named requisition."
+    },
+    {
+      "company": "Chicago Trading Company (CTC)",
+      "role": "Associate Engineer - 2027 Start",
+      "status": "Applied",
+      "applied_date": "2026-09-02",
+      "status_date": "2026-09-02",
+      "confidence": "Exact",
+      "evidence": "Official CTC confirmation received 2026-09-02 names the exact Associate Engineer - 2027 Start role and says the application was received for rolling review.",
+      "next_action": "Wait for review; remove this exact requisition from Apply Now. Chicago and New York are one requisition and must not be duplicated."
+    },
+    {
+      "company": "Google DeepMind",
+      "role": "Research Engineer, Frontier AI, Incubation",
+      "status": "Applied",
+      "applied_date": "2026-09-02",
+      "status_date": "2026-09-02",
+      "confidence": "Exact",
+      "evidence": "Google's application confirmation was followed by a 2026-09-02 message from Googler Rohan M Mehtre explicitly stating that Yuhan applied to Research Engineer, Frontier AI, Incubation, DeepMind - Mountain View and had recently been referred.",
+      "next_action": "Wait for recruiter review and keep the Googler referrer updated if the process advances. Remove only this exact requisition from recommendations."
     }
   ]
 }
