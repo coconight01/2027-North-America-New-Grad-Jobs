@@ -151,6 +151,22 @@
     "checked_at": "2026-09-01",
     "parser_version": 4
   },
+  "http://kaizenanalytix.applytojob.com/apply/0Lkt3mpdKK/Data-Scientist": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "http://mandsc.applytojob.com/apply/bQOBIRNOGY/Developer-I-Salesforce-Integration-Tier-2-Security-Clearance": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry Level",
@@ -1382,6 +1398,22 @@
   "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-USA/AI-Engineer---HW-Development_JR102615": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-Level",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -2705,6 +2737,22 @@
     "checked_at": "2026-08-24",
     "parser_version": 4
   },
+  "https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$145,000.00 - $200,000.00",
+    "salary_min_annual": 145000,
+    "salary_max_annual": 200000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142-1": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -2975,6 +3023,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-31",
+    "parser_version": 4
+  },
+  "https://caa.wd1.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Jr-Data-Scientist_JR9171": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://caa.wd1.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Junior-Data-Scientist_JR9151": {
@@ -3454,6 +3518,22 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://careers-cotiviti.icims.com/jobs/20232/data-scientist-i---ai-ml/job": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
@@ -4257,6 +4337,22 @@
     "checked_at": "2026-08-27",
     "parser_version": 4
   },
+  "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I---ERP-Training-Developer_JR221931": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -4516,6 +4612,38 @@
   "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quantitative-Developer--Associate---FX_R10839": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quantitative-Developer-I_R12045": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Seattle/Software-Development-Engineer-I_R12047": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -5839,7 +5967,39 @@
     "checked_at": "2026-08-29",
     "parser_version": 4
   },
+  "https://gunvor.wd3.myworkdayjobs.com/en-US/gunvor_careers/job/Houston/Graduate-Program---Quantitative-Analysis_JR102791-1": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://harbourvest.wd5.myworkdayjobs.com/en-US/hvp/job/Boston/Junior-Quantitative-Investment-Engineer_R2464": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Remote---Idaho/Associate-AI-Assisted-Software-Developer_R0046480-2": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
@@ -6077,6 +6237,22 @@
     "reject_reason": "non-entry title/level: Software Engineer II",
     "source_fetched": false,
     "checked_at": "2026-08-09",
+    "parser_version": 4
+  },
+  "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Software Engineer II",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Software Engineer II",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst-Supply-Chain_Req187880": {
@@ -8016,6 +8192,22 @@
     "salary": "$155,000\u2013$180,000",
     "salary_min_annual": "155000",
     "salary_max_annual": "180000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/pagerduty/jobs/6162484004": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "1+ years of experience in",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$98,000\u2013$148,500",
+    "salary_min_annual": "98000",
+    "salary_max_annual": "148500",
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-02",
@@ -15131,7 +15323,7 @@
     "salary_max_annual": 121000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-12",
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7b8d7decfd297707539f0a": {
@@ -19710,6 +19902,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a97ffb95ed1b8370dc1a759": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "$146K/yr - $151K/yr",
+    "salary_min_annual": 146000,
+    "salary_max_annual": 151000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -22044,6 +22252,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -22698,6 +22922,22 @@
     "reject_reason": "non-entry title/level: Software Engineer II",
     "source_fetched": true,
     "checked_at": "2026-08-09",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804": {
@@ -23874,6 +24114,22 @@
     "checked_at": "2026-08-31",
     "parser_version": 4
   },
+  "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://jobs.lever.co/worldscape-technology/53fd0503-de34-4991-aa18-729da709c04e": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -24110,6 +24366,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-26",
+    "parser_version": 4
+  },
+  "https://jobs.smartrecruiters.com/SyncreonConsulting/744000146776292-pl-sql-developer-e-u-experience-?oga=true": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://jobs.smartrecruiters.com/WesternDigital/744000138727213": {
@@ -26410,6 +26682,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -26571,6 +26859,22 @@
     "parser_version": 4
   },
   "https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Carrollton-TX/Automation-Developer-I_R2521185": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
@@ -26749,6 +27053,22 @@
   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Obsolescence-Engineer---Product-Support_R10248913": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -27674,6 +27994,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/NYC-441/Data-Analyst--Tax---Cost-Basis-_JR105122": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://pfizer.wd1.myworkdayjobs.com/en-US/pfizercareers/job/United-States---New-York---New-York-City/Manager--AI-Solutions-Expert-Agent-Developer_4960669": {
     "ng_confidence": "Not NG",
     "ng_evidence": "non-entry title/level: Manager",
@@ -27917,6 +28253,22 @@
   "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Licensing-Specialist_JR112391": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Remote-USA/Cloud-Services-Ops--Associate-Engineer_JR112675-1": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -29642,6 +29994,22 @@
     "checked_at": "2026-08-31",
     "parser_version": 4
   },
+  "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Accelerated-Development-Program---Supply-Chain_JR-7609-1": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
   "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Knoxville-Tennessee/XMLNAME-2027-Construction-Project-Management-Intern_JR-9972-1": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -29976,6 +30344,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-27",
+    "parser_version": 4
+  },
+  "https://uscareers-pepsico.icims.com/jobs/468396/swe-%26-app-arch-engineer/job": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134": {
@@ -32002,6 +32386,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-30",
+    "parser_version": 4
+  },
+  "https://www.amazon.jobs/jobs/10524274/apply": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
     "parser_version": 4
   },
   "https://www.billtrust.com/careers/job-openings?gh_jid=7790504003": {
@@ -34830,6 +35230,22 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "Yes",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://www.oldmissioncapital.com/careers?gh_jid=7982061003": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
     "salary": "Not listed",
     "salary_min_annual": "",
     "salary_max_annual": "",
