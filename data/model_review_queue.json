@@ -27,12 +27,12 @@
       "fill": 0
     },
     "priority_company_candidates": 157,
-    "new_job_candidates": 105,
+    "new_job_candidates": 106,
     "high_potential_title_candidates": 188
   },
   "veto_counts": {
     "non-full-time program title": 3,
-    "explicit 2026-only title": 6
+    "explicit 2026-only title": 5
   },
   "exact_tracked_jobs_removed": 9,
   "candidates": [
@@ -1238,6 +1238,31 @@
     },
     {
       "machine_rank": 49,
+      "machine_score": 69,
+      "machine_tier": "Consider",
+      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
+      "company_priority": "Quant",
+      "company": "IMC Trading",
+      "role": "Graduate Machine Learning Researcher - Chicago",
+      "category": "Quantitative Finance",
+      "location": "Chicago, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Machine Learning",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-21",
+      "source": "Greenhouse:imc",
+      "official_source": true,
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+      "jd_excerpt": "Job Application for Graduate Machine Learning Researcher - Chicago at IMC Back to jobs Graduate Machine Learning Researcher - Chicago Chicago, United States Apply As a Graduate Machine Learning Researcher at IMC, your work will directly impact our global trading strategies. You will apply advanced machine learning, statistical, and computational techniques to solve complex, real-world trading problems, contributing to trading strategies across global equities, futures, and options markets. Machine Learning Researchers work closely with Traders and Developers in an environment where problem solving, innovation and teamwork are recognized and rewarded. Your Core Responsibilities: Design, implement, and evaluate machine learning models for trading applications, with successful research deployed into production Apply rigorous statistical techniques to measure performance, control overfitting, and understand model risk and interpretability Investigate novel machine learning approaches through rigorous experimentation and analysis in real trading environments Communicate research progress and outcomes effectively, ensuring knowledge transfer within the team and across departments Collaborate closely with traders, researchers, and engineers to translate research into production trading systems Your Skills and Experience: PhD in Machine Learning, Computer Science, Electrical Engineering, Mathematics, Statistics, Physics or a related quantitative field Strong foundations in machine learning, probability, and statistics, with experience applying advanced ML techniques to solve challenging research or real-world problems Demonstrated hands-on research experience in deep learning fundamentals such as neural network architectures, sequence modeling, training dynamics, or optimization Proficiency in Python and modern machine learning frameworks such as PyTorch, Tensorflow, and/or JAX Demonstrated research excellence through publications, preprints, research internships, or significant research projects; publications at venues such as NeurIPS, ICML, ICLR, or equivalent conferences are highly preferred Ability to commence full-time employment in February or August 2027 You may submit one application per role each year.  We strongly encourage you to focus on applying to a single role that best matches your skills and interests.  Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2027. The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information. Base Salary: $300,000 About Us IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective, combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another When did you graduate from High School? * Select... Select your Standardized Test score type: * Select... Provide your best result on SAT: * Select... Provide your best result on ACT: * Select... When is your anticipated graduation date - please select a Graduation Date range: * Select... What is your GPA? * Select... Will you require immigration sponsorship to begin working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Will you require immigration sponsorship in the future to continue working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Is there any other context you’d like to share about your U.S. Immigration sponsorship needs? Have you applied to this role or another role @IMC wit",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 50,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1262,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1287,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1312,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 53,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1332,31 +1357,6 @@
       "official_source": false,
       "url": "https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa",
       "jd_excerpt": "Jobs You need to enable JavaScript to run this app.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 53,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
-      "company_priority": "Quant",
-      "company": "IMC Trading",
-      "role": "Graduate Machine Learning Researcher - Chicago",
-      "category": "Quantitative Finance",
-      "location": "Chicago, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Machine Learning",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-21",
-      "source": "Greenhouse:imc",
-      "official_source": true,
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
-      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
