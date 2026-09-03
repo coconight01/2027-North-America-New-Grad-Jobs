@@ -1969,6 +1969,22 @@
     "checked_at": "2026-08-27",
     "parser_version": 4
   },
+  "https://bebee.com/us/jobs/infrastructure-delivery-engineer-graduate-server-delivery-2027-start-technology-infrastru-pangle-san--pureheal-28528_25298_0074608fe20d4f9b7005b13de2a448a9": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://bebee.com/us/jobs/machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-san-jose-tiktok-n--pureheal-28528_25199_6094fa3192919276f525a35c643d7519-2085617665": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -1998,7 +2014,7 @@
     "salary_max_annual": 387600,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-19",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://bebee.com/us/jobs/new-grad-2027-cybersecurity-lpl-financial-charlotte--ss-us-1vj3tqp": {
@@ -2046,7 +2062,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-26",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://becu.wd1.myworkdayjobs.com/en-US/external/job/Remote-WA/Associate-Software-Developer_R-13619": {
@@ -20271,18 +20287,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9919fa83fc63335763319d": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$70K/yr - $86K/yr",
+    "salary_min_annual": 70000,
+    "salary_max_annual": 86000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-09-03",
     "parser_version": 4
   },
@@ -30119,7 +30135,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-25",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://tallo.com/talent/job/healthcare/veterinarian/2027-new-grad-veterinarian-w-293d05e1": {
@@ -35330,12 +35346,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$293,000.00\u2013$325,000.00",
-    "salary_min_annual": "293000",
-    "salary_max_annual": "325000",
+    "salary": "$207,000.00\u2013$365,000.00",
+    "salary_min_annual": "207000",
+    "salary_max_annual": "365000",
     "reject_reason": "requires 3+ years professional/work experience",
     "source_fetched": true,
-    "checked_at": "2026-08-26",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tech-and-product-usds-2027-start-phd-at-tiktok-usds-joint-venture-4446630170": {
@@ -35587,7 +35603,7 @@
     "salary_max_annual": "124513",
     "reject_reason": "",
     "source_fetched": false,
-    "checked_at": "2026-08-24",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://www.oldmissioncapital.com/careers?gh_jid=7796031003": {
@@ -36082,6 +36098,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-28",
+    "parser_version": 4
+  },
+  "https://www.welcometothejungle.com/en/companies/applied-intuition/jobs/software-engineer-new-grad-december-2026_sunnyvale_5ferztn2": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$123K to 158K",
+    "salary_min_annual": 123000,
+    "salary_max_annual": 158000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://www.wellsfargojobs.com/fr/jobs/r-568575/2027-investment-banking-associate-program-ca-early-careers": {
