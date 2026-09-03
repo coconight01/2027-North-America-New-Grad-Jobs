@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02",
+  "updated_at": "2026-09-03",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,8 +27,8 @@
       "fill": 0
     },
     "priority_company_candidates": 157,
-    "new_job_candidates": 129,
-    "high_potential_title_candidates": 187
+    "new_job_candidates": 105,
+    "high_potential_title_candidates": 188
   },
   "veto_counts": {
     "non-full-time program title": 3,
@@ -738,6 +738,31 @@
     },
     {
       "machine_rank": 29,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Networking; downrank: security specialization; new-grad: likely",
+      "company_priority": "",
+      "company": "American Express",
+      "role": "Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
+      "category": "Other",
+      "location": "New York, NY, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a988d2fdef18223c855019b",
+      "jd_excerpt": "Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY @ American Express | Jobright.ai SIGN IN JOIN NOW Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY jobs in United States Overview Company Apply on Employer Site APPLY NOW American Express · 5 hours ago Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY New York, NY Full-time Hybrid New Grad $78K/yr - $125K/yr American Express is a financial services company focused on delivering trusted products, services, and technology solutions for customers and colleagues. The Cybersecurity Analyst will join the Enterprise Technology Services full-time graduate program and support cybersecurity operations, risk reduction, security monitoring, identity and access management, application security, cloud security, and AI-enabled cybersecurity workflows. The role involves collaborating with cybersecurity, engineering, product, operations, risk, and business teams to protect information systems, customer data, and digital assets. Banking Finance Financial Services Comp. & Benefits No H1B Responsibilities Supports in monitoring security systems and events using a variety of tools, alerts, and logs to identify potential threats and vulnerabilities, ensuring timely detection and prevention of security or operational issues Triages and investigates security or operational issues to determine root causes, impacts, and potential mitigation strategies, helping to prevent future incidents and minimize damage Support secure network, endpoint, identity, access management, application security, and cloud security activities under guidance from experienced engineers Assist with security documentation, assessment findings, remediation tracking, reporting, and control implementation activities that support compliance and security posture improvements Collaborate with software development and product teams to help integrate security into the software development lifecycle and support secure coding practices Research emerging cyber threats, security technologies, AI-enabled security risks, and control approaches to support team knowledge and decision-making Use AI-enabled cybersecurity tools to support threat detection, alert triage, analysis, documentation, and investigation activities while validating outputs before escalation or implementation Support security control implementation and monitoring approaches for cloud-based, AI-enabled, or enterprise technology services Apply structured prompt design techniques when using AI agent-enabled security tools, including clear context, objectives, constraints, and security requirements Collaborate across cybersecurity, engineering, product, risk, operations, and business teams to strengthen secure technology delivery and enterprise risk reduction Qualification Cybersecurity Identity and Access Management (IAM) Network Security Cloud Security Security Monitoring and Threat Detection Vulnerability Management Incident Response Endpoint Protection Secure Software Development DevSecOps Python Bash Required * Must have earned a Bachelor's degree in Cybersecurity, Computer Science, Information Systems, Computer Engineering, Engineering, or another technical field before the full-time start date * Foundational understanding of cybersecurity, information security, application security, network security, cloud security, or technology risk concepts * Foundational knowledge of network protocols, security fundamentals, identity and access management, data privacy, data protection, or secure software development concepts * Interest in scripting or automation using languages such as Python, Bash, PowerShell, or similar technologies * Strong communication, collaboration, analytical thinking, discretion, attention to detail, and learning agility with the ability to work effectively in a team environment Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions Preferred * Students must have a graduation date between December 2026 and June 2027 * Coursework, projects, internships, labs, competitions, research, or extracurricular experience in cybersecurity, information security, artificial intelligence, machine learning, software development, cloud, data, networking, or technology risk * Awareness of security standards, regulatory compliance, data privacy, data protection, security governance, and risk management concepts * Familiarity with security monitoring, threat detection, vulnerability management, incident response, endpoint protection, network security, or identity and access management concepts * Exposure to security tools, platforms, or operational processes used to investigate alerts, analyze threats, document findings, or support remediation activities * Interest",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 30,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -762,7 +787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 31,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -787,7 +812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 32,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -812,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -837,7 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 34,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -862,7 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 35,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
@@ -887,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 36,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -912,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 37,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -937,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 38,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -962,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 39,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -987,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 40,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1012,7 +1037,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 41,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1037,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 42,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1062,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 43,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1087,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 44,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1112,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1137,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1162,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 47,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1187,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 48,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1212,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 49,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1237,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 50,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1262,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1287,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1312,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 53,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1337,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 54,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1362,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 55,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1387,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1412,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1437,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 58,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1462,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 59,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1487,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 60,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1512,7 +1537,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1537,7 +1562,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1562,7 +1587,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1587,7 +1612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1637,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1662,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 67,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1687,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 68,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1712,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 69,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
