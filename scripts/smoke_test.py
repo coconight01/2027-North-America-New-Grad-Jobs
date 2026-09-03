@@ -167,6 +167,28 @@ def test_jd_excerpt_stays_with_job_after_sort() -> str:
     return "JD excerpts remain URL-associated after row sorting"
 
 
+def test_github_markdown_link_title_cleanup() -> str:
+    import update_jobs
+
+    class Response:
+        text = "| **Sierra** | [Software Engineer, Agent (New Grad 2027)](https://jobs.example.com/agent) | San Francisco, CA | Sep 1 |"
+
+        @staticmethod
+        def raise_for_status() -> None:
+            return None
+
+    original_get = update_jobs.requests.get
+    update_jobs.requests.get = lambda *args, **kwargs: Response()
+    try:
+        rows = update_jobs.github_readme({"repo": "example/jobs", "path": "README.md"})
+    finally:
+        update_jobs.requests.get = original_get
+    assert len(rows) == 1, rows
+    assert rows[0]["role"] == "Software Engineer, Agent (New Grad 2027)", rows[0]
+    assert rows[0]["url"] == "https://jobs.example.com/agent", rows[0]
+    return "GitHub Markdown-linked titles normalize without leaking URL syntax"
+
+
 def test_priority_company_detail_recall() -> str:
     from profile_ranker import load_profile
     from smart_rank_jobs import company_priority, select_detail_indexes
@@ -202,6 +224,7 @@ def main() -> None:
         ("title_noise_and_vetoes", test_title_noise_and_vetoes),
         ("application_dedupe", test_application_dedupe),
         ("jd_excerpt_association", test_jd_excerpt_stays_with_job_after_sort),
+        ("github_markdown_title_cleanup", test_github_markdown_link_title_cleanup),
         ("priority_company_detail_recall", test_priority_company_detail_recall),
     ]
     report = {"overall": "success", "tests": {}}
