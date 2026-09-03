@@ -490,12 +490,22 @@
     {
       "company": "WeRide",
       "role": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-      "status": "Applied",
+      "status": "Interview",
       "applied_date": "2026-08-28",
-      "status_date": "2026-08-28",
+      "status_date": "2026-09-03",
+      "confidence": "Likely / context-supported",
+      "evidence": "Yuhan's sent email identifies the exact Perception/Computer Vision application. WeRide then invited her to a 15-20 minute non-technical recruiter phone call and confirmed it for 2026-09-14, but the scheduling emails omit the requisition title; therefore the stage mapping is likely rather than exact.",
+      "next_action": "Prepare a concise recruiter-screen narrative for the 2026-09-14 3:20-3:35 PM CDT call. Keep distinct from the still-unapplied Software Engineer, Algorithm requisition."
+    },
+    {
+      "company": "Allstate",
+      "role": "Applied Machine Learning Engineer (All Levels) (R27180)",
+      "status": "Rejected",
+      "applied_date": null,
+      "status_date": "2026-09-03",
       "confidence": "Exact",
-      "evidence": "Yuhan's sent email states she submitted the exact Perception/Computer Vision profile, and the recruiter replied that the hiring team will review it.",
-      "next_action": "Wait for hiring-team review; keep distinct from the still-unapplied Software Engineer, Algorithm requisition."
+      "evidence": "Allstate's official status email names the exact Applied Machine Learning Engineer (All Levels) role and requisition R27180 and states that the application will not move forward.",
+      "next_action": "Closed for this exact requisition; do not infer outcomes for other Allstate roles."
     },
     {
       "company": "Nextdoor",
