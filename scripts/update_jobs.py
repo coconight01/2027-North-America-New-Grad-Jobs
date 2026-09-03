@@ -158,7 +158,8 @@ def github_readme(c):
         links=md.findall(line)
         if not links:continue
         company=re.sub(r"[*_`]","",cells[0]).replace("↳","").strip();previous_company=company or previous_company;company=company or previous_company
-        role=re.sub(r"[*_`]","",cells[1]).strip();loc=clean(cells[2]);url=next((u for _,u in reversed(links) if "github.com/" not in u and "simplify.jobs/p/" not in u),"")
+        role_cell=md.sub(lambda m:m.group(1),cells[1])
+        role=re.sub(r"[*_`]","",role_cell).strip();loc=clean(cells[2]);url=next((u for _,u in reversed(links) if "github.com/" not in u and "simplify.jobs/p/" not in u),"")
         if company and role and url:out.append(apply_source_icons(job(company,role,loc,url,f"GitHub:{c['repo']}:{path}"),line))
     return out
 FETCH={"greenhouse":fetch_greenhouse,"lever":fetch_lever,"ashby":fetch_ashby,"smartrecruiters":fetch_smart,"github_discovery":github_readme}
