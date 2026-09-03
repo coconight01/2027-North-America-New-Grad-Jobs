@@ -26,8 +26,8 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 158,
-    "new_job_candidates": 112,
+    "priority_company_candidates": 159,
+    "new_job_candidates": 120,
     "high_potential_title_candidates": 192
   },
   "veto_counts": {
@@ -288,6 +288,31 @@
     },
     {
       "machine_rank": 11,
+      "machine_score": 87,
+      "machine_tier": "Top",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Linux; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10526808/apply",
+      "jd_excerpt": "Software Dev Engineer I, Graviton Software, Annapurna Labs - Job ID: 10526808 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ Software Dev Engineer I, Graviton Software, Annapurna Labs Job ID: 10526808 | Annapurna Labs (U.S.) Inc. Apply now Description The AWS Graviton Software team is seeking Software Engineers to optimize performance for AWS Graviton. Graviton delivers the best price/performance in AWS data centers. For the past 3 years, Graviton has powered the majority of new EC2 capacity and is used by over 98% of our largest customers. You'll drive performance optimization across open source projects, internal services, and customer applications, working on everything from Linux kernel development to C++/Rust debugging to assembly-level optimization. Our team optimizes a diverse range of applications including databases, web services, games, video encoding, ML, and HPC workloads. This doesn’t mean you have or will have all those skills, but you’ll have a chance to learn from those who do. This is a unique opportunity to impact how software runs in AWS, while growing your technical breadth and depth. Key job responsibilities Performance Optimization & Analysis Enhance architectures and algorithms for optimal performance Use tools like ABench, Aperf, sysstat, sysctl, perf to identify bottlenecks Monitor and analyze processor, OS, and workload metrics Optimize software performance for AWS customers and AWS services (such as S3, Lambda, EMR, ElastiCache, RDS ..etc) Open Source Development Contribute to Linux kernel improvements Contribute to various other open source projects Develop analysis frameworks and automation systems Tool(s) Development Enhance ABench (our internal benchmarking tool) Create new performance analysis features Build and maintain automation solutions Basic Qualifications - Are 18 years of age or older - Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design - Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles Preferred Qualifications - Bachelor's degree in computer science or equivalent - Work 40 hours/week, and overtime as required - Experience with distributed, multi-tiered systems, algorithms, and relational databases - Experience from previous technical internship(s) or demonstrated project experience Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits . Austin, TX, USA - 129,000.00 USD Annually Job details USA, TX, Austin Software Development Share this job Important FAQs for current Government employees Before proceeding, please review the following FAQs https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees JOIN US ON DOWNLOAD OUR APP Find Careers Job Categories Teams Locations Military careers Hourly Working At Amazon Culture Benefits Amazon Newsletter Inclusive experiences Leadership Principles Help FAQ How We Hire Application status Accommodations Legal disclosures and notices Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Privacy and Data Impressum © 1996-2026, Amazon.com, Inc. or its affiliates",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 12,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -312,7 +337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 13,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -337,7 +362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 14,
       "machine_score": 84,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -362,7 +387,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 15,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -387,7 +412,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 16,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -407,31 +432,6 @@
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085",
       "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Engineering Software Engineer (Entry-Level) - C++ Chicago About Akuna Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data-driven solutions, and automation. We specialize in providing liquidity on a variety of exchanges across various asset classes, primarily as an options market maker. To do this successfully, we build and maintain our own low-latency technologies, including application frameworks, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney, Australia. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices around the world: Sydney, Shanghai, Singapore, and London. What You’ll Do as an Entry-Level C++ Software Engineer at Akuna C++ software engineers at Akuna have the opportunity to work on a variety of high-performance systems that power the firm’s core business operations. Our engineers work on small-to-medium-sized teams that frequently interface with Quant and Trading, allowing them to build expertise in a specific domain area while maintaining broader exposure to the needs of their end-users. Akuna’s C++ systems are heavily multithreaded, asynchronous, and distributed by nature, which comes with a slew of challenges; our engineers are tasked with ensuring these systems are reliable, efficient, scalable, and flexible enough for even the most niche use cases. Entry-level engineers in particular are responsible for day-to-day upkeep of core systems, servicing lower-risk feature requests, and executing individual projects on behalf of their team’s stakeholders. Akuna is looking for software engineers who are motivated, can solve complex problems, and are willing to reach for creative solutions when faced with novel problems. We value innovation, hard work, and knowledge, and we want our engineers to make a direct impact on the firm. Whether you are interested in algorithms and data structures, concurrency, networking and protocols, performance tuning, data capture and analysis, mathematical modeling, hardware, or something else, there’s engaging work to be done. Requirements for This Role Pursuing a bachelor’s, master’s, or Ph.D. in a technical field (computer science/engineering, math, physics, or equivalent) Graduating by August 2027 Legal authorization to work in the U.S. as of the first day of employment, including F-1 students using OPT or STEM Previous experience in finance or trading is not required. Many of our engineers joined Akuna with little-to-no prior knowledge of the markets, and we pride ourselves on our ability to onboard those new to the industry. Training and continuous education are provided for all engineers to ensure they can build the requisite technical and non-technical skillset for success. Qualities That Make a Great C++ Software Engineer Candidate Experience programming in modern C++ (C++20 or later; C++23 preferred) Experience with several of the following Distributed systems Parallel processing Asynchronous architectures Networking or protocol encoding/decoding Lock-free data structures and algorithms Performance profiling (e.g. perf, gprof, vtune) Scripting, such as in Python or shell Familiarity with standard debugging tools (e.g. GDB, Valgrind, address sanitizer) The ability to effectively communicate with non-technical stakeholders in Quant and Trading to obtain requirements, workshop solutions, and implement agreed-upon roadmaps The ability to react quickly and effectively to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems, is an essential function of the role A passion for building complex systems from the ground up The ability to collaborate with other developers of different backgrounds, specialties, and knowledge levels to collectively deliver cohesive solutions to non-trivial problems An intrinsically motivated attitude and the ability to work independently A strong sense of ownership, including a drive to fix bugs when they inevitably arise In addition to the above technical skills, Akuna values diversity of experience and perspective. We believe that engineers with varied backgrounds and interests allow us to approach problems from uni",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 16,
-      "machine_score": 80,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: production LLM agents / tools; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
-      "company_priority": "",
-      "company": "PagerDuty",
-      "role": "Site Reliability Engineer I",
-      "category": "Infrastructure / Systems",
-      "location": "Atlanta, GA",
-      "salary": "$98,000–$148,500",
-      "salary_max_annual": "148500",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-02",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6162484004",
-      "jd_excerpt": "Job Application for Site Reliability Engineer I at PagerDuty Back to jobs New Site Reliability Engineer I Atlanta Apply PagerDuty (NYSE:PD) is a leader in Digital Operations Management. In an always-on world, organizations of all sizes trust PagerDuty to help them deliver a perfect digital experience to their customers, every time. Teams use PagerDuty to identify issues and opportunities in real time and bring together the right people to fix problems faster and prevent them in the future. Over 13,000 organizations (including 60 of Fortune 100) rely on PagerDuty to succeed with Digital Transformation, Cloud Migration, and DevOps Modernization. Notable customers include GE, Cisco, Genentech, Electronic Arts, Cox Automotive, Netflix, Shopify, Zoom, DoorDash, Lululemon and more. We are expanding rapidly as a platform for Digital Operations Management using AI/ML and Automation and growing our adoption by Development, IT, Customer Service, Security, and other teams across the organization. As a Site Reliability Engineer I on the Core Infrastructure team in our Atlanta office, you'll help build and operate the foundational infrastructure that powers PagerDuty's real-time digital operations platform. Our systems support millions of events and alerts daily, enabling customers to detect, respond to, and resolve incidents quickly and reliably. You'll work at the intersection of platform evolution and operational excellence, building and evolving foundational network, compute, and ingress infrastructure while scaling and hardening existing systems. Your work will directly impact the reliability, scalability, and security of the services our customers rely on to keep their businesses running as PagerDuty continues to grow across products, regions, and customer use cases. Key Responsibilities ● Support and improve foundational infrastructure, including networking, compute platforms, Kubernetes clusters, and ingress/traffic management systems. ● Contribute to the reliability and scalability of PagerDuty's core platform by hardening existing systems and supporting the rollout of new infrastructure capabilities. ● Participate in agile rituals (standups, planning, retros) and communicate progress/risks early ● You stay current on technical trends to suggest innovative tools and approaches to interesting problems ● Monitor system health using metrics, logs, and alerts, and participate in 24/7 on-call rotations to help detect, respond to, and resolve incidents. Basic Qualifications ● 0 to 1+ years of experience in Site Reliability Engineering, DevOps, or Platform Engineering roles ● Hands-on experience operating Linux-based systems in production environments ● Working knowledge of networking fundamentals, such as load balancing, DNS, TLS, and ingress traffic flow ● Experience with container orchestration (e.g., EKS, Kubernetes) ● Experience working on cloud-native infrastructure (e.g., AWS, GCP, Azure), including networking and compute concepts ● Proficiency in at least one programming language (e.g., Python, Ruby, Go, etc.) ● Experience with Infrastructure as Code (e.g., Terraform, CloudFormation) Preferred Qualifications ● Experience with AWS cloud networking concepts such as VPCs, subnets, routing, security groups, and load balancers ● Experience operating or contributing to production Kubernetes platforms (e.g., EKS), including cluster upgrades, networking, or ingress configuration ● Experience with monitoring, observability, and logging platforms (e.g., DataDog, New Relic, SumoLogic, Splunk, Prometheus, Grafana) ● Familiarity with service meshes, ingress controllers, or API gateways (e.g., Envoy, Istio, NGINX) Salary Range: $98,000 to $148,500 Hesitant to apply? We encourage you to submit your resume even if you don't meet every requirement. We value potential and consider each candidate's full professional story. Whether you're exploring a career change or taking your next step, we look forward to reviewing your application. If this just isn’t the right role or time - sign up for job alerts ! Where we work PagerDuty operates a hybrid work model with offices in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we cannot employ candidates residing in: Location restrictions: Australia: Northern Territory, Queensland, South Australia, Tasmania, Western Australia Canada: Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, Yukon United States: Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming Candidates must reside in an eligible location, which vary by role. How we work Our values guide how we support customers, collaborate with colleagues, develop products, and foster a culture of belonging. They define not just our actions, but what it means to be Dutonian. People Leaders at PagerDuty are responsible f",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -763,31 +763,6 @@
     },
     {
       "machine_rank": 30,
-      "machine_score": 69,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Activision",
-      "role": "Activision 2027 Summer Internshps - Game Engineering (Vancouver)",
-      "category": "Other",
-      "location": "Vancouver, BC, Canada",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-02",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a978c33b22f636c8141816e",
-      "jd_excerpt": "Activision 2027 Summer Internshps - Game Engineering (Vancouver) @ Activision | Jobright.ai SIGN IN JOIN NOW Activision 2027 Summer Internshps - Game Engineering (Vancouver) jobs in United States Overview Company Apply on Employer Site APPLY NOW Activision · 2 hours ago Activision 2027 Summer Internshps - Game Engineering (Vancouver) Vancouver, BC Full-time Onsite New Grad CA$39K/yr - CA$82K/yr Activision develops interactive entertainment and gaming experiences, including globally recognized game franchises. The Gameplay Engineering Intern will work within the core engine and gameplay team, writing production C++ code, debugging and optimizing game systems, and contributing to player-facing features across PC and console platforms. The role also involves collaboration with designers, animators, and senior engineers to maintain strong technical architecture. Gaming Media and Entertainment Publishing PC Games Video Games Responsibilities As a Gameplay Engineering Intern, you will be fully embedded into our core engine and gameplay team rather than working on isolated side projects. You will do the same hands-on, high-impact work as full-time engineers—writing production code, debugging complex systems, and optimizing mechanics across PC and console platforms Within this role, you will help write clean, efficient C++ code to implement core, player-facing features like movement physics, weapon mechanics, camera controls, AI behaviors, and hit detection. You'll profile and optimize game code to maintain high framerate stability and low latency while troubleshooting complex crashes, multithreading issues, and memory leaks in a large-scale codebase. You'll also collaborate closely with designers and animators to expose low-level framework parameters, participate in code reviews with senior engineers, and maintain architectural integrity across the entire development team Qualification C++ Data Structures Algorithms Memory Management Multithreading Linear Algebra Vector Mathematics 3D Transformations C++ Game Engine Development Physics Solvers Low-Level Systems Programming Multiplayer Networking Required • Currently enrolled in a post-secondary or graduate program and graduating December 2027 – June 2028 • Available to participate in a 12-week internship starting mid-May 2027 • Currently residing in Canada or open to relocating themselves to Canada • Exhibits learning agility; has the ability to think differently, and/or grasp and apply new skills and concepts • Approaches problems in a clear, well-organized, and solutions-oriented manner • Works well with others and contributes to team tasks • Able to effectively communicate problems, solutions, needs, or priorities • Is engaged, seeks to learn, and is able to manage time effectively • A passion for significantly impacting game development • Applicants must apply with a resume and code samples • Programming Languages: Strong fluency in C++ Computer Science Fundamentals: Deep - based on data structures, algorithms, memory management, and multithreading • 3D Mathematics: Solid knowledge of linear algebra, vector math, matrices, and 3D transformations • Low-Level Engine Systems: Demonstrated experience with custom C++ engine components, memory allocation, physics solvers, or low-level systems programming • Systems & Network Awareness: Familiarity with multiplayer concepts such as client-side prediction, interpolation, spatial partitioning, or network latency management • Exposure to FPS game genre and can speak to it Benefits Extended health plan, including medical, dental, vision, life and AD&D insurance, for employees and their dependents, as well as disability insurance, subject to eligibility requirements. RRSP with Company match, tuition reimbursement, and charitable donation matching, subject to eligibility requirements. Paid holidays and vacation, paid sick time, compassion and bereavement leaves, and parental leave, subject to eligibility requirements. Mental health and wellbeing programs, fitness programs, free and discounted games, and supplemental life and critical illness insurance, legal services, and other benefit programs, subject to eligibility requirements. Canada interns are eligible for domestic relocation support if they live 150km+ away from the internship location. If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance. Employees in this role may be eligible for incentive compensation; incentive compensation is not guaranteed. Eligibility to participate in these benefits may vary for part time and temporary full-time employees and interns with the Company. Company Activision Glassdoor 3.7 Developer, publisher and distributor of console, mobile and PC games. Founded in 1979 Santa Monica, California, USA 5001-10000 employees https://www.activision.com/ Funding Current Stage Late Stage Leadership Team Natalya Tatarchuk Chief Technology Officer Recent News WebWire Play the Cal",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 31,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -806,6 +781,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 31,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
+      "company_priority": "",
+      "company": "PagerDuty",
+      "role": "Site Reliability Engineer I",
+      "category": "Infrastructure / Systems",
+      "location": "Atlanta, GA",
+      "salary": "$98,000–$148,500",
+      "salary_max_annual": "148500",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-02",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6162484004",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1513,31 +1513,6 @@
     },
     {
       "machine_rank": 60,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10464040/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1562,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1587,7 +1562,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1587,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1612,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1662,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1687,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1712,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1737,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1762,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 69,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1787,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

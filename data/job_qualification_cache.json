@@ -263,6 +263,22 @@
     "checked_at": "2026-09-01",
     "parser_version": 4
   },
+  "http://omegahires.applytojob.com/apply/Oj9Hboc7Zk/Java-Springboot-Python-AI-FS-Developer": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "http://omegahires.applytojob.com/apply/PSXzRqoWN9/AI-Agents-GCP": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry Level",
@@ -833,6 +849,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-27",
+    "parser_version": 4
+  },
+  "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$206k/yr",
+    "salary_min_annual": "206000",
+    "salary_max_annual": "206000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://apply.workable.com/315/j/CAC111C86E": {
@@ -2321,6 +2353,22 @@
     "checked_at": "2026-09-01",
     "parser_version": 4
   },
+  "https://blackstone.wd1.myworkdayjobs.com/en-US/blackstone_careers/job/New-York/AI-Engineer--Associate---Data-Analytics---AI_45237-1": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://blackstone.wd1.myworkdayjobs.com/en-US/blackstone_careers/job/New-York/Data-Analyst--Associate---Private-Equity-and-Real-Estate-Technology_43594-1": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -2769,6 +2817,54 @@
     "checked_at": "2026-08-09",
     "parser_version": 4
   },
+  "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$145,000.00 - $200,000.00",
+    "salary_min_annual": 145000,
+    "salary_max_annual": 200000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$155,000.00 - $210,000.00",
+    "salary_min_annual": 155000,
+    "salary_max_annual": 210000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$145,000.00 - $200,000.00",
+    "salary_min_annual": 145000,
+    "salary_max_annual": 200000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -2782,7 +2878,55 @@
     "salary_max_annual": 200000,
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-08-24",
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$160,000.00 - $210,000.00",
+    "salary_min_annual": 160000,
+    "salary_max_annual": 210000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$155,000.00 - $210,000.00",
+    "salary_min_annual": 155000,
+    "salary_max_annual": 210000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "Active Security Clearance",
+    "phd_required": "No",
+    "salary": "$145,000.00 - $200,000.00",
+    "salary_min_annual": 145000,
+    "salary_max_annual": 200000,
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002": {
@@ -6351,6 +6495,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/TEXAS---VIRTUAL---TX01/Software-Engineer-II--REMOTE-_Req191434": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Software Engineer II",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Software Engineer II",
+    "source_fetched": false,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -6429,6 +6589,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-08-28",
+    "parser_version": 4
+  },
+  "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Washington-DC---1800-M-Street-NW/Digital-Consulting-Associate--Salesforce-Omni-Developer_JR-0015844": {
@@ -20398,6 +20574,38 @@
     "checked_at": "2026-09-03",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a995874138838706058d786": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$85K/yr - $85K/yr",
+    "salary_min_annual": 85000,
+    "salary_max_annual": 85000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9980cc138838706058e24c": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New College Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$76K/yr - $80K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 80000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -20988,6 +21196,22 @@
     "checked_at": "2026-09-03",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$130K/yr - $158K/yr",
+    "salary_min_annual": "130000",
+    "salary_max_annual": "158000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -21066,6 +21290,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5": {
@@ -21898,6 +22138,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70": {
@@ -23228,6 +23484,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/simple-ai/652b88c5-199e-41d1-86f6-c367d737a84e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/smartleaf/b3cbac93-9e7d-422c-afc2-03850324ea86": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -23386,6 +23658,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012": {
@@ -32994,6 +33282,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://www.amazon.jobs/jobs/10526808/apply": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://www.billtrust.com/careers/job-openings?gh_jid=7790504003": {
