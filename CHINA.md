@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-03** · Open roles: **130**
+> Last automated update: **2026-09-03** · Open roles: **131**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -12,6 +12,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Mid-train 算法工程师（数据方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/8e12af98-b080-450d-895b-4c4c07fa9a8c) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Mid-train 算法研究员/工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0a177100-4e42-4732-bdff-a8519c2be998) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Pre-train data 算法研究员/工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/72bf3a23-5d45-4f38-9ade-fa43e7579ecb) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
+| 2026-09-03 | **StepFun (阶跃星辰)** | [多模态大模型算法工程师/研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/ca082688-517d-41e4-a79b-e138d1c3c378) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-08-28 | **DeepSeek / High-Flyer** | [研发基础设施工程师](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/a63f2346-b672-4c48-af43-0a64bfe97a41) | Software Engineering | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time | Review eligibility |
 | 2026-08-25 | **StepFun (阶跃星辰)** | [安全平台开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/bd0f17a4-b21d-48ed-93f7-5152b64cd946) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-08-24 | **StepFun (阶跃星辰)** | [语音大模型开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/3ef6231f-614c-4fff-8feb-b8aa96701d94) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |

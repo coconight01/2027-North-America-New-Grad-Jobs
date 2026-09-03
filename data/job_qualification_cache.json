@@ -4158,7 +4158,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": false,
-    "checked_at": "2026-08-17",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://careers.upstart.com/jobs?gh_jid=7293116": {
@@ -7171,6 +7171,38 @@
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-08-25",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says entry-level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$200,000\u2013$200,000",
+    "salary_min_annual": "200000",
+    "salary_max_annual": "200000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$200,000\u2013$200,000",
+    "salary_min_annual": "200000",
+    "salary_max_annual": "200000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://job-boards.greenhouse.io/clear/jobs/7901600": {
@@ -20334,6 +20366,38 @@
     "checked_at": "2026-09-03",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a99456a8a8b765bc55f249f": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$75K/yr - $88K/yr",
+    "salary_min_annual": 75000,
+    "salary_max_annual": 88000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a994df2f6de551aa0aaf3a3": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$22/hr - $23/hr",
+    "salary_min_annual": 45760,
+    "salary_max_annual": 47840,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -20828,6 +20892,22 @@
     "checked_at": "2026-08-31",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -20890,6 +20970,38 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-31",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
@@ -22458,6 +22570,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-30",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850": {
@@ -27386,6 +27514,22 @@
     "checked_at": "2026-08-27",
     "parser_version": 4
   },
+  "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Associate-Systems-Engineer-Systems-Engineer---Redondo-Beach-CA_R10249105": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-03",
+    "parser_version": 4
+  },
   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -28103,7 +28247,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": false,
-    "checked_at": "2026-08-19",
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833": {
@@ -31144,6 +31288,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://www.akunacapital.com/careers/job/7986086?gh_jid=7986086": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says entry-level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-03",
     "parser_version": 4
   },
   "https://www.akunacapital.com/careers/job/7993921?gh_jid=7993921": {
