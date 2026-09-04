@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-09-04",
-  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-02. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
+  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-04. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
       "company": "AXQ Capital",
@@ -462,10 +462,10 @@
       "role": "Kernel Engineer - New Grad",
       "status": "Interview",
       "applied_date": "2026-08-25",
-      "status_date": "2026-08-27",
+      "status_date": "2026-09-03",
       "confidence": "Exact",
-      "evidence": "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute technical interview using Microsoft Teams and HackerRank, and Yuhan submitted availability.",
-      "next_action": "Availability submitted; wait for the finalized interview time. Recruiter also asked about Winter 2027 internship availability, but the tracked full-time requisition remains separate."
+      "evidence": "Official Cerebras application confirmation names the exact role; on 2026-08-27 the recruiter invited Yuhan to a 45-minute Microsoft Teams/HackerRank interview. On 2026-09-03 the recruiter said the Winter internship cannot accommodate part-time work, confirmed that a June 2027 full-time start can be considered, and said she would discuss next steps with the hiring manager. Yuhan confirmed June 2027 availability.",
+      "next_action": "Wait for the recruiter's hiring-manager follow-up. The Winter 2027 internship path is not feasible because the team requires full-time availability; keep the exact Kernel Engineer - New Grad process active."
     },
     {
       "company": "DRW",
@@ -596,6 +596,36 @@
       "confidence": "Exact",
       "evidence": "Google's application confirmation was followed by a 2026-09-02 message from Google recruiting support explicitly stating that Yuhan applied to Research Engineer, Frontier AI, Incubation, DeepMind - Mountain View, that a Googler had recently referred her, and that her resume was being shared with the supporting recruiter for further review.",
       "next_action": "Wait for recruiter review. The email says the team will contact Yuhan directly if interested and that no response within eight weeks likely means the role proceeded with other candidates. Remove only this exact requisition from recommendations."
+    },
+    {
+      "company": "Sierra",
+      "role": "Software Engineer, Agent (New Grad 2027)",
+      "status": "Applied",
+      "applied_date": "2026-09-03",
+      "status_date": "2026-09-03",
+      "confidence": "Exact",
+      "evidence": "Official Sierra confirmation received 2026-09-03 names the exact Software Engineer, Agent (New Grad 2027) role and confirms the application was received.",
+      "next_action": "Wait for review; remove only exact Ashby requisition 149f368c-52d5-408f-ba26-ad888f318a00 from Apply Now."
+    },
+    {
+      "company": "IMC Trading",
+      "role": "Graduate Performance Engineer",
+      "status": "Applied",
+      "applied_date": "2026-09-03",
+      "status_date": "2026-09-03",
+      "confidence": "Exact",
+      "evidence": "Official IMC confirmation received 2026-09-03 names the exact Graduate Performance Engineer role and confirms the application was submitted.",
+      "next_action": "Wait for review; keep this requisition separate from the Graduate Software Engineer process and its completed OA."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China (JR2024107)",
+      "status": "Applied",
+      "applied_date": "2026-09-03",
+      "status_date": "2026-09-03",
+      "confidence": "Exact",
+      "evidence": "Official NVIDIA Workday confirmation received 2026-09-03 names requisition JR2024107 and the exact 2027 Deep Learning and High-Performance Computing Engineering - China role.",
+      "next_action": "Wait for team matching/review; do not suppress the separate broad Software Engineering pool JR2024111 or other NVIDIA requisitions."
     }
   ]
 }
