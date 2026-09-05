@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04",
+  "updated_at": "2026-09-05",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,8 +27,8 @@
       "fill": 0
     },
     "priority_company_candidates": 172,
-    "new_job_candidates": 159,
-    "high_potential_title_candidates": 198
+    "new_job_candidates": 146,
+    "high_potential_title_candidates": 199
   },
   "veto_counts": {
     "explicit 2026-only title": 7,
@@ -138,31 +138,6 @@
     },
     {
       "machine_rank": 5,
-      "machine_score": 95,
-      "machine_tier": "Top",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "Google",
-      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "Mountain View, CA",
-      "salary": "$175,000.00–$210,000.00",
-      "salary_max_annual": "210000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-08-25",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": false,
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
-      "jd_excerpt": "Google hiring Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Mountain View, CA | LinkedIn Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Phoenix, AZ Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 1 week ago Be among the first 25 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project crit",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Linux, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -187,7 +162,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -210,6 +185,31 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 7,
+      "machine_score": 95,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "category": "AI / Machine Learning",
+      "location": "Mountain View, CA",
+      "salary": "$175,000.00–$210,000.00",
+      "salary_max_annual": "210000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-08-25",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": false,
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
+      "jd_excerpt": "Google hiring Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Mountain View, CA | LinkedIn Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Phoenix, AZ Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 1 week ago Be among the first 25 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project crit",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 8,
@@ -1013,31 +1013,6 @@
     },
     {
       "machine_rank": 40,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "Weekday",
-      "role": "Machine Learning Engineer - Model Evaluation & Experimentation",
-      "category": "AI / Machine Learning",
-      "location": "USA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-05",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://apply.workable.com/weekday-1/j/BF32A485B8",
-      "jd_excerpt": "Machine Learning Engineer - Model Evaluation & Experimentation - Weekday AI",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1062,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1087,7 +1062,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1112,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1137,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1162,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1187,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1212,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1237,32 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Point72",
-      "role": "[Summer 2027 Quantitative Research Int...](https://boards.greenhouse.io/point72/jobs/7297642002?ghjid=7297642002)",
-      "category": "Quantitative Finance",
-      "location": "New York",
-      "salary": "$240,000–$300,000",
-      "salary_max_annual": "300000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-05",
-      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
-      "official_source": false,
-      "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 50,
+      "machine_rank": 48,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1287,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 49,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1312,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 50,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1337,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1362,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1387,7 +1337,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 53,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
+      "company_priority": "",
+      "company": "Weekday",
+      "role": "Machine Learning Engineer - Model Evaluation & Experimentation",
+      "category": "AI / Machine Learning",
+      "location": "USA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-05",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://apply.workable.com/weekday-1/j/BF32A485B8",
+      "jd_excerpt": "Machine Learning Engineer - Model Evaluation & Experimentation - Weekday AI",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1412,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 55,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1437,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1462,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1487,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1512,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 59,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1537,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 60,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1562,7 +1537,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1587,7 +1562,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1587,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1662,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1687,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1712,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1737,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1756,6 +1731,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 69,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Point72",
+      "role": "[Summer 2027 Quantitative Research Int...](https://boards.greenhouse.io/point72/jobs/7297642002?ghjid=7297642002)",
+      "category": "Quantitative Finance",
+      "location": "New York",
+      "salary": "$240,000–$300,000",
+      "salary_max_annual": "300000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-05",
+      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
+      "official_source": false,
+      "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
