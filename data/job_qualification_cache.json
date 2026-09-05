@@ -12486,7 +12486,7 @@
     "salary_max_annual": 82000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-08-25",
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a643e778d53603449605ecb": {
@@ -12824,7 +12824,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-31",
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a": {
@@ -17676,6 +17676,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-08-23",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a7f795ce2030208f276e6d6": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$80K/yr - $120K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 120000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd": {
@@ -22825,6 +22841,22 @@
     "salary": "$84K/yr - $84K/yr",
     "salary_min_annual": 84000,
     "salary_max_annual": 84000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9c363ea7ba386c5d66e15f": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$125K/yr - $125K/yr",
+    "salary_min_annual": 125000,
+    "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-09-05",
