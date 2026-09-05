@@ -9729,6 +9729,22 @@
     "checked_at": "2026-09-04",
     "parser_version": 4
   },
+  "https://job-boards.greenhouse.io/schonfeld/jobs/8172064": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$100,000\u2013$115,000",
+    "salary_min_annual": "100000",
+    "salary_max_annual": "115000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
   "https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -16751,8 +16767,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7c2fd47c52154b59f59764": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -16762,7 +16778,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-05",
     "parser_version": 4
   },
@@ -16843,7 +16859,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-04",
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7cb71877d5f033c4b902cf": {
@@ -17307,7 +17323,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-08-22",
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2": {
@@ -22014,6 +22030,22 @@
     "checked_at": "2026-09-04",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a9a11f6040e5c3d0759a9a3": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$76K/yr - $114K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 114000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a9a482bfe45b8490f6034af": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -22512,17 +22544,17 @@
   },
   "https://jobright.ai/jobs/info/6a9b607090a313642c659dec": {
     "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$73K/yr - $120K/yr",
+    "salary_min_annual": 73000,
+    "salary_max_annual": 120000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-09-05",
     "parser_version": 4
   },
@@ -22554,6 +22586,54 @@
     "salary_min_annual": 70000,
     "salary_max_annual": 90000,
     "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9bc413c1d6f91bc38835f8": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "senior-level title: Architect",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$108K/yr - $178K/yr",
+    "salary_min_annual": 108000,
+    "salary_max_annual": 178000,
+    "reject_reason": "senior-level title: Architect",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9bd6312c964816f65e8871": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$84K/yr - $84K/yr",
+    "salary_min_annual": 84000,
+    "salary_max_annual": 84000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-05",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9bd667c1d6f91bc3883705": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$84K/yr - $84K/yr",
+    "salary_min_annual": 84000,
+    "salary_max_annual": 84000,
+    "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-09-05",
     "parser_version": 4
@@ -29928,6 +30008,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-04",
+    "parser_version": 4
+  },
+  "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer_R10249344": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-05",
     "parser_version": 4
   },
   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Obsolescence-Engineer---Product-Support_R10248913": {
