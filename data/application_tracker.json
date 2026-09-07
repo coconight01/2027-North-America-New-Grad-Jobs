@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-09-07",
-  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-06. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
+  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-07. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
       "company": "AXQ Capital",
@@ -646,6 +646,16 @@
       "confidence": "Exact",
       "evidence": "Official Anthropic confirmation received 2026-09-04 explicitly names the Performance Engineer, Inference Systems position; exact requisition 5224564008 is preserved from the official posting.",
       "next_action": "Wait for review; remove only exact requisition 5224564008 from High-Value Stretch."
+    },
+    {
+      "company": "Amazon / Annapurna Labs",
+      "role": "EFA Network Software Engineer I (10481932)",
+      "status": "Applied",
+      "applied_date": "2026-09-06",
+      "status_date": "2026-09-06",
+      "confidence": "Exact",
+      "evidence": "Two official Amazon messages received 2026-09-06 explicitly name EFA Network Software Engineer I, Annapurna Labs and Job ID 10481932, confirming the application was received.",
+      "next_action": "Wait for review; remove only exact Amazon requisition 10481932 from recommendations."
     }
   ]
 }
