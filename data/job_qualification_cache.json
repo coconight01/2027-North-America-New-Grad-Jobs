@@ -4513,6 +4513,22 @@
     "checked_at": "2026-09-06",
     "parser_version": 4
   },
+  "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
   "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R240034-1": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -5329,6 +5345,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
   "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000380358": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -5839,6 +5871,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-02",
+    "parser_version": 4
+  },
+  "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "requires 2+ years professional/work experience",
+    "experience_requirement": "2 years of professional software engineering experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$75,000 \u2013 $90,000",
+    "salary_min_annual": 75000,
+    "salary_max_annual": 90000,
+    "reject_reason": "requires 2+ years professional/work experience",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Research-Assistant--Human-AI-Interaction-Design---School-of-Computer-Science---HCII_2025016": {
@@ -11780,11 +11828,11 @@
     "visa_evidence": "",
     "phd_required": "No",
     "salary": "$300K/yr - $300K/yr",
-    "salary_min_annual": "300000",
-    "salary_max_annual": "300000",
+    "salary_min_annual": 300000,
+    "salary_max_annual": 300000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-17",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a5766e3e9b77f668bd67d1a": {
@@ -17612,7 +17660,7 @@
     "salary_max_annual": 175000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-08-22",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e4cb56bea5779c063ab": {
@@ -17660,7 +17708,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-08-22",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e56e51a1e18a240e3b7": {
@@ -17676,7 +17724,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-08-22",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7ed27e179e4f7b7e8d8ae6": {
@@ -18204,7 +18252,7 @@
     "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-18",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a83a5ab9b859b22776701a0": {
@@ -22319,6 +22367,22 @@
     "checked_at": "2026-09-04",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a99dfca8a8b765bc55f6188": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$79K/yr - $88K/yr",
+    "salary_min_annual": 79000,
+    "salary_max_annual": 88000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a99e00f551435518ebf1d47": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -24399,6 +24463,54 @@
     "checked_at": "2026-09-08",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6aa023643b5aa83237b07174": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$68K/yr - $113K/yr",
+    "salary_min_annual": 68000,
+    "salary_max_annual": 113000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa02595ea127c3794695300": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "$98K/yr - $116K/yr",
+    "salary_min_annual": 98000,
+    "salary_max_annual": 116000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa0259f5b2d5633ef3bca46": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$82K/yr - $96K/yr",
+    "salary_min_annual": 82000,
+    "salary_max_annual": 96000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -24954,7 +25066,7 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-08-31",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1": {
@@ -32107,7 +32219,39 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Industrial-Engineer--Industrial-Engineer---Roy-UT_R10249787": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Systems-Engineer---Roy-UT_R10248486-1": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
+  "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Systems-Safety-Engineer---Roy-UT_R10249776-1": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
@@ -35737,6 +35881,38 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-01",
+    "parser_version": 4
+  },
+  "https://wd5.myworkdaysite.com/en-US/recruiting/uw/uwhires/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000128046": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
+  },
+  "https://wd5.myworkdaysite.com/en-US/recruiting/uw/uwhires/job/Seattle-WA/Research-Scientist-Engr-1_REQ-0000131537": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://westlake.wd1.myworkdayjobs.com/en-US/westlake/job/US---Henderson-CO/Front-End-Loader_R32230": {
