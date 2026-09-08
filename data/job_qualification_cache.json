@@ -12933,11 +12933,12 @@
     "visa_evidence": "No H1B",
     "phd_required": "No",
     "salary": "$72K/yr - $109K/yr",
-    "salary_min_annual": "72000",
-    "salary_max_annual": "109000",
+    "salary_min_annual": 72000,
+    "salary_max_annual": 109000,
     "reject_reason": "no sponsorship",
-    "checked_at": "2026-08-03",
-    "parser_version": 3
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
+    "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6b716b5c54bc4752ce8f6c": {
     "ng_confidence": "Uncertain",
@@ -17179,7 +17180,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-07",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7cb71877d5f033c4b902cf": {
@@ -18139,7 +18140,7 @@
     "salary_max_annual": 87000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-08-17",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8375261081a745e970f6bd": {
@@ -20251,7 +20252,7 @@
     "salary_max_annual": 116000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-31",
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8f857fa19886486675dd19": {
@@ -24380,6 +24381,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-09-07",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9f8cfa352f093fc756e995": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$27.19/hr - $29.78/hr",
+    "salary_min_annual": 56555,
+    "salary_max_annual": 61942,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-08",
     "parser_version": 4
   },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
