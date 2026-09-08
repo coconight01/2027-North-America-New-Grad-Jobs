@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-08",
   "reviewer": "ChatGPT semantic JD review",
-  "verification_policy": "Priority and Secondary contain only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-09-07 review. Deduplication is by exact requisition: company-level confirmations never suppress other named roles. Cached snippets, generic careers shells, closed redirects and third-party mirrors remain discovery-only.",
+  "verification_policy": "Priority and Secondary contain only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-09-08 review. Deduplication is by exact requisition: company-level confirmations never suppress other named roles. Cached snippets, generic careers shells, closed redirects and third-party mirrors remain discovery-only.",
   "candidate_focus": [
     "ML Systems / LLM Infrastructure",
     "Distributed / Systems",
@@ -9,17 +9,15 @@
     "Applied LLM / Agents",
     "Selective Quant"
   ],
-  "summary": "Exact Gmail evidence confirms Amazon EFA Network Software Engineer I (10481932) was submitted on September 6, so that requisition is removed. The recommendation view now separates two Priority roles, five Secondary roles, nine high-value frontier stretches, three human-review candidates, and important Hold items. No new role today displaced the strongest existing ML-systems opportunities.",
+  "summary": "Exact Gmail evidence moves AXQ Capital's 2027 Quantitative Developer application to Interview, with scheduling still outstanding. Scale AI's newly posted Software Engineer - New Grad is added as a high-priority application because its agent, evaluation and AI-infrastructure projects match Yuhan's production and research evidence. Two newly surfaced OpenAI performance roles are added as exceptional-fit unlabeled stretches. A DoorDash entry-level row was rejected as stale after its exact URL redirected to the generic careers page.",
   "changes_today": [
-    "Gmail exact-role reconciliation: Amazon confirmed EFA Network Software Engineer I, Annapurna Labs (10481932) on 2026-09-06; the exact requisition was added to the tracker and removed from recommendations.",
-    "A new IBM AI Center of Excellence 2027 role (131165) was audited and hard-vetoed because the posting explicitly says IBM will not provide current or future visa sponsorship.",
-    "Anduril Agentic AI Engineer, Automation (5219383007) had exceptional TikTok agent overlap but was hard-vetoed because Secret-clearance eligibility is required.",
-    "NVIDIA's separate 2027 Software Engineering China pool (JR2024111) remains live and is not suppressed by the already-submitted DL/HPC requisition JR2024107.",
-    "Anthropic Research Engineer/Research Scientist, Pre-training (4616971008) was added as a high-value stretch: advanced degree, Python/PyTorch, large-scale ML and training-infrastructure work are direct matches, but the unlabeled role asks for significant engineering experience.",
-    "All retained Priority, Secondary and Stretch pages were checked on exact official employer/ATS pages on 2026-09-07; active Apply controls remained visible. NVIDIA's dynamic Workday shell was additionally corroborated by the exact official search result and requisition identity.",
-    "Mandatory official sweep covered OpenAI, Anthropic, SpaceXAI/xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI/Annapurna, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. No newly opened role cleared both the experience and work-authorization gates strongly enough to outrank the retained Priority set.",
-    "Public-source sweep rechecked the existing Simplify, vanshb03, SpeedyApply, Zapply, Aprameyak, ApplyGuy, Ricsign and Jobright coverage plus newly surfaced small repositories. Aprameyak and Ricsign are already integrated; the smaller feeds added no unique high-signal coverage, so no duplicate adapter was added.",
-    "The AI-reviewed site now renders Priority, Secondary, Stretch, Review Only and Watch/Hold as separate visible sections instead of silently hiding non-Apply-Now tiers."
+    "Gmail exact-role reconciliation: AXQ Capital's email on 2026-09-08 names the 2027 Quantitative Developer role and confirms advancement to a roughly one-hour video interview. No scheduling confirmation or sent response was found, so the tracker now marks Interview with booking as the immediate next action.",
+    "Scale AI Software Engineer - New Grad (4730836005) was added to Priority after the exact Greenhouse page exposed an active Apply form, Fall 2026/Spring 2027 degree timing, $124,000-$162,000 base range and projects spanning post-training pipelines, eval infrastructure and agentic applications.",
+    "OpenAI Performance Modeling Engineer and Software Engineer, Inference - Performance Optimization were added as exceptional-fit unlabeled stretches; both exact official pages were live with Apply now and no numeric years minimum.",
+    "DoorDash Software Engineer I, Entry-Level (3533012) was rejected as stale: the previously indexed exact URL now redirects to DoorDash's generic job-search page and no longer exposes the requisition or an application control.",
+    "Mandatory official sweep covered OpenAI, Anthropic, SpaceXAI/xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI/Annapurna, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. No other newly surfaced role cleared the experience, freshness and work-authorization gates strongly enough to enter an actionable tier.",
+    "Public-source sweep rechecked Simplify, vanshb03, SpeedyApply, Zapply, Aprameyak, ApplyGuy, Ricsign and Jobright plus current GitHub search results. Newly surfaced repositories were internship-only, hardware-heavy or duplicative, so no low-signal adapter was added.",
+    "All retained actionable exact URLs were rechecked on 2026-09-08; company-level confirmations continue to be treated as requisition-ambiguous."
   ],
   "recommendations": [
     {
@@ -44,6 +42,26 @@
     },
     {
       "rank": 2,
+      "tier": "priority",
+      "fit_score": "4.3/5",
+      "category": "NEW TODAY · EXACT NEW GRAD · AGENTS/EVAL/AI INFRA",
+      "company": "Scale AI",
+      "role": "Software Engineer - New Grad (4730836005)",
+      "location": "San Francisco, CA",
+      "salary": "$124,000-$162,000 base + equity/benefits",
+      "fit": "Excellent production-agent/evaluation fit with credible systems and platform screening evidence",
+      "reason": "The exact posting names RL/post-training data pipelines, model-evaluation infrastructure and observable/testable agentic applications. TikTok's MCP gateway, multi-stage agent workflows and evaluation/debugging systems map directly, while AutoScout and vLLM demonstrate deeper ML-systems measurement and optimization than a typical product-only new grad.",
+      "new_grad": "Exact requirement: Bachelor's degree completed in Fall 2026 or Spring 2027; software-engineering internship and evidence of shipping high-quality products are expected. Yuhan's prior Bachelor's plus May 2027 Master's timing should be disclosed clearly if the form interprets the degree window narrowly.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact posting; sponsorship is not promised.",
+      "urgency": "PRIORITY · NEW OPENING · APPLY SOON",
+      "caveat": "The role is broad product engineering and lists TypeScript/React alongside Python and data systems; target AI infrastructure, eval or agent teams rather than frontend-heavy matching. Degree wording says Bachelor's rather than Master's, so screening interpretation is a small uncertainty.",
+      "application_limit": "Exact requisition 4730836005; official policy requires a 90-day wait before reconsideration for the same role.",
+      "live_verified_at": "2026-09-08",
+      "official_live_evidence": "Exact Scale AI Greenhouse page displayed the named new-grad role, active Apply control, qualifications, projects, compensation and 90-day reconsideration policy.",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
+    },
+    {
+      "rank": 3,
       "tier": "priority",
       "fit_score": "4.0/5",
       "category": "RECENT · EXACT NEW GRAD · GENERAL/INFRA SWE",
@@ -166,6 +184,40 @@
   "high_value_stretch": [
     {
       "rank": 1,
+      "fit_score": "5.0/5 technical · 3.4/5 screening confidence",
+      "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
+      "company": "OpenAI",
+      "role": "Performance Modeling Engineer",
+      "location": "San Francisco, CA or Seattle, WA; San Francisco page states hybrid three days/week",
+      "salary": "$293,000-$385,000 + equity",
+      "fit": "Near-direct AutoScout/NeuronaBox performance-modeling match with unusually plausible qualifications for an unlabeled frontier role",
+      "reason": "The team builds analytical and simulation models for compute, memory, interconnect and distributed-system scaling, validates them against measurements, and turns bottleneck analysis into architectural decisions. AutoScout's multi-fidelity simulation, GPU profiling, configuration search and measured LLM speedups provide concrete evidence across nearly every stated qualification.",
+      "eligibility": "Active non-senior posting with no numeric professional-experience minimum; asks for strong software-engineering or modeling background, systems architecture fundamentals, programming/tool building and quantitative performance reasoning.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
+      "caveat": "Hardware/software co-design and data-center architecture depth are weaker than the distributed-ML modeling evidence. Still one of the most screening-plausible OpenAI stretches in the current pool.",
+      "application_limit": "Check the OpenAI applicant portal before applying; four generic confirmation emails do not identify exact requisitions.",
+      "live_verified_at": "2026-09-08",
+      "url": "https://openai.com/careers/performance-modeling-engineer-san-francisco/"
+    },
+    {
+      "rank": 2,
+      "fit_score": "5.0/5 technical · 2.9/5 screening confidence",
+      "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
+      "company": "OpenAI",
+      "role": "Software Engineer, Inference - Performance Optimization",
+      "location": "San Francisco, CA",
+      "salary": "$266,000-$500,000 + equity",
+      "fit": "Exceptional end-to-end inference profiling, cost, capacity and fleet-performance overlap",
+      "reason": "The exact role models inference across application, model and fleet layers, turns microbenchmarks into cost-to-serve estimates and reasons about latency, throughput, utilization, networking and fleet scheduling. That is a direct extension of AutoScout's configuration/performance work plus vLLM cold-start optimization and NCCL profiling.",
+      "eligibility": "Active non-senior posting with no numeric years minimum; it asks for deep expertise in profiling, benchmarking, analysis and optimization rather than a prescribed employment duration.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
+      "caveat": "The wording expects deep production-scale performance expertise across layers, so frontier-fleet ownership is the main screening gap. Kernel/hardware knowledge is useful but not the sole focus.",
+      "application_limit": "Check the OpenAI applicant portal before applying; company-level confirmations cannot resolve this exact role.",
+      "live_verified_at": "2026-09-08",
+      "url": "https://openai.com/careers/software-engineer-inference-performance-optimization-san-francisco/"
+    },
+    {
+      "rank": 3,
       "fit_score": "4.8/5 technical · 2.7/5 screening confidence",
       "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Anthropic",
@@ -182,7 +234,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "fit_score": "4.9/5 technical · 2.8/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -199,7 +251,7 @@
       "url": "https://openai.com/careers/training-performance-engineer-san-francisco/"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "fit_score": "5.0/5 technical · 2.9/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -216,7 +268,7 @@
       "url": "https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "fit_score": "4.3/5 technical · 3.2/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Google DeepMind",
@@ -233,7 +285,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/112251165600555718-research-engineer-serving-quality-deepmind"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "fit_score": "4.8/5 technical · 2.8/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -250,7 +302,7 @@
       "url": "https://openai.com/careers/software-engineer-compute-infrastructure-san-francisco/"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "fit_score": "4.2/5 technical · 3.5/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Amazon / Annapurna Labs",
@@ -267,7 +319,7 @@
       "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "fit_score": "4.7/5 technical · 2.7/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -284,7 +336,7 @@
       "url": "https://openai.com/careers/software-engineer-rl-training-infra-san-francisco/"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "fit_score": "4.1/5 technical · 3.3/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Waymo",
@@ -301,7 +353,7 @@
       "url": "https://careers.withwaymo.com/jobs/ml-engineer-foundation-model-recipes-mountain-view-california-united-states"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "fit_score": "4.8/5 technical · 3.0/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
