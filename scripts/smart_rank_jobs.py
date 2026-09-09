@@ -30,6 +30,7 @@ NON_FTE_TITLE = re.compile(
 )
 EXPLICIT_2026 = re.compile(r"\b(?:2026|class of 2026|2026 start|new college grad(?:uate)? 2026)\b", re.I)
 EXPLICIT_2027 = re.compile(r"\b(?:2027|class of 2027|2027 start|2027 grads?)\b", re.I)
+SECURITY_CLEARANCE_TITLE = re.compile(r"\bclearance\b", re.I)
 HIGH_POTENTIAL_TITLE = re.compile(
     r"\b(?:ml systems?|machine learning systems?|ai infrastructure|ml infrastructure|"
     r"inference|serving|runtime|compiler|performance|distributed|systems?|infrastructure|"
@@ -117,6 +118,8 @@ def hard_veto(row: dict) -> str:
         return "non-full-time program title"
     if EXPLICIT_2026.search(role) and not EXPLICIT_2027.search(role):
         return "explicit 2026-only title"
+    if SECURITY_CLEARANCE_TITLE.search(role):
+        return "security-clearance requirement in title"
     if norm(row.get("company")) in SUSPICIOUS_COMPANIES:
         return "untrusted aggregator company attribution"
     if row.get("citizenship_required") == "Yes":
