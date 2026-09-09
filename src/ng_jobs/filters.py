@@ -24,6 +24,7 @@ EXPLICIT_2026_ROLE = re.compile(
     r"\b(?:2026|class of 2026|2026 start|new college grad(?:uate)? 2026|new grad(?:uate)? 2026)\b",
     re.I,
 )
+SECURITY_CLEARANCE_TITLE = re.compile(r"\bclearance\b", re.I)
 UNVERIFIED_SOURCE_CYCLE = re.compile(
     r"\b2027 source cycle\s*\(unverified\)\b",
     re.I,
@@ -82,6 +83,8 @@ def is_eligible(job: Job, include_general: bool = False) -> bool:
     if EXCLUDE_EMPLOYMENT.search(job.role):
         return False
     if EXPLICIT_2026_ROLE.search(job.role) and not EXPLICIT_2027.search(job.role):
+        return False
+    if SECURITY_CLEARANCE_TITLE.search(job.role):
         return False
     if CONTRADICTORY_YEAR.search(text) and not EXPLICIT_2027.search(text):
         return False

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08",
+  "updated_at": "2026-09-09",
   "reviewer": "ChatGPT semantic JD review",
   "verification_policy": "Priority and Secondary contain only exact official employer/ATS requisitions that exposed the specific job and an active Apply/application form during the 2026-09-08 review. Deduplication is by exact requisition: company-level confirmations never suppress other named roles. Cached snippets, generic careers shells, closed redirects and third-party mirrors remain discovery-only.",
   "candidate_focus": [
@@ -9,15 +9,16 @@
     "Applied LLM / Agents",
     "Selective Quant"
   ],
-  "summary": "Exact Gmail evidence moves AXQ Capital's 2027 Quantitative Developer application to Interview, with scheduling still outstanding. Scale AI's newly posted Software Engineer - New Grad is added as a high-priority application because its agent, evaluation and AI-infrastructure projects match Yuhan's production and research evidence. Two newly surfaced OpenAI performance roles are added as exceptional-fit unlabeled stretches. A DoorDash entry-level row was rejected as stale after its exact URL redirected to the generic careers page.",
+  "summary": "No new exact application-stage evidence arrived after the prior review; AXQ interview scheduling remains the immediate action. No newly opened role displaced the current Priority trio, but Palantir's exact 2027 Commercial FDSE was added as a useful secondary option. The mandatory frontier sweep surfaced OpenAI Platform Systems and Collective Communication as unusually strong unlabeled stretches, while Nuro AI Platform, Two Sigma Campus SWE and IMC Graduate ML Researcher remain review-only because of graduation-window, official-page, or PhD requirements.",
   "changes_today": [
-    "Gmail exact-role reconciliation: AXQ Capital's email on 2026-09-08 names the 2027 Quantitative Developer role and confirms advancement to a roughly one-hour video interview. No scheduling confirmation or sent response was found, so the tracker now marks Interview with booking as the immediate next action.",
-    "Scale AI Software Engineer - New Grad (4730836005) was added to Priority after the exact Greenhouse page exposed an active Apply form, Fall 2026/Spring 2027 degree timing, $124,000-$162,000 base range and projects spanning post-training pipelines, eval infrastructure and agentic applications.",
-    "OpenAI Performance Modeling Engineer and Software Engineer, Inference - Performance Optimization were added as exceptional-fit unlabeled stretches; both exact official pages were live with Apply now and no numeric years minimum.",
-    "DoorDash Software Engineer I, Entry-Level (3533012) was rejected as stale: the previously indexed exact URL now redirects to DoorDash's generic job-search page and no longer exposes the requisition or an application control.",
-    "Mandatory official sweep covered OpenAI, Anthropic, SpaceXAI/xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI/Annapurna, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. No other newly surfaced role cleared the experience, freshness and work-authorization gates strongly enough to enter an actionable tier.",
-    "Public-source sweep rechecked Simplify, vanshb03, SpeedyApply, Zapply, Aprameyak, ApplyGuy, Ricsign and Jobright plus current GitHub search results. Newly surfaced repositories were internship-only, hardware-heavy or duplicative, so no low-signal adapter was added.",
-    "All retained actionable exact URLs were rechecked on 2026-09-08; company-level confirmations continue to be treated as requisition-ambiguous."
+    "Gmail exact-role reconciliation through 2026-09-09 found no new application confirmation, assessment, interview booking, rejection or offer. Google's 2026-09-08 referral follow-up names the already-tracked DeepMind Frontier AI Incubation requisition and does not create a new stage. AXQ remains Interview with availability submission as the immediate next action.",
+    "Palantir Forward Deployed Software Engineer, New Grad - Commercial was added to Secondary after the exact Lever page confirmed Spring 2027 eligibility, Python acceptance, LLM/data-system work, $135,000-$145,000 base and an active application.",
+    "OpenAI Software Engineer, Platform Systems and Software Engineer, Collective Communication were added as exceptional-fit unlabeled stretches. Platform Systems is the stronger fit because it emphasizes distributed-training tracing, profiling, failure detection and observability without making deep C++/CUDA an explicit core requirement.",
+    "Nuro Software Engineer, AI Platform - New Grad remains review-only: the official career list is live, but indexed qualification text says graduation by December 2026/before July 2026, which conflicts with Yuhan's May 2027 timing. Two Sigma's exact 2027 Campus SWE page returned HTTP 406, and IMC Graduate ML Researcher explicitly requires a PhD.",
+    "Two Google DeepMind URLs surfaced by search as Gemini API Serving Compute Efficiency and Conversational Agentic AI now resolve to 'Job not found' and were treated as stale rather than recommended.",
+    "Mandatory official sweep covered OpenAI, Anthropic, SpaceXAI/xAI, Google DeepMind, Meta, NVIDIA, Microsoft AI, Amazon AGI/Annapurna, Waymo, Databricks, Cerebras, Together AI, Fireworks AI and CoreWeave. Meta Systems ML was excluded for an eight-year requirement; Microsoft AI data-platform roles required three or more years; Databricks matches were senior/staff.",
+    "Public-source sweep rechecked maintained 2027 repositories including Zapply, Aprameyak, DereC4, ApplyGuy and Ricsign. All useful sources found are already configured; internship-only, hardware-heavy and duplicate repositories were not added.",
+    "The ranking prefilter now hard-vetoes any role whose title explicitly contains a security-clearance requirement, preventing rows such as 'Active Clearance' infrastructure roles from entering the high-priority review queue."
   ],
   "recommendations": [
     {
@@ -36,7 +37,7 @@
       "urgency": "PRIORITY · APPLY SOON",
       "caveat": "Broad talent pool rather than a guaranteed ML-systems team. C++/CUDA may matter for some matches, so foreground Python, distributed ML and performance evidence.",
       "application_limit": "Exact requisition JR2024111 is separate from already-submitted DL/HPC pool JR2024107; do not deduplicate at company level.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact NVIDIA Workday requisition remained indexed on the official career site as a 2027 Software Engineering new-college-grad pool.",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111"
     },
@@ -56,7 +57,7 @@
       "urgency": "PRIORITY · NEW OPENING · APPLY SOON",
       "caveat": "The role is broad product engineering and lists TypeScript/React alongside Python and data systems; target AI infrastructure, eval or agent teams rather than frontend-heavy matching. Degree wording says Bachelor's rather than Master's, so screening interpretation is a small uncertainty.",
       "application_limit": "Exact requisition 4730836005; official policy requires a 90-day wait before reconsideration for the same role.",
-      "live_verified_at": "2026-09-08",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Scale AI Greenhouse page displayed the named new-grad role, active Apply control, qualifications, projects, compensation and 90-day reconsideration policy.",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
     },
@@ -76,12 +77,32 @@
       "urgency": "PRIORITY · APPLY SOON",
       "caveat": "Broad rather than MLSys-specific. Stripe rejected an August Software Engineer application whose requisition ID is not recorded; verify the portal because exact-role identity remains uncertain.",
       "application_limit": "Exact requisition 8128744; do not infer duplication from the older company-level tracker row.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Stripe page displayed the University team, new-grad requirements, pay, full-time locations and Apply now.",
       "url": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744"
     },
     {
       "rank": 1,
+      "tier": "secondary",
+      "fit_score": "3.9/5",
+      "category": "MISSED-OLDER-ACTIVE · EXACT 2027 · AGENT/DATA DELIVERY",
+      "company": "Palantir",
+      "role": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "location": "Chicago, IL (hybrid; 25-50% travel depending on team)",
+      "salary": "$135,000-$145,000 base + possible RSUs/sign-on",
+      "fit": "Strong production-agent, ambiguous-problem and end-to-end delivery fit; less direct MLSys depth",
+      "reason": "The role builds production LLM workflows, data-intensive applications and customer-specific systems from architecture through deployment. TikTok MCP/agent workflows, production ownership and research-driven problem solving provide credible screening evidence beyond generic coursework.",
+      "new_grad": "Exact requirement: engineering degree, proficiency in Python/Java/C++/TypeScript or similar, and graduation in December 2026 or Spring 2027; no prior professional-years minimum.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact Commercial posting; sponsorship is not promised.",
+      "urgency": "SECONDARY · ROLLING",
+      "caveat": "Forward-deployed work is customer-facing and travel-heavy, and may emphasize rapid product/data integration more than deep ML runtime engineering.",
+      "application_limit": "Exact Commercial/Chicago requisition; do not conflate it with Palantir government or other-location roles that may have different authorization constraints.",
+      "live_verified_at": "2026-09-09",
+      "official_live_evidence": "Exact Palantir Lever page displayed the role, Spring 2027 window, requirements, compensation and active Apply control.",
+      "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40"
+    },
+    {
+      "rank": 2,
       "tier": "secondary",
       "fit_score": "3.7/5",
       "category": "NEW / RECENT · CLEAR EARLY-CAREER · PRODUCTION SWE",
@@ -96,12 +117,12 @@
       "urgency": "SECONDARY · RECENT",
       "caveat": "General product/platform engineering rather than ML infrastructure. The listing gives no explicit 2027 graduation window, so verify the intended start date during recruiting.",
       "application_limit": "Exact Amazon Job ID 10529830; no matching Gmail application evidence found.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Amazon/Audible page displayed the role, qualifications, location pay and Apply now button.",
       "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "tier": "secondary",
       "fit_score": "3.7/5",
       "category": "APPLY SOON · EXACT 2027 · CHINA DISTRIBUTED BACKEND",
@@ -116,12 +137,12 @@
       "urgency": "APPLY SOON",
       "caveat": "Device/general backend is less direct than LLM inference infrastructure.",
       "application_limit": "Apply to this targeted Amazon China SDE rather than multiple nearly identical requisitions.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Amazon page displayed Job ID 10501875, graduation window and Apply now.",
       "url": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "tier": "secondary",
       "fit_score": "3.5/5",
       "category": "APPLY · EXACT 2027 · SPONSORSHIP CONFIRMED",
@@ -136,12 +157,12 @@
       "urgency": "APPLY AFTER TOP SYSTEMS ROLES",
       "caveat": "Modern C++ and low-latency trading are more central than Yuhan's recent experience.",
       "application_limit": "No public per-candidate cap found.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Lever page displayed the application link, graduation window, compensation and Sponsorship: Yes.",
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "tier": "secondary",
       "fit_score": "3.4/5",
       "category": "SECONDARY · EXACT 2027 · PYTHON ACCEPTED",
@@ -156,12 +177,12 @@
       "urgency": "SECONDARY",
       "caveat": "Five-day onsite and commodities systems are less aligned with MLSys; sponsorship is not stated.",
       "application_limit": "No public cap found.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Greenhouse page displayed Summer 2027 eligibility, salary and complete application form.",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "tier": "secondary",
       "fit_score": "3.3/5",
       "category": "SELECTIVE STRETCH · EXACT 2027 · AUTONOMOUS DRIVING",
@@ -176,7 +197,7 @@
       "urgency": "SELECTIVE STRETCH",
       "caveat": "Autonomous-driving prediction/control, CV/graphics and modern C++ are meaningful gaps. The September 14 recruiter screen may be a better place to ask about team fit before another application.",
       "application_limit": "No public cap found; do not confuse with the already-submitted Perception/CV requisition.",
-      "live_verified_at": "2026-09-07",
+      "live_verified_at": "2026-09-09",
       "official_live_evidence": "Exact Lever page displayed the named 2027 campus role, $120,000-$165,000 range and active application link.",
       "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
     }
@@ -184,6 +205,23 @@
   "high_value_stretch": [
     {
       "rank": 1,
+      "fit_score": "5.0/5 technical · 3.3/5 screening confidence",
+      "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
+      "company": "OpenAI",
+      "role": "Software Engineer, Platform Systems",
+      "location": "San Francisco, CA; hybrid",
+      "salary": "$380,000-$500,000 + equity",
+      "fit": "Exceptional distributed-training observability and performance fit without a numeric experience minimum",
+      "reason": "The team builds failure detection, tracing, profiling and observability for frontier-scale training jobs across collective communication, parallelism, fault tolerance and compute efficiency. AutoScout's profiling/configuration research, NCCL and multi-GPU systems work map directly, while TikTok production debugging supports the reliability story.",
+      "eligibility": "Active non-senior posting with no degree or professional-years minimum stated; asks for low-level software, operating-systems/networking/concurrency fundamentals and distributed/HPC interest.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
+      "caveat": "Frontier-scale production ownership and deep low-level host/network debugging exceed Yuhan's current experience, but the role is less dependent on recent CUDA-kernel expertise than several nearby openings.",
+      "application_limit": "Check the OpenAI applicant portal before applying; generic OpenAI confirmations do not identify exact requisitions.",
+      "live_verified_at": "2026-09-09",
+      "url": "https://openai.com/careers/software-engineer-platform-systems-san-francisco/"
+    },
+    {
+      "rank": 2,
       "fit_score": "5.0/5 technical · 3.4/5 screening confidence",
       "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -196,11 +234,11 @@
       "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
       "caveat": "Hardware/software co-design and data-center architecture depth are weaker than the distributed-ML modeling evidence. Still one of the most screening-plausible OpenAI stretches in the current pool.",
       "application_limit": "Check the OpenAI applicant portal before applying; four generic confirmation emails do not identify exact requisitions.",
-      "live_verified_at": "2026-09-08",
+      "live_verified_at": "2026-09-09",
       "url": "https://openai.com/careers/performance-modeling-engineer-san-francisco/"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "fit_score": "5.0/5 technical · 2.9/5 screening confidence",
       "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -213,11 +251,28 @@
       "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
       "caveat": "The wording expects deep production-scale performance expertise across layers, so frontier-fleet ownership is the main screening gap. Kernel/hardware knowledge is useful but not the sole focus.",
       "application_limit": "Check the OpenAI applicant portal before applying; company-level confirmations cannot resolve this exact role.",
-      "live_verified_at": "2026-09-08",
+      "live_verified_at": "2026-09-09",
       "url": "https://openai.com/careers/software-engineer-inference-performance-optimization-san-francisco/"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "fit_score": "4.9/5 technical · 2.6/5 screening confidence",
+      "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · DEEP C++/CUDA CAVEAT",
+      "company": "OpenAI",
+      "role": "Software Engineer, Collective Communication",
+      "location": "San Francisco, CA; hybrid three days/week",
+      "salary": "$380,000-$500,000 + equity",
+      "fit": "Direct NCCL/collectives, multi-GPU training, simulation and performance overlap",
+      "reason": "The team designs custom networking collectives for OpenAI's largest training jobs and explicitly works on network simulation. NeuronaBox/NCCL and AutoScout's multi-GPU performance modeling make the technical story unusually relevant.",
+      "eligibility": "Active non-senior posting with no numeric professional-years minimum; seeks low-level performance-critical software, RDMA/distributed algorithms, CPU/GPU code and network simulation.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact page; sponsorship is not promised.",
+      "caveat": "C++/CUDA and RDMA are central, so this is a real capability stretch and should rank below Platform Systems despite the strong NCCL subject overlap.",
+      "application_limit": "Check the OpenAI applicant portal before applying; generic OpenAI confirmations do not identify exact requisitions.",
+      "live_verified_at": "2026-09-09",
+      "url": "https://openai.com/careers/software-engineer-collective-communication-san-francisco/"
+    },
+    {
+      "rank": 5,
       "fit_score": "4.8/5 technical · 2.7/5 screening confidence",
       "category": "NEWLY SURFACED · HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Anthropic",
@@ -234,7 +289,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "fit_score": "4.9/5 technical · 2.8/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -251,7 +306,7 @@
       "url": "https://openai.com/careers/training-performance-engineer-san-francisco/"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "fit_score": "5.0/5 technical · 2.9/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -268,7 +323,7 @@
       "url": "https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "fit_score": "4.3/5 technical · 3.2/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Google DeepMind",
@@ -285,7 +340,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/112251165600555718-research-engineer-serving-quality-deepmind"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "fit_score": "4.8/5 technical · 2.8/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -302,7 +357,7 @@
       "url": "https://openai.com/careers/software-engineer-compute-infrastructure-san-francisco/"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "fit_score": "4.2/5 technical · 3.5/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Amazon / Annapurna Labs",
@@ -319,7 +374,7 @@
       "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "fit_score": "4.7/5 technical · 2.7/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -336,7 +391,7 @@
       "url": "https://openai.com/careers/software-engineer-rl-training-infra-san-francisco/"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "fit_score": "4.1/5 technical · 3.3/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "Waymo",
@@ -353,7 +408,7 @@
       "url": "https://careers.withwaymo.com/jobs/ml-engineer-foundation-model-recipes-mountain-view-california-united-states"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "fit_score": "4.8/5 technical · 3.0/5 screening confidence",
       "category": "HIGH-VALUE STRETCH · UNLABELED EARLY-CAREER",
       "company": "OpenAI",
@@ -409,6 +464,45 @@
       "caveat": "Keep out of actionable tiers until the exact official application page, sponsorship language and requirements can be opened and reviewed.",
       "live_verified_at": "2026-09-07 search-index only",
       "url": "https://careers.sig.com/phds-postdocs/jobs/11018?lang=en-us"
+    },
+    {
+      "rank": 4,
+      "company": "Nuro",
+      "role": "Software Engineer, AI Platform - New Grad (7351066)",
+      "location": "Mountain View, CA",
+      "salary": "$145,000-$170,000 base + bonus/equity in indexed exact-role text",
+      "fit": "Excellent ML infrastructure, distributed data, simulation and performance-tuning overlap",
+      "eligibility": "The official Nuro career list shows the exact role as active, but indexed exact-role text says candidates should graduate by December 2026 and separately says before July 2026. Neither window includes May 2027.",
+      "sponsorship": "No reliable exact sponsorship statement was exposed by the dynamic official page.",
+      "caveat": "Do not apply as a normal 2027 recommendation unless Nuro corrects or clarifies the contradictory graduation language; retain for human review because the technical fit is unusually strong.",
+      "live_verified_at": "2026-09-09 official career-list presence; qualification text indexed separately",
+      "url": "https://nuro.ai/careersitem?gh_jid=7351066"
+    },
+    {
+      "rank": 5,
+      "company": "Two Sigma",
+      "role": "Software Engineering Full-Time Campus Hire - NYC (2027) (13101)",
+      "location": "New York, NY",
+      "salary": "Unknown; third-party single-number estimates are not treated as verified compensation",
+      "fit": "Strong algorithms, systems and quantitative engineering upside; lower direct MLSys specificity",
+      "eligibility": "Official search results expose the exact 2027 campus title, but the exact Two Sigma page returned HTTP 406 during verification, so minimum qualifications and the live application control could not be confirmed.",
+      "sponsorship": "Unverified on an accessible exact official page.",
+      "caveat": "Keep out of actionable tiers until the exact official requisition loads. Prior Two Sigma internship rejections are separate identities and do not suppress this role.",
+      "live_verified_at": "2026-09-09 search-index only",
+      "url": "https://careers.twosigma.com/careers/JobDetail/Software-Engineering-Full-Time-Campus-Hire-NYC/13101"
+    },
+    {
+      "rank": 6,
+      "company": "IMC",
+      "role": "Graduate Machine Learning Researcher - Chicago (4907416101)",
+      "location": "Chicago, IL; starts February or August 2027",
+      "salary": "$300,000 base + bonus/benefits",
+      "fit": "Excellent ML research, experimentation and quantitative-modeling upside, but degree mismatch",
+      "eligibility": "The exact official posting is live and explicitly requires a PhD in machine learning, computer science, statistics or a related discipline.",
+      "sponsorship": "No explicit no-sponsorship, citizenship or clearance restriction appears on the exact posting; sponsorship is not promised.",
+      "caveat": "Yuhan is completing an MS, so this is PhD-only and should not consume an application under IMC's one-application-per-role/year guidance while stronger IMC processes are already active.",
+      "live_verified_at": "2026-09-09",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101"
     }
   ],
   "watch_hold": [
