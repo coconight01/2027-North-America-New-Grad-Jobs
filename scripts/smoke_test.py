@@ -60,6 +60,12 @@ def test_package_filters() -> str:
         country="United States", match="",
     )
     assert package_filters.is_eligible(package_internships, True) is False
+    package_clearance = SimpleNamespace(
+        role="Mission Software Infrastructure Engineer, Active Clearance",
+        description="", graduation="2027", start_date="",
+        location="Costa Mesa, CA", country="United States", match="",
+    )
+    assert package_filters.is_eligible(package_clearance, True) is False
     package_unverified = SimpleNamespace(
         role="Software Engineer, Early Career", description="",
         graduation="2027 source cycle (unverified)", start_date="",
@@ -97,6 +103,7 @@ def test_title_noise_and_vetoes() -> str:
     assert "mobile specialization" not in result["negative_signals"], result
     assert hard_veto(base_job("NVIDIA 2027 Internships: Developer and Performance Technology"))
     assert hard_veto(base_job("Research Scientist - R&D - 2026"))
+    assert hard_veto(base_job("Infrastructure Engineer, Active Clearance"))
     assert not hard_veto(base_job("Machine Learning Engineer Graduate - 2027 Start"))
     return f"title-noise/vetoes ok: infra={result['score']}"
 
