@@ -1,16 +1,16 @@
 {
   "updated_at": "2026-09-10",
-  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-08. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
+  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-10. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
       "company": "AXQ Capital",
       "role": "Quantitative Developer - 2027 Graduate",
       "status": "Interview",
       "applied_date": "2026-08-28",
-      "status_date": "2026-09-08",
+      "status_date": "2026-09-10",
       "confidence": "Exact",
-      "evidence": "Exact AXQ recruiting email received on 2026-09-08 names the 2027 campus Quantitative Developer role and says Yuhan has advanced to the next-round interview, approximately one hour by video.",
-      "next_action": "Submit several near-term availability windows through the recruiter-provided scheduling link immediately; no booking confirmation was found in Gmail as of 2026-09-08."
+      "evidence": "Exact AXQ recruiting confirmation received on 2026-09-10 names Quantitative Developer - 2027 Graduate and schedules a Zoom interview with Tong Wang for September 15, 2026, 8:00-8:30 AM Central Time.",
+      "next_action": "Prepare for the confirmed September 15 quantitative-developer interview; no additional scheduling action is needed."
     },
     {
       "company": "MiniMax",
@@ -560,12 +560,12 @@
     {
       "company": "SpaceXAI (xAI)",
       "role": "Member of Technical Staff - RL Inference",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-08-31",
-      "status_date": "2026-08-31",
-      "confidence": "Likely / context-supported",
-      "evidence": "SpaceXAI sent a generic application confirmation at 12:27 PM CDT on 2026-08-31. Immediately preceding conversation context shows Yuhan was completing the RL Inference requisition's 'What exceptional work have you done?' field, but the email itself does not name the role.",
-      "next_action": "Treat RL Inference as likely submitted and remove it from the actionable stretch list; verify the exact requisition in the SpaceXAI portal if needed. Do not use this generic confirmation to suppress any different SpaceXAI role."
+      "status_date": "2026-09-10",
+      "confidence": "Exact",
+      "evidence": "Exact SpaceXAI recruiting email received on 2026-09-10 names Member of Technical Staff - RL Inference and says the team will not move forward with the application.",
+      "next_action": "No action. Keep other SpaceXAI/xAI requisitions independent; this rejection applies only to RL Inference."
     },
     {
       "company": "OpenAI",

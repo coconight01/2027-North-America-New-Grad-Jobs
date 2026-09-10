@@ -223,6 +223,15 @@ def test_priority_company_detail_recall() -> str:
     return f"priority-company detail recall ok: selected={indexes}"
 
 
+def test_china_detail_fallback() -> str:
+    from scripts.china_discovery import needs_detail
+
+    assert needs_detail({"title": "AI Infrastructure Engineer"}) is True
+    assert needs_detail({"locations": []}) is True
+    assert needs_detail({"locations": [{"cityName": "深圳市"}]}) is False
+    return "China Moka rows missing concrete locations trigger exact-job detail lookup"
+
+
 def main() -> None:
     tests = [
         ("legacy_runtime", test_legacy_runtime),
@@ -233,6 +242,7 @@ def main() -> None:
         ("jd_excerpt_association", test_jd_excerpt_stays_with_job_after_sort),
         ("github_markdown_title_cleanup", test_github_markdown_link_title_cleanup),
         ("priority_company_detail_recall", test_priority_company_detail_recall),
+        ("china_detail_fallback", test_china_detail_fallback),
     ]
     report = {"overall": "success", "tests": {}}
     for name, fn in tests:

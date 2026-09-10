@@ -21,6 +21,7 @@ TODAY = date.today().isoformat()
 TIMEOUT = 30
 PAGE_SIZE = 50
 API = "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2"
+DETAIL_API = "https://app.mokahr.com/api/outer/ats-apply/website/job"
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -125,6 +126,41 @@ def decrypt_envelope(envelope: dict, iv_text: str) -> dict:
     return json.loads(unpadder.update(padded) + unpadder.finalize())
 
 
+def needs_detail(job: dict) -> bool:
+    """Moka list responses sometimes omit every concrete location."""
+    return not any(isinstance(item, dict) for item in job.get("locations") or [])
+
+
+def fetch_detail(
+    session: requests.Session,
+    source: dict,
+    init: dict,
+    org_id: str,
+    site_id: str,
+    job_id: str,
+) -> dict:
+    response = session.post(
+        DETAIL_API,
+        json={
+            "orgId": org_id,
+            "siteId": site_id,
+            "jobId": job_id,
+            "locale": "zh-CN",
+        },
+        headers={
+            "Accept": "application/json,*/*",
+            "Content-Type": "application/json",
+            "Origin": "https://app.mokahr.com",
+            "Referer": source["url"],
+        },
+        timeout=TIMEOUT,
+    )
+    response.raise_for_status()
+    decoded = decrypt_envelope(response.json(), str(init["aesIv"]))
+    detail = decoded.get("data") or decoded
+    return detail if isinstance(detail, dict) else {}
+
+
 def fetch_source(source: dict) -> list[dict]:
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -164,7 +200,28 @@ def fetch_source(source: dict) -> list[dict]:
             jobs.extend(page)
             if len(page) < PAGE_SIZE:
                 break
-        return jobs or fallback
+        jobs = jobs or fallback
+        enriched = []
+        for job in jobs:
+            if not isinstance(job, dict) or not needs_detail(job):
+                enriched.append(job)
+                continue
+            job_id = str(job.get("id") or job.get("jobId") or "").strip()
+            if not job_id:
+                enriched.append(job)
+                continue
+            try:
+                detail = fetch_detail(session, source, init, org_id, site_id, job_id)
+            except (
+                requests.RequestException,
+                ValueError,
+                TypeError,
+                KeyError,
+                json.JSONDecodeError,
+            ):
+                detail = {}
+            enriched.append({**job, **detail} if detail else job)
+        return enriched
     except (requests.RequestException, ValueError, TypeError, KeyError, json.JSONDecodeError):
         return fallback
 
@@ -266,6 +323,7 @@ def collect() -> tuple[list[dict], list[str]]:
                     "job_id": job_id,
                     "status": "Open",
                     "date_added": TODAY,
+                    "qualification_excerpt": text(job.get("jobDescription"))[:1200],
                 }
             )
     deduped = {}
@@ -297,9 +355,10 @@ def save(rows: list[dict], warnings: list[str]) -> None:
     fields = [
         "posted_date", "company", "role", "track", "location", "employment_type",
         "eligibility", "salary", "source", "url", "job_id", "status", "date_added",
+        "qualification_excerpt",
     ]
     with (DATA / "china_jobs.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
     (DATA / "china_jobs.json").write_text(

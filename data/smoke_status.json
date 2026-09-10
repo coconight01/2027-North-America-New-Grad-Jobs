@@ -32,6 +32,10 @@
     "priority_company_detail_recall": {
       "outcome": "success",
       "detail": "priority-company detail recall ok: selected=[0, 5, 1]"
+    },
+    "china_detail_fallback": {
+      "outcome": "success",
+      "detail": "China Moka rows missing concrete locations trigger exact-job detail lookup"
     }
   }
 }
