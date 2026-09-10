@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-10** · Open roles: **137**
+> Last automated update: **2026-09-10** · Open roles: **138**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-09-10 | **StepFun (阶跃星辰)** | [大模型算法框架研究员/工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/07324c21-b5f1-4ee2-bbfb-16a2a3d774c3) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-10 | **StepFun (阶跃星辰)** | [大模型训练框架工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a48c4b47-c219-4932-aea0-19d67db5590c) | AI Infrastructure / Systems | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-08 | **Lingjun Investment (灵均)** | [新股研究员](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/40c05ff5-05b8-498a-83c3-4d9e2c2c971d) | AI / ML | China | Full-time | Review eligibility |
 | 2026-09-08 | **StepFun (阶跃星辰)** | [大数据平台 SRE 工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/28387f16-cbe4-486a-8cce-a2219ae8ab10) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
