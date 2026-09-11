@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-11** · Open roles: **138**
+> Last automated update: **2026-09-11** · Open roles: **142**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,12 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-09-11 | **Alpha2 (平方和)** | [校招-量化策略研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0e8b5fe7-f7c7-4839-9c93-d1e8073ba92c) | Quantitative Finance | 北京市 · 海淀区 / 上海市 · 浦东新区 | 全职 | Likely campus |
+| 2026-09-11 | **Alpha2 (平方和)** | [校招-量化系统开发工程师（C++）](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/3edda8e6-076b-4dfd-91d7-a079b6e9c703) | Quantitative Finance | China | 全职 | Likely campus |
+| 2026-09-11 | **Alpha2 (平方和)** | [校招-AI研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0ad4d02e-03d3-41b3-bd39-71767369f8eb) | AI / ML | China | 全职 | Likely campus |
+| 2026-09-11 | **Alpha2 (平方和)** | [校招-机器学习研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/2ec38098-cce2-4860-83a6-67fe6eacb6d1) | AI / ML | 北京市 · 海淀区 | 全职 | Likely campus |
+| 2026-09-11 | **Alpha2 (平方和)** | [校招-数据科学家](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/29c4bdd4-6734-4711-85fb-631233dafedd) | Software Engineering | China | 全职 | Likely campus |
+| 2026-09-11 | **StepFun (阶跃星辰)** | [memory算法](https://app.mokahr.com/social-recruitment/step/94904#/job/1b693500-0ecf-4c48-aa8a-2cf5655c3ba5) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-10 | **StepFun (阶跃星辰)** | [大模型算法框架研究员/工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/07324c21-b5f1-4ee2-bbfb-16a2a3d774c3) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-10 | **StepFun (阶跃星辰)** | [大模型训练框架工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a48c4b47-c219-4932-aea0-19d67db5590c) | AI Infrastructure / Systems | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-08 | **Lingjun Investment (灵均)** | [新股研究员](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/40c05ff5-05b8-498a-83c3-4d9e2c2c971d) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
@@ -82,8 +88,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-06-22 | **StepFun (阶跃星辰)** | [大模型训练引擎优化工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/ffb1073b-a756-402d-84f8-0b9ef9df7bf4) | AI Infrastructure / Systems | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-06-11 | **StepFun (阶跃星辰)** | [大模型后训练系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/6e5fc4bf-1a6d-496a-b7c5-ab966b0e9a75) | AI Infrastructure / Systems | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-06-11 | **DeepSeek / High-Flyer** | [Agent Harness 研究员（实习/全职）](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/40447266-bdbb-4728-8db4-ed1435408026) | AI / ML | 浙江 · 拱墅区 / 北京市 · 海淀区 | Full-time / Internship | Review eligibility |
-| 2026-06-10 | **Alpha2 (平方和)** | [校招-量化策略研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0e8b5fe7-f7c7-4839-9c93-d1e8073ba92c) | Quantitative Finance | 北京市 · 海淀区 / 上海市 · 浦东新区 | 全职 | Likely campus |
-| 2026-06-10 | **Alpha2 (平方和)** | [校招-机器学习研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/2ec38098-cce2-4860-83a6-67fe6eacb6d1) | AI / ML | 北京市 · 海淀区 | 全职 | Likely campus |
 | 2026-06-06 | **StepFun (阶跃星辰)** | [后端研发工程师（开发者生态方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/ea682bbb-234b-4538-b4b2-0ad86e67b10a) | AI Infrastructure / Systems | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-05-28 | **StepFun (阶跃星辰)** | [大模型训练优化工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/f7a281ab-7a61-4a78-9042-24afb2059bfa) | AI Infrastructure / Systems | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-05-28 | **StepFun (阶跃星辰)** | [大语言模型post-train算法研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/a669b7dc-a9b5-416a-baa3-e0d765d7997e) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
