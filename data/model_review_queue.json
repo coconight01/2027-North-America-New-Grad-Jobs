@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10",
+  "updated_at": "2026-09-11",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,7 +27,7 @@
       "fill": 0
     },
     "priority_company_candidates": 173,
-    "new_job_candidates": 123,
+    "new_job_candidates": 108,
     "high_potential_title_candidates": 212
   },
   "veto_counts": {
@@ -364,31 +364,6 @@
     },
     {
       "machine_rank": 14,
-      "machine_score": 86,
-      "machine_tier": "Top",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "DV Trading LLC",
-      "role": "2027 Graduate Software Developer (DV Commodities)",
-      "category": "Software Engineering",
-      "location": "New York, NY, United States",
-      "salary": "$135K/yr - $150K/yr",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Software",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-11",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8",
-      "jd_excerpt": "2027 Graduate Software Engineer (DV Commodities) @ DV Trading LLC | Jobright.ai SIGN IN JOIN NOW 2027 Graduate Software Engineer (DV Commodities) jobs in United States Overview Company Apply on Employer Site APPLY NOW DV Trading LLC · 23 hours ago 2027 Graduate Software Engineer (DV Commodities) New York, NY Full-time Onsite New Grad $135K/yr - $150K/yr DV Trading LLC is a proprietary financial services firm, and DV Commodities specializes in trading energy, metals, agriculture, and other commodities markets. The Graduate Software Engineer will build and improve proprietary trading tools, collaborate with developers, traders, researchers, and stakeholders, and design, deploy, and support software solutions for trading applications. Payments Trading Platform Comp. & Benefits H1B Sponsor Likely Responsibilities Build and improve a variety of proprietary trading tools to support the trading desks across the business Collaborate with other developers, tech leaders, traders, and researchers to outline the technical needs for each trading application Work with technology and business stakeholders in iterative fashion to deliver platform functionality Architect greenfield solutions to address business needs, and work with equal confidence in established codebases: quickly building context in unfamiliar systems, extending them safely, and improving them as you go Use AI to accelerate development while taking full ownership of your code: apply engineering judgment across the entire lifecycle, from design and edge case handling through deployment and production support Qualification C++ Python Linux Quantitative Programming Latency-Sensitive Programming AI-Assisted Software Development Required Expected to graduate with a degree in Computer Science, Computer Engineering, or related field by **Summer 2027** Experience programming in either C++ and/or Python in Linux environments, ideally on quantitative or latency-sensitive problems Accelerate development with AI tools while fully owning your code from verification through edge case handling Excellent listening, interpersonal, written, and oral communication skills Excellent analytical and creative problem-solving skills Ability to work onsite at our New York office 5 days a week Company DV Trading LLC Proprietary trading firm providing market liquidity and commodity hedging. Founded in 2006 Chicago, Illinois, USA 501-1000 employees https://www.dvtrading.co H1B Sponsorship DV Trading LLC has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 100 % Represents job field similar to this job Engineering and Development Trends of Total Sponsorships *2026 ( 2 ) Funding Current Stage Late Stage Leadership Team Jared Vegosen Co-Founder Recent News Business Wire Eris SOFR Swap Futures Open Interest Triples Ahead of June Eris Options Launch, New Funding Round 2026-05-19 Canada NewsWire ARP Digital Holdings Expands Digital Asset Wealth Management Offering 2025-11-25 Hedgeweek Hedge funds hiring meteorologists to weather market volatility 2025-03-14 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role C++ Python Linux Quantitative Programming Latency-Sensitive Programming Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach A Ashley K. Talent Acquisition Manager F Frank M. Head Of Software Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 15,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -408,6 +383,31 @@
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129",
       "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 15,
+      "machine_score": 86,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "DV Trading LLC",
+      "role": "2027 Graduate Software Developer (DV Commodities)",
+      "category": "Software Engineering",
+      "location": "New York, NY, United States",
+      "salary": "$135K/yr - $150K/yr",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Software",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-11",
+      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8",
+      "jd_excerpt": "2027 Graduate Software Engineer (DV Commodities) @ DV Trading LLC | Jobright.ai SIGN IN JOIN NOW 2027 Graduate Software Engineer (DV Commodities) jobs in United States Overview Company Apply on Employer Site APPLY NOW DV Trading LLC · 23 hours ago 2027 Graduate Software Engineer (DV Commodities) New York, NY Full-time Onsite New Grad $135K/yr - $150K/yr DV Trading LLC is a proprietary financial services firm, and DV Commodities specializes in trading energy, metals, agriculture, and other commodities markets. The Graduate Software Engineer will build and improve proprietary trading tools, collaborate with developers, traders, researchers, and stakeholders, and design, deploy, and support software solutions for trading applications. Payments Trading Platform Comp. & Benefits H1B Sponsor Likely Responsibilities Build and improve a variety of proprietary trading tools to support the trading desks across the business Collaborate with other developers, tech leaders, traders, and researchers to outline the technical needs for each trading application Work with technology and business stakeholders in iterative fashion to deliver platform functionality Architect greenfield solutions to address business needs, and work with equal confidence in established codebases: quickly building context in unfamiliar systems, extending them safely, and improving them as you go Use AI to accelerate development while taking full ownership of your code: apply engineering judgment across the entire lifecycle, from design and edge case handling through deployment and production support Qualification C++ Python Linux Quantitative Programming Latency-Sensitive Programming AI-Assisted Software Development Required Expected to graduate with a degree in Computer Science, Computer Engineering, or related field by **Summer 2027** Experience programming in either C++ and/or Python in Linux environments, ideally on quantitative or latency-sensitive problems Accelerate development with AI tools while fully owning your code from verification through edge case handling Excellent listening, interpersonal, written, and oral communication skills Excellent analytical and creative problem-solving skills Ability to work onsite at our New York office 5 days a week Company DV Trading LLC Proprietary trading firm providing market liquidity and commodity hedging. Founded in 2006 Chicago, Illinois, USA 501-1000 employees https://www.dvtrading.co H1B Sponsorship DV Trading LLC has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 100 % Represents job field similar to this job Engineering and Development Trends of Total Sponsorships *2026 ( 2 ) Funding Current Stage Late Stage Leadership Team Jared Vegosen Co-Founder Recent News Business Wire Eris SOFR Swap Futures Open Interest Triples Ahead of June Eris Options Launch, New Funding Round 2026-05-19 Canada NewsWire ARP Digital Holdings Expands Digital Asset Wealth Management Offering 2025-11-25 Hedgeweek Hedge funds hiring meteorologists to weather market volatility 2025-03-14 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role C++ Python Linux Quantitative Programming Latency-Sensitive Programming Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach A Ashley K. Talent Acquisition Manager F Frank M. Head Of Software Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1114,56 +1114,6 @@
     },
     {
       "machine_rank": 44,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Activision",
-      "role": "2027 Winter Co-Ops - Software Development - Demonware (Vancouver)",
-      "category": "Software Engineering",
-      "location": "Vancouver, BC, Canada",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-26",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8e4df3e3efd719bf57cfe3",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 45,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "DV Trading",
-      "role": "2027 Graduate Software Engineer - DV Commodities",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "salary": "$135,000–$150,000",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Software",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-11",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1188,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1213,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1238,7 +1188,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 47,
+      "machine_score": 72,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Palantir",
+      "role": "Product Designer, New Grad - US Government",
+      "category": "Software Engineering",
+      "location": "New York, NY",
+      "salary": "$130,000–$135,000/year",
+      "salary_max_annual": "135000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2024-11-21",
+      "source": "Lever:palantir",
+      "official_source": true,
+      "url": "https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02",
+      "jd_excerpt": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that fosters trust, integrity, empathy, and growth. We work together in realizing a shared product vision, and regularly give feedback and critique to each other.\n\nDesigning at Palantir is a varied experience. On a given day, you might be: leading a design sprint for your product team; designing a micro-interaction to make a complex analytical task feel simple; and/or advocating for UX consistency by creating flexible, reusable UI components.\n\nDesigners at Palantir develop a deep understanding of the problems our customers face while solving some of the world’s most unique challenges. Our mission is to build generalizable and scalable solutions that elegantly handle the complexity of these problem spaces. A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more. The Role The Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that fosters trust, integrity, empathy, and growth. We work together in realizing a shared product vision, and regularly give feedback and critique to each other. Designing at Palantir is a varied experience. On a given day, you might be: leading a design sprint for your product team; designing a micro-interaction to make a complex analytical task feel simple; and/or advocating for UX consistency by creating flexible, reusable UI components. Designers at Palantir develop a deep understanding of the problems our customers face while solving some of the world’s most unique challenges. Our mission is to build generalizable and scalable solutions that elegantly handle the complexity of these problem spaces. Salary\n \nThe estimated salary range for this position is estimated to be $130,000 - $135,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.\n\n\nOur benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.\n \nBenefits\n \n•  Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance\n•  Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance\n•  Commuter benefits\n•  Relocation assistance\n•  Take what you need paid time off, not accrual based\n•  2 weeks paid time off built into the end of each year (subject to team and business needs)\n•  10 paid holidays throughout the calendar year\n•  Supportive leave of absence program including time off for military service and medical events\n•  Paid leave for new parents and subsidized back-up care for all parents\n•  Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation\n•  Stipend to help with expenses that come with a new child\n•  Employees can enroll in Palantir’s 401k plan\n \nLife at Palantir\n \nWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.\n \nIn keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our off",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 48,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1263,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 49,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1282,13 +1257,13 @@
       "source": "Greenhouse:imc",
       "official_source": true,
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
-      "jd_excerpt": "Job Application for Graduate Machine Learning Researcher - Chicago at IMC Back to jobs Graduate Machine Learning Researcher - Chicago Chicago, United States Apply As a Graduate Machine Learning Researcher at IMC, your work will directly impact our global trading strategies. You will apply advanced machine learning, statistical, and computational techniques to solve complex, real-world trading problems, contributing to trading strategies across global equities, futures, and options markets. Machine Learning Researchers work closely with Traders and Developers in an environment where problem solving, innovation and teamwork are recognized and rewarded. Your Core Responsibilities: Design, implement, and evaluate machine learning models for trading applications, with successful research deployed into production Apply rigorous statistical techniques to measure performance, control overfitting, and understand model risk and interpretability Investigate novel machine learning approaches through rigorous experimentation and analysis in real trading environments Communicate research progress and outcomes effectively, ensuring knowledge transfer within the team and across departments Collaborate closely with traders, researchers, and engineers to translate research into production trading systems Your Skills and Experience: PhD in Machine Learning, Computer Science, Electrical Engineering, Mathematics, Statistics, Physics or a related quantitative field Strong foundations in machine learning, probability, and statistics, with experience applying advanced ML techniques to solve challenging research or real-world problems Demonstrated hands-on research experience in deep learning fundamentals such as neural network architectures, sequence modeling, training dynamics, or optimization Proficiency in Python and modern machine learning frameworks such as PyTorch, Tensorflow, and/or JAX Demonstrated research excellence through publications, preprints, research internships, or significant research projects; publications at venues such as NeurIPS, ICML, ICLR, or equivalent conferences are highly preferred Ability to commence full-time employment in February or August 2027 You may submit one application per role each year.  We strongly encourage you to focus on applying to a single role that best matches your skills and interests.  Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2027. The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information. Base Salary: $300,000 About Us IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective, combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another When did you graduate from High School? * Select... Select your Standardized Test score type: * Select... Provide your best result on SAT: * Select... Provide your best result on ACT: * Select... When is your anticipated graduation date - please select a Graduation Date range: * Select... What is your GPA? * Select... Will you require immigration sponsorship to begin working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Will you require immigration sponsorship in the future to continue working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Is there any other context you’d like to share about your U.S. Immigration sponsorship needs? Have you applied to this role or another role @IMC wit",
+      "jd_excerpt": "Job Application for Graduate Machine Learning Researcher - Chicago at IMC Back to jobs Graduate Machine Learning Researcher - Chicago Chicago, United States Apply As a Graduate Machine Learning Researcher at IMC, your work will directly impact our global trading strategies. You will apply advanced machine learning, statistical, and computational techniques to solve complex, real-world trading problems, contributing to trading strategies across global equities, futures, and options markets. Machine Learning Researchers work closely with Traders and Developers in an environment where problem solving, innovation and teamwork are recognized and rewarded. Your Core Responsibilities: Design, implement, and evaluate machine learning models for trading applications, with successful research deployed into production Apply rigorous statistical techniques to measure performance, control overfitting, and understand model risk and interpretability Investigate novel machine learning approaches through rigorous experimentation and analysis in real trading environments Communicate research progress and outcomes effectively, ensuring knowledge transfer within the team and across departments Collaborate closely with traders, researchers, and engineers to translate research into production trading systems Your Skills and Experience: PhD in Machine Learning, Computer Science, Electrical Engineering, Mathematics, Statistics, Physics or a related quantitative field Strong foundations in machine learning, probability, and statistics, with experience applying advanced ML techniques to solve challenging research or real-world problems Demonstrated hands-on research experience in deep learning fundamentals such as neural network architectures, sequence modeling, training dynamics, or optimization Proficiency in Python and modern machine learning frameworks such as PyTorch, Tensorflow, and/or JAX Demonstrated research excellence through publications, preprints, research internships, or significant research projects; publications at venues such as NeurIPS, ICML, ICLR, or equivalent conferences are highly preferred Ability to commence full-time employment in February or August 2027 You may submit one application per role each year.  We strongly encourage you to focus on applying to a single role that best matches your skills and interests.  Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2027. The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information. Base Salary: $300,000 About Us IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective, combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage. Create a Job Alert Interested in building your career at IMC? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another When did you graduate from High School? * Select... Select your Standardized Test score type: * Select... Provide your best result on SAT: * Select... Provide your best result on ACT: * Select... When is your anticipated graduation date - please select a Graduation Date range: * Select... What is your GPA? * Select... Will you require immigration sponsorship to begin working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Will you require immigration sponsorship in the future to continue working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Is there any other ",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 50,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1313,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 51,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1338,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1363,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 53,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1388,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1413,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1438,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 56,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1463,7 +1438,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1488,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1513,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1557,6 +1532,31 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/engelhart/jobs/8068980",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 61,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "DV Trading",
+      "role": "2027 Graduate Software Engineer - DV Commodities",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "salary": "$135,000–$150,000",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Software",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-11",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
