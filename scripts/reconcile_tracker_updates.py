@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """Merge reviewed email/application-status updates into the public tracker.
 
-The small YAML overlay is intentionally evidence-only: no Gmail message IDs, private links,
-or raw email bodies are written to the public repository.
+Reviewed observations live in one or more small YAML overlays named
+``tracker_email_updates*.yml``. Keeping daily evidence in separate overlays
+avoids rewriting a growing history file and makes exact-requisition updates
+easy to audit. No Gmail IDs, private links, or raw email bodies are written
+to the public repository.
 """
 from __future__ import annotations
 
@@ -15,7 +18,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-CONFIG = ROOT / "config" / "tracker_email_updates.yml"
+CONFIG_DIR = ROOT / "config"
+CONFIG_GLOB = "tracker_email_updates*.yml"
 TRACKER = DATA / "application_tracker.json"
 
 
@@ -32,14 +36,26 @@ def can_create(update: dict) -> bool:
     return bool(update.get("allow_create", False)) or norm(update.get("confidence")) == "exact"
 
 
+def load_updates() -> tuple[list[Path], list[dict]]:
+    paths = sorted(CONFIG_DIR.glob(CONFIG_GLOB))
+    updates: list[dict] = []
+    for path in paths:
+        config = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        batch = config.get("updates", []) or []
+        if not isinstance(batch, list):
+            raise ValueError(f"{path}: updates must be a list")
+        updates.extend(batch)
+    return paths, updates
+
+
 def main() -> None:
     tracker = json.loads(TRACKER.read_text(encoding="utf-8"))
-    config = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
+    config_paths, updates = load_updates()
     applications = tracker.setdefault("applications", [])
     by_key = {key(item): item for item in applications}
     changed = 0
 
-    for update in config.get("updates", []) or []:
+    for update in updates:
         lookup = (norm(update.get("company")), norm(update.get("role")))
         existing = by_key.get(lookup)
         if existing is None:
@@ -70,7 +86,10 @@ def main() -> None:
 
     tracker["updated_at"] = date.today().isoformat()
     TRACKER.write_text(json.dumps(tracker, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"tracker reconciliation complete: {len(config.get('updates', []) or [])} reviewed updates, {changed} field changes")
+    print(
+        f"tracker reconciliation complete: {len(updates)} reviewed updates "
+        f"from {len(config_paths)} overlay files, {changed} field changes"
+    )
 
 
 if __name__ == "__main__":
