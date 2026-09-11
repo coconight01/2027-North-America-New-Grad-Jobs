@@ -9,8 +9,8 @@
       "applied_date": "2026-08-28",
       "status_date": "2026-09-10",
       "confidence": "Exact",
-      "evidence": "Exact AXQ recruiting confirmation received on 2026-09-10 names Quantitative Developer - 2027 Graduate and schedules a Zoom interview with Tong Wang for September 15, 2026, 8:00-8:30 AM Central Time.",
-      "next_action": "Prepare for the confirmed September 15 quantitative-developer interview; no additional scheduling action is needed."
+      "evidence": "Official AXQ interview confirmation received on 2026-09-10 names the 2027 Graduate Quantitative Developer role and schedules a Zoom interview for 2026-09-15 8:00-8:30 AM Central Time.",
+      "next_action": "Prepare for the confirmed September 15 interview; no additional scheduling action is needed."
     },
     {
       "company": "MiniMax",
@@ -564,8 +564,8 @@
       "applied_date": "2026-08-31",
       "status_date": "2026-09-10",
       "confidence": "Exact",
-      "evidence": "Exact SpaceXAI recruiting email received on 2026-09-10 names Member of Technical Staff - RL Inference and says the team will not move forward with the application.",
-      "next_action": "No action. Keep other SpaceXAI/xAI requisitions independent; this rejection applies only to RL Inference."
+      "evidence": "Official SpaceXAI rejection received on 2026-09-10 names Member of Technical Staff - RL Inference and states the application will not advance.",
+      "next_action": "Closed for this exact requisition only; do not infer outcomes for other SpaceXAI/xAI roles."
     },
     {
       "company": "OpenAI",
@@ -656,6 +656,46 @@
       "confidence": "Exact",
       "evidence": "Two official Amazon messages received 2026-09-06 explicitly name EFA Network Software Engineer I, Annapurna Labs and Job ID 10481932, confirming the application was received.",
       "next_action": "Wait for review; remove only exact Amazon requisition 10481932 from recommendations."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "2027 New College Graduate: Software Engineering - China (JR2024111)",
+      "status": "Applied",
+      "applied_date": "2026-09-10",
+      "status_date": "2026-09-10",
+      "confidence": "Exact",
+      "evidence": "Official NVIDIA Workday confirmation received on 2026-09-10 names requisition JR2024111 and the exact 2027 New College Graduate: Software Engineering - China role.",
+      "next_action": "Wait for review; remove only JR2024111 from recommendations. Keep the separately submitted DL/HPC requisition JR2024107 independent."
+    },
+    {
+      "company": "Waymo",
+      "role": "ML Engineer, Foundation Model Recipes",
+      "status": "Applied",
+      "applied_date": "2026-09-10",
+      "status_date": "2026-09-10",
+      "confidence": "Exact",
+      "evidence": "Official Waymo application confirmation received on 2026-09-10 names the exact ML Engineer, Foundation Model Recipes role.",
+      "next_action": "Wait for review; remove only this exact role from recommendations. Keep Foundation Model Infrastructure and other Waymo requisitions independent."
+    },
+    {
+      "company": "Scale AI",
+      "role": "Software Engineer - New Grad (4730836005)",
+      "status": "Applied",
+      "applied_date": "2026-09-10",
+      "status_date": "2026-09-10",
+      "confidence": "Likely / context-supported",
+      "evidence": "Scale AI sent an application confirmation on 2026-09-10 immediately after the reviewed new-grad application, but the email names only the company and not the requisition. Conversation context strongly supports requisition 4730836005 without proving it.",
+      "next_action": "Treat this exact new-grad requisition as likely submitted and verify in the portal if needed; do not suppress other Scale AI roles."
+    },
+    {
+      "company": "Nuance Labs",
+      "role": "Member of Technical Staff - Model Optimization and Inference (New Grad) (4283935009)",
+      "status": "Applied",
+      "applied_date": "2026-09-10",
+      "status_date": "2026-09-10",
+      "confidence": "Likely / context-supported",
+      "evidence": "Nuance Labs sent an application confirmation on 2026-09-10 immediately after the reviewed Model Optimization and Inference (New Grad) application, but the email itself names only the company. Context strongly supports requisition 4283935009 without proving it.",
+      "next_action": "Treat this exact requisition as likely submitted and verify in the portal if needed; do not suppress other Nuance Labs roles."
     }
   ]
 }
