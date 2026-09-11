@@ -27,8 +27,8 @@
       "fill": 0
     },
     "priority_company_candidates": 173,
-    "new_job_candidates": 117,
-    "high_potential_title_candidates": 213
+    "new_job_candidates": 125,
+    "high_potential_title_candidates": 215
   },
   "veto_counts": {
     "explicit 2026-only title": 10,
@@ -789,31 +789,6 @@
     },
     {
       "machine_rank": 31,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Domino Data Lab",
-      "role": "Forward Deployed Engineer - New Grad, 2027",
-      "category": "Software Engineering",
-      "location": "New York, NY, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-10",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aa1b3b33272060a8e3f19c3",
-      "jd_excerpt": "Forward Deployed Engineer - New Grad, 2027 @ Domino Data Lab | Jobright.ai SIGN IN JOIN NOW Forward Deployed Engineer - New Grad, 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW Domino Data Lab · 6 hours ago Forward Deployed Engineer - New Grad, 2027 United States Full-time Remote New Grad $150K/yr - $165K/yr Domino Data Lab builds software that helps AI-driven organizations develop and operate advanced data science and AI solutions at scale. The Forward Deployed Engineer will work directly with customers to deliver value from the Domino platform, develop custom AI solutions, and enhance legacy workflows using AI while applying data science, DevOps, and software engineering skills. Artificial Intelligence (AI) Big Data Enterprise Software Software AI Infrastructure Analytics Data Mining Enterprise Applications Machine Learning Comp. & Benefits H1B Sponsored Unicorn with $1.8B valuation Responsibilities As a new-grad Forward Deployed Engineer at Domino, you’ll work directly with customers to help them realize value from the Domino platform while developing custom AI solutions for mission-critical business operations Unlike traditional engineering roles, FDEs blend data science, devops, & software engineering skills with customer empathy and domain awareness You’ll partner with experienced FDEs to solve meaningful problems for our customers: enhancing legacy workflows with AI capabilities You’ll get hands-on experience writing code, designing solutions, and delivering impact in real-world, high-stakes environments from healthcare and life sciences to finance, government, and beyond At Domino, we trust our new-grad engineers to contribute to critical and high-visibility projects from the start You’ll have the opportunity to make a meaningful impact on your team and the company as a whole beginning on day one Qualification Artificial Intelligence and Machine Learning Data Science Programming Python R Required Passion for AI/ML, data science, and its real-world applications Experience coding in at least one industry-standard programming language (Python or R strongly preferred) Strong communication and problem-solving skills, with an interest in customer-facing work Graduating in Spring 2027, pursuing a Bachelor's or Master's degree in Data Science, Computer Science, or a related field Benefits This role may be eligible for a sign-on bonus and/or relocation assistance, which are not reflected in the salary range listed below. Equity 401(k) plan Medical, dental, and vision benefits Wellness stipends Company Domino Data Lab Glassdoor 3.4 Enterprise AI platform for regulated organizations. Founded in 2013 San Francisco, California, USA 201-500 employees https://domino.ai H1B Sponsorship Domino Data Lab has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 63 % Represents job field similar to this job Engineering and Development Product Management Creatives and Design Sales Customer Service and Support Trends of Total Sponsorships *2025 ( 8 ) 2024 ( 6 ) 2023 ( 10 ) 2022 ( 7 ) 2021 ( 11 ) 2020 ( 6 ) Funding Current Stage Late Stage Total Funding $223.6M Key Investors UBS Snowflake Ventures Great Hill Partners 2025-08-21 Series Unknown 2022-06-15 Series F 2021-10-05 Series F· $100M Leadership Team Nicholas Elprin Co-Founder and CEO Thomas Robinson CEO Recent News CRN 30 Notable IT Executive Moves: August 2026 2026-09-05 Financial IT Domino Appoints Thomas Robinson as CEO to Lead Company Into the AI Solutions Era 2026-08-28 Morningstar.com Domino Appoints Thomas Robinson CEO to Lead Company into AI Solutions Era 2026-08-27 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Artificial Intelligence and Machine Learning Data Science Programming Python R Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach A Amanda S. Director, Global Recruiting B Bartolomeo A. Forward Deployed Engineer Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 32,
       "machine_score": 73,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -838,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 32,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -863,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -938,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -963,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -988,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 38,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1013,7 +988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 39,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1038,7 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 40,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1063,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1088,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1113,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1138,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1163,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1188,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1213,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE; new-grad: confirmed",
@@ -1238,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 48,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1263,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 49,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1288,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 50,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1313,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 51,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1338,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1363,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 53,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1388,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1413,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1438,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 56,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1463,7 +1438,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1488,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1513,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1563,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1588,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1613,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1638,7 +1613,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1663,7 +1638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1686,6 +1661,31 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 66,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Quant",
+      "company": "Optiver",
+      "role": "Graduate Software Engineer - 2027 Start",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "salary": "$200,000–$200,000",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Software",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 67,
@@ -1716,31 +1716,6 @@
       "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
-      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "Quant",
-      "company": "Optiver",
-      "role": "Graduate Software Engineer - 2027 Start",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "salary": "$200,000–$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Software",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 69,
-      "machine_score": 59,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
       "company_priority": "",
       "company": "Washington University in St. Louis",
@@ -1763,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1788,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1813,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 71,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1838,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 72,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1863,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 73,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1888,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 74,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

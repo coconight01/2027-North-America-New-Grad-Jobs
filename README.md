@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-11** · Open roles: **1708**
+> Last automated update: **2026-09-11** · Open roles: **1718**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 9 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 16 |
-| **ByteDance / TikTok** (separate) | 342 |
-| Other companies | 1210 |
+| **ByteDance / TikTok** (separate) | 344 |
+| Other companies | 1218 |
 
 ### Big Tech & Frontier AI
 
@@ -71,9 +71,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Software Engineer (C++ or Python) – 2027 Grads](https://jobright.ai/jobs/info/6a5505cf377f983ce8a973cf) | $300K/yr - $300K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
@@ -92,7 +92,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>342 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>344 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -107,15 +107,15 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-11 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673941558289205509?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7672392998192154885?s=gh-new-grad-data-science-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7671103763276663045?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-07 | **TikTok** | [Data Engineer Graduate (Data Platfrom TikTok BP) - 2027 Start](https://jobright.ai/jobs/info/6a9e802f68f82b403673a31c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-11 | **TikTok** | [Site Reliability Engineer - Video System - USDS - Multiple Positions](https://lifeattiktok.com/search/7683307062865266949) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
 
-_Showing 12 of 342 active roles. Use the Job Radar for all roles._
+_Showing 12 of 344 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1708 active roles**. Featured groups account for **156** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1718 active roles**. Featured groups account for **156** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
