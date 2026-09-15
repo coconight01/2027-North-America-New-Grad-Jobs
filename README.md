@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-14** · Open roles: **1752**
+> Last automated update: **2026-09-15** · Open roles: **1745**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,17 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 87 |
+| **Big Tech & Frontier AI** | 89 |
 | **AI Infra / Systems** | 9 |
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 16 |
-| **ByteDance / TikTok** (separate) | 345 |
-| Other companies | 1252 |
+| **ByteDance / TikTok** (separate) | 349 |
+| Other companies | 1239 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
+| 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **NVIDIA** | [Security Software Engineer - Vulnerability Operations](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1) | $172k/yr | Remote - California, USA +5 | ❔ | ❔ Review | — |
 | 2026-09-03 | **Amazon** | [Software Dev Engineer I - Graviton Software - Annapurna Labs](https://www.amazon.jobs/jobs/10526808/apply) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
@@ -38,7 +40,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Cupertino | ❔ | ❔ Review | — |
 | 2026-08-26 | **Meta** | [Research Scientist -Meta Recommendation System Core modeling](https://www.metacareers.com/jobs/1737658657562156) | Not listed | Bellevue, Australia +1 | ❔ | ❔ Review | — |
-| 2026-08-25 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8d37002f736c304f2a8fef) | $147K/yr - $210K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
@@ -49,7 +50,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-02 | **Scale AI** | [Enterprise AI Development Strategist](https://job-boards.greenhouse.io/scaleai/jobs/4699572005) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
-| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Crusoe** | [Software Engineer I - DCIE](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Baseten** | [Applied AI Inference Engineer](https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa) | Not listed | Remote - San Francisco, CA +1 | ❔ | ❔ Review | — |
@@ -92,10 +93,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>345 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>349 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-15 | **ByteDance** | [Site Reliability Graduate (Data Infrastructure) - 2027 Start](https://zapply.jobs/l/d/bytedance-7675096204766054709?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
+| 2026-09-15 | **ByteDance** | [AI Vision Research Engineer Graduate (Pico) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7668433722454935861?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
+| 2026-09-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667334521286035765?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
+| 2026-09-15 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673946040656267573?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-14 | **ByteDance** | [Research Scientist Graduate (Multi-modal Agentic Databases)- 2027 Start (PHD)](https://zapply.jobs/l/d/bytedance-7665108869591140613?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-11 | **ByteDance** | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 | 2026-09-11 | **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start](https://zapply.jobs/l/d/bytedance-7672395094280063285?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | — |
@@ -104,18 +109,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-11 | **ByteDance** | [Product Security Engineer Graduate (Security BP) - 2027 Start](https://zapply.jobs/l/d/bytedance-7668636404159858997?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 | 2026-09-11 | **ByteDance** | [Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027...](https://zapply.jobs/l/d/bytedance-7668208806895831349?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 | 2026-09-11 | **ByteDance** | [Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673264681083898165?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-11 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-11 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673941558289205509?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7672392998192154885?s=gh-new-grad-data-science-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-11 | **ByteDance** | [Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7671103763276663045?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 
-_Showing 12 of 345 active roles. Use the Job Radar for all roles._
+_Showing 12 of 349 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1752 active roles**. Featured groups account for **155** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1745 active roles**. Featured groups account for **157** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
