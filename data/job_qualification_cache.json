@@ -20652,7 +20652,7 @@
     "salary_max_annual": 139000,
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-08-25",
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8c9acbd34f700f87fd1909": {
@@ -20668,7 +20668,7 @@
     "salary_max_annual": 80000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-25",
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8cab38cde3717f9e9be886": {
@@ -20751,6 +20751,22 @@
     "checked_at": "2026-08-25",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a8cb49ecde3717f9e9bed90": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$85K/yr - $122K/yr",
+    "salary_min_annual": 85000,
+    "salary_max_annual": 122000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a8cb4ab1d96e6541c8c298c": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -20780,7 +20796,7 @@
     "salary_max_annual": 122000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-25",
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8cdb5825fc4e7ae3dbab7c": {
@@ -22191,6 +22207,38 @@
     "checked_at": "2026-09-09",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a96f469e4e60e4b8da5ae3d": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "0-1 years of professional transportation engineering experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$86K/yr - $88K/yr",
+    "salary_min_annual": 86000,
+    "salary_max_annual": 88000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a96f49ae4e60e4b8da5ae5c": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "0-1 year of professional transportation engineering experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$81K/yr - $83K/yr",
+    "salary_min_annual": 81000,
+    "salary_max_annual": 83000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a96f972455eaf6a08c199d6": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -22215,12 +22263,12 @@
     "sponsorship": "No",
     "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "$76K/yr - $79K/yr",
-    "salary_min_annual": 76000,
+    "salary": "$77K/yr - $79K/yr",
+    "salary_min_annual": 77000,
     "salary_max_annual": 79000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9708e5b22f636c81415778": {
@@ -23725,6 +23773,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-12",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a9adaf0d5ff1f3f1c39b7c0": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$62K/yr - $103K/yr",
+    "salary_min_annual": 62000,
+    "salary_max_annual": 103000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9aec6cfe45b8490f604e35": {
@@ -27387,6 +27451,54 @@
     "salary_min_annual": 116000,
     "salary_max_annual": 165000,
     "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa968ba10b1cd4f41605db4": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$82K/yr - $96K/yr",
+    "salary_min_annual": 82000,
+    "salary_max_annual": 96000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa96cf128e24cb38513a5af": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$115K/yr - $115K/yr",
+    "salary_min_annual": 115000,
+    "salary_max_annual": 115000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa9790410b1cd4f416062a1": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$69K/yr - $99K/yr",
+    "salary_min_annual": 69000,
+    "salary_max_annual": 99000,
+    "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-09-15",
     "parser_version": 4
@@ -45603,6 +45715,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-11",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169083?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-15",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1606290?s=gh-new-grad-jobs-2027": {
