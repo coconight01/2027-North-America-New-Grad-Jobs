@@ -26,40 +26,19 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 174,
-    "new_job_candidates": 90,
-    "high_potential_title_candidates": 219
+    "priority_company_candidates": 177,
+    "new_job_candidates": 103,
+    "high_potential_title_candidates": 220
   },
-  "veto_counts": {},
-  "exact_tracked_jobs_removed": 0,
+  "veto_counts": {
+    "non-full-time program title": 4,
+    "security-clearance requirement in title": 3,
+    "explicit 2026-only title": 6
+  },
+  "exact_tracked_jobs_removed": 10,
   "candidates": [
     {
       "machine_rank": 1,
-      "machine_score": 94,
-      "machine_tier": "Top",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "C3 AI",
-      "role": "Forward Deployed Engineer,  New Grad 2027",
-      "category": "Software Engineering",
-      "location": "Redwood City, CA, United States",
-      "salary": "$120K/yr - $150K/yr",
-      "salary_max_annual": 150000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-14",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
-      "jd_excerpt": "Forward Deployed Engineer,  New Grad 2027 @ C3 AI | Jobright.ai SIGN IN JOIN NOW Forward Deployed Engineer,  New Grad 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW C3 AI · 5 hours ago Forward Deployed Engineer,  New Grad 2027 Redwood City, CA Full-time Onsite New Grad $120K/yr - $150K/yr C3 AI is an enterprise AI application software company that provides platforms and applications for developing and operating enterprise AI solutions. The Forward Deployed Engineer will design, develop, and deploy AI-based enterprise applications on the C3 Agentic AI Platform through customer-facing engagements, including demonstrations, proofs-of-technology, trials, and production applications. Artificial Intelligence (AI) Big Data Enterprise Software SaaS Software AI Infrastructure Data Integration Generative AI Machine Learning H1B Sponsor Likely Responsibilities Design, develop, and maintain performant and scalable applications on the C3 Agentic AI Platform Build and improve tools that help users understand and analyze large-scale data Perform debugging, troubleshooting, modifications, and unit testing of customer applications and solutions Assess technical risks and formulate mitigation strategies Develop new specifications, technical documentation, and user support guides Support technical demonstrations, proofs-of-technology, and customer training sessions alongside senior engineers Qualification Python JavaScript Java Data Structures and Algorithms Cloud Computing Relational Databases NoSQL Databases Profiling and Optimization Agentic AI Architectures Prompt Engineering LLM Tool-Calling React Redux Vue Backbone Angular Git Application Deployment at Scale Cursor GitHub Copilot Claude Code Verbal and Written Communication Required Currently pursuing a Bachelor of Science or Master of Science in Computer Science, Computer Engineering, or a related field, with an expected graduation date of Summer or Fall 2027 Experience with Python, JavaScript, Java, or other object-oriented programming languages, gained through coursework, academic projects, or internships Hands-on exposure to data structures, algorithms, cloud computing, relational or NoSQL databases, and profiling & optimization Familiarity with agentic AI architectures, prompt engineering, or the fundamentals of LLM tool-calling/function execution, through coursework, research, or personal projects Analytical and problem-solving mindset, with a passion for developing team-oriented solutions to complex engineering problems Ability to thrive in an autonomous, empowering, and exciting work environment Great verbal and written communication skills to collaborate multi-functionally and improve scalability Interest in committing to a fun, friendly, expansive, and intellectually stimulating environment Ability to travel as needed Preferred Coursework or hands-on exposure to JavaScript frameworks such as React, Redux, Vue, Backbone, or Angular Experience with Git or other version control software Internship, co-op, or academic project experience deploying applications at scale Experience using modern developer AI workflows (e.g., Cursor, GitHub Copilot, Claude Code) and understanding how they interact with underlying execution environments Benefits Excellent benefits Generous equity plan Company C3 AI Glassdoor 3.0 Enterprise AI software for developing and operating AI at scale. Founded in 2009 Redwood City, California, USA 1001-5000 employees https://c3.ai H1B Sponsorship C3 AI has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 90 % Represents job field similar to this job Engineering and Development Product Management Management and Executive Customer Service and Support Marketing Sales Creatives and Design Accounting and Finance Trends of Total Sponsorships *2026 ( 10 ) 2025 ( 106 ) 2024 ( 78 ) 2023 ( 74 ) 2022 ( 78 ) 2021 ( 60 ) 2020 ( 33 ) Funding Current Stage Public Company Total Funding $399.28M Key Investors BloombergNEF TPG Growth Breyer Capital,Thomas Siebel 2020-12-09 IPO 2020-07-14 Grant 2019-08-15 Series H· $49.8M Leadership Team Stephen Ehikian Chief Executive Officer Hitesh Lath Chief Financial Officer Recent News إنت عربي AI Is Not Enough: Why Investors Rewarded Snowflake and Overlooked C3.ai 2026-09-09 The Motley Fool C3.ai Stock Has Plummeted by 22% in 2026. Buy the Dip, or Run for the Hills? 2026-09-09 TradingView C3.ai, Inc. Q1 2026: Revenue $52.38M, EPS ($0.6) — 10-Q Summary 2026-09-09 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Python JavaScript Java Data Structures and Algorithms Cloud Computing Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Res",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 2,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -84,7 +63,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 3,
+      "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Performance / Runtime; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python; role shape: systems/performance role; new-grad: confirmed",
@@ -109,7 +88,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 3,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: C++, Python, Linux, Networking; role shape: entry-level ML role; $200k+ stated ceiling",
@@ -134,7 +113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 4,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -159,7 +138,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -182,6 +161,31 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 6,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Linux, Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer - Early Career - Campus",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA +9",
+      "salary": "$123000 - $174000",
+      "salary_max_annual": 174000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-10",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+      "jd_excerpt": "Software Engineer, Early Career, Campus — Google Careers Careers Careers Skip navigation links home home Home Home work_outline work_outline Jobs Jobs noogler_hat noogler_hat Students Students google google How we work How we work handyman handyman How we hire How we hire person_outline person_outline Your career Your career help_outline Help link feedback Send feedback more_vert Help Send Feedback Sign in Careers Careers home Home work_outline Jobs expand_more noogler_hat Students expand_more google How we work expand_more handyman How we hire expand_more person_outline Your career expand_more job details arrow_back Back to jobs search Jobs search results 3,366 jobs matched Account Manager, Gaming and Apps, Large Customer Sales (Urdu, English) Karachi, Pakistan Senior iOS UX Engineer, Search App Mountain View, CA, USA ; New York, NY, USA Senior Staff Software Engineer, Unified Traffic Engineering, Infrastructure Sunnyvale, CA, USA Product Marketing Manager, Social Growth, Ads Marketing San Francisco, CA, USA Industry Manager, eCommerce, Large Customer Sales (English, Japanese) Tokyo, Japan Software Engineer, Chrome Networking Security Mountain View, CA, USA ; Cambridge, MA, USA Trust and Safety Analyst, Developer Experience and Ecosystem Programs Atlanta, GA, USA ; Austin, TX, USA ; +2 more ; +1 more Sales Specialist, Oracle, Google Cloud Salt Lake City, UT, USA ; Austin, TX, USA ; +11 more ; +10 more Senior Product Technology Manager, Cloud Support on Gemini Sunnyvale, CA, USA ; Seattle, WA, USA ; +3 more ; +2 more AI Technical Delivery Lead, Google Cloud London, UK Glasses NPI Lead New Taipei, Banqiao District, New Taipei City, Taiwan Technical Program Manager I, Infrastructure, Google Cloud Addison, TX, USA ; Reston, VA, USA ; +2 more ; +1 more Power Delivery Design Engineer, Google Cloud Tel Aviv, Israel ; Haifa, Israel Senior Product Manager, App Ads Measurement and Ecosystem Mountain View, CA, USA ; New York, NY, USA Senior Software Engineer, Ask Google Pay Singapore Data Center Technician II, Hardware Operations Saint George, SC, USA Engineering Analyst, YouTube Trust and Safety Hyderabad, Telangana, India Data Center Technician, Server Operations Mumbai, Maharashtra, India Business Intelligence Analyst, Google Cloud Support Waterloo, ON, Canada Staff Software Engineer, Full Stack, Google Cloud Kirkland, WA, USA Showing 1 to 20 of 3366 rows 1‑20 of 3366 navigate_next Go to next page Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press open_in_new Related Information Investor relations open_in_new Blog open_in_new Equal Opportunity Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . More about us expand_more Related information expand_more Equal opportunity expand_more Privacy open_in_new Applicant & Candidate Privacy open_in_new Terms open_in_new Manage cookies help Help open_in_new arrow_back Back to jobs search Software Engineer, Early Career, Campus share Share Software Engineer, Early Career, Campus link Copy link email Email a friend corporate_fare Google place Mountain View, CA, USA ; Cambridge, MA, USA ; +9 more ; +8 more bar_chart Early Early Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes. Apply share Share Software Engineer, Early Career, Campus link Copy link email Email a friend info_outline X The application window will be open until at least September 30, 2026 . This opportunity will remain online based on business needs which may be before or after specified date. Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionar",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 7,
@@ -212,6 +216,31 @@
       "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
+      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Linux, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "EFA Network Software Engineer I - Annapurna Labs",
+      "category": "Infrastructure / Systems",
+      "location": "Seattle, WA",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-23",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10481932/apply",
+      "jd_excerpt": "EFA Network Software Engineer I, Annapurna Labs - Job ID: 10481932 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ EFA Network Software Engineer I, Annapurna Labs Job ID: 10481932 | Annapurna Labs (U.S.) Inc. Apply now Description Want to help make the next generation of Machine Learning in the cloud possible? Do you have a laser focus on performance in your code? We want to talk to you! We own the user-space software that makes the Elastic Fabric Adapter (EFA) network card work for Machine Learning (ML) and High-Performance Computing (HPC) customers on AWS. Across multiple projects written in C, our team enables customers to network thousands of GPU and CPU instance types to handle the toughest clustered workloads. Be a part of a dynamic, fast-paced group that has a big impact every day on the hottest companies doing AI and HPC today. Key job responsibilities You will write the highest-performing code in C for multiple open source projects supporting EFA, such as Libfabric and Open MPI. You will work with multiple teams in the stack to invent new APIs for the latest concepts in networking in the cloud. Dive deep into how your customers are doing collectives and messaging at high bandwidth and low latency. Provide expert-level support to some of the biggest names in AI in the world. A day in the life Start from the needs of your customer and invent new ways of cutting the occupancy of the software stack for EFA. Get your peers and stakeholders on board with excellent written designs. Write comprehensive tests to drive the development of new features and guard against regressions. Work with our ML Infrastructure team to see your products perform on 100s and 1000s of top-end machine clusters. About the team We are a fast-paced team that owns the user-space software stack for EFA. As part of Annapurna Labs in AWS we are very nimble, paying careful attention to what the AI industry is going to try next, and having our products ready. We focus heavily on automation, confining operations to the most interesting problems as customers continuously experiment with what our network can do. Our team is a place of growth, concentrating on your career and goals and motivating you to achieve your highest potential. Basic Qualifications - Bachelor's degree or above in computer science, computer engineering, or related field, or Bachelor's degree - Strong programming skills in C (coursework, projects, or internship experience) - Familiarity with systems programming concepts (memory management, performance optimization, Linux) - Experience with source control (Git), code reviews, and build processes (internship experience counts) Preferred Qualifications - Contributions to open source projects (Libfabric, Open MPI, or similar) - Coursework or experience in computer networking (protocols, latency optimization, distributed systems) - Experience writing performance-critical code with a focus on minimizing instruction count and occupancy - Familiarity with HPC or ML infrastructure concepts - Experience with the full software development lifecycle including testing and operations Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 110,500.00 - 160,000.00 USD annually Job details USA, WA, Seattle Software Development Share this job Important FAQs for current Government employees Before proceeding, please review the following FAQs https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees JOIN US ON DOWNLOAD OUR APP Find Careers Job Categories Teams Locations Military careers Hourly Working At Amazo",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 9,
+      "machine_score": 100,
+      "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
       "company_priority": "Quant",
       "company": "Jane Street",
@@ -234,7 +263,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 10,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -254,31 +283,6 @@
       "official_source": false,
       "url": "https://www.linkedin.com/jobs/view/2027-early-career-software-engineer-at-anduril-industries-4427643568",
       "jd_excerpt": "2027 Early Career Software Engineer at Anduril Industries — Seattle, WA | LinkedIn Jobs Skip to main content LinkedIn 2027 Early Career Software Engineer in Boydton, VA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now 2027 Early Career Software Engineer Anduril Industries Seattle, WA Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . 2027 Early Career Software Engineer Anduril Industries Seattle, WA 2 days ago Over 200 applicants See who Anduril Industries has hired for this role Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. We are looking for Software Engineers to join our rapidly growing team! We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! What You’ll Do Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. Required Qualifications Must be pursuing or have recently completed a bachelor’s or master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. Preferred Qualifications Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. Have a bias for action. If you see a problem, you want to solve and fix it. Be naturally curious about the technologies and tools you use. Low-ego, high ownership, and mission oriented. US Salary Range $112,000—$149,000 USD Benefits The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits. Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To Ensu",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 10,
-      "machine_score": 95,
-      "machine_tier": "Top",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Linux, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "EFA Network Software Engineer I - Annapurna Labs",
-      "category": "Infrastructure / Systems",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-23",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10481932/apply",
-      "jd_excerpt": "EFA Network Software Engineer I, Annapurna Labs - Job ID: 10481932 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ EFA Network Software Engineer I, Annapurna Labs Job ID: 10481932 | Annapurna Labs (U.S.) Inc. Apply now Description Want to help make the next generation of Machine Learning in the cloud possible? Do you have a laser focus on performance in your code? We want to talk to you! We own the user-space software that makes the Elastic Fabric Adapter (EFA) network card work for Machine Learning (ML) and High-Performance Computing (HPC) customers on AWS. Across multiple projects written in C, our team enables customers to network thousands of GPU and CPU instance types to handle the toughest clustered workloads. Be a part of a dynamic, fast-paced group that has a big impact every day on the hottest companies doing AI and HPC today. Key job responsibilities You will write the highest-performing code in C for multiple open source projects supporting EFA, such as Libfabric and Open MPI. You will work with multiple teams in the stack to invent new APIs for the latest concepts in networking in the cloud. Dive deep into how your customers are doing collectives and messaging at high bandwidth and low latency. Provide expert-level support to some of the biggest names in AI in the world. A day in the life Start from the needs of your customer and invent new ways of cutting the occupancy of the software stack for EFA. Get your peers and stakeholders on board with excellent written designs. Write comprehensive tests to drive the development of new features and guard against regressions. Work with our ML Infrastructure team to see your products perform on 100s and 1000s of top-end machine clusters. About the team We are a fast-paced team that owns the user-space software stack for EFA. As part of Annapurna Labs in AWS we are very nimble, paying careful attention to what the AI industry is going to try next, and having our products ready. We focus heavily on automation, confining operations to the most interesting problems as customers continuously experiment with what our network can do. Our team is a place of growth, concentrating on your career and goals and motivating you to achieve your highest potential. Basic Qualifications - Bachelor's degree or above in computer science, computer engineering, or related field, or Bachelor's degree - Strong programming skills in C (coursework, projects, or internship experience) - Familiarity with systems programming concepts (memory management, performance optimization, Linux) - Experience with source control (Git), code reviews, and build processes (internship experience counts) Preferred Qualifications - Contributions to open source projects (Libfabric, Open MPI, or similar) - Coursework or experience in computer networking (protocols, latency optimization, distributed systems) - Experience writing performance-critical code with a focus on minimizing instruction count and occupancy - Familiarity with HPC or ML infrastructure concepts - Experience with the full software development lifecycle including testing and operations Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 110,500.00 - 160,000.00 USD annually Job details USA, WA, Seattle Software Development Share this job Important FAQs for current Government employees Before proceeding, please review the following FAQs https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees JOIN US ON DOWNLOAD OUR APP Find Careers Job Categories Teams Locations Military careers Hourly Working At Amazo",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -460,31 +464,6 @@
     },
     {
       "machine_rank": 18,
-      "machine_score": 77,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Klaviyo",
-      "role": "Software Engineer I",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "salary": "$104,000–$156,000",
-      "salary_max_annual": "156000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-13",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
-      "jd_excerpt": "Job Application for Software Engineer I at Klaviyo Campus New Software Engineer I Boston, MA Apply At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If you’re a close but not exact match with the description, we hope you’ll still consider applying. - What's it like to ship code that thousands of people actually use? As a Software Engineer at Klaviyo, you'll find out fast. We're builders here: we run toward problems, hold ourselves to a high bar, and believe the work itself is the reward. Another payoff of this early career role is growth. You'll sharpen your skills, learn from engineers who've been in the trenches, and get your hands on projects that matter from day one. Our engineering teams build scalable, high-performance systems that power both our product and the infrastructure behind it. In this role, you'll get exposed to modern infrastructure and engineering practices that allow you to grow as a software engineer. We're an AI-first company, so you'll be expected to use AI tools to move faster, learn quicker, and do better work. You'll have ownership: writing and testing code, documenting it, deploying it, and keeping it running in production. If you're ready to launch your engineering career building systems that matter in a fast-moving, product-driven environment, this is your role. Dec 2026 grads: start dates on a rolling basis. Spring 2027 grads: start dates June–August. How you'll make an impact Own features that our 180K+ paying customers rely on daily to reach their consumers and grow their business. Take responsibility for the mission, technical direction, and operation of projects with immediate impact. Own the full lifecycle of your code: writing it, testing it, shipping it, and making it better over time. Ownership is expected here, not just encouraged. Build and ship features that meet a high bar and grow your technical skills while you do it. Get hands-on debugging real issues, both locally and in production. Contribute to documentation and support your team during incidents (real-world problems teach you things a tutorial never will). Work closely with your teammates: ask questions, share ideas, and get better by taking feedback seriously. Learn to use the right tool for the job, lean into AI, and keep looking for ways to make things better. Put AI at the center of how you work to move faster. Build smarter systems and better workflows from the ground up. Who you are Two previous internship/co-op roles working with production-level code Currently pursuing a degree in Computer Science, Engineering, Data Science, Math/Statistics, or a related field Graduating in December 2026 or May/June 2027 Experience with some of these technologies and languages: Python, Django, Typescript, React, Go MySQL, Cassandra, Clickhouse, Kafka, Redis Amazon Web Services (EC2, RDS, Aurora, etc.), Terraform You enjoy working across new technologies and you’re excited to work across the stack from back-end to front-end work You give and take feedback directly. Klaviyos pull problems closer instead of avoiding them. You're comfortable moving forward before every answer is known, and you adjust fast when the ground shifts under you. You embrace Klaviyo's \"always learning\" culture, continually pushing yourself to grow as an engineer. You've already experimented with AI in work or personal projects, and you're excited to find ways to make your work smarter and more efficient. Engineering at Klaviyo Our engineering teams are organized into pillars to keep the work focused. All Software Engineer I offers are team agnostic.  Team placement occurs ~ 30-day pre-start.  Placement can be on a full-stack, back-end, or front-end team within any of the pillars. Data Infrastructure: Empower our internal teams and customers to get the best out of our data and agent platforms. underlying capabilities: Agent Platform, CDP revenue, Data Lake usage, Active API endpoints, Accounts with healthy API usage MCMI: Own the growth, revenue, and reliability of our mobile channels and all messaging infrastructure. Core Infrastructure: Empower our internal engineering, sales, and service teams to be as effective as possible by improving productivity of the eng, product, and design teams. Growth Marketing Platform : Give marketers the tools they need to engage with their customers, be successful, and know where they stand. AI & Analytics: Applies AI, data, and analytics to automate work, surface insights, and help customers make smarter decisions that maximize Klaviyo Attributed Value (KAV). Autonomous Service: Builds AI-powered customer service experiences that help resolve issues, support transactions, and connect customers with human assistance when needed. If you're excited about this role bu",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 19,
       "machine_score": 81,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, PyTorch; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -509,7 +488,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 81,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, PyTorch; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -534,32 +513,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 21,
-      "machine_score": 81,
-      "machine_tier": "Strong",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, PyTorch; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "Google",
-      "role": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "Sunnyvale, CA, United States",
-      "salary": "$147K/yr - $210K/yr",
-      "salary_max_annual": "210000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-08-24",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8c1b2dd34f700f87fcf0dd",
-      "jd_excerpt": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start @ Google | Jobright.ai SIGN IN JOIN NOW Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start jobs in United States Overview Company Apply on Employer Site APPLY NOW Google · 2 weeks ago Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start Sunnyvale, CA +9 more Full-time Onsite New Grad $147K/yr - $210K/yr Google develops large-scale technologies and AI and Machine Learning solutions used by billions of people. The Software Engineer will collaborate on or lead projects involving advanced ML systems, build end-to-end ML solutions across the stack, optimize production performance, and promote engineering excellence. Advertising AdTech Cloud Computing Cyber Security Telecom & Communications Enterprise Software Software Advertising Platforms Cloud Infrastructure Consumer Applications Internet Location Based Services Productivity Tools Search Engine Growth Opportunities H1B Sponsor Likely Responsibilities Collaborate or lead on team projects to carry out design, analysis, and development of advanced ML systems across the stack using your research expertise Support building end-to-end ML Systems that involves working across the full stack, from low-level hardware acceleration and compiler optimizations to high-level model architecture and production APIs, transforming your research expertise into robust, scalable products Optimize complex system performance by analyzing and fixing performance bottlenecks, memory inefficiencies, and errors in production systems to meet stringent customer goals Elevate engineering excellence by writing well-tested code, conducting code reviews and fostering a culture of quality by advocating best engineering practices Qualification Machine Learning/Artificial Intelligence Python C C++ Java JavaScript Golang Distributed Systems ML Model Development Data Ingestion and Processing Pipelines API Development PyTorch Required PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field, or equivalent practical experience Experience coding in one of the following programming languages including but not limited to: Python, C, C++, Java, JavaScript or Golang Experience in Machine Learning or Artificial Intelligence Preferred Research experience in designing, developing, or applying ML/AI systems or applications in a large-scale distributed environment Experience in designing, training, or refining complex ML/AI models Experience in building a stack for an AI-powered application, including data ingestion and processing pipelines, building APIs, and connecting the model to a user-facing interface Familiarity with model architectures (CNNs, NLP Transformers, Diffusion/Vision Transformers) Experience developing with Rust and modern deep learning frameworks such as PyTorch, JAX, or TensorFlow Availability to start in a full-time role in 2027 Benefits Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year 15% bonus target Equity Company Google Glassdoor 4.4 Internet search and productivity software with AI products. Founded in 1998 Mountain View, California, USA 10001+ employees https://www.google.com H1B Sponsorship Google has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 80 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Sales Creatives and Design Accounting and Finance Marketing Customer Service and Support Legal and Compliance Human Resources Public Sector and Government Education and Training Arts and Entertainment Trends of Total Sponsorships *2026 ( 2639 ) 2025 ( 8763 ) 2024 ( 8872 ) 2023 ( 9682 ) 2022 ( 11626 ) 2021 ( 9109 ) 2020 ( 9785 ) Funding Current Stage Public Company Total Funding $26.1M Key Investors Kleiner Perkins,Sequoia Capital Andy Bechtolsheim 2004-08-19 IPO 1999-06-07 Series Unknown· $25M 1998-11-01 Angel· $1M Leadership Team Sundar Pichai CEO Thomas Kurian CEO - Google Cloud Recent News BGR 5 Clever Uses For The Google Pixel Tag 2026-08-31 BGR 5 Reasons To Skip The Google Pixel 11 (And Why You Should Upgrade To The Pixel 10 Now) 2026-08-31 BGR Why Did Motorola Phones Fail (And What Brought Them Back)? 2026-08-31 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score F",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 22,
+      "machine_rank": 20,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -584,7 +538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 21,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -609,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 22,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -634,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 23,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; new-grad: confirmed",
@@ -659,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 24,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -684,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 25,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -709,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 26,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -734,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 27,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -759,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 28,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -784,57 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
-      "machine_score": 64,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
-      "company_priority": "",
-      "company": "DV Trading",
-      "role": "2027 Quantitative Trader Graduate - DV Equities",
-      "category": "Quantitative Finance",
-      "location": "New York City, NY",
-      "salary": "$80,000 - $100,000",
-      "salary_max_annual": 100000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Currently pursuing a Bachelor",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-12",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719106005",
-      "jd_excerpt": "Job Application for 2027 Quantitative Trader Graduate (DV Equities) at DV Trading New 2027 Quantitative Trader Graduate (DV Equities) New York Apply Now About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: As a Quantitative Trader Graduate, you will join our DV Equities desk and participate in the execution and risk management of systematic trading strategies across global equity markets, learning our proprietary methodologies and systems through hands-on experience. You will work closely with senior traders and quantitative researchers to develop, refine, and monitor data-driven trading models. This role is designed for graduates with a strong quantitative foundation, a genuine curiosity about markets, and a willingness to grow in a fast-paced environment. Responsibilities: Work closely with senior traders to learn proprietary methodologies and quantitative trading systems Participate in the execution and risk management of systematic trading strategies, including trade execution and risk layoffs Build, maintain, and improve quantitative trading models using historical market and orderbook data Analyze large datasets to identify patterns, inefficiencies, and new alpha opportunities for systematic strategies Enhance existing strategies and identify new opportunities through data-driven research Liaise between the trading desk, internal teams, and OTC relationships Monitor live trading performance and iterate on models based on real-time market feedback Additional responsibilities may be driven by the individual's interests and skills Requirements: Currently pursuing a Bachelor's, Master's, or PhD in a quantitative field (Mathematics, Statistics, Economics, Computer Science, Physics, Engineering, or related), with an expected graduation by Summer 2027 Strong proficiency in Python; experience with SQL, statistical modeling, or C++ is highly preferred Strong foundation in math, probability, and statistics Genuine interest in financial markets, algorithmic trading, and market microstructure Demonstrated ability to learn quickly and perform in a fast-paced, high-pressure environment Ability to maintain composure and communicate clearly under pressure Exceptional problem-solving ability and multitasking skills Prior internship experience in trading, quantitative research, or data analysis is a plus DV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV, and no fee will be paid in the event the candidate is hired by DV. DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees. The range below reflects the expected base salary for this position. It represents a good-faith estimate of the base pay we anticipate offering, with actual compensation determined by your experience, education, skills, and performance throughout the interview process. This role is also eligible for a discretionary bonus (at DV Trading's discretion) and DV Trading's benefits package, including the benefits listed above. Base Salary Range $80,000 - $100,000 USD Create a Job Alert Interested in building your career at DV Trading? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another LinkedIn Profile Please re-confirm the university you currently attend * Select... Please re-confirm your expected graduation date * Select... Undergrad Discipline(s) * Mathematics Statistics Applied Mathematics Pure Mathematics Computational Mathematics Computer Science Software Engineering Computer Engineering Data Science Artificial Intelligence Machine Learning Cybersecurity Information Technology Information Systems Human-Computer Interaction Electrical Engin",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 32,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems; role shape: early-career SWE; downrank: generic CRUD/backend; new-grad: confirmed",
-      "company_priority": "",
-      "company": "C3 AI",
-      "role": "Platform Full-Stack Engineer, New Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Redwood City, CA, United States",
-      "salary": "$120K/yr - $150K/yr",
-      "salary_max_annual": 150000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-14",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aa8242b3a9f0a4fe6f177ec",
-      "jd_excerpt": "Platform Full-Stack Engineer, New Grad 2027 @ C3 AI | Jobright.ai SIGN IN JOIN NOW Platform Full-Stack Engineer, New Grad 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW C3 AI · 5 hours ago Platform Full-Stack Engineer, New Grad 2027 Redwood City, CA Full-time Onsite New Grad $120K/yr - $150K/yr C3 AI is an enterprise AI application software company that provides platforms and applications for developing, deploying, and operating enterprise AI solutions. The Platform Full-Stack Engineer will help build and evolve the C3 AI Platform by developing scalable full-stack capabilities, platform services, APIs, developer tools, and application features while addressing performance, reliability, and usability challenges. Artificial Intelligence (AI) Big Data Enterprise Software SaaS Software AI Infrastructure Data Integration Generative AI Machine Learning H1B Sponsor Likely Responsibilities Design, develop, test, and maintain scalable full-stack capabilities for the C3 AI Platform Build reliable and reusable platform services, APIs, developer tools, and application capabilities Write clean, efficient, maintainable, and reusable code Contribute to solutions that enable AI applications to efficiently process and scale to large volumes of data Collaborate with product managers, designers, and engineers to translate requirements into high-quality technical solutions Troubleshoot and resolve technical issues across the full technology stack Participate in code reviews, testing, and continuous improvements to platform quality, performance, and reliability Learn and adopt new technologies and engineering practices to continuously improve the C3 AI Platform Qualification Full-Stack Application Development Python Java JavaScript TypeScript React API Development Database Development Distributed Systems Microservices CI/CD AI/ML Integration Required Currently pursuing a Bachelor's degree in Computer Science, Computer Engineering, or a related technical field, with an expected graduation date of Summer or Fall 2027 Strong programming fundamentals and experience developing software in at least one programming language, such as Python, Java, JavaScript, or TypeScript Basic understanding of full-stack application development, including APIs, databases, and distributed systems Familiarity with modern software development frameworks and tools through coursework, internships, personal projects, or prior work experience Strong problem-solving and analytical skills, with attention to detail Demonstrated ability to learn new concepts and technologies quickly Excellent communication and collaboration skills Ability to work effectively in a fast-paced, agile engineering environment Preferred Experience building full-stack applications or platform services through internships, projects, open source, or professional experience Experience with technologies such as React, TypeScript, Python, Java, or similar modern technologies Familiarity with cloud platforms, microservices, distributed systems, or scalable application architectures Experience building or working with platform services, APIs, data storage, CI/CD pipelines, or other software development infrastructure Experience building developer tools or platforms that improve engineering productivity Experience integrating AI/ML capabilities or working with AI-powered applications Strong understanding of software architecture, performance, and reliability principles Ability to clearly articulate technical concepts to both technical and non-technical audiences Benefits Generous equity plan Company C3 AI Glassdoor 3.0 Enterprise AI software for developing and operating AI at scale. Founded in 2009 Redwood City, California, USA 1001-5000 employees https://c3.ai H1B Sponsorship C3 AI has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 90 % Represents job field similar to this job Engineering and Development Product Management Management and Executive Customer Service and Support Marketing Sales Creatives and Design Accounting and Finance Trends of Total Sponsorships *2026 ( 10 ) 2025 ( 106 ) 2024 ( 78 ) 2023 ( 74 ) 2022 ( 78 ) 2021 ( 60 ) 2020 ( 33 ) Funding Current Stage Public Company Total Funding $399.28M Key Investors BloombergNEF TPG Growth Breyer Capital,Thomas Siebel 2020-12-09 IPO 2020-07-14 Grant 2019-08-15 Series H· $49.8M Leadership Team Stephen Ehikian Chief Executive Officer Hitesh Lath Chief Financial Officer Recent News إنت عربي AI Is Not Enough: Why Investors Rewarded Snowflake and Overlooked C3.ai 2026-09-09 The Motley Fool C3.ai Stock Has Plummeted by 22% in 2026. Buy the Dip, or Run for the Hills? 2026-09-09 TradingView C3.ai, Inc. Q1 2026: Revenue $52.38M, EPS ($0.6) — 10-Q Summary 2026-09-09 C",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 33,
+      "machine_rank": 29,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -859,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 30,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -884,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 31,
       "machine_score": 73,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -909,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 32,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -934,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 33,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -959,7 +863,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 34,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10526808/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -984,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 36,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1009,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 37,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1034,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 38,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1059,7 +988,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 39,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Engineer I - Memberships",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-28",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10515912/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 40,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1084,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 41,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1109,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 42,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1134,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 43,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1159,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 44,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1184,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 45,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1209,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 46,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1234,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 47,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1259,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 48,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1284,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 49,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1309,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 50,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1334,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1353,13 +1307,13 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://apply.workable.com/weekday-1/j/BF32A485B8",
-      "jd_excerpt": "Machine Learning Engineer - Model Evaluation & Experimentation - Weekday AI",
+      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 52,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1384,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 53,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1409,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 54,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1434,7 +1388,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 55,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1459,7 +1413,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 56,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Cupertino, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10464055/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1484,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1509,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1534,82 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10464040/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 62,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Amazon OpenSearch - OpenSearch Core",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10487557/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 63,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS OpenSearch Service",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10477971/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 64,
+      "machine_rank": 60,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1634,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1659,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1684,7 +1588,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1709,7 +1613,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1734,7 +1638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1759,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1784,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1809,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1834,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 69,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1859,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 70,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1884,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 71,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1909,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 72,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1934,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 73,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1959,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 74,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
