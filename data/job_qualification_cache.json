@@ -21356,7 +21356,7 @@
     "salary_max_annual": 87000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-03",
+    "checked_at": "2026-09-16",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8f1d31382b237ac80c468a": {
@@ -21820,7 +21820,7 @@
     "salary_max_annual": 84000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-03",
+    "checked_at": "2026-09-16",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a95b4589fcec5442372e941": {
@@ -23596,7 +23596,7 @@
     "salary_max_annual": 88000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-08",
+    "checked_at": "2026-09-16",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a99e00f551435518ebf1d47": {
@@ -23740,7 +23740,7 @@
     "salary_max_annual": 91000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-04",
+    "checked_at": "2026-09-16",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9a06eb040e5c3d0759a589": {
@@ -23756,7 +23756,7 @@
     "salary_max_annual": 91000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-04",
+    "checked_at": "2026-09-16",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9a11f6040e5c3d0759a9a3": {
@@ -27835,6 +27835,38 @@
     "salary_min_annual": 81000,
     "salary_max_annual": 90000,
     "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aaad52076707040fb0828b0": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$77K/yr - $85K/yr",
+    "salary_min_annual": 77000,
+    "salary_max_annual": 85000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aaadc614be87a72913a1d57": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$80K/yr - $82K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 82000,
+    "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-09-16",
     "parser_version": 4
@@ -46437,6 +46469,22 @@
     "checked_at": "2026-09-16",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31638?s=gh-internships-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/workday-msd-searchjobs-R404472?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry-Level",
@@ -46534,6 +46582,22 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251131?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251131?s=gh-new-grad-software-engineering-jobs-2027": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
