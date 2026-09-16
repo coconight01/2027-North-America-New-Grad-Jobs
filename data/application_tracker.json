@@ -148,12 +148,12 @@
     {
       "company": "Akuna Capital",
       "role": "Software Engineer (Entry-Level) - Python",
-      "status": "OA Completed",
+      "status": "Interview",
       "applied_date": "2026-08-12",
-      "status_date": "2026-08-29",
+      "status_date": "2026-09-16",
       "confidence": "Exact",
-      "evidence": "The exact Python entry-level application and assessment invitation are already tracked; HackerRank confirmed submission of 2026-2027 Python Software Engineer I - Assessment 1 on 2026-08-29.",
-      "next_action": "Assessment submitted; wait for Akuna review."
+      "evidence": "Official Akuna recruiting emails on 2026-09-16 name the exact (OCI/UIUC) Software Engineer (Entry-Level) - Python, 2027 role, state the HackerRank feedback was positive, and confirm advancement to a Technical Phone Screen + Code Pair.",
+      "next_action": "Prepare for the scheduled Technical Phone Screen + Code Pair; interview details are confirmed by Akuna."
     },
     {
       "company": "FlexAI",
@@ -696,6 +696,26 @@
       "confidence": "Likely / context-supported",
       "evidence": "Nuance Labs sent an application confirmation on 2026-09-10 immediately after the reviewed Model Optimization and Inference (New Grad) application, but the email itself names only the company. Context strongly supports requisition 4283935009 without proving it.",
       "next_action": "Treat this exact requisition as likely submitted and verify in the portal if needed; do not suppress other Nuance Labs roles."
+    },
+    {
+      "company": "WeRide",
+      "role": "New Grads 2027 - Software Engineer, Algorithm",
+      "status": "Interview",
+      "applied_date": null,
+      "status_date": "2026-09-15",
+      "confidence": "Exact",
+      "evidence": "Official WeRide recruiting confirmation names the exact New Grads 2027 - Software Engineer, Algorithm position and confirms a 45-60 minute interview on September 18, 2026 at 2:30 PM Pacific Time.",
+      "next_action": "Prepare for the September 18, 2:30 PM PT interview."
+    },
+    {
+      "company": "DRW",
+      "role": "Software Developer",
+      "status": "Interview",
+      "applied_date": null,
+      "status_date": "2026-09-14",
+      "confidence": "Exact",
+      "evidence": "Official DRW interview confirmation names the Software Developer position and confirms a technical Zoom interview on September 22, 2026 at 11:00 AM Central Time.",
+      "next_action": "Prepare for the September 22, 11:00 AM CT technical Zoom interview."
     }
   ]
 }
