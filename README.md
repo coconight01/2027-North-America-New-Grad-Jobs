@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-17** · Open roles: **1803**
+> Last automated update: **2026-09-17** · Open roles: **1817**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,23 +18,23 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 90 |
+| **Big Tech & Frontier AI** | 91 |
 | **AI Infra / Systems** | 9 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 16 |
 | **ByteDance / TikTok** (separate) | 351 |
-| Other companies | 1295 |
+| Other companies | 1308 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-17 | **Amazon** | [Software Development Engineer - AWS Security](https://www.amazon.jobs/jobs/10544608/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-15 | **Amazon** | [Software Development Engineer - Catalog System Services - SPCL](https://www.amazon.jobs/jobs/10539357/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-09-04 | **NVIDIA** | [Security Software Engineer - Vulnerability Operations](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1) | $172k/yr | Remote - California, USA +5 | ❔ | ❔ Review | — |
-| 2026-09-03 | **Amazon** | [Software Dev Engineer I - Graviton Software - Annapurna Labs](https://www.amazon.jobs/jobs/10526808/apply) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Google** | [Software Engineer](https://www.google.com/about/careers/applications/jobs/results/106684387621249734) | $149,400–$175,000 | Mountain View, CA | ❔ | ❔ Review | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
@@ -116,7 +116,7 @@ _Showing 12 of 351 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1803 active roles**. Featured groups account for **157** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1817 active roles**. Featured groups account for **158** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
