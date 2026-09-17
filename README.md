@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-16** · Open roles: **1793**
+> Last automated update: **2026-09-17** · Open roles: **1799**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -20,10 +20,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 90 |
 | **AI Infra / Systems** | 9 |
-| **Quant / HFT** | 43 |
+| **Quant / HFT** | 42 |
 | **Other high-value tech** | 16 |
 | **ByteDance / TikTok** (separate) | 351 |
-| Other companies | 1284 |
+| Other companies | 1291 |
 
 ### Big Tech & Frontier AI
 
@@ -32,7 +32,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-15 | **Amazon** | [Software Development Engineer - Catalog System Services - SPCL](https://www.amazon.jobs/jobs/10539357/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ✅ Confirmed | — |
+| 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-09-04 | **NVIDIA** | [Security Software Engineer - Vulnerability Operations](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1) | $172k/yr | Remote - California, USA +5 | ❔ | ❔ Review | — |
 | 2026-09-03 | **Amazon** | [Software Dev Engineer I - Graviton Software - Annapurna Labs](https://www.amazon.jobs/jobs/10526808/apply) | Not listed | Austin, TX | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Google** | [Software Engineer](https://www.google.com/about/careers/applications/jobs/results/106684387621249734) | $149,400–$175,000 | Mountain View, CA | ❔ | ❔ Review | — |
@@ -61,7 +61,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-09-12 | **Optiver** | [Graduate Software Engineer (2027 Start)](https://jobright.ai/jobs/info/6aa47be4c1928370a285e1ea) | $200K/yr - $200K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-11 | **IMC Trading** | [2027 US Chess Academy Interest Form](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | Not listed | Chicago, United States | ❔ | ❔ Review | — |
 | 2026-09-09 | **Two Sigma** | [Software Engineering Full-Time Campus Hire - NYC 2027](https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df) | $225K/yr - $225K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-03 | **Akuna Capital** | [Expression of Interest: 2027 Trading Sneak Peek Weeks · 2027](https://www.akunacapital.com/careers/job/7986086?gh_jid=7986086) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
@@ -74,6 +73,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
+| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | $412k/yr | New York City, NY | ❔ | ◐ Likely | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
@@ -116,7 +116,7 @@ _Showing 12 of 351 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1793 active roles**. Featured groups account for **158** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1799 active roles**. Featured groups account for **157** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
