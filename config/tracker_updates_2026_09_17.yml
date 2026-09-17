@@ -1,0 +1,38 @@
+# Reconciled from user-confirmed applications and exact Gmail evidence on 2026-09-17.
+updates:
+  - company: Domino Data Lab
+    role: "Software Engineer - New Grad, 2027 (7992556)"
+    status: Applied
+    status_date: "2026-09-16"
+    confidence: Exact
+    evidence: "User explicitly confirmed the recommended 7992556 requisition was the Domino role submitted; a Domino Greenhouse company-level confirmation was received on 2026-09-11."
+  - company: Inferact
+    role: "Member of Technical Staff, Inference"
+    status: Applied
+    status_date: "2026-09-16"
+    confidence: Exact
+    evidence: "User explicitly confirmed submission of the exact Inferact MTS, Inference application; no confirmation email was found in either connected Gmail account."
+  - company: Spectral Labs
+    role: "Engineer, New Grad"
+    status: Applied
+    status_date: "2026-09-16"
+    confidence: Exact
+    evidence: "Exact Spectral Labs confirmation email names Engineer, New Grad."
+  - company: Retell AI
+    role: "Senior Forward Deployed Engineer"
+    status: Applied
+    status_date: "2026-09-16"
+    confidence: Exact
+    evidence: "Exact Ashby confirmation email names Senior Forward Deployed Engineer. Do not conflate with the separate Forward Deployed Engineer, New Grad requisition."
+  - company: Retell AI
+    role: "Forward Deployed Engineer, New Grad"
+    status: Uncertain
+    status_date: "2026-09-17"
+    confidence: Exact-role-unproven
+    evidence: "User intended to submit the New Grad role, but the received Ashby confirmation names Senior Forward Deployed Engineer; verify portal history before any additional submission."
+  - company: AXQ Capital
+    role: "Quantitative Developer - 2027 Graduate"
+    status: Interview
+    status_date: "2026-09-17"
+    confidence: Exact
+    evidence: "A new HackerRank Quantitative Developer Online Screen invitation was received on 2026-09-17; retain Interview/process status rather than regressing to OA."
