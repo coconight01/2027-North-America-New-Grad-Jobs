@@ -12419,8 +12419,8 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a45434f48d2f00f2a86cf4c": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -12430,7 +12430,7 @@
     "salary_min_annual": "245000",
     "salary_max_annual": "450000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-18",
     "parser_version": 4
   },
@@ -19735,11 +19735,11 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$123K/yr - $184K/yr",
+    "salary_min_annual": 123000,
+    "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-18",
     "parser_version": 4
   },
@@ -21820,7 +21820,7 @@
     "salary_max_annual": 115000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-08-28",
+    "checked_at": "2026-09-18",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a90b1f12e254e06fb9f26dd": {
@@ -28683,6 +28683,22 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-18",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aac63693d96632d741aac8c": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$60K/yr - $80K/yr",
+    "salary_min_annual": 60000,
+    "salary_max_annual": 80000,
+    "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-09-18",
     "parser_version": 4
@@ -47350,6 +47366,22 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790885?s=gh-new-grad-data-science-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-18",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790885?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
