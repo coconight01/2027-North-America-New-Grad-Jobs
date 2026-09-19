@@ -2,7 +2,7 @@
 """Merge reviewed email/application-status updates into the public tracker.
 
 Reviewed observations live in one or more small YAML overlays named
-``tracker_email_updates*.yml``. Keeping daily evidence in separate overlays
+``tracker_email_updates*.yml`` or ``tracker_updates*.yml``. Keeping daily evidence in separate overlays
 avoids rewriting a growing history file and makes exact-requisition updates
 easy to audit. No Gmail IDs, private links, or raw email bodies are written
 to the public repository.
@@ -19,7 +19,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 CONFIG_DIR = ROOT / "config"
-CONFIG_GLOB = "tracker_email_updates*.yml"
+CONFIG_GLOBS = ("tracker_email_updates*.yml", "tracker_updates*.yml")
 TRACKER = DATA / "application_tracker.json"
 
 
@@ -37,7 +37,10 @@ def can_create(update: dict) -> bool:
 
 
 def load_updates() -> tuple[list[Path], list[dict]]:
-    paths = sorted(CONFIG_DIR.glob(CONFIG_GLOB))
+    # Merge both email-derived and direct user-confirmed overlays. Sorting the
+    # combined set makes newer dated overlays deterministic and ensures they
+    # can supersede an earlier uncertain observation of the same requisition.
+    paths = sorted({path for pattern in CONFIG_GLOBS for path in CONFIG_DIR.glob(pattern)})
     updates: list[dict] = []
     for path in paths:
         config = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
@@ -58,6 +61,12 @@ def main() -> None:
     for update in updates:
         lookup = (norm(update.get("company")), norm(update.get("role")))
         existing = by_key.get(lookup)
+        if update.get("remove"):
+            if existing is not None:
+                applications.remove(existing)
+                by_key.pop(lookup, None)
+                changed += 1
+            continue
         if existing is None:
             if not all(lookup) or not can_create(update):
                 print(f"skip unmatched tracker update: {lookup}")
@@ -85,6 +94,11 @@ def main() -> None:
                 changed += 1
 
     tracker["updated_at"] = date.today().isoformat()
+    tracker["source_note"] = (
+        f"Reconciled from exact Gmail and user-confirmed application/process evidence "
+        f"through {date.today().isoformat()}. Company-level confirmations remain uncertain "
+        "unless the exact requisition is named; exact-role deduplication only."
+    )
     TRACKER.write_text(json.dumps(tracker, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
         f"tracker reconciliation complete: {len(updates)} reviewed updates "
