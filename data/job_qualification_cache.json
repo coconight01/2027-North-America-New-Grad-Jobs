@@ -19031,12 +19031,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$123K/yr - $184K/yr",
-    "salary_min_annual": 123000,
-    "salary_max_annual": 184000,
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
     "reject_reason": "non-entry title/level: Manager",
-    "source_fetched": true,
-    "checked_at": "2026-09-05",
+    "source_fetched": false,
+    "checked_at": "2026-09-19",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2": {
@@ -21531,7 +21531,7 @@
     "salary_min_annual": "165000",
     "salary_max_annual": "170000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-19",
     "parser_version": 4
   },
@@ -22047,6 +22047,22 @@
     "checked_at": "2026-08-28",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a9197008e596854533765b2": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$80K/yr - $97K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 97000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-19",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a920c21d18f75674827b302": {
     "ng_confidence": "Not NG",
     "ng_evidence": "non-entry title/level: Manager",
@@ -22224,18 +22240,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a95b44fc8763a3a87ffb8b2": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$79K/yr - $88K/yr",
+    "salary_min_annual": 79000,
+    "salary_max_annual": 88000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-09-19",
     "parser_version": 4
   },
@@ -28813,6 +28829,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-09-17",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aac25643e3ce93970c7be6f": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$55K/yr - $82K/yr",
+    "salary_min_annual": 55000,
+    "salary_max_annual": 82000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-19",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aac26443dbb1f8967ce90c8": {
@@ -48533,6 +48565,22 @@
     "checked_at": "2026-09-16",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/workday-guidehouse-external-43287?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-19",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/workday-guidehouse-external-43438?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -48707,6 +48755,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10248913?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-19",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250629?s=gh-new-grad-jobs-2027": {
