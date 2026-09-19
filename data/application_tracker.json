@@ -1,16 +1,16 @@
 {
   "updated_at": "2026-09-19",
-  "source_note": "Reconciled from exact Gmail application/process evidence through 2026-09-10. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-09-19. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
       "company": "AXQ Capital",
       "role": "Quantitative Developer - 2027 Graduate",
-      "status": "Interview",
+      "status": "OA",
       "applied_date": "2026-08-28",
-      "status_date": "2026-09-10",
+      "status_date": "2026-09-17",
       "confidence": "Exact",
-      "evidence": "Official AXQ interview confirmation received on 2026-09-10 names the 2027 Graduate Quantitative Developer role and schedules a Zoom interview for 2026-09-15 8:00-8:30 AM Central Time.",
-      "next_action": "Prepare for the confirmed September 15 interview; no additional scheduling action is needed."
+      "evidence": "After the September 15 interview, AXQ sent an exact Quantitative Developer HackerRank Online Screen invitation for a 75-minute assessment due 2026-09-23 10:31 PM Central Time.",
+      "next_action": "Complete the 75-minute HackerRank by 2026-09-23 10:31 PM CT; treat this as the latest process step after the first interview."
     },
     {
       "company": "MiniMax",
@@ -138,12 +138,12 @@
     {
       "company": "Uber",
       "role": "Software Engineer I - 300623",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-08-12",
-      "status_date": "2026-08-12",
+      "status_date": "2026-09-18",
       "confidence": "Exact",
-      "evidence": "Uber recruiting confirmation names Software Engineer I and requisition 300623",
-      "next_action": "Wait for review"
+      "evidence": "Uber sent a rejection on 2026-09-18 naming the exact Software Engineer I application.",
+      "next_action": "Closed; do not suppress unrelated Uber requisitions."
     },
     {
       "company": "Akuna Capital",
@@ -468,16 +468,6 @@
       "next_action": "Availability submitted; wait for the finalized interview time. Recruiter also asked about Winter 2027 internship availability, but the tracked full-time requisition remains separate."
     },
     {
-      "company": "DRW",
-      "role": "Role uncertain",
-      "status": "OA",
-      "applied_date": "2026-08-25",
-      "status_date": "2026-08-29",
-      "confidence": "Company-only",
-      "evidence": "Official DRW confirmation proves an application, and a 2026-08-29 Codility invitation advances that application to a 115-minute, three-question proctored programming challenge. Neither visible email names the exact requisition.",
-      "next_action": "Complete the DRW Codility by 2026-09-01 6:36 PM CDT if possible. Python is allowed; DRW notes at least one C++ answer may broaden team matching, but do not force C++ if it reduces correctness."
-    },
-    {
       "company": "Google",
       "role": "Software Engineering Intern, MS, Summer 2027 - United States",
       "status": "Rejected",
@@ -712,20 +702,80 @@
       "role": "Software Developer",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-09-14",
+      "status_date": "2026-09-18",
       "confidence": "Exact",
-      "evidence": "Official DRW interview confirmation names the Software Developer position and confirms a technical Zoom interview on September 22, 2026 at 11:00 AM Central Time.",
-      "next_action": "Prepare for the September 22, 11:00 AM CT technical Zoom interview."
+      "evidence": "The DRW recruiting thread confirms the exact Software Developer technical Zoom interview for 2026-09-22 at 11:00 AM Central Time; Yuhan confirmed the time and the recruiter acknowledged it.",
+      "next_action": "Prepare for the September 22, 11:00 AM CT technical interview."
     },
     {
       "company": "Goaly",
       "role": "Member of Technical Staff, New Grad",
+      "status": "OA",
+      "applied_date": "2026-09-16",
+      "status_date": "2026-09-18",
+      "confidence": "Exact",
+      "evidence": "Goaly sent an exact-candidate online assessment invitation on 2026-09-18 for a take-home conversational-agent project. The assessment may be started through 2026-09-25 5:02 PM Central Time and has a 48-hour timer once started.",
+      "next_action": "Choose a protected 48-hour window and start no later than 2026-09-25 5:02 PM CT; do not expose the private assessment URL or access code."
+    },
+    {
+      "company": "Domino Data Lab",
+      "role": "Software Engineer - New Grad, 2027 (7992556)",
       "status": "Applied",
       "applied_date": null,
       "status_date": "2026-09-16",
       "confidence": "Exact",
-      "evidence": "Yuhan explicitly confirmed in chat on 2026-09-16 that she submitted the Goaly Member of Technical Staff, New Grad application. Gmail search across both connected accounts found no Goaly/Ashby confirmation email, so application status relies on direct user confirmation rather than email evidence.",
-      "next_action": "Wait for review; remove this exact Goaly role from Apply Now recommendations."
+      "evidence": "User explicitly confirmed the recommended 7992556 requisition was the Domino role submitted; a Domino Greenhouse company-level confirmation was received on 2026-09-11.",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Inferact",
+      "role": "Member of Technical Staff, Inference",
+      "status": "Applied",
+      "applied_date": null,
+      "status_date": "2026-09-16",
+      "confidence": "Exact",
+      "evidence": "User explicitly confirmed submission of the exact Inferact MTS, Inference application; no confirmation email was found in either connected Gmail account.",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Spectral Labs",
+      "role": "Engineer, New Grad",
+      "status": "Applied",
+      "applied_date": null,
+      "status_date": "2026-09-16",
+      "confidence": "Exact",
+      "evidence": "Exact Spectral Labs confirmation email names Engineer, New Grad.",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Retell AI",
+      "role": "Senior Forward Deployed Engineer",
+      "status": "Applied",
+      "applied_date": null,
+      "status_date": "2026-09-16",
+      "confidence": "Exact",
+      "evidence": "Exact Ashby confirmation email names Senior Forward Deployed Engineer. Do not conflate with the separate Forward Deployed Engineer, New Grad requisition.",
+      "next_action": "Wait for review"
+    },
+    {
+      "company": "Ambral",
+      "role": "Member of Technical Staff (New Grad)",
+      "status": "Applied",
+      "applied_date": null,
+      "status_date": "2026-09-17",
+      "confidence": "Exact",
+      "evidence": "User explicitly confirmed submission of the exact Ambral Member of Technical Staff (New Grad) application.",
+      "next_action": "Wait for review; remove from actionable recommendations."
+    },
+    {
+      "company": "Retell AI",
+      "role": "Forward Deployed Engineer, New Grad",
+      "status": "Applied",
+      "applied_date": "2026-09-17",
+      "status_date": "2026-09-17",
+      "confidence": "User-confirmed exact role",
+      "evidence": "Yuhan explicitly confirmed submission of the exact Retell AI Forward Deployed Engineer, New Grad role. A separate Ashby email names Senior Forward Deployed Engineer, so both requisitions remain independently tracked rather than conflated.",
+      "next_action": "Wait for review; remove the exact New Grad role from recommendations."
     }
   ]
 }
