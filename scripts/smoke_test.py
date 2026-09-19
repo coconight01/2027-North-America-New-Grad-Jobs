@@ -232,6 +232,22 @@ def test_china_detail_fallback() -> str:
     return "China Moka rows missing concrete locations trigger exact-job detail lookup"
 
 
+def test_tracker_overlay_coverage() -> str:
+    from scripts import reconcile_tracker_updates
+
+    assert "tracker_email_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
+    assert "tracker_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
+    paths, updates = reconcile_tracker_updates.load_updates()
+    assert any(path.name.startswith("tracker_updates_") for path in paths), paths
+    assert any(update.get("remove") for update in updates), "expected a reviewed removal overlay"
+    tracker = json.loads((DATA / "application_tracker.json").read_text(encoding="utf-8"))
+    assert not any(
+        item.get("company") == "DRW" and item.get("role") == "Role uncertain"
+        for item in tracker.get("applications", [])
+    )
+    return "email and user-confirmed tracker overlays load together; reviewed removals persist"
+
+
 def main() -> None:
     tests = [
         ("legacy_runtime", test_legacy_runtime),
@@ -243,6 +259,7 @@ def main() -> None:
         ("github_markdown_title_cleanup", test_github_markdown_link_title_cleanup),
         ("priority_company_detail_recall", test_priority_company_detail_recall),
         ("china_detail_fallback", test_china_detail_fallback),
+        ("tracker_overlay_coverage", test_tracker_overlay_coverage),
     ]
     report = {"overall": "success", "tests": {}}
     for name, fn in tests:
