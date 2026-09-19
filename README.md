@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-19** · Open roles: **1868**
+> Last automated update: **2026-09-19** · Open roles: **1881**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,26 +18,26 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 97 |
-| **AI Infra / Systems** | 12 |
+| **Big Tech & Frontier AI** | 100 |
+| **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1344 |
+| Other companies | 1355 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-19 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) | $172k/yr | Remote - Santa Clara, CA +2 | ❔ | ✅ Confirmed | — |
+| 2026-09-19 | **Microsoft** | [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | $168k/yr | USA | ❔ | ❔ Review | — |
 | 2026-09-18 | **Microsoft** | [Quantum Engineer - Artificial Intelligence and Devices](https://apply.careers.microsoft.com/careers/job/1970393556998613) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
-| 2026-09-18 | **Microsoft** | [Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556941429) | $168k/yr | USA | ❔ | ❔ Review | — |
 | 2026-09-17 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://jobright.ai/jobs/info/6aac26443dbb1f8967ce90c8) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-17 | **Amazon** | [Software Development Engineer - AWS Security](https://www.amazon.jobs/jobs/10544608/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-15 | **Amazon** | [Software Development Engineer - Catalog System Services - SPCL](https://www.amazon.jobs/jobs/10539357/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
-| 2026-09-04 | **NVIDIA** | [Security Software Engineer - Vulnerability Operations](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1) | $172k/yr | Remote - California, USA +5 | ❔ | ❔ Review | — |
 | 2026-09-01 | **Google** | [Software Engineer](https://www.google.com/about/careers/applications/jobs/results/106684387621249734) | $149,400–$175,000 | Mountain View, CA | ❔ | ❔ Review | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
@@ -51,8 +51,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000 - $160,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027)](https://zapply.jobs/l/d/greenhouse-togetherai-5211582007?s=gh-new-grad-jobs-2027) | $150,000–$160,000 | San Francisco | ❔ | ✅ Confirmed | — |
-| 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027)](https://jobright.ai/jobs/info/6aad6a9c2e757fcb5c8b834c) | $150K/yr - $160K/yr | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-02 | **Scale AI** | [Enterprise AI Development Strategist](https://job-boards.greenhouse.io/scaleai/jobs/4699572005) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
@@ -121,7 +121,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1868 active roles**. Featured groups account for **168** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1881 active roles**. Featured groups account for **170** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
