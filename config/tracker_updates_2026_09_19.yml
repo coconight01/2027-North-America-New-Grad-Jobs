@@ -1,0 +1,43 @@
+# Exact Gmail and user-confirmed application updates reviewed on 2026-09-19.
+updates:
+  - company: DRW
+    role: "Role uncertain"
+    remove: true
+  - company: Goaly
+    role: "Member of Technical Staff, New Grad"
+    status: OA
+    applied_date: "2026-09-16"
+    status_date: "2026-09-18"
+    confidence: Exact
+    evidence: "Goaly sent an exact-candidate online assessment invitation on 2026-09-18 for a take-home conversational-agent project. The assessment may be started through 2026-09-25 5:02 PM Central Time and has a 48-hour timer once started."
+    next_action: "Choose a protected 48-hour window and start no later than 2026-09-25 5:02 PM CT; do not expose the private assessment URL or access code."
+  - company: AXQ Capital
+    role: "Quantitative Developer - 2027 Graduate"
+    status: OA
+    status_date: "2026-09-17"
+    confidence: Exact
+    evidence: "After the September 15 interview, AXQ sent an exact Quantitative Developer HackerRank Online Screen invitation for a 75-minute assessment due 2026-09-23 10:31 PM Central Time."
+    next_action: "Complete the 75-minute HackerRank by 2026-09-23 10:31 PM CT; treat this as the latest process step after the first interview."
+  - company: DRW
+    role: "Software Developer"
+    status: Interview
+    status_date: "2026-09-18"
+    confidence: Exact
+    evidence: "The DRW recruiting thread confirms the exact Software Developer technical Zoom interview for 2026-09-22 at 11:00 AM Central Time; Yuhan confirmed the time and the recruiter acknowledged it."
+    next_action: "Prepare for the September 22, 11:00 AM CT technical interview."
+  - company: Uber
+    role: "Software Engineer I - 300623"
+    status: Rejected
+    status_date: "2026-09-18"
+    confidence: Exact
+    evidence: "Uber sent a rejection on 2026-09-18 naming the exact Software Engineer I application."
+    next_action: "Closed; do not suppress unrelated Uber requisitions."
+  - company: Retell AI
+    role: "Forward Deployed Engineer, New Grad"
+    allow_create: true
+    status: Applied
+    applied_date: "2026-09-17"
+    status_date: "2026-09-17"
+    confidence: User-confirmed exact role
+    evidence: "Yuhan explicitly confirmed submission of the exact Retell AI Forward Deployed Engineer, New Grad role. A separate Ashby email names Senior Forward Deployed Engineer, so both requisitions remain independently tracked rather than conflated."
+    next_action: "Wait for review; remove the exact New Grad role from recommendations."
