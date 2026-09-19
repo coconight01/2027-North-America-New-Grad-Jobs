@@ -27,8 +27,8 @@
       "fill": 0
     },
     "priority_company_candidates": 188,
-    "new_job_candidates": 148,
-    "high_potential_title_candidates": 230
+    "new_job_candidates": 151,
+    "high_potential_title_candidates": 231
   },
   "veto_counts": {
     "explicit 2026-only title": 7,
@@ -539,31 +539,6 @@
     },
     {
       "machine_rank": 21,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Akuna Capital",
-      "role": "Software Engineer - Entry-Level - C++",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "salary": "$191k/yr",
-      "salary_max_annual": "191000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085",
-      "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Engineering Software Engineer (Entry-Level) - C++ Chicago About Akuna Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data-driven solutions, and automation. We specialize in providing liquidity on a variety of exchanges across various asset classes, primarily as an options market maker. To do this successfully, we build and maintain our own low-latency technologies, including application frameworks, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney, Australia. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices around the world: Sydney, Shanghai, Singapore, and London. What You’ll Do as an Entry-Level C++ Software Engineer at Akuna C++ software engineers at Akuna have the opportunity to work on a variety of high-performance systems that power the firm’s core business operations. Our engineers work on small-to-medium-sized teams that frequently interface with Quant and Trading, allowing them to build expertise in a specific domain area while maintaining broader exposure to the needs of their end-users. Akuna’s C++ systems are heavily multithreaded, asynchronous, and distributed by nature, which comes with a slew of challenges; our engineers are tasked with ensuring these systems are reliable, efficient, scalable, and flexible enough for even the most niche use cases. Entry-level engineers in particular are responsible for day-to-day upkeep of core systems, servicing lower-risk feature requests, and executing individual projects on behalf of their team’s stakeholders. Akuna is looking for software engineers who are motivated, can solve complex problems, and are willing to reach for creative solutions when faced with novel problems. We value innovation, hard work, and knowledge, and we want our engineers to make a direct impact on the firm. Whether you are interested in algorithms and data structures, concurrency, networking and protocols, performance tuning, data capture and analysis, mathematical modeling, hardware, or something else, there’s engaging work to be done. Requirements for This Role Pursuing a bachelor’s, master’s, or Ph.D. in a technical field (computer science/engineering, math, physics, or equivalent) Graduating by August 2027 Legal authorization to work in the U.S. as of the first day of employment, including F-1 students using OPT or STEM Previous experience in finance or trading is not required. Many of our engineers joined Akuna with little-to-no prior knowledge of the markets, and we pride ourselves on our ability to onboard those new to the industry. Training and continuous education are provided for all engineers to ensure they can build the requisite technical and non-technical skillset for success. Qualities That Make a Great C++ Software Engineer Candidate Experience programming in modern C++ (C++20 or later; C++23 preferred) Experience with several of the following Distributed systems Parallel processing Asynchronous architectures Networking or protocol encoding/decoding Lock-free data structures and algorithms Performance profiling (e.g. perf, gprof, vtune) Scripting, such as in Python or shell Familiarity with standard debugging tools (e.g. GDB, Valgrind, address sanitizer) The ability to effectively communicate with non-technical stakeholders in Quant and Trading to obtain requirements, workshop solutions, and implement agreed-upon roadmaps The ability to react quickly and effectively to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems, is an essential function of the role A passion for building complex systems from the ground up The ability to collaborate with other developers of different backgrounds, specialties, and knowledge levels to collectively deliver cohesive solutions to non-trivial problems An intrinsically motivated attitude and the ability to work independently A strong sense of ownership, including a drive to fix bugs when they inevitably arise In addition to the above technical skills, Akuna values diversity of experience and perspective. We believe that engineers with varied backgrounds and interests allow us to approach problems from uni",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 22,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -713,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -738,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -763,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -782,6 +757,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/7863348?gh_jid=7863348",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 30,
+      "machine_score": 66,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "GigFinder.ai",
+      "role": "AI Compiler Engineer- New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Indiana, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-19",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6aaecb182e757fcb5c8bbfe6",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1341,6 +1341,31 @@
       "machine_rank": 53,
       "machine_score": 64,
       "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Akuna Capital",
+      "role": "Software Engineer - Entry-Level - C++",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "salary": "$191k/yr",
+      "salary_max_annual": "191000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 54,
+      "machine_score": 64,
+      "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
       "company_priority": "Quant",
       "company": "Hudson River Trading",
@@ -1363,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1388,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 56,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1413,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1438,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1463,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 59,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1488,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1513,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 61,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1538,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 62,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1563,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 63,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1588,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1613,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1638,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1663,7 +1688,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1688,7 +1713,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1713,7 +1738,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1738,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1763,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 71,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1788,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1813,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1838,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1863,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1888,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1913,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 77,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1938,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 78,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
