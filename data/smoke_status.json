@@ -36,6 +36,10 @@
     "china_detail_fallback": {
       "outcome": "success",
       "detail": "China Moka rows missing concrete locations trigger exact-job detail lookup"
+    },
+    "tracker_overlay_coverage": {
+      "outcome": "success",
+      "detail": "email and user-confirmed tracker overlays load together; reviewed removals persist"
     }
   }
 }
