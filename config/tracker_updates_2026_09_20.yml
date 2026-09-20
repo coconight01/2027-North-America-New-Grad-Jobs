@@ -1,0 +1,54 @@
+# Exact Gmail and user-confirmed application updates reviewed on 2026-09-20.
+updates:
+  - company: Gimlet Labs
+    role: "Member of Technical Staff - ML Systems & Inference"
+    allow_create: true
+    status: Applied
+    applied_date: "2026-09-19"
+    status_date: "2026-09-19"
+    confidence: Exact
+    evidence: "Gimlet Labs sent an application confirmation on 2026-09-19 naming the exact Member of Technical Staff - ML Systems & Inference role; Yuhan separately confirmed submission."
+    next_action: "Wait for review; remove this exact requisition from actionable recommendations."
+  - company: Amazon Annapurna Labs
+    role: "Software Development Engineer I - AI/ML Network Infrastructure (10490741)"
+    allow_create: true
+    status: Applied
+    applied_date: "2026-09-19"
+    status_date: "2026-09-19"
+    confidence: Exact
+    evidence: "Amazon sent an application confirmation on 2026-09-19 naming SDE I, AI/ML Network Infrastructure, Annapurna Labs and Job ID 10490741; Yuhan separately confirmed submission."
+    next_action: "Wait for review; do not suppress other Amazon or Annapurna requisitions."
+  - company: Together AI
+    role: "Software Engineer, New Grad (2027) (5211582007)"
+    allow_create: true
+    status: Applied
+    applied_date: "2026-09-19"
+    status_date: "2026-09-19"
+    confidence: User-confirmed exact role
+    evidence: "Yuhan explicitly confirmed submission of exact requisition 5211582007. Together AI sent a same-day company-level application confirmation that did not name the role."
+    next_action: "Wait for review; retain exact-role identity from the user confirmation rather than broad company-level inference."
+  - company: IMC Trading
+    role: "Quant Performance Engineer (4823836101)"
+    allow_create: true
+    status: Applied
+    applied_date: "2026-09-19"
+    status_date: "2026-09-19"
+    confidence: Exact
+    evidence: "IMC sent an application confirmation on 2026-09-19 naming the exact Quant Performance Engineer role; Yuhan separately confirmed submission."
+    next_action: "Wait for review; keep this separate from IMC Graduate Performance Engineer and other IMC processes."
+  - company: NVIDIA China
+    role: "2027 Campus Hiring Software Technical Assessment (JR2024107 / JR2024111 assignment uncertain)"
+    allow_create: true
+    status: OA
+    status_date: "2026-09-20"
+    confidence: Company-only
+    evidence: "NVIDIA Campus replied on 2026-09-20 that the test paper will be resent Monday. The earlier assessment reminder gives 2026-09-22 19:00 Beijing time (06:00 Central Time), but the email does not identify whether the assessment belongs to JR2024107, JR2024111, or both."
+    next_action: "Check the resent assessment Monday and take the test on 2026-09-22 at 06:00 CT; preserve requisition uncertainty."
+  - company: DeepSeek
+    role: "Online assessment / exact requisition uncertain"
+    allow_create: true
+    status: OA
+    status_date: "2026-09-20"
+    confidence: Company-only
+    evidence: "Yuhan explicitly said a DeepSeek OA is active, but no matching DeepSeek assessment email or exact requisition was found in either connected Gmail account."
+    next_action: "Check the original application portal or message channel for the exact role and deadline; do not infer a date."
