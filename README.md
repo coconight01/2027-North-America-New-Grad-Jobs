@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-20** · Open roles: **1877**
+> Last automated update: **2026-09-20** · Open roles: **1884**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 99 |
+| **Big Tech & Frontier AI** | 100 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 42 |
 | **Other high-value tech** | 17 |
-| **ByteDance / TikTok** (separate) | 353 |
-| Other companies | 1355 |
+| **ByteDance / TikTok** (separate) | 356 |
+| Other companies | 1358 |
 
 ### Big Tech & Frontier AI
 
@@ -34,6 +34,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-18 | **Microsoft** | [Quantum Engineer - Artificial Intelligence and Devices](https://apply.careers.microsoft.com/careers/job/1970393556998613) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-09-17 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://jobright.ai/jobs/info/6aac26443dbb1f8967ce90c8) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-17 | **Amazon** | [Software Development Engineer - AWS Security](https://www.amazon.jobs/jobs/10544608/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
+| 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-15 | **Amazon** | [Software Development Engineer - Catalog System Services - SPCL](https://www.amazon.jobs/jobs/10539357/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
@@ -42,7 +43,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Cupertino | ❔ | ❔ Review | — |
 | 2026-08-26 | **Meta** | [Software Engineer - Systems ML - Compilers / Backend](https://www.metacareers.com/jobs/2145505832666693) | Not listed | Sunnyvale, CA +2 | ❔ | ❔ Review | — |
-| 2026-08-25 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8d37002f736c304f2a8fef) | $147K/yr - $210K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-07-31 | **xAI** | [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5120884007) | $150,000 - $210,000 | Palo Alto, CA | ❔ | ❔ Review | — |
@@ -98,30 +98,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>353 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>356 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-09-19 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6aadbc6d0ebc8fb2313eb30c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f52e757fcb5c8b8e84) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f36956574eac8b6375) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686733097398290693?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686732729746950405?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | PhD only |
+| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686733097398290693?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
+| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686732729746950405?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | PhD only |
 | 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e6b73387a3d9b67d7cc7) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e67610b1cd4f41608b87) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-15 | **ByteDance** | [Site Reliability Graduate (Data Infrastructure) - 2027 Start](https://zapply.jobs/l/d/bytedance-7675096204766054709?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673946040656267573?s=gh-new-grad-data-science-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
+| 2026-09-15 | **ByteDance** | [AI Vision Research Engineer Graduate (Pico) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7668433722454935861?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
+| 2026-09-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667334521286035765?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-14 | **ByteDance** | [Research Scientist Graduate (Multi-modal Agentic Databases)- 2027 Start (PHD)](https://zapply.jobs/l/d/bytedance-7665108869591140613?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-11 | **ByteDance** | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
-| 2026-09-11 | **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start](https://zapply.jobs/l/d/bytedance-7672395094280063285?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 353 active roles. Use the Job Radar for all roles._
+_Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **1877 active roles**. Featured groups account for **169** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1884 active roles**. Featured groups account for **170** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
