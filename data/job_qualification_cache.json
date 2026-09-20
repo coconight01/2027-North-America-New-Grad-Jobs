@@ -7281,6 +7281,22 @@
     "checked_at": "2026-09-18",
     "parser_version": 4
   },
+  "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-20",
+    "parser_version": 4
+  },
   "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115636": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -9955,6 +9971,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-18",
+    "parser_version": 4
+  },
+  "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "requires 2+ years professional/work experience",
+    "experience_requirement": "2 years of full-time work experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$94,500 - $118,000",
+    "salary_min_annual": 94500,
+    "salary_max_annual": 118000,
+    "reject_reason": "requires 2+ years professional/work experience",
+    "source_fetched": true,
+    "checked_at": "2026-09-20",
     "parser_version": 4
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/7848317": {
@@ -35357,6 +35389,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-18",
+    "parser_version": 4
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-20",
     "parser_version": 4
   },
   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978": {
