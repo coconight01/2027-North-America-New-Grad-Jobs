@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-20",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,9 +26,9 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 188,
-    "new_job_candidates": 151,
-    "high_potential_title_candidates": 231
+    "priority_company_candidates": 187,
+    "new_job_candidates": 140,
+    "high_potential_title_candidates": 230
   },
   "veto_counts": {
     "explicit 2026-only title": 7,
@@ -82,7 +82,7 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://jobs.lever.co/ModernIntelligence/9e12cdf2-72ad-4454-a72e-bb0c7d212401",
-      "jd_excerpt": "Modern Intelligence builds Sovereign, targeting software for unmanned systems. Manufacturers install it on UAVs, USVs, UUVs, and other unmanned vehicles. Sovereign runs on the vehicle’s computer. It detects, classifies, and tracks targets from the onboard cameras, keeps identity when the picture breaks up, and can fly terminal guidance into impact. It keeps working when GPS is out and the radio is jammed.\nWe’ve held Department of War contracts, including work with Air Force Special Operations and SOCOM. \nWe’ve raised more than $12 million from Bedrock, Vine, Contrary, Air Street, Caffeinated, Champion Hill, Swell, Myelin, and others. Modern Intelligence builds Sovereign, targeting software for unmanned systems. Manufacturers install it on UAVs, USVs, UUVs, and other unmanned vehicles. Sovereign runs on the vehicle’s computer. It detects, classifies, and tracks targets from the onboard cameras, keeps identity when the picture breaks up, and can fly terminal guidance into impact. It keeps working when GPS is out and the radio is jammed. We’ve held Department of War contracts, including work with Air Force Special Operations and SOCOM. We’ve raised more than $12 million from Bedrock, Vine, Contrary, Air Street, Caffeinated, Champion Hill, Swell, Myelin, and others. People’s lives will depend on the code that you write here. If you want to do something that actually matters, let us know. People’s lives will depend on the code that you write here. If you want to do something that actually matters, let us know. Details We are looking for a software engineer excited to take technology demonstrated on test ranges and relatively peaceful theaters and see it proven on the battlefield. We have a small software team, but are looking to grow it rapidly. We are seeing significant increase in customer engagement and are looking to expand capacity on an established team. We need engineers willing to travel and support field deployments and integrations. And importantly, we want to take our product to and prove it in Ukraine. Our product, Sovereign, is an Automated Target Recognition and Automated Terminal Guidance solution that works on any platform in any domain - we are currently working to expand its capability to meet any autonomy requirement for any unmanned system. We are looking for engineers passionate about drones, autonomy, supporting our service men and women, and defending democracy and freedom around the world. Requirements Proficiency in a compiled systems language: C++, Rust, or C. Our primary codebase is C++20; we do not expect you to know C++20 on day one, but we do expect you to already think in terms of memory, types, and build artifacts. Comfortable writing Python. Comfortable developing on Linux: command line, git, and code review. Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, Mathematics, or comparable, or equivalent demonstrated experience. Willingness to travel and support field deployments and integrations. Must be a U.S. person (U.S. citizen, lawful permanent resident, or other protected individual as defined by 8 U.S.C. 1324b(a)(3)). This role works on export-controlled technology. Preferred Qualifications Experience with Bazel, or with CMake and an appetite for learning Bazel. Applied linear algebra: coordinate frames, covariance, Kalman filters, geodesy. Experience with Docker and containerized builds. Experience with video pipelines: GStreamer, ffmpeg, RTSP/RTP/etc. Experience with an inference runtime such as ONNX Runtime or TensorRT. Experience with CUDA or GPU programming. Experience with cross-compilation and embedded Linux, such as Jetson and ARM targets. Experience with protobuf and/or gRPC. Experience with TypeScript and React (our operator UI), or with PyTorch (our model training and export) Nice to have Experience with Dart and Flutter. Experience targeting ML accelerators: Hailo, Qualcomm QNN, XNNPACK, ARM Compute Library. Experience building for Windows, macOS, or Android. Experience with MAVLink or other drone software. Experience with Slurm or other cluster training workflows. Prior defense industry experience, or an active or previously held clearance.",
+      "jd_excerpt": "Modern Intelligence builds Sovereign, targeting software for unmanned systems. Manufacturers install it on UAVs, USVs, UUVs, and other unmanned vehicles. Sovereign runs on the vehicle’s computer. It detects, classifies, and tracks targets from the onboard cameras, keeps identity when the picture breaks up, and can run terminal guidance into impact. It keeps working when GPS is out and the radio is jammed.\nWe’ve held Department of War contracts, including work with Air Force Special Operations and SOCOM. \nWe’ve raised more than $12 million from Bedrock, Vine, Contrary, Air Street, Caffeinated, Champion Hill, Swell, Myelin, and others. Modern Intelligence builds Sovereign, targeting software for unmanned systems. Manufacturers install it on UAVs, USVs, UUVs, and other unmanned vehicles. Sovereign runs on the vehicle’s computer. It detects, classifies, and tracks targets from the onboard cameras, keeps identity when the picture breaks up, and can run terminal guidance into impact. It keeps working when GPS is out and the radio is jammed. We’ve held Department of War contracts, including work with Air Force Special Operations and SOCOM. We’ve raised more than $12 million from Bedrock, Vine, Contrary, Air Street, Caffeinated, Champion Hill, Swell, Myelin, and others. People’s lives will depend on the code that you write here. If you want to do something that actually matters, let us know. People’s lives will depend on the code that you write here. If you want to do something that actually matters, let us know. Details We are looking for a software engineer excited to take technology demonstrated on test ranges and relatively peaceful theaters and see it proven on the battlefield. We have a small software team, but are looking to grow it rapidly. We are seeing significant increase in customer engagement and are looking to expand capacity on an established team. We need engineers willing to travel and support field deployments and integrations. And importantly, we want to take our product to and prove it in Ukraine. Our product, Sovereign, is an Automated Target Recognition and Automated Terminal Guidance solution that works on any platform in any domain - we are currently working to expand its capability to meet any autonomy requirement for any unmanned system. We are looking for engineers passionate about drones, autonomy, supporting our service men and women, and defending democracy and freedom around the world. Requirements Proficiency in a compiled systems language: C++, Rust, or C. Our primary codebase is C++20; we do not expect you to know C++20 on day one, but we do expect you to already think in terms of memory, types, and build artifacts. Comfortable writing Python. Comfortable developing on Linux: command line, git, and code review. Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, Mathematics, or comparable, or equivalent demonstrated experience. Willingness to travel and support field deployments and integrations. Must be a U.S. person (U.S. citizen, lawful permanent resident, or other protected individual as defined by 8 U.S.C. 1324b(a)(3)). This role works on export-controlled technology. Preferred Qualifications Experience with Bazel, or with CMake and an appetite for learning Bazel. Applied linear algebra: coordinate frames, covariance, Kalman filters, geodesy. Experience with Docker and containerized builds. Experience with video pipelines: GStreamer, ffmpeg, RTSP/RTP/etc. Experience with an inference runtime such as ONNX Runtime or TensorRT. Experience with CUDA or GPU programming. Experience with cross-compilation and embedded Linux, such as Jetson and ARM targets. Experience with protobuf and/or gRPC. Experience with TypeScript and React (our operator UI), or with PyTorch (our model training and export) Nice to have Experience with Dart and Flutter. Experience targeting ML accelerators: Hailo, Qualcomm QNN, XNNPACK, ARM Compute Library. Experience building for Windows, macOS, or Android. Experience with MAVLink or other drone software. Experience with Slurm or other cluster training workflows. Prior defense industry experience, or an active or previously held clearance.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -564,6 +564,31 @@
     },
     {
       "machine_rank": 22,
+      "machine_score": 77,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$166,000–$220,000",
+      "salary_max_annual": "220000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-04",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007",
+      "jd_excerpt": "page_title Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are looking for a Modeling, Simulation and Analysis Engineer to join our team. As part of the team you will have the opportunity to develop, implement and maintain sufficient fidelity virtual representations of the myriad of different vehicles Anduril works on. In this role you will be required to develop and coordinate deployment and maintenance of vehicle models and simulation instantiations for various programs ongoing at Anduril. A critical aspect of this role involves owning and operating Hardware-In-The-Loop (HITL) simulation environments that enable safe, rapid iteration of flight control and autonomy software with real avionics hardware before live flight tests. The ideal candidate has experience working on aerospace systems and understands the right fidelity of sub-system and system level modeling required to integrate with the broader flight control and mission autonomy software to support development. In addition the candidate should be versed in coding and software integration practices. Experience with HITL operations, including real-time simulation, avionics integration, and closed-loop testing with physical hardware is highly valued. If you have a passion for flight and like the idea of building a physics based digital representation of a flying vehicle and testing it with real hardware, this is the role for you! WHAT YOU'LL DO Work on challenging problems in a fast-paced environment from across our portfolio of programs and products: Simulation solutions for Guidance, Navigation and Control algorithm development Software-In-The-Loop (SITL) solutions Hardware-In-The-Loop (HITL) solutions Customer product training solutions Monte-Carlo simulation analysis Simulation and Test data analysis tools and processes Design, develop, deploy, and maintain HITL simulation infrastructure for complex aerospace systems, including real-time vehicle models, avionics emulation, and sensor simulation environments Own the end-to-end configuration and operation of SITL and HITL environments for test vehicles, ensuring safe and efficient flight test execution Coordinate and execute HITL test campaigns, working closely with flight test teams to validate GNC algorithms, mission autonomy software, and vehicle performance prior to live flights Develop and maintain emulated interfaces for on-board avionics systems to enable closed-loop hardware testing in simulation environments Troubleshoot and resolve real-time simulation issues during HITL operations, including timing constraints, hardware interface problems, and model fidelity discrepancies Work with multi-disciplinary subject matter experts to understand and adequately model pertinent sub-system, system and system of system dynamics Work with internal and external customers to understand simulation requirements and develop efficient modeling and simulation solutions Support flight test operations with pre-flight simulation validation and post-flight data correlation analysis to continuously improve model fidelity REQUIRED QUALIFICATIONS Bachelor's Degree or higher in engineering, computer science, mathematics, physics, chemistry, or related technical discipline Senior Modeling Simulation Engineer: 8 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Modeling Simulation Engineer: 3 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Experience with aerospace/aeronautical systems (including rotorcraft/VTOL) and/or Subsea vehicles Experience in flight dynamics/platform physics and control Nominal proficiency with C/C++ Advanced proficiency with scientific computing systems (Mathworks products (e.g., MATLAB, SIMULINK etc.), scientific Python (e.g., numpy, scipy) Flight test data processing/sim correlation experience Experience with developing sub-system and system level models (Air vehicle, ground vehicles, ground based sensors and other types of complex systems) Experience with model development to support Guidance, Navigation and Control algorithm development Hands-on experience with HITL or SITL simulation oper",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 23,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -583,31 +608,6 @@
       "official_source": false,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8180692",
       "jd_excerpt": "Research Scientist, Map Scalability - Mountain View, California, United States - New York City, New York, United States - San Francisco, California, United States Why Waymo Working at Waymo Working at Waymo Culture Benefits Belonging Community Engagement Locations Teams Teams Software Engineering Ops & Supply Chain AI Foundations Hardware Engineering Product & Design G & A Early careers How we hire Open roles Visit Waymo.com My settings Why Waymo Working at Waymo Culture Benefits Belonging Community Engagement Locations Teams Software Engineering Ops & Supply Chain AI Foundations Hardware Engineering Product & Design G & A Early careers How we hire Open roles Visit Waymo.com My settings Kiosk mode Research Scientist, Map Scalability Mountain View, California, United States. San Francisco, California, United States. New York City, New York, United States Full-Time AI Foundations 5368 Apply now Research Scientist, Map Scalability 5368 On Site Mountain View, California San Francisco, California New York City, New York AI Foundations Full-Time Add to favorites View favorites Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states. The mission of the Waymo AI Foundations team is to develop machine learning solutions addressing open problems in autonomous driving, towards the goal of safely operating Waymo vehicles in dozens of cities and under all driving conditions. As part of our work, we also initiate and foster collaborations with other research teams in Alphabet. AI Foundations areas that we are currently focusing on include reinforcement learning, learning from demonstration, generative modeling, Bayesian inference, hierarchical learning, and robust evaluation. You will: Solve fundamental and applied research problems related to world understanding using VLMs, generative modeling and 3D reconstruction at large scale. Prototype and iterate on various research ideas using Waymo's internal driving data Scale and productionize world understanding solutions in collaboration with engineering teams across Waymo Present research findings to a wide audience within Waymo and Alphabet, with the possibility of publishing results to the research community You have: Master’s or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, Deep Learning, or in a similar discipline. 1-3+ years of experience in a related field. Expert in either Foundational VLMs, Computer Vision or learning-based 3D reconstruction methods (3DGS, NeRF). Strong ML software engineering skills in Python/C++ with an ability to rapidly prototype solutions. Familiarity with major ML Frameworks (JAX, Tensorflow, Pytorch). We prefer: Publications at top-tier conferences like CVPR/ICCV/ECCV/ICLR/ICML/NeurIPS/IROS/CoRL etc. Hands-on experience productionizing and scaling ML solutions beyond the research stage. Fundamentals in 3D vision and/or computer graphics. Domain experience in the autonomous vehicle or simulation space. The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process. Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements. Salary Range $213,000—$263,000 USD We appreciate your interest in Waymo. Waymo is proud to be an equal opportunity employer, committed to creating a culture of belonging and maintaining a supportive workplace for all employees. We welcome applicants of all backgrounds, and employment decisions are based on a candidate’s qualifications, experience, and alignment with job requirements and business needs. Waymo does not discriminate against, and prohibits harassment of, any applicant or employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age, disability, military status, family status, pregnancy, genetic information or any other basis protected by applicable law. Waymo will also consider for employment qu",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 23,
-      "machine_score": 77,
-      "machine_tier": "Strong",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States",
-      "salary": "$166,000–$220,000",
-      "salary_max_annual": "220000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-04",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007",
-      "jd_excerpt": "Job Application for Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus at Anduril Industries Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are looking for a Modeling, Simulation and Analysis Engineer to join our team. As part of the team you will have the opportunity to develop, implement and maintain sufficient fidelity virtual representations of the myriad of different vehicles Anduril works on. In this role you will be required to develop and coordinate deployment and maintenance of vehicle models and simulation instantiations for various programs ongoing at Anduril. A critical aspect of this role involves owning and operating Hardware-In-The-Loop (HITL) simulation environments that enable safe, rapid iteration of flight control and autonomy software with real avionics hardware before live flight tests. The ideal candidate has experience working on aerospace systems and understands the right fidelity of sub-system and system level modeling required to integrate with the broader flight control and mission autonomy software to support development. In addition the candidate should be versed in coding and software integration practices. Experience with HITL operations, including real-time simulation, avionics integration, and closed-loop testing with physical hardware is highly valued. If you have a passion for flight and like the idea of building a physics based digital representation of a flying vehicle and testing it with real hardware, this is the role for you! WHAT YOU'LL DO Work on challenging problems in a fast-paced environment from across our portfolio of programs and products: Simulation solutions for Guidance, Navigation and Control algorithm development Software-In-The-Loop (SITL) solutions Hardware-In-The-Loop (HITL) solutions Customer product training solutions Monte-Carlo simulation analysis Simulation and Test data analysis tools and processes Design, develop, deploy, and maintain HITL simulation infrastructure for complex aerospace systems, including real-time vehicle models, avionics emulation, and sensor simulation environments Own the end-to-end configuration and operation of SITL and HITL environments for test vehicles, ensuring safe and efficient flight test execution Coordinate and execute HITL test campaigns, working closely with flight test teams to validate GNC algorithms, mission autonomy software, and vehicle performance prior to live flights Develop and maintain emulated interfaces for on-board avionics systems to enable closed-loop hardware testing in simulation environments Troubleshoot and resolve real-time simulation issues during HITL operations, including timing constraints, hardware interface problems, and model fidelity discrepancies Work with multi-disciplinary subject matter experts to understand and adequately model pertinent sub-system, system and system of system dynamics Work with internal and external customers to understand simulation requirements and develop efficient modeling and simulation solutions Support flight test operations with pre-flight simulation validation and post-flight data correlation analysis to continuously improve model fidelity REQUIRED QUALIFICATIONS Bachelor's Degree or higher in engineering, computer science, mathematics, physics, chemistry, or related technical discipline Senior Modeling Simulation Engineer: 8 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Modeling Simulation Engineer: 3 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Experience with aerospace/aeronautical systems (including rotorcraft/VTOL) and/or Subsea vehicles Experience in flight dynamics/platform physics and control Nominal proficiency with C/C++ Advanced proficiency with scientific computing systems (Mathworks products (e.g., MATLAB, SIMULINK etc.), scientific Python (e.g., numpy, scipy) Flight test data processing/sim correlation experience Experience with developing sub-system and system level models (Air vehicle, ground vehicles, ground based sensors and other types of complex systems) Experience with model development to support Guidance, Navigat",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -839,31 +839,6 @@
     },
     {
       "machine_rank": 33,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "GlobalFoundries",
-      "role": "Systems Engineer (2027 New College Graduate)",
-      "category": "Infrastructure / Systems",
-      "location": "Richardson, TX, United States",
-      "salary": "$72K/yr - $125K/yr",
-      "salary_max_annual": "125000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-09",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aa070f3ea127c3794697210",
-      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 34,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -933,6 +908,31 @@
       "official_source": true,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
       "jd_excerpt": "Job Application for Anthropic Fellows Program, ML Systems & Reinforcement Learning at Anthropic Back to jobs Anthropic Fellows Program, ML Systems & Reinforcement Learning London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA Apply About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Anthropic Fellows Program overview The Anthropic Fellows Program is designed to foster AI research and engineering talent. We provide funding and mentorship to promising technical talent - regardless of previous experience. Fellows will primarily use external infrastructure (e.g. open-source models, public APIs) to work on an empirical project aligned with our research priorities, with the goal of producing a public output (e.g. a paper submission). In one of our earlier cohorts, over 80% of fellows produced papers. We run multiple cohorts of Fellows each year and review applications on a rolling basis. Apply at the bottom of this page. We are accepting applications on a rolling basis for the next cohort expected to start in January 2027. In some circumstances, we can accommodate fellows starting outside the usual cohort timelines — please note in your application if the January 2027 start date doesn't work for you. What to expect 4 months of full-time research Direct mentorship from Anthropic researchers Access to a shared workspace Connection to the broader AI safety and security research community Weekly stipend of 3,850 USD / 2,310 GBP / 4,300 CAD + benefits (these vary by country) Funding for compute (~$15k/month) and other research expenses Interview process The interview process will include an initial application & reference check, technical assessments & interviews, and a research discussion. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Compensation The expected base stipend for this role is 3,850 USD / 2,310 GBP / 4,300 CAD per week, with an expectation of 40 hours per week for 4 months (with possible extension). ML Systems & Performance Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential mentors include: Alwin Peng Zygi Straznickas Note: You may research mentors' prior work, but all applications must go through the official form, not the mentors. For a past example of an engineering-heavy project, see: AI agents find $4.6M in blockchain smart contract exploits Projects in this workstream may include: Building a CPU simulator for accelerator workloads Adding backends for different accelerators on an open source project Building on demand infrastructure for other infrastructure heavy fellows projects Building complex synthetic data or environment pipelines Unique candidate criteria You might be a particularly great fit for this workstream if you: Have strong software engineering skills with experience building complex ML systems Can balance research exploration with engineering rigor and operational reliability Enjoy collaborating across research and engineering disciplines Are comfortable working with large-scale distributed systems and high-performance computing (e.g. in trading) Have experience with training, fine-tuning, or evaluating large language models Are adept at analyzing and debugging model training processes You may be a good fit if you Are motivated by making sure AI is safe and beneficial for society as a whole Are excited to transition into empirical AI research and would be interested in a full-time role at Anthropic Have a strong technical background in computer science, mathematics, or physics Thrive in fast-paced, collaborative environments Can implement ideas quickly and communicate clearly Candidates must be Fluent in Python programming Available to work full-time on the Fellows program Reinforcement Learning Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential research areas and mentors include: Ruhua Jiang Kaidi Cao Sunny Duan David Brandfonbrener Colt Steele Dino Distefano Will Williams Projects in this workstream may include: Bui",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "GlobalFoundries",
+      "role": "Systems Engineer (2027 New College Graduate)",
+      "category": "Infrastructure / Systems",
+      "location": "Richardson, TX, United States",
+      "salary": "$72K/yr - $125K/yr",
+      "salary_max_annual": "125000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-09",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6aa070f3ea127c3794697210",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1164,56 +1164,6 @@
     },
     {
       "machine_rank": 46,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Freeform",
-      "role": "Software Engineer (New Grad Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA, United States",
-      "salary": "$125K/yr - $150K/yr",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-20",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 47,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Freeform",
-      "role": "[Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003)",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA (On-site)",
-      "salary": "$125,000–$150,000",
-      "salary_max_annual": "150000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-20",
-      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 48,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1238,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 47,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1263,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 48,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1288,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 49,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1313,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 50,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1338,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 51,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1363,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 52,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1388,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 53,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1413,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1438,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1463,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 56,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1488,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 57,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1513,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1563,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1588,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1613,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1638,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1663,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 64,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1688,7 +1638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 65,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1713,7 +1663,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1738,7 +1688,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1763,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1788,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1813,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1832,6 +1782,56 @@
       "source": "GitHub:jobright-ai/2026-Data-Analysis-New-Grad:README.md",
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a5a56973ac7627fe90036fe",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 71,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Freeform",
+      "role": "Software Engineer (New Grad Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA, United States",
+      "salary": "$125K/yr - $150K/yr",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-20",
+      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 72,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Freeform",
+      "role": "[Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA (On-site)",
+      "salary": "$125,000–$150,000",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-20",
+      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
