@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-20** · Open roles: **151**
+> Last automated update: **2026-09-20** · Open roles: **152**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-09-20 | **StepFun (阶跃星辰)** | [Agent Harness开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/6717b834-a55b-48d2-a370-ab1164092a2e) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-11 | **Alpha2 (平方和)** | [校招-量化策略研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0e8b5fe7-f7c7-4839-9c93-d1e8073ba92c) | Quantitative Finance | 北京市 · 海淀区 / 上海市 · 浦东新区 | 全职 | Likely campus |
 | 2026-09-11 | **Alpha2 (平方和)** | [校招-量化系统开发工程师（C++）](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/3edda8e6-076b-4dfd-91d7-a079b6e9c703) | Quantitative Finance | China | 全职 | Likely campus |
 | 2026-09-11 | **Alpha2 (平方和)** | [校招-AI研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0ad4d02e-03d3-41b3-bd39-71767369f8eb) | AI / ML | China | 全职 | Likely campus |

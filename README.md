@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-20** · Open roles: **1886**
+> Last automated update: **2026-09-20** · Open roles: **1894**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -20,10 +20,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 100 |
 | **AI Infra / Systems** | 11 |
-| **Quant / HFT** | 42 |
-| **Other high-value tech** | 17 |
+| **Quant / HFT** | 43 |
+| **Other high-value tech** | 18 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1360 |
+| Other companies | 1366 |
 
 ### Big Tech & Frontier AI
 
@@ -65,6 +65,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-20 | **DRW** | [Data Analyst - Exploration](https://job-boards.greenhouse.io/drweng/jobs/8189760) | $100,000 to $120,000 | Chicago, IL | ❔ | ❔ Review | — |
 | 2026-09-11 | **IMC Trading** | [2027 US Chess Academy Interest Form](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | Not listed | Chicago, United States | ❔ | ❔ Review | — |
 | 2026-09-09 | **Two Sigma** | [Software Engineering Full-Time Campus Hire - NYC 2027](https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df) | $225K/yr - $225K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-03 | **Akuna Capital** | [Expression of Interest: 2027 Trading Sneak Peek Weeks · 2027](https://www.akunacapital.com/careers/job/7986086?gh_jid=7986086) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
@@ -87,6 +88,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Snap** | [Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) | $195k/yr | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-08-12 | **Snap** | [Software Engineer - ML Infrastructure - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) | $195k/yr | Los Angeles, CA +2 | ❔ | ❔ Review | — |
@@ -121,7 +123,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1886 active roles**. Featured groups account for **170** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1894 active roles**. Featured groups account for **172** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
