@@ -1,5 +1,37 @@
 [
   {
+    "posted_date": "2026-09-21",
+    "company": "StepFun (阶跃星辰)",
+    "role": "全栈研发工程师（Harness）",
+    "track": "Software Engineering",
+    "location": "北京市 · 海淀区 / 上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/90c7150e-d8b5-4f06-85fa-c96b1c65a065",
+    "job_id": "90c7150e-d8b5-4f06-85fa-c96b1c65a065",
+    "status": "Open",
+    "date_added": "2026-09-21",
+    "qualification_excerpt": "负责多模型接入层与模型路由，支撑 harness 对不同模型的可插拔接入，具体职责与要求如下。 （一）岗位职责 负责多模型接入层：统一各家模型 API 格式（Anthropic/OpenAI/Gemini/国产模型），让 harness 可插拔不同模型 模型路由：按任务类型路由到不同模型（复杂推理→强模型、快速补全→轻量模型） 成本优化：缓存注入（prompt cache）、批处理、模型降级策略 流式处理、错误重试、协议适配 （二）任职要求 计算机相关专业本科及以上，5 年以上后端研发经验 有高并发 API 网关或中间件开发经验，熟悉流式处理（SSE）和协议适配 熟悉主流大模型 API（Anthropic Messages、OpenAI、Gemini）的格式差异 有模型路由、成本优化经验者优先 对多模型接入的工程细节（边界情况、性能、稳定性）有扎实把控"
+  },
+  {
+    "posted_date": "2026-09-20",
+    "company": "StepFun (阶跃星辰)",
+    "role": "Agent Runtime开发工程师",
+    "track": "AI Infrastructure / Systems",
+    "location": "北京市 · 海淀区 / 上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/c9b6382f-e735-46ac-8377-c40fe0441b76",
+    "job_id": "c9b6382f-e735-46ac-8377-c40fe0441b76",
+    "status": "Open",
+    "date_added": "2026-09-21",
+    "qualification_excerpt": "负责 agent runtime 的核心运行时，支撑 Agent 的稳定、高效执行，具体职责与要求如下。 （一）岗位职责 负责 agent runtime 的核心运行时：循环调度、会话状态管理、工具执行环境 负责 agent loop 的运行时实现、子代理编排调度与会话状态持久化 负责工具执行与沙箱：工具调用的执行环境、代码运行沙箱、隔离与安全 保障 runtime 的性能、稳定性与可观测性 （二）任职要求 计算机相关专业本科及以上，5 年以上后端研发经验 有运行时系统或执行引擎开发经验（如工作流引擎、Serverless 运行时、容器编排） 精通高并发、分布式系统，有状态管理系统开发经验者优先 熟悉沙箱技术（容器隔离、gVisor、Firecracker 等）者优先 对 Agent 运行时（durable execution、长任务断点续传）有理解者优先"
+  },
+  {
     "posted_date": "2026-09-20",
     "company": "StepFun (阶跃星辰)",
     "role": "Agent Harness开发工程师",

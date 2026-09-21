@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-21** · Open roles: **1904**
+> Last automated update: **2026-09-21** · Open roles: **1907**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 43 |
 | **Other high-value tech** | 18 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1376 |
+| Other companies | 1379 |
 
 ### Big Tech & Frontier AI
 
@@ -107,7 +107,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-19 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6aadbc6d0ebc8fb2313eb30c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f52e757fcb5c8b8e84) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f36956574eac8b6375) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686733097398290693?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
+| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686733097398290693?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686732729746950405?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | PhD only |
 | 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e6b73387a3d9b67d7cc7) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e67610b1cd4f41608b87) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -123,7 +123,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1904 active roles**. Featured groups account for **172** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1907 active roles**. Featured groups account for **172** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
