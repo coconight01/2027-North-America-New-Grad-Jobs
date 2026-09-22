@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-22** · Open roles: **154**
+> Last automated update: **2026-09-22** · Open roles: **153**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -105,7 +105,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-05-18 | **StepFun (阶跃星辰)** | [相机应用开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/106cead8-3f9f-48ef-9714-69379c0999e3) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-05-07 | **StepFun (阶跃星辰)** | [数据采集开发工程师——web端/通用采集](https://app.mokahr.com/social-recruitment/step/94904#/job/ba12e4cb-63b2-4121-9fa2-bbb8eb57c910) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-05-06 | **Lingjun Investment (灵均)** | [量化开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/27ddbc59-12c8-4260-bc6c-56fab73654a5) | Quantitative Finance | 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-04-28 | **Lingjun Investment (灵均)** | [C++开发工程师（回测方向）](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/8a079f78-0bb8-459f-9a03-0359c5c1a690) | AI Infrastructure / Systems | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [C++开发工程师（数据方向）](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/aa099f22-85a4-4545-95ce-c59b381fa814) | AI Infrastructure / Systems | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期权](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/3b230d52-24dc-4f38-938f-9bd47a2b7cbe) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期货](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/39418bed-add2-4a70-bfb8-fe46e0a4e247) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |

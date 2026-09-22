@@ -14601,7 +14601,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-08",
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a": {
@@ -22835,16 +22835,16 @@
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
-    "citizenship_required": "Unknown",
+    "citizenship_required": "Yes",
     "sponsorship": "No",
     "visa_evidence": "No H1B",
     "phd_required": "No",
     "salary": "$75K/yr - $104K/yr",
     "salary_min_annual": 75000,
     "salary_max_annual": 104000,
-    "reject_reason": "no sponsorship",
+    "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a963206f28891320e860af3": {
@@ -22892,7 +22892,7 @@
     "salary_max_annual": 155000,
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96320d3843db0159909fdb": {
@@ -22908,7 +22908,7 @@
     "salary_max_annual": 104000,
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96320df28891320e860af4": {
@@ -22924,7 +22924,7 @@
     "salary_max_annual": 123000,
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96433f4c22023a07938c01": {
@@ -29871,6 +29871,38 @@
     "checked_at": "2026-09-21",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ab07638dd960b41564192fa": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$88K/yr - $131K/yr",
+    "salary_min_annual": 88000,
+    "salary_max_annual": 131000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ab076acd3af3856cd99308e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$73K/yr - $109K/yr",
+    "salary_min_annual": 73000,
+    "salary_max_annual": 109000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ab0c25cdd960b4156419cc5": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -30107,6 +30139,22 @@
     "salary_min_annual": 85000,
     "salary_max_annual": 92000,
     "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ab222d2d2a93d5a97ebdc26": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New College Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "$108K/yr - $178K/yr",
+    "salary_min_annual": 108000,
+    "salary_max_annual": 178000,
+    "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-22",
     "parser_version": 4
@@ -48869,6 +48917,22 @@
     "checked_at": "2026-09-22",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827460002?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says recent graduate",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$30 per hour to $32 per hour",
+    "salary_min_annual": 62400,
+    "salary_max_annual": 66560,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827460002?s=gh-new-grad-software-engineering-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says recent graduate",
@@ -49205,6 +49269,22 @@
     "checked_at": "2026-09-16",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/oracle-grant-thornton-115956?s=gh-internships-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/oracle-jpmorgan-chase-210789883?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -49347,6 +49427,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-11",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/sr-AbbVie-3743990015545356?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-22",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042028?s=gh-internships-2027": {
