@@ -19,11 +19,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Group | Active roles |
 |---|---:|
 | **Big Tech & Frontier AI** | 104 |
-| **AI Infra / Systems** | 11 |
-| **Quant / HFT** | 44 |
+| **AI Infra / Systems** | 12 |
+| **Quant / HFT** | 45 |
 | **Other high-value tech** | 19 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1435 |
+| Other companies | 1433 |
 
 ### Big Tech & Frontier AI
 
@@ -51,10 +51,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000 - $160,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027)](https://zapply.jobs/l/d/greenhouse-togetherai-5211582007?s=gh-new-grad-jobs-2027) | $150,000–$160,000 | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-02 | **Scale AI** | [Enterprise AI Development Strategist](https://job-boards.greenhouse.io/scaleai/jobs/4699572005) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Crusoe** | [Software Engineer I - DCIE](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Baseten** | [Applied AI Inference Engineer](https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa) | Not listed | Remote - San Francisco, CA +1 | ❔ | ❔ Review | — |
@@ -65,6 +65,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-23 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6ab3f7b3d2f5fbd604be0860) | $200K/yr - $200K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-20 | **DRW** | [Data Analyst - Exploration](https://job-boards.greenhouse.io/drweng/jobs/8189760) | $100,000 to $120,000 | Chicago, IL | ❔ | ❔ Review | — |
 | 2026-09-11 | **IMC Trading** | [2027 US Chess Academy Interest Form](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | Not listed | Chicago, United States | ❔ | ❔ Review | — |
 | 2026-09-09 | **Two Sigma** | [Software Engineering Full-Time Campus Hire - NYC 2027](https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df) | $225K/yr - $225K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
@@ -77,7 +78,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002) | $200,000–$200,000 | Chicago, IL +1 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Optiver** | [Graduate Software Engineer - 2027 Start](https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002) | $200,000–$200,000 | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Software Developer](https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | $412k/yr | New York City, NY | ❔ | ◐ Likely | — |
@@ -124,7 +124,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1969 active roles**. Featured groups account for **178** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1969 active roles**. Featured groups account for **180** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
