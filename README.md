@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-22** · Open roles: **1930**
+> Last automated update: **2026-09-23** · Open roles: **1927**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,25 +18,25 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 102 |
+| **Big Tech & Frontier AI** | 103 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 44 |
 | **Other high-value tech** | 18 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1399 |
+| Other companies | 1395 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **Microsoft** | [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | $168k/yr | USA | ❔ | ❔ Review | — |
 | 2026-09-18 | **Microsoft** | [Quantum Engineer - Artificial Intelligence and Devices](https://apply.careers.microsoft.com/careers/job/1970393556998613) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-09-17 | **Amazon** | [Software Development Engineer - AWS Security](https://www.amazon.jobs/jobs/10544608/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
-| 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Not listed | San Francisco | ❔ | ❔ Review | — |
-| 2026-09-15 | **Amazon** | [Software Development Engineer - Catalog System Services - SPCL](https://www.amazon.jobs/jobs/10539357/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
+| 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | $242k/yr | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-09-01 | **Google** | [Software Engineer](https://www.google.com/about/careers/applications/jobs/results/106684387621249734) | $149,400–$175,000 | Mountain View, CA | ❔ | ❔ Review | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
@@ -123,7 +123,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1930 active roles**. Featured groups account for **175** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1927 active roles**. Featured groups account for **176** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
