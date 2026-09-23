@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-09-23",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "NVIDIA's new Agentic Compilation Systems new-college-grad role is today's strongest opening because it combines coding agents, ML systems and performance tooling; WeRide's virtual onsite is now fixed for September 24 at 12:00 PM Central.",
+  "summary": "No newly opened role cleared today's Priority bar. Sierra's exact Agent New Grad application advanced to a 60-90 minute technical assessment, while AXQ and NVIDIA China assessments are now confirmed complete; NVIDIA JR2026218 remains the strongest active unapplied role.",
   "changes_today": [
-    "New Priority: NVIDIA Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218) combines coding-agent workflows, ML systems, compiler-aware tooling, verification and GPU performance; strong C/C++ and compiler exposure are the main gaps.",
-    "WeRide confirmed the exact New Grads 2027 Software Engineer, Algorithm virtual onsite for September 24 at 10:00 AM Pacific / 12:00 PM Central, 45-60 minutes; the NDA is fully signed.",
-    "NVIDIA China's software assessment was scheduled for September 22 at 06:00-08:30 Central; no result email was present during reconciliation, so completion or outcome is not inferred.",
-    "The official frontier-AI and broad new-grad sweep produced no other newly opened role above the existing Priority set; roles with five-year requirements, clearance restrictions, internships/fellowships, or incompatible graduation dates remain excluded."
+    "Sierra advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment; recruiting asks for completion within one week, so September 30 is the working target even though the link itself lasts 14 days.",
+    "AXQ's Quantitative Developer Online Screen and NVIDIA China's campus software assessment are both confirmed submitted; NVIDIA's exact JR2024107/JR2024111 mapping remains uncertain.",
+    "DRW's September 22 interview has passed without a follow-up email, so the tracker remains Interview rather than inferring an outcome. WeRide's virtual onsite remains September 24 at 12:00 PM Central.",
+    "The official frontier-AI and broad new-grad sweep produced no newly opened role above the existing Priority set. Adobe R172018 surfaced through discovery, but Adobe's official page says it has been filled, so it was excluded."
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "NEW TODAY", "fit": "4.5/5 · unusually strong coding-agent + ML-systems overlap",
+      "rank": 1, "tier": "priority", "company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "RECENT", "fit": "4.5/5 · unusually strong coding-agent + ML-systems overlap",
       "why_screen": "The role accepts BS/MS/PhD new graduates and explicitly counts academic, research or internship experience in coding agents, AI/ML systems, developer tools, compilers or HPC; TikTok Agent/MCP, AutoScout, vLLM and performance profiling cover several independent paths.",
       "why_team": "Production coding-agent workflows, tool use, evaluation/verification, ML systems and GPU-performance reasoning are a rare combination of Yuhan's agent-engineering and MLSys evidence.",
       "why_interest": "The work sits between agent infrastructure, compilers and accelerated computing, offering more direct systems depth than a general new-grad product role.",
@@ -138,10 +138,11 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
-    {"company": "NVIDIA China", "role": "2027 Campus Hiring Software Technical Assessment", "status": "OA window Sep 22 06:00-08:30 AM CT; no result email during reconciliation; JR2024107 vs JR2024111 assignment remains uncertain"},
+    {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"},
+    {"company": "NVIDIA China", "role": "2027 Campus Hiring Software Technical Assessment", "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"},
     {"company": "WeRide", "role": "New Grads 2027 - Software Engineer, Algorithm", "status": "Virtual onsite Sep 24 at 10:00 AM PT / 12:00 PM CT, 45-60 minutes; NDA fully signed"},
-    {"company": "DRW", "role": "Software Developer", "status": "Interview Sep 22 at 11:00 AM CT; no outcome is inferred before the interview"},
-    {"company": "AXQ Capital", "role": "Quantitative Developer - 2027 Graduate", "status": "OA: 75-minute HackerRank due Sep 23 10:31 PM CT"},
+    {"company": "DRW", "role": "Software Developer", "status": "Interview occurred Sep 22; no follow-up email, so outcome remains pending"},
+    {"company": "AXQ Capital", "role": "Quantitative Developer - 2027 Graduate", "status": "Online Screen submitted Sep 23; wait for result"},
     {"company": "Goaly", "role": "Member of Technical Staff, New Grad", "status": "OA: start by Sep 25 5:02 PM CT, then 48 hours"},
     {"company": "DeepSeek", "role": "Online assessment / exact requisition uncertain", "status": "OA confirmed by user; deadline absent from connected Gmail—check original portal/channel"},
     {"company": "Gimlet Labs", "role": "MTS - ML Systems & Inference", "status": "Applied Sep 19"},

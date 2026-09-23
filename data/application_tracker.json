@@ -7,10 +7,10 @@
       "role": "Quantitative Developer - 2027 Graduate",
       "status": "OA",
       "applied_date": "2026-08-28",
-      "status_date": "2026-09-17",
+      "status_date": "2026-09-23",
       "confidence": "Exact",
-      "evidence": "After the September 15 interview, AXQ sent an exact Quantitative Developer HackerRank Online Screen invitation for a 75-minute assessment due 2026-09-23 10:31 PM Central Time.",
-      "next_action": "Complete the 75-minute HackerRank by 2026-09-23 10:31 PM CT; treat this as the latest process step after the first interview."
+      "evidence": "HackerRank sent an exact submission confirmation on 2026-09-23 stating that the Quantitative Developer Online Screen was completed and delivered to AXQ.",
+      "next_action": "Assessment completed; wait for AXQ's recruiting decision."
     },
     {
       "company": "MiniMax",
@@ -590,12 +590,12 @@
     {
       "company": "Sierra",
       "role": "Software Engineer, Agent (New Grad 2027)",
-      "status": "Applied",
+      "status": "OA",
       "applied_date": "2026-09-03",
-      "status_date": "2026-09-03",
+      "status_date": "2026-09-23",
       "confidence": "Exact",
-      "evidence": "Official Sierra confirmation received 2026-09-03 names the exact Software Engineer, Agent (New Grad 2027) role and confirms the application was received.",
-      "next_action": "Wait for review; remove only exact Ashby requisition 149f368c-52d5-408f-ba26-ad888f318a00 from Apply Now."
+      "evidence": "Sierra recruiting advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment on 2026-09-23. The recruiting email asks for completion within one week; the assessment link itself expires after 14 days.",
+      "next_action": "Complete the 60-90 minute assessment within the recruiter's stricter one-week window, targeting no later than 2026-09-30; once started, the timer runs continuously."
     },
     {
       "company": "IMC Trading",
@@ -702,10 +702,10 @@
       "role": "Software Developer",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-09-18",
+      "status_date": "2026-09-22",
       "confidence": "Exact",
-      "evidence": "The DRW recruiting thread confirms the exact Software Developer technical Zoom interview for 2026-09-22 at 11:00 AM Central Time; Yuhan confirmed the time and the recruiter acknowledged it.",
-      "next_action": "Prepare for the September 22, 11:00 AM CT technical interview."
+      "evidence": "The exact Software Developer technical Zoom interview was scheduled and acknowledged for 2026-09-22 at 11:00 AM Central Time. No subsequent outcome email was present during the 2026-09-23 reconciliation.",
+      "next_action": "Interview date has passed; wait for DRW's follow-up and do not infer an outcome from silence."
     },
     {
       "company": "Goaly",
@@ -822,10 +822,10 @@
       "role": "2027 Campus Hiring Software Technical Assessment (JR2024107 / JR2024111 assignment uncertain)",
       "status": "OA",
       "applied_date": null,
-      "status_date": "2026-09-21",
+      "status_date": "2026-09-22",
       "confidence": "Exact assessment / requisition uncertain",
-      "evidence": "NVIDIA sent the HackerRank invitation on 2026-09-21 for the software technical assessment covering high-performance computing, AI, chip architecture, C++, and AI infrastructure. It starts 2026-09-22 at 19:00 Beijing / 06:00 Central; login closes at 19:20 Beijing / 06:20 Central; duration is 150 minutes. Four tests run simultaneously and a candidate may take only one. The invite does not identify whether it maps to JR2024107, JR2024111, or both.",
-      "next_action": "Start the selected first-choice assessment at 06:00 CT on 2026-09-22 (login by 06:20); allow the full 150 minutes and preserve requisition uncertainty."
+      "evidence": "HackerRank confirmed on 2026-09-22 that the NVIDIA 2027 campus software comprehensive assessment covering HPC, AI, chip architecture, C++, and AI infrastructure was completed and delivered. The confirmation still does not identify whether it maps to JR2024107, JR2024111, or both.",
+      "next_action": "Assessment completed; wait for NVIDIA's result while preserving exact-requisition uncertainty."
     },
     {
       "company": "DeepSeek",
