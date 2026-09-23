@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-23** · Open roles: **1927**
+> Last automated update: **2026-09-23** · Open roles: **1931**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 103 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 44 |
-| **Other high-value tech** | 18 |
+| **Other high-value tech** | 19 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1395 |
+| Other companies | 1398 |
 
 ### Big Tech & Frontier AI
 
@@ -88,6 +88,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
 | 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Snap** | [Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) | $195k/yr | Palo Alto, CA | ❔ | ❔ Review | — |
@@ -123,7 +124,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1927 active roles**. Featured groups account for **176** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1931 active roles**. Featured groups account for **177** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
