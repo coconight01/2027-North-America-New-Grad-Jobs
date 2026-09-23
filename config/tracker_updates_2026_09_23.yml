@@ -1,0 +1,33 @@
+# Exact Gmail process updates reviewed on 2026-09-23.
+updates:
+  - company: AXQ Capital
+    role: "Quantitative Developer - 2027 Graduate"
+    status: OA
+    status_date: "2026-09-23"
+    confidence: Exact
+    evidence: "HackerRank sent an exact submission confirmation on 2026-09-23 stating that the Quantitative Developer Online Screen was completed and delivered to AXQ."
+    next_action: "Assessment completed; wait for AXQ's recruiting decision."
+
+  - company: Sierra
+    role: "Software Engineer, Agent (New Grad 2027)"
+    status: OA
+    status_date: "2026-09-23"
+    confidence: Exact
+    evidence: "Sierra recruiting advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment on 2026-09-23. The recruiting email asks for completion within one week; the assessment link itself expires after 14 days."
+    next_action: "Complete the 60-90 minute assessment within the recruiter's stricter one-week window, targeting no later than 2026-09-30; once started, the timer runs continuously."
+
+  - company: NVIDIA China
+    role: "2027 Campus Hiring Software Technical Assessment (JR2024107 / JR2024111 assignment uncertain)"
+    status: OA
+    status_date: "2026-09-22"
+    confidence: "Exact assessment / requisition uncertain"
+    evidence: "HackerRank confirmed on 2026-09-22 that the NVIDIA 2027 campus software comprehensive assessment covering HPC, AI, chip architecture, C++, and AI infrastructure was completed and delivered. The confirmation still does not identify whether it maps to JR2024107, JR2024111, or both."
+    next_action: "Assessment completed; wait for NVIDIA's result while preserving exact-requisition uncertainty."
+
+  - company: DRW
+    role: "Software Developer"
+    status: Interview
+    status_date: "2026-09-22"
+    confidence: Exact
+    evidence: "The exact Software Developer technical Zoom interview was scheduled and acknowledged for 2026-09-22 at 11:00 AM Central Time. No subsequent outcome email was present during the 2026-09-23 reconciliation."
+    next_action: "Interview date has passed; wait for DRW's follow-up and do not infer an outcome from silence."
