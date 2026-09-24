@@ -1,25 +1,17 @@
 {
   "updated_at": "2026-09-23",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "No newly opened role cleared today's Priority bar. Sierra's exact Agent New Grad application advanced to a 60-90 minute technical assessment, while AXQ and NVIDIA China assessments are now confirmed complete; NVIDIA JR2026218 remains the strongest active unapplied role.",
+  "summary": "No newly opened role cleared today's Priority bar. Sierra's exact Agent New Grad application advanced to a 60-90 minute technical assessment, while AXQ and NVIDIA China assessments are now confirmed complete. NVIDIA JR2026218 was removed because the exact official Workday requisition is no longer live/available.",
   "changes_today": [
     "Sierra advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment; recruiting asks for completion within one week, so September 30 is the working target even though the link itself lasts 14 days.",
     "AXQ's Quantitative Developer Online Screen and NVIDIA China's campus software assessment are both confirmed submitted; NVIDIA's exact JR2024107/JR2024111 mapping remains uncertain.",
     "DRW's September 22 interview has passed without a follow-up email, so the tracker remains Interview rather than inferring an outcome. WeRide's virtual onsite remains September 24 at 12:00 PM Central.",
-    "The official frontier-AI and broad new-grad sweep produced no newly opened role above the existing Priority set. Adobe R172018 surfaced through discovery, but Adobe's official page says it has been filled, so it was excluded."
+    "The official frontier-AI and broad new-grad sweep produced no newly opened role above the existing Priority set. Adobe R172018 surfaced through discovery, but Adobe's official page says it has been filled, so it was excluded.",
+    "Correction: NVIDIA JR2026218 is unavailable on the exact official Workday URL and cannot be verified as a live official requisition; third-party cached listings are discovery-only, so it was removed from actionable tiers."
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "RECENT", "fit": "4.5/5 · unusually strong coding-agent + ML-systems overlap",
-      "why_screen": "The role accepts BS/MS/PhD new graduates and explicitly counts academic, research or internship experience in coding agents, AI/ML systems, developer tools, compilers or HPC; TikTok Agent/MCP, AutoScout, vLLM and performance profiling cover several independent paths.",
-      "why_team": "Production coding-agent workflows, tool use, evaluation/verification, ML systems and GPU-performance reasoning are a rare combination of Yuhan's agent-engineering and MLSys evidence.",
-      "why_interest": "The work sits between agent infrastructure, compilers and accelerated computing, offering more direct systems depth than a general new-grad product role.",
-      "location": "Santa Clara, CA · full-time · onsite", "salary": "Unknown on the exact official posting; third-party discovery ranges are not treated as official compensation", "new_grad": "Bachelor's, Master's or PhD in a relevant field or equivalent experience; academic, research or internship experience accepted; no professional-years minimum.",
-      "sponsorship": "Unknown on the exact requisition.", "caveat": "Strong Python and C/C++ are required; compiler/LLVM/MLIR/CUDA exposure is highly desirable. Yuhan's agent and ML-systems evidence is stronger than her recent modern-C++ and compiler depth.", "urgency": "Posted September 22, 2026; official NVIDIA application is live and rolling.",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218"
-    },
-    {
-      "rank": 2, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
+      "rank": 1, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
       "why_screen": "The posting accepts excellent new graduates and asks for distributed systems, GPU resource management, scheduling and systems thinking; AutoScout, NCCL/multi-GPU work, vLLM and Linux profiling provide concrete evidence.",
       "why_team": "Large-scale model training/inference infrastructure, accelerator scheduling, diagnostics, observability and performance tuning are unusually direct resume overlaps.",
       "why_interest": "This is a true AI-platform role supporting researchers, not a generic quant-development or product role.",
@@ -28,7 +20,7 @@
       "url": "https://app.mokahr.com/campus_apply/centuryfrontier/24842#/job/f2cde231-061a-4618-8991-4c73e720a66b"
     },
     {
-      "rank": 3, "tier": "priority", "company": "Replit", "role": "Software Engineer - New Grad (2027)", "status": "RECENT", "fit": "4.2/5 · agent platform / cloud systems",
+      "rank": 2, "tier": "priority", "company": "Replit", "role": "Software Engineer - New Grad (2027)", "status": "RECENT", "fit": "4.2/5 · agent platform / cloud systems",
       "why_screen": "Explicit 2027 graduate role with no multi-year minimum; TikTok agent engineering and end-to-end production ownership are strong evidence.",
       "why_team": "Agent/MCP work plus distributed-systems and performance research map to the agentic platform and cloud backend.",
       "why_interest": "High ownership on AI-agent infrastructure and developer tooling rather than generic enterprise backend.",
@@ -37,7 +29,7 @@
       "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
     },
     {
-      "rank": 4, "tier": "priority", "company": "Cursor", "role": "Software Engineer, New Grad 2027", "status": "RECENT", "fit": "4.1/5 · AI-agent product and underlying systems",
+      "rank": 3, "tier": "priority", "company": "Cursor", "role": "Software Engineer, New Grad 2027", "status": "RECENT", "fit": "4.1/5 · AI-agent product and underlying systems",
       "why_screen": "Spring 2027 technical graduates with reviewable work are requested; AutoScout/NeuronaBox and TikTok production work provide concrete artifacts.",
       "why_team": "Grok Bot, Cloud Agents and underlying systems can use agent orchestration, evaluation, reliability and backend experience.",
       "why_interest": "Direct coding-agent work with meaningful backend and systems ownership.",
@@ -138,6 +130,7 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
+    {"company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "Removed Sep 23: exact official Workday requisition is unavailable/not live; third-party cached listings are discovery-only."},
     {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"},
     {"company": "NVIDIA China", "role": "2027 Campus Hiring Software Technical Assessment", "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"},
     {"company": "WeRide", "role": "New Grads 2027 - Software Engineer, Algorithm", "status": "Virtual onsite Sep 24 at 10:00 AM PT / 12:00 PM CT, 45-60 minutes; NDA fully signed"},
