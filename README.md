@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-24** · Open roles: **2009**
+> Last automated update: **2026-09-24** · Open roles: **2016**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 19 |
-| **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1471 |
+| **ByteDance / TikTok** (separate) | 357 |
+| Other companies | 1477 |
 
 ### Big Tech & Frontier AI
 
@@ -90,7 +90,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
 | 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-09-01 | **Stripe** | [Software Engineer, New Grad · Summer 2027](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, Seattle, New York, US | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Snap** | [Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) | $195k/yr | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-08-12 | **Snap** | [Software Engineer - ML Infrastructure - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) | $195k/yr | Los Angeles, CA +2 | ❔ | ❔ Review | — |
 | 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career · 2027](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
@@ -101,10 +101,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>356 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>357 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-24 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8b069f680f314a29d40c1f) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6aadbc6d0ebc8fb2313eb30c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f52e757fcb5c8b8e84) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f36956574eac8b6375) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -116,15 +117,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-15 | **ByteDance** | [Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673946040656267573?s=gh-new-grad-data-science-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-15 | **ByteDance** | [AI Vision Research Engineer Graduate (Pico) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7668433722454935861?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-15 | **ByteDance** | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667334521286035765?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-14 | **ByteDance** | [Research Scientist Graduate (Multi-modal Agentic Databases)- 2027 Start (PHD)](https://zapply.jobs/l/d/bytedance-7665108869591140613?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 
-_Showing 12 of 356 active roles. Use the Job Radar for all roles._
+_Showing 12 of 357 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2009 active roles**. Featured groups account for **182** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2016 active roles**. Featured groups account for **182** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
