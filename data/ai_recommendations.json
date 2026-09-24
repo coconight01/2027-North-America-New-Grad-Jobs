@@ -1,17 +1,26 @@
 {
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "No newly opened role cleared today's Priority bar. Sierra's exact Agent New Grad application advanced to a 60-90 minute technical assessment, while AXQ and NVIDIA China assessments are now confirmed complete. NVIDIA JR2026218 was removed because the exact official Workday requisition is no longer live/available.",
+  "summary": "Amazon Annapurna Labs SDE I, Early Career 2027 (10558915) is today's strongest new role: the exact official application is live, May 2027 is explicitly eligible, and team matching includes ML runtimes/frameworks plus distributed training and inference. Gmail has no new outcome evidence since the last review; WeRide's onsite remains today and Goaly's take-home must be started by September 25 at 5:02 PM Central.",
   "changes_today": [
-    "Sierra advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment; recruiting asks for completion within one week, so September 30 is the working target even though the link itself lasts 14 days.",
-    "AXQ's Quantitative Developer Online Screen and NVIDIA China's campus software assessment are both confirmed submitted; NVIDIA's exact JR2024107/JR2024111 mapping remains uncertain.",
-    "DRW's September 22 interview has passed without a follow-up email, so the tracker remains Interview rather than inferring an outcome. WeRide's virtual onsite remains September 24 at 12:00 PM Central.",
-    "The official frontier-AI and broad new-grad sweep produced no newly opened role above the existing Priority set. Adobe R172018 surfaced through discovery, but Adobe's official page says it has been filled, so it was excluded.",
-    "Correction: NVIDIA JR2026218 is unavailable on the exact official Workday URL and cannot be verified as a live official requisition; third-party cached listings are discovery-only, so it was removed from actionable tiers."
+    "NEW: Amazon Annapurna Labs Software Development Engineer I, Early Career 2027 (10558915) was verified on the exact official Amazon page with an active Apply button; it is a different requisition from the applied 10490741 role.",
+    "The new Amazon role explicitly accepts a final graduation date of May 2027 or later, requires only one modern language, and offers team matching across ML runtimes/frameworks, performance, and distributed training/inference infrastructure.",
+    "Gmail reconciliation found no new exact-role outcomes for WeRide, DRW, Sierra, Goaly, AXQ, NVIDIA China, or DeepSeek. WeRide remains scheduled for September 24 at 12:00 PM Central; Goaly must be started by September 25 at 5:02 PM Central.",
+    "The semantic-review queue now collapses Amazon/Annapurna aliases and exact duplicate titles, vetoes pure-hardware roles, and blocks all cached copies of officially unavailable NVIDIA JR2026218 via a persistent requisition override.",
+    "The official frontier-AI sweep found no second new role above the Priority bar. SingleStore 8220863 is live but asks candidates to be enrolled in a B.S. and requires strong C/C++, so it remains review-only rather than actionable."
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
+      "rank": 1, "tier": "priority", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)", "status": "NEW TODAY", "fit": "4.8/5 · ML runtimes / distributed training-inference team-match",
+      "why_screen": "The exact posting accepts a Bachelor's or Master's student graduating May 2027 or later and requires only one modern language such as Python; UIUC MSCS, algorithms/OS foundations, AutoScout, vLLM and TikTok production engineering meet the stated minimums.",
+      "why_team": "Annapurna explicitly matches hires to ML runtimes and framework integration, performance optimization, or distributed training/inference infrastructure; PyTorch, NCCL/multi-GPU, vLLM cold-start work, Linux profiling and scheduler/runtime research are direct evidence.",
+      "why_interest": "The broad team-match structure offers a credible path into Neuron ML runtimes or distributed infrastructure without forcing a compiler/kernel specialization.",
+      "location": "Austin, TX; Cupertino, CA; New York, NY; Seattle, WA · work arrangement not stated", "salary": "Official starting annual base: Austin/Seattle $128,700; Cupertino $148,100; New York $141,600", "new_grad": "BS/MS in CS/CE/related; final graduation date May 2027 or later; no professional-years minimum.",
+      "sponsorship": "Unknown on the exact requisition.", "caveat": "Team matching also includes firmware, drivers, compilers and kernels; application materials should state a clear preference for ML runtimes/frameworks and distributed training/inference. C/C++ systems depth is preferred but not required.", "urgency": "Posted September 24; rolling with no published deadline. Apply early.",
+      "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+    },
+    {
+      "rank": 2, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
       "why_screen": "The posting accepts excellent new graduates and asks for distributed systems, GPU resource management, scheduling and systems thinking; AutoScout, NCCL/multi-GPU work, vLLM and Linux profiling provide concrete evidence.",
       "why_team": "Large-scale model training/inference infrastructure, accelerator scheduling, diagnostics, observability and performance tuning are unusually direct resume overlaps.",
       "why_interest": "This is a true AI-platform role supporting researchers, not a generic quant-development or product role.",
@@ -20,7 +29,7 @@
       "url": "https://app.mokahr.com/campus_apply/centuryfrontier/24842#/job/f2cde231-061a-4618-8991-4c73e720a66b"
     },
     {
-      "rank": 2, "tier": "priority", "company": "Replit", "role": "Software Engineer - New Grad (2027)", "status": "RECENT", "fit": "4.2/5 · agent platform / cloud systems",
+      "rank": 3, "tier": "priority", "company": "Replit", "role": "Software Engineer - New Grad (2027)", "status": "RECENT", "fit": "4.2/5 · agent platform / cloud systems",
       "why_screen": "Explicit 2027 graduate role with no multi-year minimum; TikTok agent engineering and end-to-end production ownership are strong evidence.",
       "why_team": "Agent/MCP work plus distributed-systems and performance research map to the agentic platform and cloud backend.",
       "why_interest": "High ownership on AI-agent infrastructure and developer tooling rather than generic enterprise backend.",
@@ -29,7 +38,7 @@
       "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
     },
     {
-      "rank": 3, "tier": "priority", "company": "Cursor", "role": "Software Engineer, New Grad 2027", "status": "RECENT", "fit": "4.1/5 · AI-agent product and underlying systems",
+      "rank": 4, "tier": "priority", "company": "Cursor", "role": "Software Engineer, New Grad 2027", "status": "RECENT", "fit": "4.1/5 · AI-agent product and underlying systems",
       "why_screen": "Spring 2027 technical graduates with reviewable work are requested; AutoScout/NeuronaBox and TikTok production work provide concrete artifacts.",
       "why_team": "Grok Bot, Cloud Agents and underlying systems can use agent orchestration, evaluation, reliability and backend experience.",
       "why_interest": "Direct coding-agent work with meaningful backend and systems ownership.",
@@ -38,49 +47,56 @@
       "url": "https://cursor.com/careers/software-engineer-new-grad-2027"
     },
     {
-      "rank": 1, "tier": "secondary", "company": "NVIDIA", "role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "status": "RECENT", "fit": "4.1/5 · strong MLSys content, compiler/C++ gap",
+      "rank": 1, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
+      "why_screen": "SDE I has no numeric professional-years minimum and accepts internship/project evidence; Python, Linux profiling, distributed systems and ML infrastructure are strong matches.", "why_team": "The team builds Kubernetes-based tools, pipelines, metrics and automation for Neuron workloads on Trainium and Inferentia, directly using performance and systems-debugging skills.", "why_interest": "It is production ML infrastructure with meaningful ownership on custom-accelerator workloads, not pure hardware.",
+      "location": "Cupertino, CA · work arrangement not stated", "salary": "$127,100-$185,000 base + sign-on/RSUs", "new_grad": "No degree date or numeric years minimum stated; technical internship/project experience preferred.",
+      "sponsorship": "Unknown on the exact requisition.", "caveat": "Proficiency in Java plus one of Go/Python/TypeScript is a basic qualification; Java is the primary screen risk.", "urgency": "Older but exact official page and Apply button were live on September 24; rolling.",
+      "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
+    },
+    {
+      "rank": 2, "tier": "secondary", "company": "NVIDIA", "role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "status": "RECENT", "fit": "4.1/5 · strong MLSys content, compiler/C++ gap",
       "why_screen": "AutoScout, inference optimization and MLSys research are relevant; compiler/GPU-programming depth is the screen risk.", "why_team": "Performance modeling translates if the team can use systems rather than kernel-specialist strengths.", "why_interest": "High-upside ML performance work, though less aligned than serving/runtime.",
       "location": "Santa Clara / Seattle / additional US location", "salary": "$108,000-$195,500 base", "new_grad": "Bachelor's minimum; MS/PhD preferred; no numeric professional-years requirement.",
       "sponsorship": "Unknown.", "caveat": "Python, C/C++, GPU programming and compiler/kernel experience are core requirements.", "urgency": "Rolling new-college-grad requisition.",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011"
     },
     {
-      "rank": 2, "tier": "secondary", "company": "C3 AI", "role": "Forward Deployed Engineer, New Grad 2027 (8804558002)", "status": "RECENT", "fit": "4.0/5 · production agent systems / customer engineering",
+      "rank": 3, "tier": "secondary", "company": "C3 AI", "role": "Forward Deployed Engineer, New Grad 2027 (8804558002)", "status": "RECENT", "fit": "4.0/5 · production agent systems / customer engineering",
       "why_screen": "Python, cloud/data systems, profiling, agentic architecture and tool calling map to TikTok Agent/MCP.", "why_team": "Production agent integration and cross-system debugging are direct strengths.", "why_interest": "Strong applied-AI ownership, but less foundational systems depth.",
       "location": "Redwood City · five days/week onsite · travel", "salary": "$120,000-$150,000 base + equity", "new_grad": "BS/MS graduating Dec 2026 or Summer/Fall 2027; no years minimum.",
       "sponsorship": "Unknown.", "caveat": "Customer-facing full-stack delivery; React preferred.", "urgency": "Active campus requisition; rolling.",
       "url": "https://c3.ai/job-description?gh_jid=8804558002"
     },
     {
-      "rank": 3, "tier": "secondary", "company": "LiteLLM", "role": "Forward Deployed Engineer (New Grad)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.0/5 · LLM gateway / production debugging",
+      "rank": 4, "tier": "secondary", "company": "LiteLLM", "role": "Forward Deployed Engineer (New Grad)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.0/5 · LLM gateway / production debugging",
       "why_screen": "TikTok Agent gateway, tool integration, evaluation and Python production work map well.", "why_team": "Yuhan can debug tool-calling and LLM integrations across production environments.", "why_interest": "AI infrastructure exposure with rapid ownership.",
       "location": "United States · full-time", "salary": "$150,000-$210,000 + equity", "new_grad": "Explicit new-grad; no multi-year requirement.",
       "sponsorship": "Unknown.", "caveat": "Customer calls and support-queue ownership are meaningful; less runtime depth.", "urgency": "Older but active; rolling.",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3"
     },
     {
-      "rank": 4, "tier": "secondary", "company": "SingleStore", "role": "Software Engineer - New Grad 2027 (8205389)", "status": "RECENT", "fit": "3.8/5 · distributed database / systems hedge",
+      "rank": 5, "tier": "secondary", "company": "SingleStore", "role": "Software Engineer - New Grad 2027 (8205389)", "status": "RECENT", "fit": "3.8/5 · distributed database / systems hedge",
       "why_screen": "OS, concurrency, algorithms and distributed-system research are strong; recent C++ depth is the gap.", "why_team": "Schedulers, fault tolerance and performance debugging transfer to distributed SQL.", "why_interest": "Deep distributed-systems fundamentals with long-term infrastructure value.",
       "location": "United States", "salary": "Unknown", "new_grad": "Bachelor's minimum; no professional-years requirement.",
       "sponsorship": "Unknown.", "caveat": "Strong C or C++ is required; some teams are query/compiler-heavy.", "urgency": "Active new-grad requisition; rolling.",
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
     },
     {
-      "rank": 5, "tier": "secondary", "company": "Palantir", "role": "Forward Deployed Software Engineer, New Grad - Commercial", "status": "MISSED-OLDER-ACTIVE", "fit": "3.9/5 · production integration / LLM workflow",
+      "rank": 6, "tier": "secondary", "company": "Palantir", "role": "Forward Deployed Software Engineer, New Grad - Commercial", "status": "MISSED-OLDER-ACTIVE", "fit": "3.9/5 · production integration / LLM workflow",
       "why_screen": "Python, LLM workflows, large-scale data and TikTok production ownership fit well.", "why_team": "Cross-system integration and production debugging are differentiators.", "why_interest": "Strong systems/product ownership, but less direct inference work.",
       "location": "New York · hybrid · 25-50% travel", "salary": "$135,000-$145,000 base + possible RSUs/sign-on", "new_grad": "Dec 2026 or Spring 2027; no years minimum.",
       "sponsorship": "Unknown.", "caveat": "Customer delivery and travel may dominate over deep MLSys.", "urgency": "Older but active; rolling.",
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728"
     },
     {
-      "rank": 6, "tier": "secondary", "company": "Alpha2", "role": "Campus AI Researcher", "status": "RECENT", "fit": "4.0/5 · post-training / evaluation / agent research",
+      "rank": 7, "tier": "secondary", "company": "Alpha2", "role": "Campus AI Researcher", "status": "RECENT", "fit": "4.0/5 · post-training / evaluation / agent research",
       "why_screen": "The campus role explicitly values PyTorch, large-scale or distributed training, inference acceleration, Agent/tool use and NOI/NOIP awards; Yuhan has concrete evidence on every one except full post-training ownership.", "why_team": "Distributed training, evaluation pipelines, data automation and production agent work can support RLHF/RLVR experimentation and deployment.", "why_interest": "A high-upside China quant/AI research path that uses both ML research and engineering rather than low-latency C++.",
       "location": "Mainland China · full-time", "salary": "Unknown", "new_grad": "Explicit campus role; no numeric professional-years requirement.",
       "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "Primary work is post-training algorithms/data/evaluation rather than MLSys; direct PPO/GRPO/RLHF experience and top-paper evidence are preferred.", "urgency": "Official campus Moka application is live; deadline unpublished.",
       "url": "https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0ad4d02e-03d3-41b3-bd39-71767369f8eb"
     },
     {
-      "rank": 7, "tier": "secondary", "company": "Whatnot", "role": "Software Engineer, 2027 New Grad", "status": "RECENT", "fit": "3.7/5 · scalable-service/general SWE hedge",
+      "rank": 8, "tier": "secondary", "company": "Whatnot", "role": "Software Engineer, 2027 New Grad", "status": "RECENT", "fit": "3.7/5 · scalable-service/general SWE hedge",
       "why_screen": "TikTok shipping and scalable-systems work make the general screen credible.", "why_team": "Production ownership and algorithms support high-scale services.", "why_interest": "Strong general-SWE hedge with good compensation, not an MLSys destination.",
       "location": "NY / LA / SF / Seattle · hybrid", "salary": "$155,000-$160,000 base + equity", "new_grad": "Degree by Summer 2027; industry SWE exposure but no numeric full-time-years minimum.",
       "sponsorship": "Unknown.", "caveat": "Product instincts and shipping speed dominate; no direct MLSys team.", "urgency": "Active 2027 role; rolling.",
@@ -125,6 +141,7 @@
     }
   ],
   "review_only": [
+    {"company": "SingleStore", "role": "MIT-Software Engineer-New Grad |Engine| (8220863)", "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863", "reason": "New and live, but the exact minimum says enrolled in a B.S. degree and requires strong C++ or C; May 2027 MS status and language fit are both unclear, so do not prioritize over the existing 8205389 role."},
     {"company": "DeepSeek", "role": "Infrastructure R&D Engineer", "url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/a63f2346-b672-4c48-af43-0a64bfe97a41", "reason": "Excellent Python/C++/Rust, cluster/runtime/filesystem/JIT/CI/CD fit, but an active DeepSeek OA has unknown exact requisition and deadline; check the portal before applying."},
     {"company": "Google", "role": "Software Engineer, Early Career, Campus", "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750", "reason": "Live through at least Sep 30, 2026, but the tracker has a likely matching Google Early Career Campus application whose confirmation omitted the requisition ID; verify the portal."},
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}

@@ -19,7 +19,15 @@
     },
     "application_dedupe": {
       "outcome": "success",
-      "detail": "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
+      "detail": "application and semantic-role dedupe ok, including ByteDance/TikTok and Amazon/Annapurna aliases"
+    },
+    "manual_official_status_override": {
+      "outcome": "success",
+      "detail": "exact closed-requisition override blocks stale discovery copies without suppressing adjacent roles"
+    },
+    "pure_hardware_veto": {
+      "outcome": "success",
+      "detail": "pure hardware is vetoed while GPU runtime/software roles remain eligible"
     },
     "jd_excerpt_association": {
       "outcome": "success",

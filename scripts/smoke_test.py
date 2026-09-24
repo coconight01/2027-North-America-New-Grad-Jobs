@@ -136,10 +136,26 @@ def test_application_dedupe() -> str:
             "company": "ExampleCo",
             "role": "Software Engineer, Early Career",
             "status": "Applied",
-            "confidence": "Exact",
+            "confidence": "User-confirmed exact role",
         }]
     }
     assert build_review_queue([exact], profile, exact_tracker) == []
+
+    requisition_variant = base_job("Software Engineer - New Grad - 2027")
+    requisition_variant.update({
+        "company": "ExampleCo",
+        "url": "https://boards.example/jobs/5211582007",
+        "personalized_score": 100,
+    })
+    requisition_tracker = {
+        "applications": [{
+            "company": "ExampleCo",
+            "role": "Software Engineer, New Grad (2027) (5211582007)",
+            "status": "Applied",
+            "confidence": "User-confirmed exact role",
+        }]
+    }
+    assert build_review_queue([requisition_variant], profile, requisition_tracker) == []
 
     possible = base_job("Machine Learning Infrastructure Engineer")
     possible["company"] = "MaybeCo"
@@ -155,7 +171,43 @@ def test_application_dedupe() -> str:
     queue = build_review_queue([possible], profile, possible_tracker)
     assert len(queue) == 1, queue
     assert queue[0]["application_match"] == "Company-only possible", queue[0]
-    return "application dedupe/warning semantics ok, including ByteDance/TikTok aliases"
+
+    duplicate_a = base_job("Software Development Engineer I, Annapurna Labs, Early Career - 2027")
+    duplicate_a.update({"company": "Amazon", "personalized_score": 99})
+    duplicate_b = dict(duplicate_a)
+    duplicate_b.update({
+        "company": "Annapurna Labs (U.S.) Inc. - D63",
+        "location": "Cupertino, CA",
+        "url": "https://aggregator.example/duplicate",
+        "personalized_score": 98,
+    })
+    assert len(build_review_queue([duplicate_a, duplicate_b], profile, {})) == 1
+    return "application and semantic-role dedupe ok, including ByteDance/TikTok and Amazon/Annapurna aliases"
+
+
+def test_manual_official_status_override() -> str:
+    from smart_rank_jobs import hard_veto
+
+    stale = base_job("Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)")
+    stale.update({
+        "company": "NVIDIA",
+        "url": "https://cached.example/jobs/JR2026218",
+    })
+    assert hard_veto(stale) == "manual official-status override: closed/unavailable"
+    adjacent = dict(stale)
+    adjacent.update({"role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "url": "https://example.com/JR2026011"})
+    assert not hard_veto(adjacent)
+    return "exact closed-requisition override blocks stale discovery copies without suppressing adjacent roles"
+
+
+def test_pure_hardware_veto() -> str:
+    from smart_rank_jobs import hard_veto
+
+    hardware = base_job("Cloud Hardware Development Engineer I, Early Career - 2027", "Hardware Engineering")
+    assert hard_veto(hardware) == "pure hardware role"
+    runtime = base_job("GPU Runtime Software Engineer, New Grad", "Hardware Engineering")
+    assert not hard_veto(runtime)
+    return "pure hardware is vetoed while GPU runtime/software roles remain eligible"
 
 
 def test_jd_excerpt_stays_with_job_after_sort() -> str:
@@ -255,6 +307,8 @@ def main() -> None:
         ("ranking", test_ranking),
         ("title_noise_and_vetoes", test_title_noise_and_vetoes),
         ("application_dedupe", test_application_dedupe),
+        ("manual_official_status_override", test_manual_official_status_override),
+        ("pure_hardware_veto", test_pure_hardware_veto),
         ("jd_excerpt_association", test_jd_excerpt_stays_with_job_after_sort),
         ("github_markdown_title_cleanup", test_github_markdown_link_title_cleanup),
         ("priority_company_detail_recall", test_priority_company_detail_recall),

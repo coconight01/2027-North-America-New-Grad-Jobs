@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 import requests
+import yaml
 from bs4 import BeautifulSoup
 
 from profile_ranker import load_profile, norm, official_source, score_job, smart_sort_key
@@ -39,6 +40,23 @@ HIGH_POTENTIAL_TITLE = re.compile(
     re.I,
 )
 SUSPICIOUS_COMPANIES = {"ecommerce guide"}
+HARDWARE_SOFTWARE_RESCUE = re.compile(
+    r"\b(?:software|ml systems?|ai infrastructure|compiler|runtime|cuda|gpu software|"
+    r"kernel|inference|training infrastructure|distributed systems?)\b",
+    re.I,
+)
+
+
+def load_status_overrides() -> list[dict]:
+    path = ROOT / "config" / "role_status_overrides.yml"
+    try:
+        payload = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    except (FileNotFoundError, OSError, yaml.YAMLError):
+        return []
+    return [dict(item) for item in payload.get("closed_or_unavailable", []) or []]
+
+
+STATUS_OVERRIDES = load_status_overrides()
 
 
 def load_json(path: Path, default):
@@ -87,6 +105,8 @@ def cache_fresh(entry: dict, days: int) -> bool:
 
 def company_group(value: object) -> str:
     company = norm(value)
+    if "annapurna labs" in company:
+        return "amazon"
     if "bytedance" in company or "tiktok" in company:
         return "bytedance-tiktok"
     if company in {"nvidia", "nvidia ai"}:
@@ -114,8 +134,17 @@ def company_priority(value: object, profile: dict) -> str:
 
 def hard_veto(row: dict) -> str:
     role = str(row.get("role") or "")
+    identity = " ".join((role, str(row.get("url") or ""), str(row.get("source") or ""))).casefold()
+    company = company_group(row.get("company"))
+    for item in STATUS_OVERRIDES:
+        requisition_id = str(item.get("requisition_id") or "").casefold()
+        override_company = company_group(item.get("company"))
+        if requisition_id and requisition_id in identity and (not override_company or override_company == company):
+            return "manual official-status override: closed/unavailable"
     if NON_FTE_TITLE.search(role):
         return "non-full-time program title"
+    if str(row.get("category") or "").casefold() == "hardware engineering" and not HARDWARE_SOFTWARE_RESCUE.search(role):
+        return "pure hardware role"
     if EXPLICIT_2026.search(role) and not EXPLICIT_2027.search(role):
         return "explicit 2026-only title"
     if SECURITY_CLEARANCE_TITLE.search(role):
@@ -149,7 +178,7 @@ def tracker_blocks(tracker: dict) -> tuple[set[str], set[str], set[str]]:
             or ("additional" in note and "on hold" in note)
         ):
             hold_groups.add(company)
-        if confidence == "exact" and company and role:
+        if "exact" in confidence and company and role:
             exact.add(company + "|" + role)
         elif company:
             possible_company.add(company)
@@ -159,10 +188,14 @@ def tracker_blocks(tracker: dict) -> tuple[set[str], set[str], set[str]]:
 def exact_application_match(job: dict, exact: set[str]) -> bool:
     company = company_group(job.get("company"))
     role = norm(job.get("role"))
+    identity = norm(" ".join((str(job.get("role") or ""), str(job.get("url") or ""), str(job.get("source") or ""))))
     for item in exact:
         c, r = item.split("|", 1)
         if c != company:
             continue
+        requisition_ids = re.findall(r"\b(?:jr)?\d{7,10}\b", r, re.I)
+        if requisition_ids and any(requisition_id in identity for requisition_id in requisition_ids):
+            return True
         if r == role or (len(r) >= 14 and len(role) >= 10 and (r in role or role in r)):
             return True
     return False
@@ -293,7 +326,7 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
     limit = max(60, int(ranking.get("shortlist_size", 32)) * 3)
     per_company = max(4, int(ranking.get("max_per_company", 2)) * 2)
     exact, possible_company, hold_groups = tracker_blocks(tracker)
-    chosen, counts = [], {}
+    chosen, counts, seen_roles = [], {}, set()
     for row in sorted(rows, key=smart_sort_key):
         score = int(row.get("personalized_score") or 0)
         if score < threshold or hard_veto(row):
@@ -303,6 +336,9 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
         group = company_group(row.get("company"))
         if group in hold_groups or exact_application_match(row, exact):
             continue
+        role_key = (group, norm(row.get("role")))
+        if role_key in seen_roles:
+            continue
         if counts.get(group, 0) >= per_company:
             continue
         row["application_match"] = "Company-only possible" if possible_company_application(row, possible_company) else "None"
@@ -311,6 +347,7 @@ def build_review_queue(rows: list[dict], profile: dict, tracker: dict) -> list[d
         else:
             row["application_note"] = ""
         chosen.append(row)
+        seen_roles.add(role_key)
         counts[group] = counts.get(group, 0) + 1
         if len(chosen) >= limit:
             break
