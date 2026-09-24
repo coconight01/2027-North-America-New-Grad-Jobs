@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,7 +27,7 @@
       "fill": 0
     },
     "priority_company_candidates": 194,
-    "new_job_candidates": 150,
+    "new_job_candidates": 123,
     "high_potential_title_candidates": 238
   },
   "veto_counts": {
@@ -35,7 +35,7 @@
     "security-clearance requirement in title": 2,
     "non-full-time program title": 3
   },
-  "exact_tracked_jobs_removed": 14,
+  "exact_tracked_jobs_removed": 15,
   "candidates": [
     {
       "machine_rank": 1,
@@ -589,31 +589,6 @@
     },
     {
       "machine_rank": 23,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Bridgewater Associates",
-      "role": "Research Associate - Equities Data Engineer",
-      "category": "Quantitative Finance",
-      "location": "New York City, NY",
-      "salary": "$150,000-$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-02",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002",
-      "jd_excerpt": "Job Application for Research Associate, Equities Data Engineer at Bridgewater Associates Back to jobs Research Associate, Equities Data Engineer New York City Apply About Bridgewater Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world’s markets and economies work — using cutting-edge technology to validate and execute on timeless and universal investment principles. Founded in 1975, we are a community of independent thinkers who share a commitment to excellence. By fostering a culture of openness, transparency, and inclusion, we strive to unlock the most complex questions in investment strategy, management, and corporate culture. Explore more information about Bridgewater on our website here . Our Culture Our culture is anchored in excellence, meaning constant improvement, and it is deeply tied to our mission. Because markets are objective, competitive, and getting smarter everyday, we need to keep rapidly improving to have any chance of beating them. Truth is our most essential tool for engaging with the markets and constantly improving because once you know what's true about your problems and opportunities, you can determine how to get better. Valuing truth means being transparent about your decision-making and mistakes, giving and receiving feedback with humility, and fighting for the best answers over hierarchy, ego, or self-interest. Operating this way is hard – it's only possible because we build meaning in our work and relationships. This meaning comes from the audacity of the mission, and the joy of working alongside people who make you a better version of yourself. The culture, like Bridgewater itself, is always evolving. In 1997 our founder Ray Dalio wrote down his lessons, starting with a Philosophy Statement which remains our foundation. This later evolved into a set of 300+ Principles. In 2022, when Ray transitioned the company, we re-underwrote several of those principles and evolved others, with a specific focus on Meritocracy. Today the culture sits, alongside our people, as our most important edge. When we get it right, it’s the engine that powers everything else. About the Team This role sits in our Asia Strategies department, whose goal is to continue our growth down the journey of being the premier investment management firm in Asia. This entails developing great investment strategies reflecting our expertise, generating alpha in the markets, researching and publishing our understanding of the macroeconomic environment, and designing solutions to help our clients invest across the region. About Your Role We are seeking a Data Engineer to join our systematic China equity team. In this hands-on, embedded role, you will work side by side with senior researchers in a fast-paced investment environment, building the data infrastructure and pipelines that support cutting-edge systematic research and investment. Unlike centralized data platform roles, this position is deeply integrated with the investment process. You will own the end-to-end data lifecycle that powers alpha research, portfolio construction, and live trading – from sourcing and ingestion to profiling, validation, transformation, and delivery into research and production systems. You will collaborate with our quantitative researchers, developers, and senior investors, and have direct impact on the data and systems that drive investment decisions. You will drive the following responsibilities: Identify, evaluate, and onboard new datasets that can enhance our investment process, assessing their quality, coverage, and long-term value. Own the end-to-end lifecycle of key investment datasets , from ingestion and modeling through ongoing maintenance, documentation, and evolution as research needs change. Develop and maintain robust, scalable data models, ontologies, and schemas that accurately represent investment concepts and enable consistent downstream use. Design, build, and maintain scalable data pipelines supporting systematic China equity research and production workflows. Partner closely with researchers, quantitative developers, and engineering teams to translate evolving research requirements into reliable, maintainable data assets. Profile and interrogate datasets to understand distributions, coverage gaps, stability over time, structural breaks, and other characteristics that affect research outcomes. Implement data quality checks, anomaly detection, and monitoring to ensure production datasets are accurate, timely, and complete. Collaborate with data providers and internal stakeholders to resolve data quality issues, clarify business definitions, and drive enhancements that improve the usefulness of our data. Build and maintain relationships with data vendors , staying informed on new products and capabilities through confere",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 24,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: production LLM agents / tools; role shape: systems/performance role; new-grad: confirmed",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -713,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -738,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -763,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -788,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -813,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 31,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -838,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -863,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE; new-grad: confirmed",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking, Kubernetes; $200k+ stated ceiling",
@@ -938,32 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
-      "machine_score": 66,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
-      "company_priority": "",
-      "company": "Abnormal Security",
-      "role": "Software Engineer 1 - Data Platforms",
-      "category": "Software Engineering",
-      "location": "Remote - USA",
-      "salary": "$122,400–$176,000",
-      "salary_max_annual": "176000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-23",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003",
-      "jd_excerpt": "Software Engineer 1 - Data Platforms | Careers | Abnormal AI Skip to main content Why Abnormal Platform Behavioral Security Platform Overview Email Security Inbound Email Security Stop phishing & malware Account Takeover Protection Detect compromised accounts AI Security Mailbox Autonomous triage & response Email Productivity Reduce unwanted email AI Phishing Coach Train users in real-time Posture Management Identify misconfigurations Messaging Security Protect Slack, Teams & more Misdirected Email Prevent data leakage Email DLP Rules Protect sensitive data Identity & AI Security Identity Threat Protection Stop identity threats AI Governance Secure AI transformation Infiltration Prevention Keep bad actors out Platform Attune Behavioral AI Foundation Model Integrations Connect your stack AI Data Analyst Insights on demand Product Resources Demo Videos See our Platform in action What's New Latest updates Solutions Solutions Overview By Industry Financial Services Prevent fraud & protect customers Healthcare Secure patient data & care delivery Manufacturing Protect production from cyber threats Retail / Hospitality Stop fraud across every transaction Technology / IT Protect users & critical systems Public Sector Defend agencies from modern threats Education Secure campuses, students, & staff By Use Case Prevent BEC & Impersonation Stop executive fraud Detect QR Code Attacks Block quishing threats Stop Generative AI Attacks Defeat AI-crafted threats Prevent Account Takeover Protect cloud apps Displace Your SEG Modern email security Automate SOC Operations Reduce analyst workload Mitigate Cybercrime Losses Protect the bottom line Customers Customers Customer Stories Learn how leading organizations win with Abnormal. Customer Love See what customers are saying about Abnormal Support Support Portal Get help & submit tickets Featured CUSTOMER STORY Valvoline Replaces SEG with Autonomous AI to Stop Evolving Threats Resources Resources Resource Center Analyst Reports White Papers Data Sheets On-Demand Webinars Industry Briefs Thought Leadership Abnormal Blog Stay ahead of emerging cyber threats & security trends. Learning Center Find deep dives & technical education Cybersecurity Glossary Understand cybersecurity concepts, terminology, & attack techniques. SOC Unlocked Podcast Weekly SOC practitioner interviews Abnormal Intelligence Threat Intelligence Digest Explore original research, threat insights, & expert analysis. Featured BLOG The Behavioral Security Era Is Here Company Company Overview Company About Us Our mission & story Careers Join our team Team Meet our leadership AI Transformation Transforming the future with AI Contact Us Get in touch News & Events News & Press Latest announcements Upcoming Events Conferences & webinars Partner Programs Partner Portal Access partner resources Channel Partners Reseller program Abnormal + CrowdStrike Unified endpoint security Microsoft Partnership Strategic alliance Featured VIDEO Preparing for the Next Generation of AI-Powered Cyber Threats ⌘ K EN Request a Demo Join Us at our First In-Person User Conference. Register for our Dallas event today Careers / Open Roles / Software Engineer 1 - Data Platforms Software Engineer 1 - Data Platforms Remote - USA Platform & Infrastructure R-101288 Apply Now About the Role Enterprises of all sizes trust Abnormal AI’s cloud products to stop cybercrime. These AI-native, data-intensive SaaS applications depend on fast, reliable, and secure access to massive datasets. That’s where the Data Platform team comes in: designing and operating scalable storage systems (PostgreSQL, OpenSearch, Redis, RocksDB, DynamoDB), batch and stream data processing (Kafka, Spark), orchestration (Airflow, DBT), and more. We build and maintain the core infrastructure that powers Abnormal’s most data-heavy workloads, providing scalable, reliable, and efficient data platforms and services to all of engineering and data science. We also create tools that make this infrastructure simple to operate and integrate, enabling teams to deliver faster with confidence. We’re looking for a Software Engineer I who is eager to learn and ready to take on meaningful technical challenges. You’ll work alongside experienced engineers, contribute to ambitious projects, and grow your skills while helping to scale the systems that support Abnormal’s rapid growth. What you will do Contribute to the design, development, and operation of core components of Abnormal’s data platform. Build tools and services that make it easy for other teams to adopt and scale data systems. Help automate infrastructure and operations to improve reliability, performance, and scalability. Apply cutting-edge GenAI techniques to build smarter developer and operator experiences. Collaborate across engineering teams to solve scalability and reliability challenges. Take ownership of projects, delivering features end-to-end with guidance from senior engineers. What you bring 1+ years of professional experience",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 38,
+      "machine_rank": 36,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -988,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 37,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1013,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 38,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1038,7 +988,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 39,
+      "machine_score": 68,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Associate Systems Engineer / Systems Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Florida-Melbourne",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-16",
+      "source": "GitHub:zapplyjobs/New-Grad-Software-Engineering-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251131?s=gh-new-grad-software-engineering-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Latest Jobs Community Need Help Blog Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Target Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Lead ACD Experiential Marketing New York, NY Just now Senior Level Marketing Apply Intel Install Qualification Operations Sr Specialist (Contract) OR Just now Senior Level Operations Apply Verizon Retail Sales Associate 12250 West Broad St Just now Entry Level Sales Apply GDIT Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Just now Entry Level Operations Apply GDIT Inside/Outside Cable Plant Technician II International Just now Mid Level Other Apply GDIT Logistics Analyst Senior USA MD Aberdeen Just now Senior Level Operations Apply GDIT Operations Lead USA NM Las Cruces Just now Senior Level Operations Apply GDIT Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Just now Not Specified Operations Apply Target Just now Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Lead ACD Experiential Marketing New York, NY Senior Level Marketing Apply Now Intel Just now Install Qualification Operations Sr Specialist (Contract) OR Senior Level Operations Apply Now Verizon Just now Retail Sales Associate 12250 West Broad St Entry Level Sales Apply Now GDIT Just now Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Entry Level Operations Apply Now GDIT Just now Inside/Outside Cable Plant Technician II International Mid Level Other Apply Now GDIT Just now Logistics Analyst Senior USA MD Aberdeen Senior Level Operations Apply Now GDIT Just now Operations Lead USA NM Las Cruces Senior Level Operations Apply Now GDIT Just now Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Not Specified Operations Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 40,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1063,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1088,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1113,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1138,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -1163,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1188,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 46,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1213,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1238,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 48,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1258,6 +1233,31 @@
       "official_source": false,
       "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1",
       "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 49,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Energy Solutions",
+      "role": "Software Engineer I - Portland - OR - US",
+      "category": "Software Engineering",
+      "location": "Remote - Portland, OR",
+      "salary": "$80,000–$100,000",
+      "salary_max_annual": "100000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-28",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007",
+      "jd_excerpt": "Jobs at Energy Solutions - USA Current openings at Energy Solutions - USA Create a Job Alert Level-up your career by having opportunities at Energy Solutions - USA sent directly to your inbox. Create alert Search Department Select... Office Select... 16 jobs Distributed Energy Resources Job Director of Solar Outreach and Market Strategy  (Remote -Illinois, US) Chicago, Illinois, United States Director of Solar Outreach and Market Strategy  (Remote - Indiana, US) Remote - US Director of Solar Outreach and Market Strategy  (Remote - Wisconsin, US) Remote - US Project Manager II - Solar Programs Outreach - (Hybrid - Chicago, IL - US) Chicago, Illinois, United States Solar Programs, Application Processing Associate (Hybrid - Oakland, CA; Portland, OR; Chicago, IL - US) Chicago, Illinois, United States; Oakland, California, United States; Portland, Oregon, United States Solar Programs, Associate - Consumer Protection (Hybrid - Chicago, IL - US) Chicago, Illinois, United States Energy Efficiency Job Director, Energy Efficiency - Midwest Remote - US Energy Efficiency Account Manager Pacific Northwest Energy Efficiency Project Manager I (Remote - US) Remote - US Energy Efficiency Project Manager I (Remote - US) Northeast; Remote - US Incentive Connect Support Associate Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Northeast Rebate Processing Coordinator - (Hybrid - Boston, MA; New York, NY - US) Boston, Massachusetts, United States; New York, New York, United States Senior Manager (Hybrid - Chicago) New Chicago, Illinois, United States Finance Job Senior Compliance Specialist Remote - US Information Systems Job Senior Software Engineer (Hybrid - US) Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States People and Culture Job Executive Assistant II (Hybrid - Oakland, CA; Orange, CA; Portland, OR - US) Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States Powered by Greenhouse",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1739,6 +1739,31 @@
     },
     {
       "machine_rank": 69,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: likely",
+      "company_priority": "",
+      "company": "Waymark",
+      "role": "Junior Software Engineer",
+      "category": "Software Engineering",
+      "location": "Remote - USA",
+      "salary": "$106,000–$137,000",
+      "salary_max_annual": "137000",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
+      "jd_excerpt": "Job Application for Junior Software Engineer at Waymark Back to jobs Junior Software Engineer US - Remote Apply About Waymark Waymark is a team of healthcare providers, technologists, and builders whose mission is to bring the best healthcare to people with Medicaid benefits. Guided by the communities we serve, we bring support and technology-enabled care to help primary care providers keep Medicaid patients healthy. We are building the tools and designing an approach to enable care to reach the patients who can benefit most. Our core values embody the essence of what makes Waymark a unique team today, and what we look for, nurture, and sustain as a team. We are bold builders, believing that the greatest challenges in care delivery can be solved when we harness the power of community and technology. We are humble learners, seeking feedback and perspectives different from our own, and welcome challenges to our conclusions. We experiment to improve, actively seeking data to inform decisions and to assess our own performance. We act with focused urgency, our commitment to our mission drives us to tirelessly pursue results. If this vision resonates with you, we hope you consider bringing your creativity, your energy, your curiosity to Waymark. About this role At Waymark, software engineers build the products that enable care delivery teams — community health workers, social workers, pharmacists, and care coordinators — to support people with Medicaid benefits. As a Junior Software Engineer, you'll be paired with a senior engineer who will mentor you as you build real features and fixes from day one. You'll write code, participate in code reviews, and learn how our systems fit together. We want someone who is curious, asks hard questions, and brings fresh perspectives — we'll invest in your growth as you contribute to meaningful work. This is a role for someone early in their engineering career who wants to do work that matters. No prior Elixir experience required — we'll teach it. What you'll do in your first six months Ship features and fixes to our messaging platform, built in Elixir Work through bug tickets across our stack (React, TypeScript, Elixir) Set up a local development environment that mirrors production Participate in sprint planning and refinement, managing your work in Jira Contribute to code reviews on GitHub and keep your team informed in standups Collaborate with senior engineers, product, and design on upcoming feature planning Work with PostgreSQL as part of our production data layer Qualifications Some experience building software — through professional work, internships, bootcamps, or substantial personal projects Familiarity with at least one modern web application framework (e.g. React, Next.js, Phoenix, or similar) Familiarity with Git and version control workflows Strong written and verbal communication skills Preferred Qualifications Experience with functional programming Familiarity with testing frameworks and CI/CD pipelines Interest in healthcare technology and improving health outcomes Comfort working in a fast-paced, mission-driven startup environment Hiring Range US Employees in San Francisco/Bay Area, New York City - $106,000 - $137,000 US Employees in Boston, Los Angeles, Seattle, Washington DC - $98,000 - $126,000 US Employees in Arlington, Denver, San Diego, Sacramento - $94,000 - $121,000 US Employees in Albany, Atlanta, Austin, Baltimore, Central/Southern, Charlotte, Chicago, Dallas/Fort Worth, Detroit, Houston, Las Vegas, Miami, Milwaukee, Philadelphia, Portland, Research Triangle, Salt Lake City, Twin Cities - $85,000 - $110,000 US Employees in Baton Rouge, Birmingham, Charleston, Cincinnati, Cleveland, Daytona Beach, Indianapolis, Nashville, New Orleans, Omaha, Phoenix, Pittsburgh, St. Louis, Tampa - $82,000 - $106,000 In addition to salary, we offer a comprehensive benefits package. Here’s what you can expect: Stock Options: Opportunity to invest in the company’s growth. Work-from-Home Stipend: A dedicated stipend for your first year to help set up your home office. Medical, Vision, and Dental Coverage: Comprehensive plans to keep you and your family healthy. Life Insurance: Basic life insurance to give you peace of mind. Paid Time Off: 20 vacation days, accrued over the year, plus 11 paid holidays. Parental Leave: 16 weeks of paid leave for birthing parents after six months of employment, and 8 weeks of bonding leave for non-birthing parents. Retirement Savings: Access to a 401(k) plan with a company contribution, subject to a vesting schedule. Commuter Benefits: Convenient options to support your commute needs. Professional Development Stipend: A dedicated stipend supports professional development and growth. Offer of employment is contingent upon successful completion of a background check. Employment history and advance degree verification (when applicable) are included as part of the standard background check process. Don’t check off every box in the requirements ",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 70,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1763,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 71,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1788,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 72,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1813,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1838,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1863,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1882,13 +1907,13 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8",
-      "jd_excerpt": "Embedded Systems Engineer, Recent Graduate @ Blissway Inc. You need to enable JavaScript to run this app.",
+      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1913,7 +1938,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 77,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1938,7 +1963,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 78,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1963,7 +1988,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 79,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1988,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 80,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -2013,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 81,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2038,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 82,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -2058,31 +2083,6 @@
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a5a56973ac7627fe90036fe",
       "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 82,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Point72",
-      "role": "[Summer 2027 Quantitative Research Int...](https://boards.greenhouse.io/point72/jobs/7297642002?ghjid=7297642002)",
-      "category": "Quantitative Finance",
-      "location": "New York",
-      "salary": "$240,000–$300,000",
-      "salary_max_annual": "300000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-05",
-      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
-      "official_source": false,
-      "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
-      "jd_excerpt": "Job Application for Summer 2027 Quantitative Research Internship at Point72 Summer 2027 Quantitative Research Internship New York Apply Please send CVs to KEPL-talent@cubistsystematic.com with “202 7 QR Summer Internship Application” in the subject line. When your application is received, we will consider you for all similar positions at Cubist. About Our Firm: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. About Our Team: KEPL is a fast-growing team at Cubist Systematic Strategies. We specialize in trading medium-frequency statistical arbitrage strategies with high Sharpe. The team is made up of people from top universities and top tier trading and tech firms. We have an open and collaborative culture, and we value rigorous research and innovative technologies. Role / Experience: We are looking for exceptional students to be our quantitative researcher interns for the summer of 2027 . An ideal candidate should have a strong passion and initiative to work in a start-up environment. He/she should have strong analytical skills and be able to solve hard problems rigorously. Our typical intern candidates come from quantitative PhD programs of top US universities. Our internship program offers unique KEPL experience. During the internship, our interns will receive rigorous and comprehensive trainings. They will develop strong research skills through working closely with our full-time researchers on brand new quant trading models with real-world impact. We will consider full-time offers for interns after the internship. Requirements: PhD candidate in math/physics/statistics/EE/CS, or other quantitative fields Strong knowledge of computational math, probability, and statistics Strong analytical skills, with attention to details Good communication skills Willing to work in a fast-paced start-up environment Willing to learn and to take ownership Strong programming skills in Python or C/C++ Commitment to the highest ethical standards The annual base salary is $240,000-$300,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things. Apply for this job * indicates a required field First Name * Last Name * Email * Phone Country Phone Location (City) * Locate me Resume/CV * Attach Attach Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... End date month * Select... End date year * Add another Have you previously applied to work at Point72? * Select... Are you legally authorized to work in the United States? * Select... Will you now or in the future require sponsorship for employment visa status? * Select... Have you served in the military? * Select... Privacy * Select... By selecting “Yes” below, you consent to Point72 collecting contact information from your candidate application in accordance with our Privacy Policy. As stated in the Privacy Policy, Point72 may use and share this contact information to deliver advertisements or direct messages either directly or indirectly through third party services, including social media. Please review our Privacy Policy here for additional information. I accept: Note to Hiring Manager Submit application Powered by Greenhouse",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -2214,6 +2214,56 @@
     },
     {
       "machine_rank": 88,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Bridgewater Associates",
+      "role": "Research Associate - Equities Data Engineer",
+      "category": "Quantitative Finance",
+      "location": "New York City, NY",
+      "salary": "$150,000-$200,000",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-02",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 89,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Point72",
+      "role": "[Summer 2027 Quantitative Research Int...](https://boards.greenhouse.io/point72/jobs/7297642002?ghjid=7297642002)",
+      "category": "Quantitative Finance",
+      "location": "New York",
+      "salary": "$240,000–$300,000",
+      "salary_max_annual": "300000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-05",
+      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
+      "official_source": false,
+      "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 90,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

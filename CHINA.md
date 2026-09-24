@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-09-23** · Open roles: **153**
+> Last automated update: **2026-09-24** · Open roles: **152**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -110,7 +110,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期货](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/39418bed-add2-4a70-bfb8-fe46e0a4e247) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-股票](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/6cd0ff0c-d870-4291-aa53-43cdd2021d15) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-04-28 | **StepFun (阶跃星辰)** | [内容安全算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/47adc6d8-bb51-4c86-a06b-7df024efcc04) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2026-04-28 | **StepFun (阶跃星辰)** | [安全算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a9541b6e-8681-4bd2-a6e7-c2dc53bbb98b) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [基础架构研发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/db47df90-0454-49d7-8e28-50b35339a6a2) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-04-11 | **StepFun (阶跃星辰)** | [垂类大模型微调算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/4866bdd5-23e1-462c-9cfe-843ee6fe7eb9) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-04-11 | **StepFun (阶跃星辰)** | [算法工程师（时序预测 · 供应链优化）](https://app.mokahr.com/social-recruitment/step/94904#/job/e25fb7b4-ce01-4429-ac65-f42e083cd59a) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
