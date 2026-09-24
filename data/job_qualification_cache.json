@@ -4801,6 +4801,22 @@
     "checked_at": "2026-09-18",
     "parser_version": 4
   },
+  "https://ca.indeed.com/viewjob?jk=84762c6c937289c8": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://ca.indeed.com/viewjob?jk=94ccd90ae1924f90": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -19327,6 +19343,22 @@
     "checked_at": "2026-08-13",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a7cf4a47c52154b59f5d633": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$123K/yr - $184K/yr",
+    "salary_min_annual": 123000,
+    "salary_max_annual": 184000,
+    "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -23807,6 +23839,22 @@
     "checked_at": "2026-09-23",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a96f4b3b22f636c81414b25": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$77K/yr - $79K/yr",
+    "salary_min_annual": 77000,
+    "salary_max_annual": 79000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a96f972455eaf6a08c199d6": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -24348,7 +24396,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-02",
+    "checked_at": "2026-09-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a976553e4e60e4b8da5de12": {
@@ -24495,6 +24543,22 @@
     "checked_at": "2026-09-18",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a980a23c8ed473c5c761ebb": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$78K/yr - $86K/yr",
+    "salary_min_annual": 78000,
+    "salary_max_annual": 86000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a9831c2def18223c854de48": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Graduate",
@@ -24604,7 +24668,7 @@
     "salary_max_annual": 90000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-02",
+    "checked_at": "2026-09-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a987039af954907d6573604": {
@@ -31583,6 +31647,22 @@
     "checked_at": "2026-09-23",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ab327cf30340229a3231b04": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$35.50/hr - $35.50/hr",
+    "salary_min_annual": 73840,
+    "salary_max_annual": 73840,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ab3522b835ccf4a28117889": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -31751,11 +31831,11 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$70K/yr - $102K/yr",
+    "salary_min_annual": 70000,
+    "salary_max_annual": 102000,
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-09-24",
     "parser_version": 4
   },
@@ -31883,6 +31963,22 @@
     "salary_min_annual": 99000,
     "salary_max_annual": 99000,
     "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ab4f74c3362fb9a8705f58e": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$129K/yr - $129K/yr",
+    "salary_min_annual": 129000,
+    "salary_max_annual": 129000,
+    "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-24",
     "parser_version": 4
@@ -50357,6 +50453,38 @@
     "checked_at": "2026-08-12",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/amazon-b0fab15d-745b-4734-b122-b5ec4584264d?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/amazon-dc88ccb7-58bd-46a6-9f13-22120761c216?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/ashby-applied-45fc41cd-8280-4010-ba1f-def6114b3e39?s=gh-new-grad-software-engineering-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -51139,6 +51267,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-19",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/lever-fehrandpeers-1de5281e-e479-4d18-8d43-cf477894767b?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-09-24",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/lever-veeva-28c47d34-3ad6-4485-85a9-686b4239b9ea?s=gh-new-grad-jobs-2027": {

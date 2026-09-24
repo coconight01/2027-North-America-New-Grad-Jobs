@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-24** · Open roles: **1973**
+> Last automated update: **2026-09-24** · Open roles: **1978**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 104 |
+| **Big Tech & Frontier AI** | 105 |
 | **AI Infra / Systems** | 12 |
 | **Quant / HFT** | 45 |
 | **Other high-value tech** | 19 |
 | **ByteDance / TikTok** (separate) | 356 |
-| Other companies | 1437 |
+| Other companies | 1441 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-24 | **Amazon** | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://jobright.ai/jobs/info/6ab4f74c3362fb9a8705f58e) | $129K/yr - $129K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-09-23 | **Amazon** | [Front-End Engineer - Luna Omni](https://www.amazon.jobs/jobs/10556675/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **Microsoft** | [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | $168k/yr | USA | ❔ | ❔ Review | — |
@@ -90,10 +90,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
 | 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-01 | **Stripe** | [Software Engineer, New Grad · Summer 2027](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, Seattle, New York, US | ❔ | ✅ Confirmed | — |
+| 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Snap** | [Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) | $195k/yr | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-08-12 | **Snap** | [Software Engineer - ML Infrastructure - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) | $195k/yr | Los Angeles, CA +2 | ❔ | ❔ Review | — |
-| 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career · 2027](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Roblox** | [[[2027] Software Engineer, Early Career](https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94?utm_campaign=Software%20Engineering&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-06-29 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | $135,000–$145,000/year | Chicago, IL | ❔ | ✅ Confirmed | — |
@@ -124,7 +124,7 @@ _Showing 12 of 356 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **1973 active roles**. Featured groups account for **180** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **1978 active roles**. Featured groups account for **181** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
