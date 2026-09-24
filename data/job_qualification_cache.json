@@ -19324,7 +19324,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-09-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7cb71877d5f033c4b902cf": {
@@ -24352,18 +24352,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a976285d13b4819f39e0d1f": {
-    "ng_confidence": "Not NG",
-    "ng_evidence": "senior-level title: Senior",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "senior-level title: Senior",
-    "source_fetched": false,
+    "salary": "$89K/yr - $150K/yr",
+    "salary_min_annual": 89000,
+    "salary_max_annual": 150000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-09-24",
     "parser_version": 4
   },
