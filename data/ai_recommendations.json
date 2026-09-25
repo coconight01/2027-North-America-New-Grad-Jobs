@@ -1,24 +1,31 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "Amazon Annapurna Labs SDE I, Early Career 2027 (10558915) is today's strongest new role: the exact official application is live, May 2027 is explicitly eligible, and team matching includes ML runtimes/frameworks plus distributed training and inference. Gmail has no new outcome evidence since the last review; WeRide's onsite remains today and Goaly's take-home must be started by September 25 at 5:02 PM Central.",
+  "summary": "Amazon 10558915 is now confirmed Applied and removed from actionable recommendations. Today's strongest new unapplied systems role is AppLovin ML Data Infrastructure Engineer; Cursor remains the cleanest 2027 AI-adjacent new-grad role, while Stripe is a strong broad systems hedge. WeRide advanced again to another virtual onsite session.",
   "changes_today": [
-    "Yuhan confirmed submissions to Replit Software Engineer (New Graduate, 2027) and LiteLLM Forward Deployed Engineer (New Grad) on September 24; both exact roles are now Applied and removed from actionable tiers.",
-    "NEW: Amazon Annapurna Labs Software Development Engineer I, Early Career 2027 (10558915) was verified on the exact official Amazon page with an active Apply button; it is a different requisition from the applied 10490741 role.",
-    "The new Amazon role explicitly accepts a final graduation date of May 2027 or later, requires only one modern language, and offers team matching across ML runtimes/frameworks, performance, and distributed training/inference infrastructure.",
-    "Gmail reconciliation found no new exact-role outcomes for WeRide, DRW, Sierra, Goaly, AXQ, NVIDIA China, or DeepSeek. WeRide remains scheduled for September 24 at 12:00 PM Central; Goaly must be started by September 25 at 5:02 PM Central.",
-    "The semantic-review queue now collapses Amazon/Annapurna aliases and exact duplicate titles, vetoes pure-hardware roles, and blocks all cached copies of officially unavailable NVIDIA JR2026218 via a persistent requisition override.",
-    "The official frontier-AI sweep found no second new role above the Priority bar. SingleStore 8220863 is live but asks candidates to be enrolled in a B.S. and requires strong C/C++, so it remains review-only rather than actionable."
+    "Gmail reconciliation: Amazon Annapurna 10558915 is confirmed Applied, Replit has an official exact-role confirmation, and WeRide advanced after the Sep 24 onsite to another virtual onsite session requiring availability after 6 PM Pacific.",
+    "NEW: AppLovin ML Data Infrastructure Engineer (4716524006) is live on the exact official Greenhouse page and is the strongest new unapplied ML-systems/data-infrastructure role found today.",
+    "Frontier visibility: Anthropic Inference Systems, Together AI Inference/Compute Infrastructure, and Baseten Model Performance Systems were added to Stretch; OpenAI remains Hold because the user-reported five-application cap is full.",
+    "NVIDIA JR2026011 was removed from actionable recommendations because its exact Workday page could not be re-verified with title/content/Apply state today; cached copies remain discovery-only."
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)", "status": "NEW TODAY", "fit": "4.8/5 · ML runtimes / distributed training-inference team-match",
-      "why_screen": "The exact posting accepts a Bachelor's or Master's student graduating May 2027 or later and requires only one modern language such as Python; UIUC MSCS, algorithms/OS foundations, AutoScout, vLLM and TikTok production engineering meet the stated minimums.",
-      "why_team": "Annapurna explicitly matches hires to ML runtimes and framework integration, performance optimization, or distributed training/inference infrastructure; PyTorch, NCCL/multi-GPU, vLLM cold-start work, Linux profiling and scheduler/runtime research are direct evidence.",
-      "why_interest": "The broad team-match structure offers a credible path into Neuron ML runtimes or distributed infrastructure without forcing a compiler/kernel specialization.",
-      "location": "Austin, TX; Cupertino, CA; New York, NY; Seattle, WA · work arrangement not stated", "salary": "Official starting annual base: Austin/Seattle $128,700; Cupertino $148,100; New York $141,600", "new_grad": "BS/MS in CS/CE/related; final graduation date May 2027 or later; no professional-years minimum.",
-      "sponsorship": "Unknown on the exact requisition.", "caveat": "Team matching also includes firmware, drivers, compilers and kernels; application materials should state a clear preference for ML runtimes/frameworks and distributed training/inference. C/C++ systems depth is preferred but not required.", "urgency": "Posted September 24; rolling with no published deadline. Apply early.",
-      "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+      "rank": 1,
+      "tier": "priority",
+      "company": "AppLovin",
+      "role": "ML Data Infrastructure Engineer (4716524006)",
+      "status": "NEW TODAY",
+      "fit": "4.5/5 · direct ML data infrastructure / distributed performance match",
+      "why_screen": "The role asks for 1-3 years of experience, BS/MS CS, high-throughput fault-tolerant distributed systems, Spark/Flink, systems design and performance optimization. Yuhan's distributed-training research, Linux/performance profiling, production engineering and MSCS make the systems case credible, though the 1-3 years wording and Spark/Flink gap add screening risk.",
+      "why_team": "The team builds data-processing infrastructure for model training and feature serving and explicitly investigates performance bottlenecks across the training-data pipeline, directly valuing ML-systems and performance work.",
+      "why_interest": "It is a real ML platform/data-infrastructure role close to research and training rather than generic backend or product engineering.",
+      "location": "Palo Alto, CA",
+      "salary": "$150,000-$224,000 base + equity eligible",
+      "new_grad": "Not labeled new grad; minimum states 1-3 years of experience and BS/MS in CS.",
+      "sponsorship": "Unknown; the exact application asks whether future sponsorship is required but makes no commitment.",
+      "caveat": "Hands-on Spark or Flink is required and 1-3 years of experience is explicitly listed; this is the main screening uncertainty.",
+      "urgency": "New official posting; application window expected to close within 30 days of posting.",
+      "url": "https://job-boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006"
     },
     {
       "rank": 2, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
@@ -40,18 +47,29 @@
       "url": "https://cursor.com/careers/software-engineer-new-grad-2027"
     },
     {
-      "rank": 1, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
+      "rank": 1,
+      "tier": "secondary",
+      "company": "Stripe",
+      "role": "Software Engineer, New Grad (8128744)",
+      "status": "MISSED-OLDER-ACTIVE",
+      "fit": "4.0/5 · exceptionally clean new-grad eligibility / strong systems hedge",
+      "why_screen": "The exact role accepts a BS/MS obtained by summer 2027, caps professional experience at 18 months while explicitly excluding internships from that limit, and accepts internship or collaborative project experience. Yuhan fits the timing and experience wording cleanly.",
+      "why_team": "TikTok production engineering, distributed-systems research, algorithms and infrastructure interests are strong evidence for backend/infrastructure team matching even though the requisition is general.",
+      "why_interest": "Large-scale, correctness-sensitive infrastructure and strong engineering training make this a valuable systems-oriented hedge outside pure MLSys.",
+      "location": "New York / Seattle / South San Francisco · at least 50% in office for most office-assigned roles",
+      "salary": "$122,100-$134,400 US base + possible equity/bonus",
+      "new_grad": "BS/MS by summer 2027; no more than 18 months professional experience, internships excluded.",
+      "sponsorship": "Unknown on the exact posting.",
+      "caveat": "Generic team matching; Java/Ruby/JavaScript/Scala/Go are common rather than Python-first MLSys work.",
+      "urgency": "Active official University requisition; no public deadline stated.",
+      "url": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744"
+    },
+    {
+      "rank": 2, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
       "why_screen": "SDE I has no numeric professional-years minimum and accepts internship/project evidence; Python, Linux profiling, distributed systems and ML infrastructure are strong matches.", "why_team": "The team builds Kubernetes-based tools, pipelines, metrics and automation for Neuron workloads on Trainium and Inferentia, directly using performance and systems-debugging skills.", "why_interest": "It is production ML infrastructure with meaningful ownership on custom-accelerator workloads, not pure hardware.",
       "location": "Cupertino, CA · work arrangement not stated", "salary": "$127,100-$185,000 base + sign-on/RSUs", "new_grad": "No degree date or numeric years minimum stated; technical internship/project experience preferred.",
       "sponsorship": "Unknown on the exact requisition.", "caveat": "Proficiency in Java plus one of Go/Python/TypeScript is a basic qualification; Java is the primary screen risk.", "urgency": "Older but exact official page and Apply button were live on September 24; rolling.",
       "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
-    },
-    {
-      "rank": 2, "tier": "secondary", "company": "NVIDIA", "role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "status": "RECENT", "fit": "4.1/5 · strong MLSys content, compiler/C++ gap",
-      "why_screen": "AutoScout, inference optimization and MLSys research are relevant; compiler/GPU-programming depth is the screen risk.", "why_team": "Performance modeling translates if the team can use systems rather than kernel-specialist strengths.", "why_interest": "High-upside ML performance work, though less aligned than serving/runtime.",
-      "location": "Santa Clara / Seattle / additional US location", "salary": "$108,000-$195,500 base", "new_grad": "Bachelor's minimum; MS/PhD preferred; no numeric professional-years requirement.",
-      "sponsorship": "Unknown.", "caveat": "Python, C/C++, GPU programming and compiler/kernel experience are core requirements.", "urgency": "Rolling new-college-grad requisition.",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011"
     },
     {
       "rank": 3, "tier": "secondary", "company": "C3 AI", "role": "Forward Deployed Engineer, New Grad 2027 (8804558002)", "status": "RECENT", "fit": "4.0/5 · production agent systems / customer engineering",
@@ -88,39 +106,129 @@
       "location": "NY / LA / SF / Seattle · hybrid", "salary": "$155,000-$160,000 base + equity", "new_grad": "Degree by Summer 2027; industry SWE exposure but no numeric full-time-years minimum.",
       "sponsorship": "Unknown.", "caveat": "Product instincts and shipping speed dominate; no direct MLSys team.", "urgency": "Active 2027 role; rolling.",
       "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930"
+    },
+    {
+      "rank": 8,
+      "tier": "secondary",
+      "company": "Zip",
+      "role": "Software Engineer, New Grad (2027 Start)",
+      "status": "RECENT",
+      "fit": "3.8/5 · strong early-career backend/API hedge",
+      "why_screen": "The role explicitly accepts BS/MS graduates from Dec 2026 through Jun 2027 and asks for prior internship experience plus web/API development. TikTok production work and Python directly support the screen.",
+      "why_team": "Backend APIs, reliability and scalable product architecture can use production engineering and systems fundamentals.",
+      "why_interest": "Good compensation and ownership at a fast-moving AI-enabled enterprise platform, though it is more product/full-stack than MLSys.",
+      "location": "San Francisco · hybrid",
+      "salary": "$165,000-$170,000 base + equity",
+      "new_grad": "BS/MS graduating Dec 2026-Jun 2027; prior internship requested.",
+      "sponsorship": "Unknown on the exact posting.",
+      "caveat": "Web/full-stack work is central; JavaScript/TypeScript/React/GraphQL are prominent.",
+      "urgency": "Active 2027-start official posting.",
+      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
+    },
+    {
+      "rank": 9,
+      "tier": "secondary",
+      "company": "Nooks",
+      "role": "Software Engineer, New Grad",
+      "status": "RECENT",
+      "fit": "3.8/5 · AI-agent product / scalable-systems hedge",
+      "why_screen": "The exact role accepts recent BS/MS graduates and values internships, research, OSS or projects; algorithms, TikTok production work and Python fit directly.",
+      "why_team": "The team builds AI agents, real-time collaboration and enterprise-scale workflows and explicitly asks engineers to improve performance, reliability and scalability.",
+      "why_interest": "Useful AI-agent ownership and rapid shipping experience, but less foundational inference/training infrastructure than the top systems roles.",
+      "location": "San Francisco · hybrid, at least 3 days/week in office",
+      "salary": "Official page is internally inconsistent: header shows $155,000-$170,000, while body states $200,000 base; verify with recruiting.",
+      "new_grad": "Completing or recently completed BS/MS; no numeric professional-years minimum.",
+      "sponsorship": "Unknown.",
+      "caveat": "Full-stack React/TypeScript/Node/Python work is central; compensation text is inconsistent on the official page.",
+      "urgency": "Active official new-grad posting.",
+      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
     }
   ],
   "high_value_stretch": [
     {
-      "rank": 1, "tier": "stretch", "company": "StepFun", "role": "Large-Model Inference Optimization Systems Engineer", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.5/5 screening",
+      "rank": 1,
+      "tier": "stretch",
+      "company": "Anthropic",
+      "role": "Performance Engineer, Inference Systems (5224564008)",
+      "status": "NEW TODAY · UNLABELED EARLY-CAREER",
+      "fit": "4.9/5 technical · 3.2/5 screening",
+      "why_screen": "Minimum qualifications emphasize hands-on profiling, latency/throughput optimization, root-cause investigation, Python and quantitative analysis; no fixed numeric years minimum is stated. AutoScout, multi-GPU profiling and inference/performance work map unusually well.",
+      "why_team": "The role investigates the whole inference fleet across kernels, model servers, routing, autoscaling and capacity, with explicit interest in collective communication and LLM serving.",
+      "why_interest": "This is almost exactly the performance-measurement / systems-attribution style of work Yuhan prefers, without requiring that she already be a CUDA-kernel specialist.",
+      "location": "San Francisco / New York / Seattle · hybrid, at least 25% office",
+      "salary": "$350,000-$850,000",
+      "new_grad": "Unlabeled; Bachelor's minimum; internal level determines experience requirement, with no fixed numeric minimum on the posting.",
+      "sponsorship": "Explicit: Anthropic says it sponsors visas and will make reasonable efforts.",
+      "caveat": "Production-scale inference fleet ownership is the main gap; screening level remains uncertain.",
+      "urgency": "Rolling; no stated deadline.",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008"
+    },
+    {
+      "rank": 2,
+      "tier": "stretch",
+      "company": "Together AI",
+      "role": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering (5186628007)",
+      "status": "MISSED-OLDER-ACTIVE · UNLABELED EARLY-CAREER",
+      "fit": "4.7/5 technical · 3.3/5 screening",
+      "why_screen": "The exact title explicitly includes Junior and has no numeric years minimum. Python is accepted; NCCL/CUDA/InfiniBand are nice-to-have. Yuhan's scheduling/runtime, NCCL and GPU-infrastructure research align well.",
+      "why_team": "The role builds the Kubernetes-native control plane, scheduling/bin-packing, reconciliation, self-healing and lifecycle management for Together's GPU inference fleet.",
+      "why_interest": "Direct inference-fleet platform work with strong systems ownership, clearly distinct from the already-applied Together New Grad generalist requisition.",
+      "location": "San Francisco · four days/week in office",
+      "salary": "$160,000-$280,000 base + equity + benefits",
+      "new_grad": "Title spans Junior/Senior/Staff; no numeric years minimum.",
+      "sponsorship": "Unknown; application asks whether sponsorship is needed but does not promise it.",
+      "caveat": "Temporal/Cadence-style durable workflows, Kubernetes controllers/control planes and event-driven systems are core requirements; those are less explicit on the current resume.",
+      "urgency": "Active official requisition.",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007"
+    },
+    {
+      "rank": 3,
+      "tier": "stretch",
+      "company": "Baseten",
+      "role": "Software Engineer - Model Performance Systems",
+      "status": "RECENT · UNLABELED EARLY-CAREER",
+      "fit": "4.6/5 technical · uncertain level",
+      "why_screen": "The role is centered on LLM performance benchmarking, evaluation automation, GPU-enabled developer environments and open-source performance tools. Yuhan's profiling, inference work and benchmark-driven systems research map directly.",
+      "why_team": "Baseten's inference organization needs engineers who can quantify quality/performance behavior across long context, KV-cache reuse and disaggregated serving rather than only write kernels.",
+      "why_interest": "High-signal inference performance work with a measurement/tooling angle that better matches Yuhan than a pure CUDA-kernel role.",
+      "location": "San Francisco / New York / Seattle (also Canada) · hybrid",
+      "salary": "$165,000-$330,000 + equity",
+      "new_grad": "Unlabeled; exact page does not publish a numeric years requirement in the visible qualifications.",
+      "sponsorship": "Unknown.",
+      "caveat": "Team level is unlabeled and may expect more production/HPC depth than a typical new grad.",
+      "urgency": "Active official requisition.",
+      "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f"
+    },
+    {
+      "rank": 4, "tier": "stretch", "company": "StepFun", "role": "Large-Model Inference Optimization Systems Engineer", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.5/5 screening",
       "why_screen": "The requirements name operating systems, architecture, low-level performance interest and prefer SGLang/vLLM/Megatron experience; the vLLM cold-start project, Linux profiling and distributed GPU research map directly.", "why_team": "Distributed LLM inference, GPU execution optimization and algorithm-system co-design are the center of the job rather than peripheral keywords.", "why_interest": "This is one of the closest live roles to Yuhan's inference-runtime trajectory and does not state a years requirement.",
       "location": "Shanghai or Beijing · full-time", "salary": "Unknown", "new_grad": "No numeric experience requirement; social-recruitment level is unlabeled.",
       "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "CUDA/Triton/CUTLASS are preferred and the requisition is not labeled campus; screening level is uncertain.", "urgency": "Older official role newly surfaced; live Moka application verified in the official feed on 2026-09-21.",
       "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce"
     },
     {
-      "rank": 2, "tier": "stretch", "company": "StepFun", "role": "Foundation Model Training Framework Engineer (Training / Inference / Operators)", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
+      "rank": 5, "tier": "stretch", "company": "StepFun", "role": "Foundation Model Training Framework Engineer (Training / Inference / Operators)", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
       "why_screen": "PyTorch, CUDA/NCCL/Linux, distributed training/inference, performance analysis and AI coding tools are core requirements; AutoScout, NCCL and TikTok Agent map unusually well.", "why_team": "Scheduling, weight synchronization, hot updates, OOM/timeout/communication diagnosis and observability are direct MLSys overlaps.", "why_interest": "Rare China role centered on RL training and inference infrastructure.",
       "location": "Beijing or Shanghai · full-time", "salary": "Unknown", "new_grad": "No degree or numeric experience minimum; social-recruitment level is unlabeled.",
       "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "Not explicitly campus/early-career and asks for RLHF/PPO/DPO/GRPO or Agent-RL experience/understanding.", "urgency": "Newly surfaced; official Moka application is live.",
       "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/a48c4b47-c219-4932-aea0-19d67db5590c"
     },
     {
-      "rank": 3, "tier": "stretch", "company": "Gimlet Labs", "role": "Member of Technical Staff - Distributed Systems", "status": "STRETCH", "fit": "4.6/5 technical · uncertain production-depth screen",
+      "rank": 6, "tier": "stretch", "company": "Gimlet Labs", "role": "Member of Technical Staff - Distributed Systems", "status": "STRETCH", "fit": "4.6/5 technical · uncertain production-depth screen",
       "why_screen": "Schedulers, orchestration, fault tolerance, multi-GPU communication and Linux performance are direct overlaps.", "why_team": "AutoScout and NCCL map to the platform beneath training and inference.", "why_interest": "Deep distributed systems with a direct AI-infrastructure trajectory.",
       "location": "San Francisco · onsite", "salary": "$150,000-$390,000 + equity", "new_grad": "Unlabeled; no numeric years minimum.",
       "sponsorship": "Unknown.", "caveat": "Production-fleet ownership is the main gap; this is separate from the applied ML Systems & Inference role.", "urgency": "Older but active.",
       "url": "https://jobs.ashbyhq.com/gimlet/5e313d06-240e-44ef-87d2-318edf246f1f"
     },
     {
-      "rank": 4, "tier": "stretch", "company": "Luma AI", "role": "Software Engineer, Inference", "status": "STRETCH", "fit": "4.5/5 technical · unlabeled level",
+      "rank": 7, "tier": "stretch", "company": "Luma AI", "role": "Software Engineer, Inference", "status": "STRETCH", "fit": "4.5/5 technical · unlabeled level",
       "why_screen": "Inference serving, model loading/cold start, profiling and distributed GPU work directly match.", "why_team": "The vLLM runtime and cold-start project provides concrete inference evidence.", "why_interest": "Direct model-serving and GPU-inference work.",
       "location": "Redwood City · hybrid", "salary": "Unknown", "new_grad": "Unlabeled; no numeric years minimum shown.",
       "sponsorship": "Unknown.", "caveat": "Likely expects Kubernetes/fleet production depth.", "urgency": "Official Ashby requisition is live.",
       "url": "https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860"
     },
     {
-      "rank": 5, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Research Scientist, Pre-training (4616971008)", "status": "STRETCH", "fit": "4.8/5 technical · 2.8/5 screening",
+      "rank": 8, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Research Scientist, Pre-training (4616971008)", "status": "STRETCH", "fit": "4.8/5 technical · 2.8/5 screening",
       "why_screen": "PyTorch, distributed training, profiling and fault-tolerance research map directly; production scale is uncertain.", "why_team": "AutoScout/NCCL evidence is relevant to training efficiency, scaling and resilience.", "why_interest": "Frontier pre-training systems with unusually high MLSys upside.",
       "location": "SF / Seattle / New York · remote-friendly, at least 25% office", "salary": "$350,000-$850,000", "new_grad": "Advanced degree and significant engineering depth; no fixed numeric years minimum.",
       "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale ownership and significant engineering experience are screen risks.", "urgency": "Official Greenhouse requisition is live.",
@@ -128,29 +236,107 @@
     }
   ],
   "review_only": [
+    {"company": "NVIDIA", "role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011", "reason": "The exact Workday URL resolves but the official page content/title/Apply state could not be re-verified today. Keep out of actionable tiers until the exact requisition is confirmed live; cached copies are discovery-only."},
     {"company": "SingleStore", "role": "MIT-Software Engineer-New Grad |Engine| (8220863)", "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863", "reason": "New and live, but the exact minimum says enrolled in a B.S. degree and requires strong C++ or C; May 2027 MS status and language fit are both unclear, so do not prioritize over the existing 8205389 role."},
     {"company": "DeepSeek", "role": "Infrastructure R&D Engineer", "url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/a63f2346-b672-4c48-af43-0a64bfe97a41", "reason": "Excellent Python/C++/Rust, cluster/runtime/filesystem/JIT/CI/CD fit, but an active DeepSeek OA has unknown exact requisition and deadline; check the portal before applying."},
     {"company": "Google", "role": "Software Engineer, Early Career, Campus", "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750", "reason": "Live through at least Sep 30, 2026, but the tracker has a likely matching Google Early Career Campus application whose confirmation omitted the requisition ID; verify the portal."},
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
-    {"company": "Replit", "role": "Software Engineer (New Graduate, 2027)", "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."},
-    {"company": "LiteLLM", "role": "Forward Deployed Engineer (New Grad)", "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."},
-    {"company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "Removed Sep 23: exact official Workday requisition is unavailable/not live; third-party cached listings are discovery-only."},
-    {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"},
-    {"company": "NVIDIA China", "role": "2027 Campus Hiring Software Technical Assessment", "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"},
-    {"company": "WeRide", "role": "New Grads 2027 - Software Engineer, Algorithm", "status": "Virtual onsite Sep 24 at 10:00 AM PT / 12:00 PM CT, 45-60 minutes; NDA fully signed"},
-    {"company": "DRW", "role": "Software Developer", "status": "Interview occurred Sep 22; no follow-up email, so outcome remains pending"},
-    {"company": "AXQ Capital", "role": "Quantitative Developer - 2027 Graduate", "status": "Online Screen submitted Sep 23; wait for result"},
-    {"company": "Goaly", "role": "Member of Technical Staff, New Grad", "status": "OA: start by Sep 25 5:02 PM CT, then 48 hours"},
-    {"company": "DeepSeek", "role": "Online assessment / exact requisition uncertain", "status": "OA confirmed by user; deadline absent from connected Gmail—check original portal/channel"},
-    {"company": "Gimlet Labs", "role": "MTS - ML Systems & Inference", "status": "Applied Sep 19"},
-    {"company": "Amazon Annapurna Labs", "role": "SDE I - AI/ML Network Infrastructure (10490741)", "status": "Applied Sep 19"},
-    {"company": "Together AI", "role": "Software Engineer, New Grad (2027) (5211582007)", "status": "Applied Sep 19"},
-    {"company": "IMC Trading", "role": "Quant Performance Engineer (4823836101)", "status": "Applied Sep 19"},
-    {"company": "Ambral / Retell AI / Domino / Inferact / Spectral Labs", "role": "Previously confirmed exact roles", "status": "Applied; suppress exact-role repeats"},
-    {"company": "Cerebras", "role": "ML Software Engineer, Integration & Quality - New Grad", "status": "Hold: no live 2027 requisition"},
-    {"company": "ByteDance/TikTok", "role": "All additional 2027 roles", "status": "Hold by user override"},
-    {"company": "OpenAI", "role": "Additional applications", "status": "Hold: user reports 5-application cap full"}
-  ]
+  {
+    "company": "Amazon Annapurna Labs",
+    "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)",
+    "status": "Applied Sep 24; exact Amazon confirmation received; suppress from actionable recommendations."
+  },
+  {
+    "company": "Replit",
+    "role": "Software Engineer (New Graduate, 2027)",
+    "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."
+  },
+  {
+    "company": "LiteLLM",
+    "role": "Forward Deployed Engineer (New Grad)",
+    "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)",
+    "status": "Removed Sep 23: exact official Workday requisition is unavailable/not live; third-party cached listings are discovery-only."
+  },
+  {
+    "company": "Sierra",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"
+  },
+  {
+    "company": "NVIDIA China",
+    "role": "2027 Campus Hiring Software Technical Assessment",
+    "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"
+  },
+  {
+    "company": "WeRide",
+    "role": "New Grads 2027 - Software Engineer, Algorithm",
+    "status": "Advanced again Sep 25 after the Sep 24 onsite; recruiter requests availability after 6 PM PT for the next virtual onsite session."
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer",
+    "status": "Interview occurred Sep 22; no follow-up email, so outcome remains pending"
+  },
+  {
+    "company": "AXQ Capital",
+    "role": "Quantitative Developer - 2027 Graduate",
+    "status": "Online Screen submitted Sep 23; wait for result"
+  },
+  {
+    "company": "Goaly",
+    "role": "Member of Technical Staff, New Grad",
+    "status": "OA: start by Sep 25 5:02 PM CT, then 48 hours"
+  },
+  {
+    "company": "DeepSeek",
+    "role": "Online assessment / exact requisition uncertain",
+    "status": "OA confirmed by user; deadline absent from connected Gmail—check original portal/channel"
+  },
+  {
+    "company": "Gimlet Labs",
+    "role": "MTS - ML Systems & Inference",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Amazon Annapurna Labs",
+    "role": "SDE I - AI/ML Network Infrastructure (10490741)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Together AI",
+    "role": "Software Engineer, New Grad (2027) (5211582007)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "IMC Trading",
+    "role": "Quant Performance Engineer (4823836101)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Ambral / Retell AI / Domino / Inferact / Spectral Labs",
+    "role": "Previously confirmed exact roles",
+    "status": "Applied; suppress exact-role repeats"
+  },
+  {
+    "company": "Cerebras",
+    "role": "ML Software Engineer, Integration & Quality - New Grad",
+    "status": "Hold: no live 2027 requisition"
+  },
+  {
+    "company": "ByteDance/TikTok",
+    "role": "All additional 2027 roles",
+    "status": "Hold by user override"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Additional applications",
+    "status": "Hold: user reports 5-application cap full"
+  }
+]
 }
