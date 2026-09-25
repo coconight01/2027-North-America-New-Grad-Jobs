@@ -3,6 +3,7 @@
   "reviewer": "ChatGPT semantic JD review",
   "summary": "Amazon 10558915 is now confirmed Applied and removed from actionable recommendations. Today's strongest new unapplied systems role is AppLovin ML Data Infrastructure Engineer; Cursor remains the cleanest 2027 AI-adjacent new-grad role, while Stripe is a strong broad systems hedge. WeRide advanced again to another virtual onsite session.",
   "changes_today": [
+    "Yuhan confirmed applications to Together AI Inference / Compute Infrastructure (5186628007), Baseten Model Performance Systems, and Luma AI Inference on September 25; all three exact roles are now Applied and removed from actionable tiers.",
     "Gmail reconciliation: Amazon Annapurna 10558915 is confirmed Applied, Replit has an official exact-role confirmation, and WeRide advanced after the Sep 24 onsite to another virtual onsite session requiring availability after 6 PM Pacific.",
     "NEW: AppLovin ML Data Infrastructure Engineer (4716524006) is live on the exact official Greenhouse page and is the strongest new unapplied ML-systems/data-infrastructure role found today.",
     "Frontier visibility: Anthropic Inference Systems, Together AI Inference/Compute Infrastructure, and Baseten Model Performance Systems were added to Stretch; OpenAI remains Hold because the user-reported five-application cap is full.",
@@ -164,71 +165,28 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008"
     },
     {
-      "rank": 2,
-      "tier": "stretch",
-      "company": "Together AI",
-      "role": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering (5186628007)",
-      "status": "MISSED-OLDER-ACTIVE · UNLABELED EARLY-CAREER",
-      "fit": "4.7/5 technical · 3.3/5 screening",
-      "why_screen": "The exact title explicitly includes Junior and has no numeric years minimum. Python is accepted; NCCL/CUDA/InfiniBand are nice-to-have. Yuhan's scheduling/runtime, NCCL and GPU-infrastructure research align well.",
-      "why_team": "The role builds the Kubernetes-native control plane, scheduling/bin-packing, reconciliation, self-healing and lifecycle management for Together's GPU inference fleet.",
-      "why_interest": "Direct inference-fleet platform work with strong systems ownership, clearly distinct from the already-applied Together New Grad generalist requisition.",
-      "location": "San Francisco · four days/week in office",
-      "salary": "$160,000-$280,000 base + equity + benefits",
-      "new_grad": "Title spans Junior/Senior/Staff; no numeric years minimum.",
-      "sponsorship": "Unknown; application asks whether sponsorship is needed but does not promise it.",
-      "caveat": "Temporal/Cadence-style durable workflows, Kubernetes controllers/control planes and event-driven systems are core requirements; those are less explicit on the current resume.",
-      "urgency": "Active official requisition.",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007"
-    },
-    {
-      "rank": 3,
-      "tier": "stretch",
-      "company": "Baseten",
-      "role": "Software Engineer - Model Performance Systems",
-      "status": "RECENT · UNLABELED EARLY-CAREER",
-      "fit": "4.6/5 technical · uncertain level",
-      "why_screen": "The role is centered on LLM performance benchmarking, evaluation automation, GPU-enabled developer environments and open-source performance tools. Yuhan's profiling, inference work and benchmark-driven systems research map directly.",
-      "why_team": "Baseten's inference organization needs engineers who can quantify quality/performance behavior across long context, KV-cache reuse and disaggregated serving rather than only write kernels.",
-      "why_interest": "High-signal inference performance work with a measurement/tooling angle that better matches Yuhan than a pure CUDA-kernel role.",
-      "location": "San Francisco / New York / Seattle (also Canada) · hybrid",
-      "salary": "$165,000-$330,000 + equity",
-      "new_grad": "Unlabeled; exact page does not publish a numeric years requirement in the visible qualifications.",
-      "sponsorship": "Unknown.",
-      "caveat": "Team level is unlabeled and may expect more production/HPC depth than a typical new grad.",
-      "urgency": "Active official requisition.",
-      "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f"
-    },
-    {
-      "rank": 4, "tier": "stretch", "company": "StepFun", "role": "Large-Model Inference Optimization Systems Engineer", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.5/5 screening",
+      "rank": 2, "tier": "stretch", "company": "StepFun", "role": "Large-Model Inference Optimization Systems Engineer", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.5/5 screening",
       "why_screen": "The requirements name operating systems, architecture, low-level performance interest and prefer SGLang/vLLM/Megatron experience; the vLLM cold-start project, Linux profiling and distributed GPU research map directly.", "why_team": "Distributed LLM inference, GPU execution optimization and algorithm-system co-design are the center of the job rather than peripheral keywords.", "why_interest": "This is one of the closest live roles to Yuhan's inference-runtime trajectory and does not state a years requirement.",
       "location": "Shanghai or Beijing · full-time", "salary": "Unknown", "new_grad": "No numeric experience requirement; social-recruitment level is unlabeled.",
       "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "CUDA/Triton/CUTLASS are preferred and the requisition is not labeled campus; screening level is uncertain.", "urgency": "Older official role newly surfaced; live Moka application verified in the official feed on 2026-09-21.",
       "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce"
     },
     {
-      "rank": 5, "tier": "stretch", "company": "StepFun", "role": "Foundation Model Training Framework Engineer (Training / Inference / Operators)", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
+      "rank": 3, "tier": "stretch", "company": "StepFun", "role": "Foundation Model Training Framework Engineer (Training / Inference / Operators)", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
       "why_screen": "PyTorch, CUDA/NCCL/Linux, distributed training/inference, performance analysis and AI coding tools are core requirements; AutoScout, NCCL and TikTok Agent map unusually well.", "why_team": "Scheduling, weight synchronization, hot updates, OOM/timeout/communication diagnosis and observability are direct MLSys overlaps.", "why_interest": "Rare China role centered on RL training and inference infrastructure.",
       "location": "Beijing or Shanghai · full-time", "salary": "Unknown", "new_grad": "No degree or numeric experience minimum; social-recruitment level is unlabeled.",
       "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "Not explicitly campus/early-career and asks for RLHF/PPO/DPO/GRPO or Agent-RL experience/understanding.", "urgency": "Newly surfaced; official Moka application is live.",
       "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/a48c4b47-c219-4932-aea0-19d67db5590c"
     },
     {
-      "rank": 6, "tier": "stretch", "company": "Gimlet Labs", "role": "Member of Technical Staff - Distributed Systems", "status": "STRETCH", "fit": "4.6/5 technical · uncertain production-depth screen",
+      "rank": 4, "tier": "stretch", "company": "Gimlet Labs", "role": "Member of Technical Staff - Distributed Systems", "status": "STRETCH", "fit": "4.6/5 technical · uncertain production-depth screen",
       "why_screen": "Schedulers, orchestration, fault tolerance, multi-GPU communication and Linux performance are direct overlaps.", "why_team": "AutoScout and NCCL map to the platform beneath training and inference.", "why_interest": "Deep distributed systems with a direct AI-infrastructure trajectory.",
       "location": "San Francisco · onsite", "salary": "$150,000-$390,000 + equity", "new_grad": "Unlabeled; no numeric years minimum.",
       "sponsorship": "Unknown.", "caveat": "Production-fleet ownership is the main gap; this is separate from the applied ML Systems & Inference role.", "urgency": "Older but active.",
       "url": "https://jobs.ashbyhq.com/gimlet/5e313d06-240e-44ef-87d2-318edf246f1f"
     },
     {
-      "rank": 7, "tier": "stretch", "company": "Luma AI", "role": "Software Engineer, Inference", "status": "STRETCH", "fit": "4.5/5 technical · unlabeled level",
-      "why_screen": "Inference serving, model loading/cold start, profiling and distributed GPU work directly match.", "why_team": "The vLLM runtime and cold-start project provides concrete inference evidence.", "why_interest": "Direct model-serving and GPU-inference work.",
-      "location": "Redwood City · hybrid", "salary": "Unknown", "new_grad": "Unlabeled; no numeric years minimum shown.",
-      "sponsorship": "Unknown.", "caveat": "Likely expects Kubernetes/fleet production depth.", "urgency": "Official Ashby requisition is live.",
-      "url": "https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860"
-    },
-    {
-      "rank": 8, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Research Scientist, Pre-training (4616971008)", "status": "STRETCH", "fit": "4.8/5 technical · 2.8/5 screening",
+      "rank": 5, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Research Scientist, Pre-training (4616971008)", "status": "STRETCH", "fit": "4.8/5 technical · 2.8/5 screening",
       "why_screen": "PyTorch, distributed training, profiling and fault-tolerance research map directly; production scale is uncertain.", "why_team": "AutoScout/NCCL evidence is relevant to training efficiency, scaling and resilience.", "why_interest": "Frontier pre-training systems with unusually high MLSys upside.",
       "location": "SF / Seattle / New York · remote-friendly, at least 25% office", "salary": "$350,000-$850,000", "new_grad": "Advanced degree and significant engineering depth; no fixed numeric years minimum.",
       "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale ownership and significant engineering experience are screen risks.", "urgency": "Official Greenhouse requisition is live.",
@@ -243,6 +201,9 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
+    {"company": "Together AI", "role": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering (5186628007)", "status": "Applied Sep 25; user-confirmed exact role; suppress from actionable recommendations."},
+    {"company": "Baseten", "role": "Software Engineer - Model Performance Systems", "status": "Applied Sep 25; user-confirmed exact role; suppress from actionable recommendations."},
+    {"company": "Luma AI", "role": "Software Engineer, Inference", "status": "Applied Sep 25; user-confirmed exact role; suppress from actionable recommendations."},
   {
     "company": "Amazon Annapurna Labs",
     "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)",
