@@ -67,7 +67,7 @@
       "url": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744"
     },
     {
-      "rank": 1, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
+      "rank": 2, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
       "why_screen": "SDE I has no numeric professional-years minimum and accepts internship/project evidence; Python, Linux profiling, distributed systems and ML infrastructure are strong matches.", "why_team": "The team builds Kubernetes-based tools, pipelines, metrics and automation for Neuron workloads on Trainium and Inferentia, directly using performance and systems-debugging skills.", "why_interest": "It is production ML infrastructure with meaningful ownership on custom-accelerator workloads, not pure hardware.",
       "location": "Cupertino, CA · work arrangement not stated", "salary": "$127,100-$185,000 base + sign-on/RSUs", "new_grad": "No degree date or numeric years minimum stated; technical internship/project experience preferred.",
       "sponsorship": "Unknown on the exact requisition.", "caveat": "Proficiency in Java plus one of Go/Python/TypeScript is a basic qualification; Java is the primary screen risk.", "urgency": "Older but exact official page and Apply button were live on September 24; rolling.",
@@ -108,6 +108,42 @@
       "location": "NY / LA / SF / Seattle · hybrid", "salary": "$155,000-$160,000 base + equity", "new_grad": "Degree by Summer 2027; industry SWE exposure but no numeric full-time-years minimum.",
       "sponsorship": "Unknown.", "caveat": "Product instincts and shipping speed dominate; no direct MLSys team.", "urgency": "Active 2027 role; rolling.",
       "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930"
+    },
+    {
+      "rank": 8,
+      "tier": "secondary",
+      "company": "Zip",
+      "role": "Software Engineer, New Grad (2027 Start)",
+      "status": "RECENT",
+      "fit": "3.8/5 · strong early-career backend/API hedge",
+      "why_screen": "The role explicitly accepts BS/MS graduates from Dec 2026 through Jun 2027 and asks for prior internship experience plus web/API development. TikTok production work and Python directly support the screen.",
+      "why_team": "Backend APIs, reliability and scalable product architecture can use production engineering and systems fundamentals.",
+      "why_interest": "Good compensation and ownership at a fast-moving AI-enabled enterprise platform, though it is more product/full-stack than MLSys.",
+      "location": "San Francisco · hybrid",
+      "salary": "$165,000-$170,000 base + equity",
+      "new_grad": "BS/MS graduating Dec 2026-Jun 2027; prior internship requested.",
+      "sponsorship": "Unknown on the exact posting.",
+      "caveat": "Web/full-stack work is central; JavaScript/TypeScript/React/GraphQL are prominent.",
+      "urgency": "Active 2027-start official posting.",
+      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
+    },
+    {
+      "rank": 9,
+      "tier": "secondary",
+      "company": "Nooks",
+      "role": "Software Engineer, New Grad",
+      "status": "RECENT",
+      "fit": "3.8/5 · AI-agent product / scalable-systems hedge",
+      "why_screen": "The exact role accepts recent BS/MS graduates and values internships, research, OSS or projects; algorithms, TikTok production work and Python fit directly.",
+      "why_team": "The team builds AI agents, real-time collaboration and enterprise-scale workflows and explicitly asks engineers to improve performance, reliability and scalability.",
+      "why_interest": "Useful AI-agent ownership and rapid shipping experience, but less foundational inference/training infrastructure than the top systems roles.",
+      "location": "San Francisco · hybrid, at least 3 days/week in office",
+      "salary": "Official page is internally inconsistent: header shows $155,000-$170,000, while body states $200,000 base; verify with recruiting.",
+      "new_grad": "Completing or recently completed BS/MS; no numeric professional-years minimum.",
+      "sponsorship": "Unknown.",
+      "caveat": "Full-stack React/TypeScript/Node/Python work is central; compensation text is inconsistent on the official page.",
+      "urgency": "Active official new-grad posting.",
+      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
     }
   ],
   "high_value_stretch": [
