@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,12 +26,11 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 195,
-    "new_job_candidates": 167,
+    "priority_company_candidates": 196,
+    "new_job_candidates": 155,
     "high_potential_title_candidates": 240
   },
   "veto_counts": {
-    "pure hardware role": 1,
     "explicit 2026-only title": 7,
     "security-clearance requirement in title": 2,
     "non-full-time program title": 3
@@ -115,31 +114,6 @@
     },
     {
       "machine_rank": 4,
-      "machine_score": 96,
-      "machine_tier": "Top",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon Web Services (AWS)",
-      "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
-      "category": "Software Engineering",
-      "location": "Cupertino, CA, United States",
-      "salary": "$129K/yr - $129K/yr",
-      "salary_max_annual": 129000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-24",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ab54b70b3db59402d0fbca4",
-      "jd_excerpt": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 @ Amazon Web Services (AWS) | Jobright.ai SIGN IN JOIN NOW Software Development Engineer I, Annapurna Labs, Early Career - 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW Amazon Web Services (AWS) · 16 hours ago Software Development Engineer I, Annapurna Labs, Early Career - 2027 Cupertino, CA Full-time Onsite New Grad $129K/yr - $129K/yr Amazon Web Services (AWS) provides scalable cloud services, custom silicon, and software products operating at global scale. The Software Development Engineer I will contribute to production software across compilers, runtimes, systems software, drivers, performance optimization, and distributed infrastructure for custom hardware. Artificial Intelligence (AI) Cloud Computing Big Data Enterprise Software Aerospace AI Infrastructure Cloud Data Services Cloud Infrastructure Cloud Storage Data Storage Machine Learning Satellite Communication H1B Sponsor Likely Responsibilities Designing, implementing, and testing software across the stack - from low-level systems code to compilers, runtimes, and tooling Writing efficient, maintainable code in languages such as C, C++, or Python Optimizing software performance on custom hardware (Graviton, Trainium, Inferentia) Debugging complex issues across the hardware-software boundary Collaborating with hardware, compiler, and systems teams to deliver features end-to-end Documenting your work and presenting results to the team Qualification C C++ Java Python Data Structures and Algorithms Software Design Operating Systems Computer Architecture Systems Programming Compilers MLIR LLVM TVM Machine Learning Frameworks Distributed Systems Required Bachelor's or Master's degree program in Computer Science, Computer Engineering, or a related field, with a final graduation date of May 2027 or later Programming experience in at least one modern language such as C, C++, Java, or Python Coursework or project experience in data structures, algorithms, and software design Understanding of core computer science fundamentals: operating systems, computer architecture, or systems programming Preferred Bachelor's or Master's degree with a focus on systems, compilers, computer architecture, or high-performance computing Experience with low-level or systems programming in C/C++ (memory management, concurrency, performance optimization) Familiarity with compilers (MLIR, LLVM, TVM), ML runtimes, operating systems internals, or distributed systems Exposure to machine learning frameworks and an understanding of how models run on hardware Prior internship, research, or open-source contribution experience in systems, compilers, or ML infrastructure Benefits EAP Mental Health Support Medical Advice Line 401(k) matching Company Amazon Web Services (AWS) Glassdoor 3.6 Cloud computing infrastructure services for businesses. Founded in 2002 Seattle, Washington, USA 10001+ employees http://aws.amazon.com H1B Sponsorship Amazon Web Services (AWS) has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 73 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Customer Service and Support Accounting and Finance Sales Creatives and Design Marketing Human Resources Legal and Compliance Education and Training Public Sector and Government Arts and Entertainment Trends of Total Sponsorships *2026 ( 7552 ) 2025 ( 22803 ) 2024 ( 21175 ) 2023 ( 19057 ) 2022 ( 24088 ) 2021 ( 12233 ) 2020 ( 14881 ) Funding Current Stage Late Stage Total Funding unknown Key Investors BIRD Foundation 2025-01-22 Grant Leadership Team Matt Garman Chief Executive Officer Anand Desikan CTO-in-Residence (Enterprise Technologist) & Executive CxO Sponsor Recent News CRN AWS, OpenAI Building AI Agents That Run For Years With ‘Elastic Pricing:’ AWS AI Chief 2026-09-24 InternetRetailing Amazon versus Meta: the first big turf war of agentic shopping 2026-09-23 SiliconANGLE AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment 2026-09-22 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role C C++ Java Python Data Structures and Algorithms Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach T Tuo Y. Software Dev Engineer - Annapurna Labs A Andrew L. Director Software Engineering, Annapurna Labs Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 5,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python, Distributed Systems; role shape: entry-level ML role; new-grad: confirmed",
@@ -164,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -189,32 +163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
-      "machine_score": 100,
-      "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "AI Compiler Engineer- New College Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Santa Clara, CA, United States",
-      "salary": "$108K/yr - $178K/yr",
-      "salary_max_annual": 178000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-17",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aac26443dbb1f8967ce90c8",
-      "jd_excerpt": "AI Compiler Engineer- New College Grad 2027 @ NVIDIA | Jobright.ai SIGN IN JOIN NOW AI Compiler Engineer- New College Grad 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW NVIDIA · 3 hours ago AI Compiler Engineer- New College Grad 2027 United States Full-time Remote New Grad $108K/yr - $178K/yr NVIDIA is a technology company advancing accelerated computing and artificial intelligence through its GPU and software platforms. The company is seeking an AI Compiler Engineer to develop machine learning compiler and systems technologies, optimize AI workloads, build agent-driven development solutions, and collaborate with software and hardware engineering teams. Artificial Intelligence (AI) Transportation Cloud Computing Embedded Software Gaming Hardware Quantum Computing Semiconductor AI Infrastructure Autonomous Vehicles Embedded Systems Foundational AI Growth Opportunities H1B Sponsor Likely Responsibilities Innovate and develop new machine learning compiler and systems technologies Design, implement, and optimize compilers for high impact AI workloads Build agent driven solutions to automate the overall development flow Co-design agent system solutions with current and future AI compiler technologies Collaborate closely with other engineering teams at NVIDIA to build high impact solutions for machine learning acceleration Qualification Machine Learning Systems Development Machine Learning Compilers LLM Inference Kernels Kernel Generation Python C/C++ GPU Programming Apache TVM MLIR AI Agent Development FlashInfer FlashAttention Open Source Contributions Required * Bachelor's degree in Computer Science, Electrical Engineering, or related field (or equivalent experience) Preferred MS or PhD are preferred * Experience in machine learning systems development – including ML compilers, LLM inference kernels, kernel generations * Strong python, C/C++, GPU programming skills * Expertise in machine learning compilers (e.g. Apache TVM, MLIR) * Background in developing AI agent driven solutions and automation * Expertise in domain specific compiler and library solutions for LLM inference and training (e.g. FlashInfer, Flash Attention) * Strong experience machine learning systems research and productization * Open source project ownership or contributions Benefits Eligible for equity Company NVIDIA Glassdoor 4.5 Accelerated computing platforms for AI and compute-intensive workloads. Founded in 1993 Santa Clara, California, USA 10001+ employees https://www.nvidia.com H1B Sponsorship NVIDIA has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 89 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Marketing Sales Accounting and Finance Customer Service and Support Creatives and Design Human Resources Arts and Entertainment Legal and Compliance Trends of Total Sponsorships *2026 ( 1247 ) 2025 ( 1868 ) 2024 ( 1353 ) 2023 ( 976 ) 2022 ( 835 ) 2021 ( 601 ) 2020 ( 529 ) Funding Current Stage Public Company Total Funding $29.09B Key Investors ARPA-E ARK Investment Management SoftBank Vision Fund 2026-06-15 Post Ipo Debt· $25B 2023-05-09 Grant· $5M 2022-08-09 Post Ipo Equity· $65M Leadership Team Jensen Huang Founder and CEO Michael Kagan Chief Technology Officer Recent News WebProNews Salesforce Arms Missionforce With OpenAI Models and NVIDIA Compute to Crack Pentagon’s Hardest Operational Knots 2026-09-17 Tech in Asia Salesforce expands AI ties with Nvidia, AWS, Google 2026-09-17 City A.M. UK tech scale-ups raise £3.4bn as Burnham faces test over British investment 2026-09-17 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Machine Learning Systems Development Machine Learning Compilers LLM Inference Kernels Kernel Generation Python Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach T Tim K. Sr. Director, Developer Technology AI Computing S Shen L. Compiler Engineer - AI software Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 8,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: C++, Python, Linux, Networking; role shape: entry-level ML role; $200k+ stated ceiling",
@@ -239,57 +188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
-      "machine_score": 100,
-      "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "NVIDIA 2027 New College Graduate: Software Engineering - China",
-      "category": "AI / Machine Learning",
-      "location": "United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-25",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://vostego.com/jobs/nvidia-nvidia-2027-new-college-graduate-software-engineer-361686f1",
-      "jd_excerpt": "NVIDIA 2027 New College Graduate: Software Engineering - China at NVIDIA | Vostego Free limit reached Don't lose your momentum. You're deep in a draft â keep working. Unlock unlimited sessions and let the coach finish what they started. YOUR PROGRESS Â· DON'T LOSE THIS Continue with Career Builder $9/mo Wait until next month We'll keep your draft. Your progress doesn't reset. What unlocks today Or â someone could gift this to you. Send a hint to a friend . Ã Vostego Home For Teams Resources About Sign in Start free Home For Teams Resources About Sign in Start your career hub Vostego Search guides, jobs... Playbooks Jobs Resources Get Started Loading... ... My Dashboard Settings Refer a Friend Logout Vostego Workspace Dashboard Career hub Career coach Job Board Wins log Admin Settings Refer Logout Explore News Hub Job Board For Individuals Playbooks Articles Templates Mobile App Open in App Download App Get Started Quick Actions Log a new Win Add to your professional history Ask the Coach Get instant career guidance Profile Settings Update your preferences Tool Cabinet Pricing Calculator P Job Offer Evaluator J Comp Calculator C Contract Generator K Financial Model F Career Guides & Playbooks Becoming Your Own Advocate Consulting Launch Path Finance & Pricing for Founders Open Job Roles Software Engineering Roles Product Management Roles Marketing & Growth Roles Press ESC to close Tap Ã to close Vostego . Vostego . Search... âK Workspace Today Career Hub Your Work History Your Wins Career Coach Job Board News Hub Library Articles Guides Templates Admin Settings Invite a Colleague Logout Home Jobs NVIDIA 2027 New College Graduate: Software Engineering - China Jobs / General NVIDIA 2027 New College Graduate: Software Engineering - China N NVIDIA Â· Full-time technology healthcare +5 more manufacturing engineering data operations hr SKILLS IN THIS ROLE Independent Contracting & Logistics (Translational) Business Operations +6 more Python Software Engineering (Backend) Software Engineering (Frontend) Data Engineering & Databases DevOps & Platform Engineering Artificial Intelligence & ML Direct application link. No job-board redirects or recruiting spam. Apply Now â Check Network Share Save Discuss with Coach Referrals are 4Ã likelier to convertâgrab our outreach template. Pitch a 30-day audit first to become the insider. BEFORE YOU APPLY Tune your resume for this exact role â Maya takes ten minutes. Coach reads the JD, your resume v3, and your wins. Returns three specific edits. Open in Coach â By submitting your resume, youâre expressing interest in one of our 2027 Software Engineering New College Grad roles. Weâll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world&#x27;s largest industries and profoundly impacting society â from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. We offer an excellent opportunity to expand your career and get hands on experience with one of our industry-leading Software teams. Weâre seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Potential NCG opportunity in this field include: Development Tools Debugging complex system-level issues using Jenkins Course or internship experience related to the following areas could be required: Relational Databases, Linear Algebra &amp; Numerical Methods, Operating Systems (memory/resource management), Scheduling and Process Control, Hardware Virtualization Cloud Supporting overall architecture and design of our cloud storage infrastructure Implementing and troubleshooting storage and data platform tools, automating storage infrastructure end-to-end Course or internship experience related to the following areas could be required: Distributed Systems, Data Structures &amp; Algorithms, Virtualization, Automation/Scripting, Container &amp; Cluster Management, Debugging Tools Infrastructure Building industry leading technology by proving workflows and infrastructure, alongside a team of experts in production software development and chip design methodologies Enabling success for content running on the chip from application tracing and analysis to modeling, diagnostics, performance tuning, and debugging Course or internship experience related to the following areas and technologies could be required: Unix/Shell Scripting, Linux, Java, JavaScript (including Node, React, Vue), C++, CUDA, OOP, Go, Python, Git, GitLab, Perforce, Kubernetes and Microservices, Schedulers (LSF, SLURM), Containers (Docker), Configuration Automation (Ansible) Machine Learning Operations Deep Learning, GPU Computing, Accelerated Computing Validation Frame",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 10,
-      "machine_score": 95,
-      "machine_tier": "Top",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "Google",
-      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "Mountain View, CA",
-      "salary": "$175,000.00–$210,000.00",
-      "salary_max_annual": "210000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-08-25",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": false,
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
-      "jd_excerpt": "Google hiring Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Mountain View, CA | LinkedIn Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Des Moines, IA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 2 days ago Be among the first 25 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a PhD graduate, your research expertise is invaluable to us. Explore a variety of projects, collaborate with various teams, and contribute to products that are changing the world, across many product areas, including AI & Infrastructure , Cloud , YouTube , Search , Ads and more! Our Engineering teams include thousands of PhDs who bring their deep knowledge and research experience to enhance our systems and products. As a Google PhD Software Engineer, you will work on critical projects, with many opportunities to learn and follow your interests. We expect our engineers to be creative and versatile, leading and identifying new problems to push the field and Google technology forward. Google is one of the world’s leading suppliers and consumers of ML and AI technology, with decades of experience in designing, deploying, and using ML software and custom ML hardware infrastructure at massive scale. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equi",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 11,
+      "machine_rank": 7,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -314,7 +213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 8,
       "machine_score": 92,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -339,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Linux, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -364,7 +263,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -389,7 +288,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 11,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -414,7 +313,32 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 12,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
+      "company_priority": "Tier A",
+      "company": "NVIDIA",
+      "role": "NVIDIA 2027 New College Graduate: Software Engineering - China",
+      "category": "AI / Machine Learning",
+      "location": "United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-25",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://vostego.com/jobs/nvidia-nvidia-2027-new-college-graduate-software-engineer-361686f1",
+      "jd_excerpt": "NVIDIA 2027 New College Graduate: Software Engineering - China at NVIDIA | Vostego Free limit reached Don't lose your momentum. You're deep in a draft â keep working. Unlock unlimited sessions and let the coach finish what they started. YOUR PROGRESS Â· DON'T LOSE THIS Continue with Career Builder $9/mo Wait until next month We'll keep your draft. Your progress doesn't reset. What unlocks today Or â someone could gift this to you. Send a hint to a friend . Ã Vostego Home For Teams Resources About Sign in Start free Home For Teams Resources About Sign in Start your career hub Vostego Search guides, jobs... Playbooks Jobs Resources Get Started Loading... ... My Dashboard Settings Refer a Friend Logout Vostego Workspace Dashboard Career hub Career coach Job Board Wins log Admin Settings Refer Logout Explore News Hub Job Board For Individuals Playbooks Articles Templates Mobile App Open in App Download App Get Started Quick Actions Log a new Win Add to your professional history Ask the Coach Get instant career guidance Profile Settings Update your preferences Tool Cabinet Pricing Calculator P Job Offer Evaluator J Comp Calculator C Contract Generator K Financial Model F Career Guides & Playbooks Becoming Your Own Advocate Consulting Launch Path Finance & Pricing for Founders Open Job Roles Software Engineering Roles Product Management Roles Marketing & Growth Roles Press ESC to close Tap Ã to close Vostego . Vostego . Search... âK Workspace Today Career Hub Your Work History Your Wins Career Coach Job Board News Hub Library Articles Guides Templates Admin Settings Invite a Colleague Logout Home Jobs NVIDIA 2027 New College Graduate: Software Engineering - China Jobs / General NVIDIA 2027 New College Graduate: Software Engineering - China N NVIDIA Â· Full-time technology healthcare +5 more manufacturing engineering data operations hr SKILLS IN THIS ROLE Independent Contracting & Logistics (Translational) Business Operations +6 more Python Software Engineering (Backend) Software Engineering (Frontend) Data Engineering & Databases DevOps & Platform Engineering Artificial Intelligence & ML Direct application link. No job-board redirects or recruiting spam. Apply Now â Check Network Share Save Discuss with Coach Referrals are 4Ã likelier to convertâgrab our outreach template. Pitch a 30-day audit first to become the insider. BEFORE YOU APPLY Tune your resume for this exact role â Maya takes ten minutes. Coach reads the JD, your resume v3, and your wins. Returns three specific edits. Open in Coach â By submitting your resume, youâre expressing interest in one of our 2027 Software Engineering New College Grad roles. Weâll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world&#x27;s largest industries and profoundly impacting society â from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. We offer an excellent opportunity to expand your career and get hands on experience with one of our industry-leading Software teams. Weâre seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Potential NCG opportunity in this field include: Development Tools Debugging complex system-level issues using Jenkins Course or internship experience related to the following areas could be required: Relational Databases, Linear Algebra &amp; Numerical Methods, Operating Systems (memory/resource management), Scheduling and Process Control, Hardware Virtualization Cloud Supporting overall architecture and design of our cloud storage infrastructure Implementing and troubleshooting storage and data platform tools, automating storage infrastructure end-to-end Course or internship experience related to the following areas could be required: Distributed Systems, Data Structures &amp; Algorithms, Virtualization, Automation/Scripting, Container &amp; Cluster Management, Debugging Tools Infrastructure Building industry leading technology by proving workflows and infrastructure, alongside a team of experts in production software development and chip design methodologies Enabling success for content running on the chip from application tracing and analysis to modeling, diagnostics, performance tuning, and debugging Course or internship experience related to the following areas and technologies could be required: Unix/Shell Scripting, Linux, Java, JavaScript (including Node, React, Vue), C++, CUDA, OOP, Go, Python, Git, GitLab, Perforce, Kubernetes and Microservices, Schedulers (LSF, SLURM), Containers (Docker), Configuration Automation (Ansible) Machine Learning Operations Deep Learning, GPU Computing, Accelerated Computing Validation Frame",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 13,
       "machine_score": 96,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -439,7 +363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 14,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -458,13 +382,38 @@
       "source": "Google Jobs via SerpAPI",
       "official_source": false,
       "url": "https://www.linkedin.com/jobs/view/2027-early-career-software-engineer-at-anduril-industries-4427643568",
-      "jd_excerpt": "2027 Early Career Software Engineer at Anduril Industries — Seattle, WA | LinkedIn Jobs Skip to main content LinkedIn 2027 Early Career Software Engineer in Sterling, VA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now 2027 Early Career Software Engineer Anduril Industries Seattle, WA Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . 2027 Early Career Software Engineer Anduril Industries Seattle, WA 1 week ago Over 200 applicants See who Anduril Industries has hired for this role Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. We are looking for Software Engineers to join our rapidly growing team! We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! What You’ll Do Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. Required Qualifications Must be pursuing or have recently completed a bachelor’s or master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. Preferred Qualifications Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. Have a bias for action. If you see a problem, you want to solve and fix it. Be naturally curious about the technologies and tools you use. Low-ego, high ownership, and mission oriented. US Salary Range $112,000—$149,000 USD Benefits The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits. Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To Ens",
+      "jd_excerpt": "Anduril Industries hiring 2027 Early Career Software Engineer in Seattle, WA | LinkedIn Skip to main content LinkedIn 2027 Early Career Software Engineer in Boydton, VA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now 2027 Early Career Software Engineer Anduril Industries Seattle, WA Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . 2027 Early Career Software Engineer Anduril Industries Seattle, WA 2 weeks ago Over 200 applicants See who Anduril Industries has hired for this role Apply Join or sign in to find your next job Join to apply for the 2027 Early Career Software Engineer role at Anduril Industries Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. We are looking for Software Engineers to join our rapidly growing team! We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! What You’ll Do Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. Required Qualifications Must be pursuing or have recently completed a bachelor’s or master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. Preferred Qualifications Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. Have a bias for action. If you see a problem, you want to solve and fix it. Be naturally curious about the technologies and tools you use. Low-ego, high ownership, and mission oriented. US Salary Range $112,000—$149,000 USD Benefits The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly com",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 15,
+      "machine_score": 95,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "category": "AI / Machine Learning",
+      "location": "Mountain View, CA",
+      "salary": "$175,000.00–$210,000.00",
+      "salary_max_annual": "210000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-08-25",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": false,
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
+      "jd_excerpt": "Google hiring Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Mountain View, CA | LinkedIn Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Des Moines, IA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 2 days ago Be among the first 25 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a PhD graduate, your research expertise is invaluable to us. Explore a variety of projects, collaborate with various teams, and contribute to products that are changing the world, across many product areas, including AI & Infrastructure , Cloud , YouTube , Search , Ads and more! Our Engineering teams include thousands of PhDs who bring their deep knowledge and research experience to enhance our systems and products. As a Google PhD Software Engineer, you will work on critical projects, with many opportunities to learn and follow your interests. We expect our engineers to be creative and versatile, leading and identifying new problems to push the field and Google technology forward. Google is one of the world’s leading suppliers and consumers of ML and AI technology, with decades of experience in designing, deploying, and using ML software and custom ML hardware infrastructure at massive scale. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equi",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 16,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -489,7 +438,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 17,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -514,7 +463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 18,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -539,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 19,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -564,7 +513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 20,
       "machine_score": 84,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -589,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 21,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -614,32 +563,32 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 24,
-      "machine_score": 83,
+      "machine_rank": 22,
+      "machine_score": 75,
       "machine_tier": "Strong",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Akuna Capital",
-      "role": "Software Engineer - Entry-Level - C++",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "salary": "$191k/yr",
-      "salary_max_annual": "191000",
+      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "NVIDIA",
+      "role": "AI Compiler Engineer- New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Santa Clara, CA, United States",
+      "salary": "$108K/yr - $178K/yr",
+      "salary_max_annual": "178000",
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Entry-Level",
+      "ng_evidence": "title says New College Grad",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "posted_date": "2026-09-17",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
       "official_source": false,
-      "url": "https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085",
-      "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Engineering Software Engineer (Entry-Level) - C++ Chicago About Akuna Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data-driven solutions, and automation. We specialize in providing liquidity on a variety of exchanges across various asset classes, primarily as an options market maker. To do this successfully, we build and maintain our own low-latency technologies, including application frameworks, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney, Australia. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices around the world: Sydney, Shanghai, Singapore, and London. What You’ll Do as an Entry-Level C++ Software Engineer at Akuna C++ software engineers at Akuna have the opportunity to work on a variety of high-performance systems that power the firm’s core business operations. Our engineers work on small-to-medium-sized teams that frequently interface with Quant and Trading, allowing them to build expertise in a specific domain area while maintaining broader exposure to the needs of their end-users. Akuna’s C++ systems are heavily multithreaded, asynchronous, and distributed by nature, which comes with a slew of challenges; our engineers are tasked with ensuring these systems are reliable, efficient, scalable, and flexible enough for even the most niche use cases. Entry-level engineers in particular are responsible for day-to-day upkeep of core systems, servicing lower-risk feature requests, and executing individual projects on behalf of their team’s stakeholders. Akuna is looking for software engineers who are motivated, can solve complex problems, and are willing to reach for creative solutions when faced with novel problems. We value innovation, hard work, and knowledge, and we want our engineers to make a direct impact on the firm. Whether you are interested in algorithms and data structures, concurrency, networking and protocols, performance tuning, data capture and analysis, mathematical modeling, hardware, or something else, there’s engaging work to be done. Requirements for This Role Pursuing a bachelor’s, master’s, or Ph.D. in a technical field (computer science/engineering, math, physics, or equivalent) Graduating by August 2027 Legal authorization to work in the U.S. as of the first day of employment, including F-1 students using OPT or STEM Previous experience in finance or trading is not required. Many of our engineers joined Akuna with little-to-no prior knowledge of the markets, and we pride ourselves on our ability to onboard those new to the industry. Training and continuous education are provided for all engineers to ensure they can build the requisite technical and non-technical skillset for success. Qualities That Make a Great C++ Software Engineer Candidate Experience programming in modern C++ (C++20 or later; C++23 preferred) Experience with several of the following Distributed systems Parallel processing Asynchronous architectures Networking or protocol encoding/decoding Lock-free data structures and algorithms Performance profiling (e.g. perf, gprof, vtune) Scripting, such as in Python or shell Familiarity with standard debugging tools (e.g. GDB, Valgrind, address sanitizer) The ability to effectively communicate with non-technical stakeholders in Quant and Trading to obtain requirements, workshop solutions, and implement agreed-upon roadmaps The ability to react quickly and effectively to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems, is an essential function of the role A passion for building complex systems from the ground up The ability to collaborate with other developers of different backgrounds, specialties, and knowledge levels to collectively deliver cohesive solutions to non-trivial problems An intrinsically motivated attitude and the ability to work independently A strong sense of ownership, including a drive to fix bugs when they inevitably arise In addition to the above technical skills, Akuna values diversity of experience and perspective. We believe that engineers with varied backgrounds and interests allow us to approach problems from uni",
+      "url": "https://jobright.ai/jobs/info/6aac26443dbb1f8967ce90c8",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 23,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -664,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 24,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -689,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 25,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -714,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 26,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -739,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 27,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -764,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 28,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -789,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 29,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -814,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 30,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -839,57 +788,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
-      "machine_score": 67,
+      "machine_rank": 31,
+      "machine_score": 71,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
       "company_priority": "",
-      "company": "Whatnot",
-      "role": "Software Engineer, 2027 New Grad",
-      "category": "Quantitative Finance",
-      "location": "Seattle, WA",
-      "salary": "$130,000.00–$150,000.00",
-      "salary_max_annual": "150000",
+      "company": "Adobe",
+      "role": "2027 University Graduate - Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "San Jose, CA, United States",
+      "salary": "$102400-$202250/yr",
+      "salary_max_annual": 202250,
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
+      "ng_evidence": "title says University Graduate",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-09-24",
-      "source": "Google Jobs via SerpAPI",
+      "posted_date": "2026-09-25",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
       "official_source": false,
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-2027-new-grad-at-whatnot-4460204620",
-      "jd_excerpt": "Software Engineer, 2027 New Grad at Whatnot — Seattle, WA | LinkedIn Jobs Skip to main content LinkedIn Software Engineer, 2027 New Grad in Chicago, IL Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, 2027 New Grad Whatnot Seattle, WA Apply Join or sign in to find your next job Join to apply for the Software Engineer, 2027 New Grad role at Whatnot Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, 2027 New Grad Whatnot Seattle, WA 1 day ago Over 200 applicants See who Whatnot has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, 2027 New Grad role at Whatnot Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer, 2027 New Grad at Whatnot Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Whatnot provided pay range This range is provided by Whatnot. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range $155,000.00/yr - $160,000.00/yr 🚀 Join the Future of Commerce with Whatnot! Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the things you love. Whether it's trading cards, fashion, electronics, or live plants, our sellers are building real businesses across hundreds of categories. We're building live commerce at a scale that's never been done in the West, and there's no playbook to copy. The people here are shaping how an entirely new industry develops. As a remote co-located team, we're inspired by our values and anchored in hubs across the US, UK, Ireland, Poland, Germany, and Australia. We move fast, stay close to our users, and focus on the work that drives the most impact. We're one of the fastest growing marketplaces and were recently named the #1 Best Startup Employer in America by Forbes. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business and bring people together through commerce. 💻 Role We are looking for intellectually curious, highly motivated individuals to join us post grad in 2027. The most important skills you’ll need to have are making sound product decisions and shipping high-quality products fast. We look for engineers with great product instincts who can own whole projects from start to finish. Job Duties The engineering team operates with a high level of autonomy so we need to hire people we can trust. Your ability to make good trade-offs and exercise good judgment is essential to us. Some job duties include: Building new features for users in our live-streams Implementing growth tactics and strategies to scale our buyer and seller flows Building systems at scale that help us deliver a high trust marketplace experience Writing product or system development code Designing, implementing, and operating our most critical and scalable services Carefully evaluating the technical tradeoffs of every decision Supporting features at every phase, from design through implementation and launch Triage product or system issues and debug/track/resolve by analyzing the sources of issues, network, or service operations and quality. We offer flexibility to work from home or from one of our global office hubs, and we value in-person time for planning, problem-solving, and connection. Team members in this role must live within commuting distance of one of our following hubs; Los Angeles, New York City, San Francisco, or Seattle 👋 You People who do well at Whatnot tend to be comfortable figuring things out as they go, biased toward action, and genuinely curious about what they're building. They care more about outcomes than credit and stay close to the product and the people using it. As our next Engineer you should have some industry software engineering experience, plus: Graduated with a CS or Software Engineering degree by Summer 2027 Problem solver and out-of-the-box thinker Willing to take risks and build product and systems for 1M+ users Capable of building scalable systems Excellent product instincts. You first think about users rather than the best technical solution You are known for shipping product",
+      "url": "https://jobright.ai/jobs/info/6ab56a61b3db59402d0fc828",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
-      "company_priority": "Quant",
-      "company": "Optiver",
-      "role": "Graduate Quantitative Researcher - PhD - 2027 Start",
-      "category": "Other",
-      "location": "Austin, TX +2",
-      "salary": "$201k/yr",
-      "salary_max_annual": "201000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Quantitative",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-09-24",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.optiver.com/join-us/jobs/8451764002?gh_jid=8451764002",
-      "jd_excerpt": "Graduate Quantitative Researcher, PhD (2027 Start) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Quantitative Research & Machine Learning jobs in New York Graduate Quantitative Researcher, PhD (2027 Start) Level Graduate Location New York Department Quantitative Research & Machine Learning Apply Apply As a Graduate Quantitative Researcher, you’ll tackle some of the most challenging quantitative problems in global financial markets. Working alongside researchers, engineers, and traders, you’ll analyze large-scale datasets, develop predictive models and algorithms, and apply statistical and machine learning techniques to better understand market behavior and identify trading opportunities. Research at Optiver is highly applied and end-to-end. You’ll frame research questions, test hypotheses, develop and validate models, and see your ideas evaluated in live market environments. Combining rigorous scientific thinking with modern AI-enabled research infrastructure, you’ll transform insights into solutions that directly influence how we trade. This opportunity is also available in our Chicago and Austin offices. What You’ll Do: Your onboarding You’ll participate in Global Optiver Academy , a structure onboarding program for graduates. It gives new joiners a shared foundation in how Optiver trades, builds systems, and manages risk before they move into their teams. As part of your onboarding, you'll gain exposure to the AI tools and technologies that support research and development across the business. Your responsibilities As a Quantitative Researcher, you will have the opportunity to contribute to several key areas: Develop predictive models and machine learning systems to better understand market behavior and identify trading opportunities Analyze large-scale market and order-flow data to uncover signals, evaluate hypotheses, and improve trading performance Build and test statistical and stochastic models for pricing, forecasting, and risk management Apply modern research techniques, including deep learning and AI-enabled workflows, to accelerate discovery and improve research efficiency What You’ll Get: You’ll join a culture of collaboration, continuous improvement, and excellence, surrounded by curious thinkers and creative problem-solvers. Together, you’ll tackle some of the toughest challenges in the financial markets by leveraging cutting-edge machine learning research to develop innovative, real-world solutions. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries Highly competitive compensation package Global profit-sharing pool and performance-based bonus structure 401(k) match up to 50% Comprehensive health, mental, dental, vision, disability, and life coverage 25 paid vacation days alongside market holidays Extensive office perks, including breakfast, lunch, snacks, regular social events, clubs, sporting leagues, and more What To Expect : As part of our assessment process, you may be invited to participate in a multi-day, on-site evaluative program. Through hands-on workshops, technical discussions, and direct exposure to our researchers and traders, you’ll gain insight into how research is applied at Optiver and how PhD students transition successfully into industry. Attendance and successful completion of this program may be required to receive an internship offer. Who You Are: PhD in Statistics, Computer Science, Machine Learning, Mathematics, or a related STEM field, with outstanding academic achievements Expected to graduate by mid-2027 and available to start full-time employment upon graduation Solid foundation in mathematics, probability, and statistics Excellent research, analytical, and modeling skills Experience applying machine learning methods to real-world research problems, such as time-series analysis, prediction, forecasting, pattern recognition, optimization, or decision-making Proficiency in any programming language Strong interest in working in a fast-paced, collaborative environment Fluent in English with strong written and verbal communication skills Who We Are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportiv e of US immigration sponsorship for this role . *Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or i",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 35,
+      "machine_rank": 32,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -914,32 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Replit",
-      "role": "Software Engineer (New Graduate, 2027)",
-      "category": "Infrastructure / Systems",
-      "location": "United States",
-      "salary": "$140K to 180K",
-      "salary_max_annual": 180000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-24",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.welcometothejungle.com/en/companies/replit/jobs/software-engineer-new-graduate-summer-2026_us_zxvkbwe4",
-      "jd_excerpt": "Software Engineer (New Graduate, 2027) – Replit – Graduate program in Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Back Replit Software Engineer (New Graduate, 2027) Job summary Graduate program United States of America Occasional remote Salary: $140K to 180K Experience: < 6 months Skills & expertise Cloud & infrastructure Communication skills Collaboration and teamwork Problem-solving skills React +4 Apply Save 14 days ago Share Copy link Share on Facebook Share on X Share on LinkedIn Replit Interested in this job? Apply Save Questions and answers about the job Does this position allow remote work? Occasional remote work is allowed for this position. What type of contract is offered for this position? Type of contract for this position: Graduate program Is work experience required for this position? No work experience is required to apply for this job. The position Job description As a New Grad Software Engineer, you’ll join a team of exceptional builders working on products that are reshaping how the world creates software You’ll have the opportunity to work on everything from our AI-powered development platform to the distributed systems that enable real-time collaboration for millions of developers This is a chance to define your career while defining the future of software development You’ll work on problems that matter, with the autonomy to drive solutions and the support to grow into a technical leader Product features that delight users and make it possible for anybody to create software AI coding agent that understands intent and generates production-ready applications Cloud infrastructure that provides instant, powerful development environments at global scale Platform features that enable one click deployments and scale to millions of users Benefits Remote-First and Autonomous Working Environment Flexible Work Hours Short Term and Long Term Disability Health, Dental, Vision, and Life Insurance Home Office Set-Up Stipend Monthly Expenses Stipend Parental and Baby Bonding Leave Flexible PTO (2 Weeks Minimum Required) + Holidays Commuter Benefits Annual Company/Team Offsites (4/year) 401k Program Equity Preferred experience Full-stack capabilities with experience in React, Node.js, and database technologies Growth orientation - eager to learn new technologies and take on increasing responsibility Collaborative spirit - you work well in cross-functional teams and value diverse perspectives Strong programming skills in a modern language (JavaScript/TypeScript, Python, Go, Rust) Recent graduate (2027) with a degree in Computer Science, Computer Engineering, or related field Continuous learning: Passion for staying current with industry best practices and new technologies Problem-solving mindset: Ability to approach complex operational challenges systematically and devise effective solutions Self-directed and autonomous: Capable of working independently while collaborating effectively with cross-functional teams Strong communication skills: Ability to explain complex technical concepts to both technical and non-technical audiences Focus on automation: Strong belief in automating repetitive tasks and building self-healing systems Recruitment process Please note that applications without a Replit project submitted will not be reviewed Discover the company Explore the company’s profile or follow them to find out if they’re the right fit! Explore the company Follow them! The company Replit Artificial Intelligence / Machine Learning, Education 318 employees View website View all jobs 60 Who are they? Collaborative coding platform The workplace United States of America Need more info? Company life, atmosphere, achievements... We still have a lot more to tell you! Discover Apply Save Welcome to the jungle symbol Find your next job Explore companies AI Candidate Coach Need help? Have an account? Log in Hire the right talent Welcome Hiring Suite Employer branding Pricing Clients' testimonials Resources Need help? Have an account? Log in About us Our concept and story We're hiring Press US Français English (US) English (UK) Legal notice Terms of service Legal center Manage cookies © 2026 Welcome to the Jungle",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 37,
+      "machine_rank": 33,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -964,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 34,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: systems/performance role; new-grad: confirmed",
@@ -989,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 35,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1014,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 36,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1039,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 37,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1064,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 38,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1089,32 +988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
-      "machine_score": 64,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
-      "company_priority": "Tier A",
-      "company": "Anthropic",
-      "role": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "category": "Quantitative Finance",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-25",
-      "source": "Greenhouse:anthropic",
-      "official_source": true,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "jd_excerpt": "Job Application for Anthropic Fellows Program, ML Systems & Reinforcement Learning at Anthropic Back to jobs Anthropic Fellows Program, ML Systems & Reinforcement Learning London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA Apply About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Anthropic Fellows Program overview The Anthropic Fellows Program is designed to foster AI research and engineering talent. We provide funding and mentorship to promising technical talent - regardless of previous experience. Fellows will primarily use external infrastructure (e.g. open-source models, public APIs) to work on an empirical project aligned with our research priorities, with the goal of producing a public output (e.g. a paper submission). In one of our earlier cohorts, over 80% of fellows produced papers. We run multiple cohorts of Fellows each year and review applications on a rolling basis. Apply at the bottom of this page. We are accepting applications on a rolling basis for the next cohort expected to start in January 2027. In some circumstances, we can accommodate fellows starting outside the usual cohort timelines — please note in your application if the January 2027 start date doesn't work for you. What to expect 4 months of full-time research Direct mentorship from Anthropic researchers Access to a shared workspace Connection to the broader AI safety and security research community Weekly stipend of 3,850 USD / 2,310 GBP / 4,300 CAD + benefits (these vary by country) Funding for compute (~$15k/month) and other research expenses Interview process The interview process will include an initial application & reference check, technical assessments & interviews, and a research discussion. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Compensation The expected base stipend for this role is 3,850 USD / 2,310 GBP / 4,300 CAD per week, with an expectation of 40 hours per week for 4 months (with possible extension). ML Systems & Performance Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential mentors include: Alwin Peng Zygi Straznickas Note: You may research mentors' prior work, but all applications must go through the official form, not the mentors. For a past example of an engineering-heavy project, see: AI agents find $4.6M in blockchain smart contract exploits Projects in this workstream may include: Building a CPU simulator for accelerator workloads Adding backends for different accelerators on an open source project Building on demand infrastructure for other infrastructure heavy fellows projects Building complex synthetic data or environment pipelines Unique candidate criteria You might be a particularly great fit for this workstream if you: Have strong software engineering skills with experience building complex ML systems Can balance research exploration with engineering rigor and operational reliability Enjoy collaborating across research and engineering disciplines Are comfortable working with large-scale distributed systems and high-performance computing (e.g. in trading) Have experience with training, fine-tuning, or evaluating large language models Are adept at analyzing and debugging model training processes You may be a good fit if you Are motivated by making sure AI is safe and beneficial for society as a whole Are excited to transition into empirical AI research and would be interested in a full-time role at Anthropic Have a strong technical background in computer science, mathematics, or physics Thrive in fast-paced, collaborative environments Can implement ideas quickly and communicate clearly Candidates must be Fluent in Python programming Available to work full-time on the Fellows program Reinforcement Learning Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential research areas and mentors include: Ruhua Jiang Kaidi Cao Sunny Duan David Brandfonbrener Colt Steele Dino Distefano Will Williams Projects in this workstream may include: Bui",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 44,
+      "machine_rank": 39,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1139,7 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 40,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1164,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 41,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1189,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1214,32 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Energy Solutions",
-      "role": "Software Engineer I - Portland - OR - US",
-      "category": "Software Engineering",
-      "location": "Remote - Portland, OR",
-      "salary": "$80,000–$100,000",
-      "salary_max_annual": "100000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-28",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007",
-      "jd_excerpt": "Jobs at Energy Solutions - USA Current openings at Energy Solutions - USA Create a Job Alert Level-up your career by having opportunities at Energy Solutions - USA sent directly to your inbox. Create alert Search Department Select... Office Select... 16 jobs Distributed Energy Resources Job Director of Solar Outreach and Market Strategy  (Remote -Illinois, US) Chicago, Illinois, United States Director of Solar Outreach and Market Strategy  (Remote - Indiana, US) Remote - US Director of Solar Outreach and Market Strategy  (Remote - Wisconsin, US) Remote - US Project Manager II - Solar Programs Outreach - (Hybrid - Chicago, IL - US) Chicago, Illinois, United States Solar Programs, Application Processing Associate (Hybrid - Oakland, CA; Portland, OR; Chicago, IL - US) Chicago, Illinois, United States; Oakland, California, United States; Portland, Oregon, United States Solar Programs, Associate - Consumer Protection (Hybrid - Chicago, IL - US) Chicago, Illinois, United States Energy Efficiency Job Director, Energy Efficiency - Midwest Remote - US Energy Efficiency Account Manager Pacific Northwest Energy Efficiency Project Manager I (Remote - US) Remote - US Energy Efficiency Project Manager I (Remote - US) Northeast; Remote - US Incentive Connect Support Associate Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Northeast Rebate Processing Coordinator - (Hybrid - Boston, MA; New York, NY - US) Boston, Massachusetts, United States; New York, New York, United States Senior Manager (Hybrid - Chicago) New Chicago, Illinois, United States Finance Job Senior Compliance Specialist Remote - US Information Systems Job Senior Software Engineer (Hybrid - US) Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States People and Culture Job Executive Assistant II (Hybrid - Oakland, CA; Orange, CA; Portland, OR - US) Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States Powered by Greenhouse",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 49,
+      "machine_rank": 43,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1264,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 44,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1289,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 45,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1314,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 46,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1339,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 47,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
@@ -1364,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 48,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1389,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 49,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1414,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 50,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1439,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 51,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1464,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 52,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1489,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 53,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1514,7 +1363,57 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 54,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Akuna Capital",
+      "role": "Software Engineer - Entry-Level - C++",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "salary": "$191k/yr",
+      "salary_max_annual": "191000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.akunacapital.com/careers/job/8013085?gh_jid=8013085",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 55,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
+      "company_priority": "Tier A",
+      "company": "Anthropic",
+      "role": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+      "category": "Quantitative Finance",
+      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-25",
+      "source": "Greenhouse:anthropic",
+      "official_source": true,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+      "jd_excerpt": "Job Application for Anthropic Fellows Program, ML Systems & Reinforcement Learning at Anthropic Back to jobs Anthropic Fellows Program, ML Systems & Reinforcement Learning London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA Apply About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Anthropic Fellows Program overview The Anthropic Fellows Program is designed to foster AI research and engineering talent. We provide funding and mentorship to promising technical talent - regardless of previous experience. Fellows will primarily use external infrastructure (e.g. open-source models, public APIs) to work on an empirical project aligned with our research priorities, with the goal of producing a public output (e.g. a paper submission). In one of our earlier cohorts, over 80% of fellows produced papers. We run multiple cohorts of Fellows each year and review applications on a rolling basis. Apply at the bottom of this page. We are accepting applications on a rolling basis for the next cohort expected to start in January 2027. In some circumstances, we can accommodate fellows starting outside the usual cohort timelines — please note in your application if the January 2027 start date doesn't work for you. What to expect 4 months of full-time research Direct mentorship from Anthropic researchers Access to a shared workspace Connection to the broader AI safety and security research community Weekly stipend of 3,850 USD / 2,310 GBP / 4,300 CAD + benefits (these vary by country) Funding for compute (~$15k/month) and other research expenses Interview process The interview process will include an initial application & reference check, technical assessments & interviews, and a research discussion. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Compensation The expected base stipend for this role is 3,850 USD / 2,310 GBP / 4,300 CAD per week, with an expectation of 40 hours per week for 4 months (with possible extension). ML Systems & Performance Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential mentors include: Alwin Peng Zygi Straznickas Note: You may research mentors' prior work, but all applications must go through the official form, not the mentors. For a past example of an engineering-heavy project, see: AI agents find $4.6M in blockchain smart contract exploits Projects in this workstream may include: Building a CPU simulator for accelerator workloads Adding backends for different accelerators on an open source project Building on demand infrastructure for other infrastructure heavy fellows projects Building complex synthetic data or environment pipelines Unique candidate criteria You might be a particularly great fit for this workstream if you: Have strong software engineering skills with experience building complex ML systems Can balance research exploration with engineering rigor and operational reliability Enjoy collaborating across research and engineering disciplines Are comfortable working with large-scale distributed systems and high-performance computing (e.g. in trading) Have experience with training, fine-tuning, or evaluating large language models Are adept at analyzing and debugging model training processes You may be a good fit if you Are motivated by making sure AI is safe and beneficial for society as a whole Are excited to transition into empirical AI research and would be interested in a full-time role at Anthropic Have a strong technical background in computer science, mathematics, or physics Thrive in fast-paced, collaborative environments Can implement ideas quickly and communicate clearly Candidates must be Fluent in Python programming Available to work full-time on the Fellows program Reinforcement Learning Fellows Mentors, research areas, & past projects Fellows will undergo a project selection & mentor matching process. Potential research areas and mentors include: Ruhua Jiang Kaidi Cao Sunny Duan David Brandfonbrener Colt Steele Dino Distefano Will Williams Projects in this workstream may include: Bui",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 56,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -1539,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1564,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1589,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 59,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1614,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 60,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1639,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 61,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1664,32 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: likely",
-      "company_priority": "",
-      "company": "Waymark",
-      "role": "Junior Software Engineer",
-      "category": "Software Engineering",
-      "location": "Remote - USA",
-      "salary": "$106,000–$137,000",
-      "salary_max_annual": "137000",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
-      "jd_excerpt": "Job Application for Junior Software Engineer at Waymark Back to jobs Junior Software Engineer US - Remote Apply About Waymark Waymark is a team of healthcare providers, technologists, and builders whose mission is to bring the best healthcare to people with Medicaid benefits. Guided by the communities we serve, we bring support and technology-enabled care to help primary care providers keep Medicaid patients healthy. We are building the tools and designing an approach to enable care to reach the patients who can benefit most. Our core values embody the essence of what makes Waymark a unique team today, and what we look for, nurture, and sustain as a team. We are bold builders, believing that the greatest challenges in care delivery can be solved when we harness the power of community and technology. We are humble learners, seeking feedback and perspectives different from our own, and welcome challenges to our conclusions. We experiment to improve, actively seeking data to inform decisions and to assess our own performance. We act with focused urgency, our commitment to our mission drives us to tirelessly pursue results. If this vision resonates with you, we hope you consider bringing your creativity, your energy, your curiosity to Waymark. About this role At Waymark, software engineers build the products that enable care delivery teams — community health workers, social workers, pharmacists, and care coordinators — to support people with Medicaid benefits. As a Junior Software Engineer, you'll be paired with a senior engineer who will mentor you as you build real features and fixes from day one. You'll write code, participate in code reviews, and learn how our systems fit together. We want someone who is curious, asks hard questions, and brings fresh perspectives — we'll invest in your growth as you contribute to meaningful work. This is a role for someone early in their engineering career who wants to do work that matters. No prior Elixir experience required — we'll teach it. What you'll do in your first six months Ship features and fixes to our messaging platform, built in Elixir Work through bug tickets across our stack (React, TypeScript, Elixir) Set up a local development environment that mirrors production Participate in sprint planning and refinement, managing your work in Jira Contribute to code reviews on GitHub and keep your team informed in standups Collaborate with senior engineers, product, and design on upcoming feature planning Work with PostgreSQL as part of our production data layer Qualifications Some experience building software — through professional work, internships, bootcamps, or substantial personal projects Familiarity with at least one modern web application framework (e.g. React, Next.js, Phoenix, or similar) Familiarity with Git and version control workflows Strong written and verbal communication skills Preferred Qualifications Experience with functional programming Familiarity with testing frameworks and CI/CD pipelines Interest in healthcare technology and improving health outcomes Comfort working in a fast-paced, mission-driven startup environment Hiring Range US Employees in San Francisco/Bay Area, New York City - $106,000 - $137,000 US Employees in Boston, Los Angeles, Seattle, Washington DC - $98,000 - $126,000 US Employees in Arlington, Denver, San Diego, Sacramento - $94,000 - $121,000 US Employees in Albany, Atlanta, Austin, Baltimore, Central/Southern, Charlotte, Chicago, Dallas/Fort Worth, Detroit, Houston, Las Vegas, Miami, Milwaukee, Philadelphia, Portland, Research Triangle, Salt Lake City, Twin Cities - $85,000 - $110,000 US Employees in Baton Rouge, Birmingham, Charleston, Cincinnati, Cleveland, Daytona Beach, Indianapolis, Nashville, New Orleans, Omaha, Phoenix, Pittsburgh, St. Louis, Tampa - $82,000 - $106,000 In addition to salary, we offer a comprehensive benefits package. Here’s what you can expect: Stock Options: Opportunity to invest in the company’s growth. Work-from-Home Stipend: A dedicated stipend for your first year to help set up your home office. Medical, Vision, and Dental Coverage: Comprehensive plans to keep you and your family healthy. Life Insurance: Basic life insurance to give you peace of mind. Paid Time Off: 20 vacation days, accrued over the year, plus 11 paid holidays. Parental Leave: 16 weeks of paid leave for birthing parents after six months of employment, and 8 weeks of bonding leave for non-birthing parents. Retirement Savings: Access to a 401(k) plan with a company contribution, subject to a vesting schedule. Commuter Benefits: Convenient options to support your commute needs. Professional Development Stipend: A dedicated stipend supports professional development and growth. Offer of employment is contingent upon successful completion of a background check. Employment history and advance degree verification (when applicable) are included as part of the standard background check process. Don’t check off every box in the requirements ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 67,
+      "machine_rank": 62,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1714,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 63,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1739,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 64,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1764,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1789,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 66,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1814,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 67,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1839,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 68,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1864,7 +1738,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1889,7 +1763,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1914,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 71,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1939,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1964,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 73,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1989,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 74,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2014,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 75,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2039,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 76,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2064,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 77,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2089,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 78,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2114,7 +1988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 79,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2139,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 80,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

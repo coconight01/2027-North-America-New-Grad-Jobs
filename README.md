@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-24** · Open roles: **2016**
+> Last automated update: **2026-09-25** · Open roles: **2029**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 105 |
+| **Big Tech & Frontier AI** | 104 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 19 |
 | **ByteDance / TikTok** (separate) | 357 |
-| Other companies | 1477 |
+| Other companies | 1491 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-09-24 | **Amazon** | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://jobright.ai/jobs/info/6ab4f74c3362fb9a8705f58e) | $129K/yr - $129K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
-| 2026-09-24 | **Amazon** | [Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027](https://jobright.ai/jobs/info/6ab513e3d85922de20cdf4de) | $116K/yr - $116K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) | $172k/yr | Remote - Santa Clara, CA +2 | ❔ | ✅ Confirmed | — |
 | 2026-09-19 | **Microsoft** | [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | $168k/yr | USA | ❔ | ❔ Review | — |
@@ -94,7 +94,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-01 | **Snap** | [Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) | $195k/yr | Palo Alto, CA | ❔ | ❔ Review | — |
 | 2026-08-12 | **Snap** | [Software Engineer - ML Infrastructure - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) | $195k/yr | Los Angeles, CA +2 | ❔ | ❔ Review | — |
 | 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career · 2027](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-08-05 | **Roblox** | [[[2027] Software Engineer, Early Career](https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94?utm_campaign=Software%20Engineering&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-05 | **Roblox** | [[[2027] Associate Product Manager, Early Career](https://jobright.ai/jobs/info/6a98527bc8ed473c5c7634bc?utm_campaign=Product%20Management&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-06-29 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | $135,000–$145,000/year | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-06-25 | **Palantir** | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | $135,000–$145,000/year | New York, NY | ❔ | ✅ Confirmed | — |
@@ -124,7 +124,7 @@ _Showing 12 of 357 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2016 active roles**. Featured groups account for **182** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2029 active roles**. Featured groups account for **181** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
