@@ -1,14 +1,12 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "Amazon Annapurna Labs SDE I, Early Career 2027 (10558915) is today's strongest new role: the exact official application is live, May 2027 is explicitly eligible, and team matching includes ML runtimes/frameworks plus distributed training and inference. Gmail has no new outcome evidence since the last review; WeRide's onsite remains today and Goaly's take-home must be started by September 25 at 5:02 PM Central.",
+  "summary": "Amazon 10558915 is now confirmed Applied and removed from actionable recommendations. Today's strongest new unapplied systems role is AppLovin ML Data Infrastructure Engineer; Cursor remains the cleanest 2027 AI-adjacent new-grad role, while Stripe is a strong broad systems hedge. WeRide advanced again to another virtual onsite session.",
   "changes_today": [
-    "Yuhan confirmed submissions to Replit Software Engineer (New Graduate, 2027) and LiteLLM Forward Deployed Engineer (New Grad) on September 24; both exact roles are now Applied and removed from actionable tiers.",
-    "NEW: Amazon Annapurna Labs Software Development Engineer I, Early Career 2027 (10558915) was verified on the exact official Amazon page with an active Apply button; it is a different requisition from the applied 10490741 role.",
-    "The new Amazon role explicitly accepts a final graduation date of May 2027 or later, requires only one modern language, and offers team matching across ML runtimes/frameworks, performance, and distributed training/inference infrastructure.",
-    "Gmail reconciliation found no new exact-role outcomes for WeRide, DRW, Sierra, Goaly, AXQ, NVIDIA China, or DeepSeek. WeRide remains scheduled for September 24 at 12:00 PM Central; Goaly must be started by September 25 at 5:02 PM Central.",
-    "The semantic-review queue now collapses Amazon/Annapurna aliases and exact duplicate titles, vetoes pure-hardware roles, and blocks all cached copies of officially unavailable NVIDIA JR2026218 via a persistent requisition override.",
-    "The official frontier-AI sweep found no second new role above the Priority bar. SingleStore 8220863 is live but asks candidates to be enrolled in a B.S. and requires strong C/C++, so it remains review-only rather than actionable."
+    "Gmail reconciliation: Amazon Annapurna 10558915 is confirmed Applied, Replit has an official exact-role confirmation, and WeRide advanced after the Sep 24 onsite to another virtual onsite session requiring availability after 6 PM Pacific.",
+    "NEW: AppLovin ML Data Infrastructure Engineer (4716524006) is live on the exact official Greenhouse page and is the strongest new unapplied ML-systems/data-infrastructure role found today.",
+    "Frontier visibility: Anthropic Inference Systems, Together AI Inference/Compute Infrastructure, and Baseten Model Performance Systems were added to Stretch; OpenAI remains Hold because the user-reported five-application cap is full.",
+    "NVIDIA JR2026011 was removed from actionable recommendations because its exact Workday page could not be re-verified with title/content/Apply state today; cached copies remain discovery-only."
   ],
   "recommendations": [
     {
@@ -245,23 +243,100 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
-    {"company": "Replit", "role": "Software Engineer (New Graduate, 2027)", "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."},
-    {"company": "LiteLLM", "role": "Forward Deployed Engineer (New Grad)", "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."},
-    {"company": "NVIDIA", "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)", "status": "Removed Sep 23: exact official Workday requisition is unavailable/not live; third-party cached listings are discovery-only."},
-    {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"},
-    {"company": "NVIDIA China", "role": "2027 Campus Hiring Software Technical Assessment", "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"},
-    {"company": "WeRide", "role": "New Grads 2027 - Software Engineer, Algorithm", "status": "Virtual onsite Sep 24 at 10:00 AM PT / 12:00 PM CT, 45-60 minutes; NDA fully signed"},
-    {"company": "DRW", "role": "Software Developer", "status": "Interview occurred Sep 22; no follow-up email, so outcome remains pending"},
-    {"company": "AXQ Capital", "role": "Quantitative Developer - 2027 Graduate", "status": "Online Screen submitted Sep 23; wait for result"},
-    {"company": "Goaly", "role": "Member of Technical Staff, New Grad", "status": "OA: start by Sep 25 5:02 PM CT, then 48 hours"},
-    {"company": "DeepSeek", "role": "Online assessment / exact requisition uncertain", "status": "OA confirmed by user; deadline absent from connected Gmail—check original portal/channel"},
-    {"company": "Gimlet Labs", "role": "MTS - ML Systems & Inference", "status": "Applied Sep 19"},
-    {"company": "Amazon Annapurna Labs", "role": "SDE I - AI/ML Network Infrastructure (10490741)", "status": "Applied Sep 19"},
-    {"company": "Together AI", "role": "Software Engineer, New Grad (2027) (5211582007)", "status": "Applied Sep 19"},
-    {"company": "IMC Trading", "role": "Quant Performance Engineer (4823836101)", "status": "Applied Sep 19"},
-    {"company": "Ambral / Retell AI / Domino / Inferact / Spectral Labs", "role": "Previously confirmed exact roles", "status": "Applied; suppress exact-role repeats"},
-    {"company": "Cerebras", "role": "ML Software Engineer, Integration & Quality - New Grad", "status": "Hold: no live 2027 requisition"},
-    {"company": "ByteDance/TikTok", "role": "All additional 2027 roles", "status": "Hold by user override"},
-    {"company": "OpenAI", "role": "Additional applications", "status": "Hold: user reports 5-application cap full"}
-  ]
+  {
+    "company": "Amazon Annapurna Labs",
+    "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)",
+    "status": "Applied Sep 24; exact Amazon confirmation received; suppress from actionable recommendations."
+  },
+  {
+    "company": "Replit",
+    "role": "Software Engineer (New Graduate, 2027)",
+    "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."
+  },
+  {
+    "company": "LiteLLM",
+    "role": "Forward Deployed Engineer (New Grad)",
+    "status": "Applied Sep 24; user-confirmed exact role; suppress from actionable recommendations."
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 (JR2026218)",
+    "status": "Removed Sep 23: exact official Workday requisition is unavailable/not live; third-party cached listings are discovery-only."
+  },
+  {
+    "company": "Sierra",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "status": "Technical assessment: 60-90 minutes; recruiting requests completion within one week, target Sep 30; continuous timer once started"
+  },
+  {
+    "company": "NVIDIA China",
+    "role": "2027 Campus Hiring Software Technical Assessment",
+    "status": "Assessment submitted Sep 22; wait for result; JR2024107 vs JR2024111 assignment remains uncertain"
+  },
+  {
+    "company": "WeRide",
+    "role": "New Grads 2027 - Software Engineer, Algorithm",
+    "status": "Advanced again Sep 25 after the Sep 24 onsite; recruiter requests availability after 6 PM PT for the next virtual onsite session."
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer",
+    "status": "Interview occurred Sep 22; no follow-up email, so outcome remains pending"
+  },
+  {
+    "company": "AXQ Capital",
+    "role": "Quantitative Developer - 2027 Graduate",
+    "status": "Online Screen submitted Sep 23; wait for result"
+  },
+  {
+    "company": "Goaly",
+    "role": "Member of Technical Staff, New Grad",
+    "status": "OA: start by Sep 25 5:02 PM CT, then 48 hours"
+  },
+  {
+    "company": "DeepSeek",
+    "role": "Online assessment / exact requisition uncertain",
+    "status": "OA confirmed by user; deadline absent from connected Gmail—check original portal/channel"
+  },
+  {
+    "company": "Gimlet Labs",
+    "role": "MTS - ML Systems & Inference",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Amazon Annapurna Labs",
+    "role": "SDE I - AI/ML Network Infrastructure (10490741)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Together AI",
+    "role": "Software Engineer, New Grad (2027) (5211582007)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "IMC Trading",
+    "role": "Quant Performance Engineer (4823836101)",
+    "status": "Applied Sep 19"
+  },
+  {
+    "company": "Ambral / Retell AI / Domino / Inferact / Spectral Labs",
+    "role": "Previously confirmed exact roles",
+    "status": "Applied; suppress exact-role repeats"
+  },
+  {
+    "company": "Cerebras",
+    "role": "ML Software Engineer, Integration & Quality - New Grad",
+    "status": "Hold: no live 2027 requisition"
+  },
+  {
+    "company": "ByteDance/TikTok",
+    "role": "All additional 2027 roles",
+    "status": "Hold by user override"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Additional applications",
+    "status": "Hold: user reports 5-application cap full"
+  }
+]
 }
