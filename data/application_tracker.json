@@ -3,13 +3,23 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-09-25. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
+      "company": "Amazon Annapurna Labs",
+      "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)",
+      "status": "Applied",
+      "applied_date": "2026-09-24",
+      "status_date": "2026-09-24",
+      "confidence": "Exact",
+      "evidence": "Amazon.jobs sent an exact application confirmation received 2026-09-24 Central / 2026-09-25 UTC naming Software Development Engineer I, Annapurna Labs, Early Career - 2027 (ID: 10558915).",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
       "company": "Replit",
       "role": "Software Engineer (New Graduate, 2027)",
       "status": "Applied",
       "applied_date": "2026-09-24",
       "status_date": "2026-09-24",
       "confidence": "Exact",
-      "evidence": "Yuhan explicitly confirmed on 2026-09-24 that she submitted the Replit Software Engineer (New Graduate, 2027) application.",
+      "evidence": "Yuhan explicitly confirmed submission on 2026-09-24, and Replit sent an official confirmation naming Software Engineer (New Grad 2027) on 2026-09-24 Central / 2026-09-25 UTC.",
       "next_action": "Wait for review; suppress this exact role from actionable recommendations."
     },
     {
@@ -712,10 +722,10 @@
       "role": "New Grads 2027 - Software Engineer, Algorithm",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-09-22",
+      "status_date": "2026-09-25",
       "confidence": "Exact",
-      "evidence": "Jiamin Liu's official WeRide confirmation fixes the virtual onsite for 2026-09-24 at 10:00 AM Pacific / 12:00 PM Central, lasting 45-60 minutes. The related NDA was fully signed through DocuSign on 2026-09-22.",
-      "next_action": "Prepare for the September 24 virtual onsite at 12:00 PM CT; use the confirmed interview link and keep the separate Perception/Computer Vision application independent."
+      "evidence": "After the September 24 virtual onsite, official WeRide recruiter Heran Zhang emailed on 2026-09-25 that WeRide is excited to move forward with another virtual onsite session and requested availability after 6 PM Pacific because the interviewer is China-based.",
+      "next_action": "Reply with availability after 6:00 PM Pacific for the next virtual onsite session; keep the separate Perception/Computer Vision application independent."
     },
     {
       "company": "DRW",
