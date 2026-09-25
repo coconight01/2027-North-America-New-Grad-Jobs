@@ -12,13 +12,22 @@
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, Annapurna Labs, Early Career - 2027 (10558915)", "status": "NEW TODAY", "fit": "4.8/5 · ML runtimes / distributed training-inference team-match",
-      "why_screen": "The exact posting accepts a Bachelor's or Master's student graduating May 2027 or later and requires only one modern language such as Python; UIUC MSCS, algorithms/OS foundations, AutoScout, vLLM and TikTok production engineering meet the stated minimums.",
-      "why_team": "Annapurna explicitly matches hires to ML runtimes and framework integration, performance optimization, or distributed training/inference infrastructure; PyTorch, NCCL/multi-GPU, vLLM cold-start work, Linux profiling and scheduler/runtime research are direct evidence.",
-      "why_interest": "The broad team-match structure offers a credible path into Neuron ML runtimes or distributed infrastructure without forcing a compiler/kernel specialization.",
-      "location": "Austin, TX; Cupertino, CA; New York, NY; Seattle, WA · work arrangement not stated", "salary": "Official starting annual base: Austin/Seattle $128,700; Cupertino $148,100; New York $141,600", "new_grad": "BS/MS in CS/CE/related; final graduation date May 2027 or later; no professional-years minimum.",
-      "sponsorship": "Unknown on the exact requisition.", "caveat": "Team matching also includes firmware, drivers, compilers and kernels; application materials should state a clear preference for ML runtimes/frameworks and distributed training/inference. C/C++ systems depth is preferred but not required.", "urgency": "Posted September 24; rolling with no published deadline. Apply early.",
-      "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+      "rank": 1,
+      "tier": "priority",
+      "company": "AppLovin",
+      "role": "ML Data Infrastructure Engineer (4716524006)",
+      "status": "NEW TODAY",
+      "fit": "4.5/5 · direct ML data infrastructure / distributed performance match",
+      "why_screen": "The role asks for 1-3 years of experience, BS/MS CS, high-throughput fault-tolerant distributed systems, Spark/Flink, systems design and performance optimization. Yuhan's distributed-training research, Linux/performance profiling, production engineering and MSCS make the systems case credible, though the 1-3 years wording and Spark/Flink gap add screening risk.",
+      "why_team": "The team builds data-processing infrastructure for model training and feature serving and explicitly investigates performance bottlenecks across the training-data pipeline, directly valuing ML-systems and performance work.",
+      "why_interest": "It is a real ML platform/data-infrastructure role close to research and training rather than generic backend or product engineering.",
+      "location": "Palo Alto, CA",
+      "salary": "$150,000-$224,000 base + equity eligible",
+      "new_grad": "Not labeled new grad; minimum states 1-3 years of experience and BS/MS in CS.",
+      "sponsorship": "Unknown; the exact application asks whether future sponsorship is required but makes no commitment.",
+      "caveat": "Hands-on Spark or Flink is required and 1-3 years of experience is explicitly listed; this is the main screening uncertainty.",
+      "urgency": "New official posting; application window expected to close within 30 days of posting.",
+      "url": "https://job-boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006"
     },
     {
       "rank": 2, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "RECENT", "fit": "4.6/5 · direct training/inference platform match",
@@ -40,18 +49,29 @@
       "url": "https://cursor.com/careers/software-engineer-new-grad-2027"
     },
     {
+      "rank": 1,
+      "tier": "secondary",
+      "company": "Stripe",
+      "role": "Software Engineer, New Grad (8128744)",
+      "status": "MISSED-OLDER-ACTIVE",
+      "fit": "4.0/5 · exceptionally clean new-grad eligibility / strong systems hedge",
+      "why_screen": "The exact role accepts a BS/MS obtained by summer 2027, caps professional experience at 18 months while explicitly excluding internships from that limit, and accepts internship or collaborative project experience. Yuhan fits the timing and experience wording cleanly.",
+      "why_team": "TikTok production engineering, distributed-systems research, algorithms and infrastructure interests are strong evidence for backend/infrastructure team matching even though the requisition is general.",
+      "why_interest": "Large-scale, correctness-sensitive infrastructure and strong engineering training make this a valuable systems-oriented hedge outside pure MLSys.",
+      "location": "New York / Seattle / South San Francisco · at least 50% in office for most office-assigned roles",
+      "salary": "$122,100-$134,400 US base + possible equity/bonus",
+      "new_grad": "BS/MS by summer 2027; no more than 18 months professional experience, internships excluded.",
+      "sponsorship": "Unknown on the exact posting.",
+      "caveat": "Generic team matching; Java/Ruby/JavaScript/Scala/Go are common rather than Python-first MLSys work.",
+      "urgency": "Active official University requisition; no public deadline stated.",
+      "url": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744"
+    },
+    {
       "rank": 1, "tier": "secondary", "company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.2/5 technical · explicit Java gap",
       "why_screen": "SDE I has no numeric professional-years minimum and accepts internship/project evidence; Python, Linux profiling, distributed systems and ML infrastructure are strong matches.", "why_team": "The team builds Kubernetes-based tools, pipelines, metrics and automation for Neuron workloads on Trainium and Inferentia, directly using performance and systems-debugging skills.", "why_interest": "It is production ML infrastructure with meaningful ownership on custom-accelerator workloads, not pure hardware.",
       "location": "Cupertino, CA · work arrangement not stated", "salary": "$127,100-$185,000 base + sign-on/RSUs", "new_grad": "No degree date or numeric years minimum stated; technical internship/project experience preferred.",
       "sponsorship": "Unknown on the exact requisition.", "caveat": "Proficiency in Java plus one of Go/Python/TypeScript is a basic qualification; Java is the primary screen risk.", "urgency": "Older but exact official page and Apply button were live on September 24; rolling.",
       "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
-    },
-    {
-      "rank": 2, "tier": "secondary", "company": "NVIDIA", "role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "status": "RECENT", "fit": "4.1/5 · strong MLSys content, compiler/C++ gap",
-      "why_screen": "AutoScout, inference optimization and MLSys research are relevant; compiler/GPU-programming depth is the screen risk.", "why_team": "Performance modeling translates if the team can use systems rather than kernel-specialist strengths.", "why_interest": "High-upside ML performance work, though less aligned than serving/runtime.",
-      "location": "Santa Clara / Seattle / additional US location", "salary": "$108,000-$195,500 base", "new_grad": "Bachelor's minimum; MS/PhD preferred; no numeric professional-years requirement.",
-      "sponsorship": "Unknown.", "caveat": "Python, C/C++, GPU programming and compiler/kernel experience are core requirements.", "urgency": "Rolling new-college-grad requisition.",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011"
     },
     {
       "rank": 3, "tier": "secondary", "company": "C3 AI", "role": "Forward Deployed Engineer, New Grad 2027 (8804558002)", "status": "RECENT", "fit": "4.0/5 · production agent systems / customer engineering",
