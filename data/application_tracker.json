@@ -652,10 +652,10 @@
       "role": "Software Engineer, Agent (New Grad 2027)",
       "status": "OA",
       "applied_date": "2026-09-03",
-      "status_date": "2026-09-23",
+      "status_date": "2026-09-26",
       "confidence": "Exact",
-      "evidence": "Sierra recruiting advanced the exact Software Engineer, Agent (New Grad 2027) application to a 60-90 minute CoderPad technical assessment on 2026-09-23. The recruiting email asks for completion within one week; the assessment link itself expires after 14 days.",
-      "next_action": "Complete the 60-90 minute assessment within the recruiter's stricter one-week window, targeting no later than 2026-09-30; once started, the timer runs continuously."
+      "evidence": "A Sierra CoderPad reminder received on 2026-09-26 says the 60-90 minute assessment remains open with 11 days left. The recruiter's earlier email still requests completion within one week.",
+      "next_action": "Complete the 60-90 minute assessment by the stricter recruiting target of 2026-09-30; once started, the timer runs continuously."
     },
     {
       "company": "IMC Trading",
@@ -752,10 +752,10 @@
       "role": "New Grads 2027 - Software Engineer, Algorithm",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-09-22",
+      "status_date": "2026-09-25",
       "confidence": "Exact",
-      "evidence": "Jiamin Liu's official WeRide confirmation fixes the virtual onsite for 2026-09-24 at 10:00 AM Pacific / 12:00 PM Central, lasting 45-60 minutes. The related NDA was fully signed through DocuSign on 2026-09-22.",
-      "next_action": "Prepare for the September 24 virtual onsite at 12:00 PM CT; use the confirmed interview link and keep the separate Perception/Computer Vision application independent."
+      "evidence": "WeRide recruiting confirmed on 2026-09-25 that Yuhan advanced after the prior virtual onsite and requested availability for the next virtual onsite session; Yuhan replied with evening Pacific availability.",
+      "next_action": "Wait for the next virtual-onsite time confirmation and prepare the algorithm/systems interview."
     },
     {
       "company": "DRW",
@@ -772,10 +772,10 @@
       "role": "Member of Technical Staff, New Grad",
       "status": "OA",
       "applied_date": "2026-09-16",
-      "status_date": "2026-09-18",
+      "status_date": "2026-09-25",
       "confidence": "Exact",
-      "evidence": "Goaly sent an exact-candidate online assessment invitation on 2026-09-18 for a take-home conversational-agent project. The assessment may be started through 2026-09-25 5:02 PM Central Time and has a 48-hour timer once started.",
-      "next_action": "Choose a protected 48-hour window and start no later than 2026-09-25 5:02 PM CT; do not expose the private assessment URL or access code."
+      "evidence": "The Goaly take-home archive shows the assessment was submitted on 2026-09-25; the later archive entry is treated as the final submitted attempt.",
+      "next_action": "Assessment submitted; wait for Goaly's review."
     },
     {
       "company": "Domino Data Lab",
@@ -896,6 +896,26 @@
       "confidence": "Company-only",
       "evidence": "Yuhan explicitly said a DeepSeek OA is active, but no matching DeepSeek assessment email or exact requisition was found in either connected Gmail account.",
       "next_action": "Check the original application portal or message channel for the exact role and deadline; do not infer a date."
+    },
+    {
+      "company": "AppLovin",
+      "role": "ML Data Infrastructure Engineer (4716524006)",
+      "status": "Applied",
+      "applied_date": "2026-09-25",
+      "status_date": "2026-09-25",
+      "confidence": "Exact",
+      "evidence": "AppLovin sent an official confirmation on 2026-09-25 naming the ML Data Infrastructure Engineer position; the exact live official requisition reviewed for this title is 4716524006.",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "SpaceXAI",
+      "role": "Software Engineer, New Grad 2027",
+      "status": "Applied",
+      "applied_date": "2026-09-25",
+      "status_date": "2026-09-25",
+      "confidence": "Exact",
+      "evidence": "SpaceXAI sent an official Ashby confirmation on 2026-09-25 naming Software Engineer, New Grad 2027. This is distinct from the previously rejected MTS - RL Inference requisition.",
+      "next_action": "Wait for review; suppress this exact new-grad role only."
     }
   ]
 }

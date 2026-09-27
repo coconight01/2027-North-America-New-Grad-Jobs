@@ -1,0 +1,43 @@
+# Exact Gmail process updates reviewed on 2026-09-27.
+updates:
+  - company: AppLovin
+    role: "ML Data Infrastructure Engineer (4716524006)"
+    status: Applied
+    applied_date: "2026-09-25"
+    status_date: "2026-09-25"
+    confidence: Exact
+    evidence: "AppLovin sent an official confirmation on 2026-09-25 naming the ML Data Infrastructure Engineer position; the exact live official requisition reviewed for this title is 4716524006."
+    next_action: "Wait for review; suppress this exact requisition from actionable recommendations."
+
+  - company: SpaceXAI
+    role: "Software Engineer, New Grad 2027"
+    status: Applied
+    applied_date: "2026-09-25"
+    status_date: "2026-09-25"
+    confidence: Exact
+    evidence: "SpaceXAI sent an official Ashby confirmation on 2026-09-25 naming Software Engineer, New Grad 2027. This is distinct from the previously rejected MTS - RL Inference requisition."
+    next_action: "Wait for review; suppress this exact new-grad role only."
+
+  - company: WeRide
+    role: "New Grads 2027 - Software Engineer, Algorithm"
+    status: Interview
+    status_date: "2026-09-25"
+    confidence: Exact
+    evidence: "WeRide recruiting confirmed on 2026-09-25 that Yuhan advanced after the prior virtual onsite and requested availability for the next virtual onsite session; Yuhan replied with evening Pacific availability."
+    next_action: "Wait for the next virtual-onsite time confirmation and prepare the algorithm/systems interview."
+
+  - company: Goaly
+    role: "Member of Technical Staff, New Grad"
+    status: OA
+    status_date: "2026-09-25"
+    confidence: Exact
+    evidence: "The Goaly take-home archive shows the assessment was submitted on 2026-09-25; the later archive entry is treated as the final submitted attempt."
+    next_action: "Assessment submitted; wait for Goaly's review."
+
+  - company: Sierra
+    role: "Software Engineer, Agent (New Grad 2027)"
+    status: OA
+    status_date: "2026-09-26"
+    confidence: Exact
+    evidence: "A Sierra CoderPad reminder received on 2026-09-26 says the 60-90 minute assessment remains open with 11 days left. The recruiter's earlier email still requests completion within one week."
+    next_action: "Complete the 60-90 minute assessment by the stricter recruiting target of 2026-09-30; once started, the timer runs continuously."
