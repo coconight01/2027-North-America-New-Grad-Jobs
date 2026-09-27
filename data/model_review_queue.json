@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26",
+  "updated_at": "2026-09-27",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,12 +26,12 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 195,
-    "new_job_candidates": 165,
+    "priority_company_candidates": 194,
+    "new_job_candidates": 150,
     "high_potential_title_candidates": 243
   },
   "veto_counts": {
-    "explicit 2026-only title": 8,
+    "explicit 2026-only title": 9,
     "security-clearance requirement in title": 2,
     "non-full-time program title": 3
   },
@@ -864,31 +864,6 @@
     },
     {
       "machine_rank": 34,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
-      "company_priority": "",
-      "company": "Groundswell",
-      "role": "Associate Applied AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "Remote - Virginia, USA +47",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-23",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -938,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -963,7 +938,57 @@
       "review_status": "Needs semantic review"
     },
     {
+      "machine_rank": 37,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "GigFinder.ai",
+      "role": "AI Compiler Engineer- New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Indiana, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-19",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6aaecb182e757fcb5c8bbfe6",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
       "machine_rank": 38,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
+      "company_priority": "",
+      "company": "Groundswell",
+      "role": "Associate Applied AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Remote - Virginia, USA +47",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-23",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 39,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -988,57 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
-      "machine_score": 68,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Northrop Grumman",
-      "role": "2027 Associate Systems Engineer / Systems Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "United States-Florida-Melbourne",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-16",
-      "source": "GitHub:zapplyjobs/New-Grad-Software-Engineering-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251131?s=gh-new-grad-software-engineering-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Latest Jobs Community Need Help Blog Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Target Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Lead ACD Experiential Marketing New York, NY Just now Senior Level Marketing Apply Intel Install Qualification Operations Sr Specialist (Contract) OR Just now Senior Level Operations Apply Verizon Retail Sales Associate 12250 West Broad St Just now Entry Level Sales Apply GDIT Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Just now Entry Level Operations Apply GDIT Inside/Outside Cable Plant Technician II International Just now Mid Level Other Apply GDIT Logistics Analyst Senior USA MD Aberdeen Just now Senior Level Operations Apply GDIT Operations Lead USA NM Las Cruces Just now Senior Level Operations Apply GDIT Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Just now Not Specified Operations Apply Target Just now Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Lead ACD Experiential Marketing New York, NY Senior Level Marketing Apply Now Intel Just now Install Qualification Operations Sr Specialist (Contract) OR Senior Level Operations Apply Now Verizon Just now Retail Sales Associate 12250 West Broad St Entry Level Sales Apply Now GDIT Just now Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Entry Level Operations Apply Now GDIT Just now Inside/Outside Cable Plant Technician II International Mid Level Other Apply Now GDIT Just now Logistics Analyst Senior USA MD Aberdeen Senior Level Operations Apply Now GDIT Just now Operations Lead USA NM Las Cruces Senior Level Operations Apply Now GDIT Just now Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Not Specified Operations Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
       "machine_rank": 40,
-      "machine_score": 66,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "GigFinder.ai",
-      "role": "AI Compiler Engineer- New College Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Indiana, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-19",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aaecb182e757fcb5c8bbfe6",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 41,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1063,32 +1038,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
-      "machine_score": 71,
+      "machine_rank": 41,
+      "machine_score": 68,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: systems/performance role; new-grad: confirmed",
       "company_priority": "",
-      "company": "Deloitte",
-      "role": "Tech & Transformation - Cyber - Enterprise Security - New Grad 2027 - Multiple Locations",
-      "category": "Cybersecurity",
-      "location": "Winnipeg, MB, Canada",
-      "salary": "$65K/yr - $122K/yr",
-      "salary_max_annual": "122000",
+      "company": "Northrop Grumman",
+      "role": "2027 Associate Systems Engineer / Systems Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Florida-Melbourne",
+      "salary": "Not listed",
+      "salary_max_annual": "",
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
+      "ng_evidence": "posting says Entry-Level",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-09-01",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "posted_date": "2026-09-16",
+      "source": "GitHub:zapplyjobs/New-Grad-Software-Engineering-Jobs-2027:README.md",
       "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a96952b69b865490a632c39",
-      "jd_excerpt": "Tech & Transformation - Cyber - Enterprise Security - New Grad 2027 - Multiple Locations @ Deloitte | Jobright.ai SIGN IN JOIN NOW Tech & Transformation - Cyber - Enterprise Security - New Grad 2027 - Multiple Locations jobs in United States Overview Company This job has closed. APPLY to similar jobs Deloitte · 3 weeks ago Tech & Transformation - Cyber - Enterprise Security - New Grad 2027 - Multiple Locations Winnipeg, MB +6 more Full-time Hybrid New Grad $65K/yr - $122K/yr Deloitte is a Canadian professional services firm that helps organizations address complex business and technology challenges. The Enterprise Security Practitioner will support clients in assessing, designing, building, and strengthening secure technology environments, including applications, cloud platforms, identities, data, and digital services. The role also involves cyber assessments, secure solution design, stakeholder collaboration, security research, and continuous learning. Accounting Consulting Finance Legal Professional Services Property & Casualty Insurance Financial Services Innovation Management Risk Management Growth Opportunities Responsibilities Embed security into digital transformation - Work with business and technology teams to integrate security into projects, platforms, and delivery lifecycles so that security is considered early and continuously Strengthening enterprise security capabilities - Help clients assess and improve security across areas such as application security, cloud security, identity and access management, security architecture, DevSecOps, vulnerability management, and security operations Support cyber assessments and control uplift – Assist with security reviews, maturity assessments, gap analyses, requirements definition, and recommendations to help clients improve their cyber posture Translate technical risks into business insights - Help prepare clear findings, dashboards, presentations, and recommendations that explain cyber risks and security priorities in a practical, business-focused way Design secure technology solutions - Support the development of security architectures, patterns, and controls that help clients protect applications, infrastructure, cloud platforms, identities, and data Collaborate with diverse teams - Participate in workshops, interviews, working sessions, and design discussions with clients, Deloitte practitioners, and technology stakeholders to co-create secure and scalable solutions Stay current on emerging security trends - Research evolving threats, technologies, regulations, and leading practices across areas such as cloud, AI, application security, zero trust, automation, and security engineering Improve how we work at Deloitte – Contribute ideas to enhance Deloitte methodologies, tools, and accelerators, including how we can use emerging technologies like AI and automation Learn a lot, fast – Grow your skills through client work, coaching, networking, and training Qualification Application Security Cloud Security Identity and Access Management DevSecOps Zero Trust Security Vulnerability Management Security Architecture Cybersecurity Risk Assessment Microsoft Office Required Have completed or are currently working towards completing a post-secondary degree or diploma program (e.g., Business Technology Management, Cybersecurity, Computer Science, Engineering, Information Technology, Information Systems or a related field) Are graduating within one year of your start date Winter 2027: You must be graduating between January 2026-December 2026 Spring/Summer 2027: You must be graduating between May 2026-April 2027 Fall 2027: You must be graduating between September 2026-August 2027 Have a strong interest in how organizations protect applications, cloud environments, identities, data, infrastructure, and digital platforms Actively keep up with emerging trends in areas such as application security, cloud security, AI security, DevSecOps, identity and access management, zero trust, cybersecurity threats, privacy, regulatory change, and security frameworks Enjoy solving complex problems and are interested in understanding how technology, risk, and business priorities come together Are curious about how secure systems are designed, built, tested, implemented, and operated in real-world environments Enjoy working in teams, participating in workshops and discussions, and co-creating practical security solutions with others Display initiative, creativity, attention to detail, and a strong desire to make an impact Can demonstrate proficiency in Microsoft Office tools such as Word, PowerPoint, Excel, Visio, and Project, and are interested in using dashboards, data, automation, or analytics tools to communicate security insights Are eager to learn on the job and are interested in pursuing relevant certifications over time, such as Security+, CISSP, CISM, CCSP, cloud certifications, or other cyber and technology credentials Are legally eligible to work in Canada and able to ente",
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251131?s=gh-new-grad-software-engineering-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Latest Jobs Community Need Help Blog Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Target Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Just now Entry Level Supply Chain / Logistics Apply Target Lead ACD Experiential Marketing New York, NY Just now Senior Level Marketing Apply Intel Install Qualification Operations Sr Specialist (Contract) OR Just now Senior Level Operations Apply Verizon Retail Sales Associate 12250 West Broad St Just now Entry Level Sales Apply GDIT Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Just now Entry Level Operations Apply GDIT Inside/Outside Cable Plant Technician II International Just now Mid Level Other Apply GDIT Logistics Analyst Senior USA MD Aberdeen Just now Senior Level Operations Apply GDIT Operations Lead USA NM Las Cruces Just now Senior Level Operations Apply GDIT Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Just now Not Specified Operations Apply Target Just now Seasonal Full Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Seasonal Part Time Hourly Warehouse Associate Openings (T3862) Lawrenceville, GA Entry Level Supply Chain / Logistics Apply Now Target Just now Lead ACD Experiential Marketing New York, NY Senior Level Marketing Apply Now Intel Just now Install Qualification Operations Sr Specialist (Contract) OR Senior Level Operations Apply Now Verizon Just now Retail Sales Associate 12250 West Broad St Entry Level Sales Apply Now GDIT Just now Help Desk Tech - MIDS - TS/SCI w. Polygraph USA MD Annapolis Junction Entry Level Operations Apply Now GDIT Just now Inside/Outside Cable Plant Technician II International Mid Level Other Apply Now GDIT Just now Logistics Analyst Senior USA MD Aberdeen Senior Level Operations Apply Now GDIT Just now Operations Lead USA NM Las Cruces Senior Level Operations Apply Now GDIT Just now Systems Technician - TS/SCI W/ POLY (Open) USA DC Washington Not Specified Operations Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1113,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1138,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1163,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1188,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 46,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1213,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1238,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 48,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1263,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 49,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1288,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 50,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1313,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 51,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1338,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 52,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1363,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 53,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1388,32 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
-      "machine_score": 70,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "PathAI",
-      "role": "Software Engineer I - Fullstack",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-12",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
-      "jd_excerpt": "Careers - Job Post Skip to content BioPharma AI Product Solutions Translational Research Clinical Development Services Real-World Data Companion Diagnostics IHCExplore™ PathExplore™ LiverExplore™ IBDExplore™ Deep Bio Paige Visiopharm DoMore Diagnostics Central Pathology Laboratory Operations AISight®️ Clinical Trials AI-Enabled Clinical Development Deep Bio Paige Visiopharm DoMore Diagnostics Anatomic Pathology AISight®️ Digital Pathology Platform AI Product Solutions Precision Pathology Network AISight®️ Image Management System (RUO) AISight®️ Dx Digital Pathology Platform (FDA 510(k) cleared) AISight Consults AISight®️ Dx Digital Pathology Platform (CE-IVDR marked) Deep Bio Paige Visiopharm DoMore Diagnostics PathAI Algorithm Products Workflow Optimization Biomarker Quantification PathAssist PathAI AI Partners Deep Bio Paige Visiopharm DoMore Diagnostics News and Resources Press Releases Publications Blog About Us Our History Leadership Team Careers Contact Us Request a Demo Search BioPharma Menu Biopharma Translational Research Clinical Development Services Real-World Data Companion Diagnostics Anatomic Pathology Menu Anatomic Pathology AISight®️ Digital Pathology Platform AISight® Image Management System (RUO) AISight®️ Dx Digital Pathology Platform (FDA 510(k) cleared) AISight Consults AISight® Dx Digital Pathology Platform (CE-IVDR Marked) AI Product Solutions PathAI Algorithm Products ArtifactDetect TumorDetect AIM-Tumor Cellularity PathAssistDerm PathAssistDerm AIM-PDL1 AIM-HER AIM-ER AIM-PR AIM-Ki67 AIM-MASH AIM-HI-UC METPredict Partner Algorithm Products DeepBio Paige Visopharm DoMore Diagnostics Precision Pathology Network News and Resources Menu News and Resources Press Releases Publications Blog About Us Menu About Us Our History Leadership Team Careers Contact Us Login Request a Demo Join our team. A new path is waiting. Our team is passionate about solving big challenges in healthcare and transforming the field of pathology with artificial intelligence. × Apply Now Careers About PathAI Careers Contact Us Follow us on LinkedIn Follow us on Twitter Follow us on Facebook Privacy Notice Cookie Notice Terms of Use PathAI BioPharma Laboratory Licenses Report a Vulnerability Copyright © 2026 PathAI, Inc. PathAI, its logo, and its products are trademarks of PathAI, Inc. All other names and trademarks are the property of their respective owners. All rights reserved. | MKT-012-15",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 56,
+      "machine_rank": 54,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1438,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 55,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1463,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 56,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1488,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 57,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1513,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 58,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1538,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 59,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -1563,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 60,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1588,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1613,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1638,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1663,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 64,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1688,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1713,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 66,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1738,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 67,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1763,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 68,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1788,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 69,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1813,32 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Activision",
-      "role": "2027 Winter Co-Ops - Software Development - Demonware (Vancouver)",
-      "category": "Software Engineering",
-      "location": "Vancouver, BC, Canada",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-26",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8e4df3e3efd719bf57cfe3",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 73,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1863,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 71,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1888,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1913,7 +1838,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 73,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1938,7 +1863,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1963,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1988,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -2013,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 77,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2038,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 78,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2063,7 +1988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 79,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2088,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 80,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2113,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 81,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2138,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 82,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2163,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 83,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2188,7 +2113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 84,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
