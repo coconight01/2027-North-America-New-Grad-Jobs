@@ -113,21 +113,14 @@
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728"
     },
     {
-      "rank": 7, "tier": "secondary", "company": "Alpha2", "role": "Campus AI Researcher", "status": "RECENT", "fit": "4.0/5 · post-training / evaluation / agent research",
-      "why_screen": "The campus role explicitly values PyTorch, large-scale or distributed training, inference acceleration, Agent/tool use and NOI/NOIP awards; Yuhan has concrete evidence on every one except full post-training ownership.", "why_team": "Distributed training, evaluation pipelines, data automation and production agent work can support RLHF/RLVR experimentation and deployment.", "why_interest": "A high-upside China quant/AI research path that uses both ML research and engineering rather than low-latency C++.",
-      "location": "Mainland China · full-time", "salary": "Unknown", "new_grad": "Explicit campus role; no numeric professional-years requirement.",
-      "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "Primary work is post-training algorithms/data/evaluation rather than MLSys; direct PPO/GRPO/RLHF experience and top-paper evidence are preferred.", "urgency": "Official campus Moka application is live; deadline unpublished.",
-      "url": "https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0ad4d02e-03d3-41b3-bd39-71767369f8eb"
-    },
-    {
-      "rank": 8, "tier": "secondary", "company": "Whatnot", "role": "Software Engineer, 2027 New Grad", "status": "RECENT", "fit": "3.7/5 · scalable-service/general SWE hedge",
+      "rank": 7, "tier": "secondary", "company": "Whatnot", "role": "Software Engineer, 2027 New Grad", "status": "RECENT", "fit": "3.7/5 · scalable-service/general SWE hedge",
       "why_screen": "TikTok shipping and scalable-systems work make the general screen credible.", "why_team": "Production ownership and algorithms support high-scale services.", "why_interest": "Strong general-SWE hedge with good compensation, not an MLSys destination.",
       "location": "NY / LA / SF / Seattle · hybrid", "salary": "$155,000-$160,000 base + equity", "new_grad": "Degree by Summer 2027; industry SWE exposure but no numeric full-time-years minimum.",
       "sponsorship": "Unknown.", "caveat": "Product instincts and shipping speed dominate; no direct MLSys team.", "urgency": "Active 2027 role; rolling.",
       "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "tier": "secondary",
       "company": "Zip",
       "role": "Software Engineer, New Grad (2027 Start)",
@@ -145,7 +138,7 @@
       "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "tier": "secondary",
       "company": "Nooks",
       "role": "Software Engineer, New Grad",
@@ -203,6 +196,7 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "Overview says Summer 2027, but minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
+    {"company": "Alpha2", "role": "Campus AI Researcher", "status": "Official inactive/unavailable on Sep 27: the exact Moka page still resolves but shows no job description or Apply control. Removed from Secondary until a live application reappears."},
     {"company": "AppLovin", "role": "ML Data Infrastructure Engineer (4716524006)", "status": "Applied Sep 25; exact official confirmation names the role; suppress only this requisition."},
     {"company": "SpaceXAI", "role": "Software Engineer, New Grad 2027", "status": "Applied Sep 25; exact official Ashby confirmation; keep separate from the previously rejected MTS - RL Inference role."},
     {"company": "Anthropic", "role": "Performance Engineer, Inference Systems (5224564008)", "status": "Applied Sep 4; removed from Stretch after exact-role tracker reconciliation."},
