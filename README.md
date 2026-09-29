@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-29** · Open roles: **2070**
+> Last automated update: **2026-09-29** · Open roles: **2079**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -20,10 +20,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 105 |
 | **AI Infra / Systems** | 11 |
-| **Quant / HFT** | 46 |
+| **Quant / HFT** | 47 |
 | **Other high-value tech** | 18 |
-| **ByteDance / TikTok** (separate) | 360 |
-| Other companies | 1530 |
+| **ByteDance / TikTok** (separate) | 367 |
+| Other companies | 1531 |
 
 ### Big Tech & Frontier AI
 
@@ -65,6 +65,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | **Five Rings** | [Campus Full Time 2027 - Trading Operations Engineer](https://jobright.ai/jobs/info/6a50fe8bbf63b66c79977e7f) | $250K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-24 | **Optiver** | [Graduate Quantitative Researcher - PhD - 2027 Start](https://www.optiver.com/join-us/jobs/8451764002?gh_jid=8451764002) | $201k/yr | Austin, TX +2 | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-24 | **Five Rings LLC** | [Campus Full Time 2027 - Quantitative Trader - London](https://www.jobilize.com/job/us-campus-full-time-2027-quantitative-trader-london-united-states) | Not listed | United States | ❔ | ❔ Review | — |
 | 2026-09-23 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6ab3f7b3d2f5fbd604be0860) | $200K/yr - $200K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
@@ -82,7 +83,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | $412k/yr | New York City, NY | ❔ | ◐ Likely | — |
-| 2026-07-20 | **Five Rings** | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | $381k/yr | New York City, NY | ❔ | ❔ Review | — |
 
 ### Other high-value tech
 
@@ -100,30 +100,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>360 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>367 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6abb8ca57e39348a2648f007) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-29 | **ByteDance** | [AI Agent Security Software Engineer Graduate (Security Engineering) - 2027 Start](https://jobright.ai/jobs/info/6a98359ec8ed473c5c762912) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2027 Start](https://jobright.ai/jobs/info/6abb8c7f7e39348a2648effe) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Speech) - 2027 Start](https://jobright.ai/jobs/info/6abb918ec11b83387262f72e) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Vision) - 2027 Start](https://jobright.ai/jobs/info/6abb914e7e39348a2648f0d2) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb8dfc7e39348a2648f044) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
+| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb9158c11b83387262f721) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-28 | **TikTok** | [(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start](https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
 | 2026-09-27 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start](https://jobright.ai/jobs/info/6ab8f3543a2ec87116e28072) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-25 | **ByteDance** | [Organizational Effectiveness Graduate (RD Mid-Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7688391015880083717?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | — |
 | 2026-09-24 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8b069f680f314a29d40c1f) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6aadbc6d0ebc8fb2313eb30c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ◐ Likely | — |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f52e757fcb5c8b8e84) | $162K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aad85f36956574eac8b6375) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686732729746950405?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-18 | **ByteDance** | [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7686733097398290693?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
-| 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e6b73387a3d9b67d7cc7) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-16 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aa9e67610b1cd4f41608b87) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-15 | **ByteDance** | [Site Reliability Graduate (Data Infrastructure) - 2027 Start](https://zapply.jobs/l/d/bytedance-7675096204766054709?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 360 active roles. Use the Job Radar for all roles._
+_Showing 12 of 367 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2070 active roles**. Featured groups account for **180** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2079 active roles**. Featured groups account for **181** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
