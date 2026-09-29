@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-09-29",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,15 +27,15 @@
       "fill": 0
     },
     "priority_company_candidates": 196,
-    "new_job_candidates": 149,
-    "high_potential_title_candidates": 247
+    "new_job_candidates": 110,
+    "high_potential_title_candidates": 249
   },
   "veto_counts": {
     "explicit 2026-only title": 9,
     "security-clearance requirement in title": 2,
     "non-full-time program title": 3
   },
-  "exact_tracked_jobs_removed": 16,
+  "exact_tracked_jobs_removed": 15,
   "candidates": [
     {
       "machine_rank": 1,
@@ -539,6 +539,31 @@
     },
     {
       "machine_rank": 21,
+      "machine_score": 84,
+      "machine_tier": "Strong",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Quant",
+      "company": "Jane Street",
+      "role": "Software Engineer Full-Time: New Grad",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "salary": "$398k/yr",
+      "salary_max_annual": "398000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
+      "jd_excerpt": "Software Engineer , New York :: Jane Street Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting âAcceptâ or âRejectâ. For information regarding our cookie practices, see Jane Streetâs Ad and Cookie Policy . Accept All Reject All WHO WE ARE WHAT WE DO THE LATEST CULTURE JOIN JANE STREET mobile navigation menu toggle CLIENT OFFERING GLOBAL CAPITAL MARKETS BENEFITS OUR OFFICES STREET VIEW PUZZLES DEPARTMENTS OPEN ROLES PROGRAMS AND EVENTS INTERNSHIPS INTERVIEWING Who We Are What We Do OVERVIEW CLIENT OFFERING GLOBAL CAPITAL MARKETS The Latest Culture OVERVIEW BENEFITS OUR OFFICES STREET VIEW PUZZLES Join Jane Street OVERVIEW DEPARTMENTS OPEN ROLES PROGRAMS AND EVENTS INTERNSHIPS INTERVIEWING CONTACT US Disclosures & Policies Privacy Fraud and Impersonation\n              Warnings Join Jane Street Open roles Students and new grads Job description Software Engineer LOCATION NYC DEPARTMENT Technology TEAM Software Engineering Apply Share this job About the Position Weâre looking for Software Engineers who want to help us design and build the systems and tools that run the firm. Youâll find Software Engineers in all parts of Jane Street, solving real problems in critical areas ranging from trading desks to our accounting team, as well as building foundational infrastructure, whether that means implementing network monitoring or risk models. We are big believers in functional programming and, using OCaml, a statically -typed functional programming language, as our primary tool. More recently, Python has become a vital part of Jane Streetâs research and trading work, acting as the go-to language for data analysis, visualization, and machine learning. Beyond our own environment, we also recognize the value of open source software, leveraging it in our daily work and releasing over a million lines of our own code as open source. Weâre also always looking for ways to expand open source projects, and provide ongoing support to things like Mercurial, the OCaml compiler, and the OPAM package manager. That said, weâre interested in talented engineers with experience in any languageâmost of us came in with little to no practical experience in OCaml before we joined. If youâd like to learn more, you can read about our interview process and meet some of our newest hires . About You We donât expect you to have a background in functional programming, OCaml, Python, finance, or any other specific fieldâweâre looking for smart programmers who enjoy solving interesting problems. Weâre more interested in how you think and learn than what you currently know. You should be: A top-notch programmer with a love for technology Intellectually curious, collaborative, and eager to learn Humble and unafraid to ask questions and admit mistakes Base salary is $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus. Jane Street is an Equal Opportunity Employer Apply Share this job Helpful Links web page Technology at Jane Street The work at Jane Street is technologically intense, and the systems we build play an essential role in everything we do. web page Functional Programming at Jane Street In addition to our extensive work on the core OCaml language, we often take a PL approach to challenging problems we face on a daily basis. blog Jane Street Blog Musings from our engineers blog post Jane Street Blog: What the Interns Have Wrought web page Open Source From committing patches to the Linux kernel to releasing our own projects, weâre always looking for ways to participate in the open source community. podcast episode Swapping the Engine out of a Moving Race Car video Software Engineering Mock Interview Interviews are an important part of Jane Streetâs hiring process. We also recognize that they can be stressful, especially if you donât know what to expect. web page Preparing for a Software Engineering interview at Jane Street GTKU Get to Know Us: Rory talks Production Engineering Who We Are What We Do The Latest Culture Join Jane Street Contact Us ç®ä½ä¸­æ | Disclosures and Policies | Privacy | Cookies | Fraud and Impersonation Warnings Jane Street is an Equal Opportunity Employer © 2026 Jane Street Group, LLC. All rights reserved. Services are provided in the U.S. by Jane Street Capital, LLC and Jane Street Execution Services, LLC, each of which is a SEC-registered broker\n          dealer and member of FINRA ( www.finra.org ). Regulated activities are undertaken in Europe by Jane Street Financial Limited, an investment firm authorized and regulated by the U.K. Financial\n          Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by the Netherlands Authority for the Financial Markets ( Autoriteit FinanciÃ«le Markten ), and in Hong Kong by J",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 22,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -563,7 +588,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 23,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -583,31 +608,6 @@
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8036541?gh_jid=8036541",
       "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations OMM Explained Work With Us Experienced Early Careers Internships Life at Akuna Options 101 Talent Community All Rights Reserved © 2011-2026 Akuna Technologies LLC - Terms and\n      Conditions - Privacy Policy Media Inquiries",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 23,
-      "machine_score": 78,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Adobe",
-      "role": "2027 University Graduate - Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "San Jose, CA, United States",
-      "salary": "$102400-$202250/yr",
-      "salary_max_annual": 202250,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-25",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ab56a61b3db59402d0fc828",
-      "jd_excerpt": "2027 University Graduate - Machine Learning Engineer @ Adobe | Jobright.ai SIGN IN JOIN NOW 2027 University Graduate - Machine Learning Engineer jobs in United States Overview Company Apply on Employer Site APPLY NOW Adobe · 3 hours ago 2027 University Graduate - Machine Learning Engineer San Jose, CA +6 more Full-time Onsite New Grad, Entry Level $102K/yr - $202K/yr 0+ years exp Adobe is a technology company that empowers people and businesses to create through innovative platforms and tools. Adobe is seeking a Machine Learning Engineer to apply AI, machine learning, statistical, and econometric techniques to large-scale business problems, develop predictive models and scalable production algorithms, and collaborate with product management and engineering teams. Artificial Intelligence (AI) Consulting Enterprise Software Art & Creative SaaS Software Apps Graphic Design Image Recognition Photo Editing UX Design Growth Opportunities H1B Sponsor Likely Responsibilities Develop predictive models on large-scale datasets to address various business problems with advanced statistical modeling, machine learning, and analytics techniques Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systems Collaborate with product management and engineering groups to develop new products and features Qualification Statistical Modeling Machine Learning Deep Learning Data Mining Python Scala Java C R MATLAB Scikit-learn SQL Relationship Management Required PhD or MS in Computer Science, Statistics, Electrical Engineering, Applied Math, Operations Research, Econometrics or equivalent experience required with an expected graduation date of December 2026 – June 2027 0-2+ years of experience in specific relevant skills Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods Proficient in one or more programming languages such as Python, Scala, Java and C Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn Knowledge and experience of working with relational databases and SQL Strong analytical and quantitative problem-solving ability Excellent communication, relationship skills and a strong team player Preferred Familiarity with working with large-scale datasets and big data techniques would be a plus Benefits Non-sales roles ... short-term incentives are in the form of the Annual Incentive Plan (AIP). Certain roles may be eligible for long-term incentives in the form of a new hire equity award. Company Adobe Glassdoor 4.0 Software for creative and digital experiences. Founded in 1982 San Jose, California, USA 10001+ employees http://www.adobe.com H1B Sponsorship Adobe has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 75 % Represents job field similar to this job Engineering and Development Product Management Management and Executive Customer Service and Support Marketing Creatives and Design Accounting and Finance Sales Human Resources Legal and Compliance Arts and Entertainment Education and Training Trends of Total Sponsorships *2026 ( 786 ) 2025 ( 1160 ) 2024 ( 1217 ) 2023 ( 750 ) 2022 ( 878 ) 2021 ( 742 ) 2020 ( 477 ) Funding Current Stage Public Company Total Funding $2.5M Key Investors Apple 1986-08-20 IPO 1984-10-01 Series Unknown· $2.5M Leadership Team Shantanu Narayen CEO Steve Day Interim Chief Financial Officer & Senior Vice President, Finance, Technology, Security & Operations Recent News Tech Advisor Android phones are getting Adobe Premiere free 2026-09-26 TechSpot Adobe Premiere is now available on Android, offering free 4K video editing 2026-09-25 dev.ua Adobe integrates Photoshop into Google Gemini chatbot 2026-09-25 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Statistical Modeling Machine Learning Deep Learning Data Mining Python Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach Y Yogesh (Yogi) (. Architect, Machine Learning D Derek G. Machine Learning Engineer Intern Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -789,6 +789,31 @@
     },
     {
       "machine_rank": 31,
+      "machine_score": 77,
+      "machine_tier": "Strong",
+      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Quant",
+      "company": "Optiver",
+      "role": "Graduate Software Engineer - 2027 Start",
+      "category": "Software Engineering",
+      "location": "Chicago, IL +1",
+      "salary": "$200,000–$200,000",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Software",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.optiver.com/join-us/jobs/8604899002?gh_jid=8604899002",
+      "jd_excerpt": "Graduate Software Engineer (2027 Start) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin Graduate Software Engineer (2027 Start) Level Graduate Location Austin Department Technology Apply Apply As a Software Engineer, you’ll work side-by-side with teammates to build real-world applications that power a global trading firm. You’ll work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be the magic behind the scenes, enabling our teams to make split-second decisions with precision and confidence. By working in an interdisciplinary manner and innovating and optimizing code, you will keep our firm competitive in the ever-evolving financial markets. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do Your onboarding In the first eight weeks, you will participate in Optiver’s comprehensive Global Academy and be equipped with the knowledge needed to make an impact the moment you join your team. The comprehensive training covers trading theory and Optiver’s tech stack to hone your skills for your role. In addition, you will be paired with a dedicated mentor who will empower you to take ownership of your work and make a difference at the firm. Your responsibilities Deep dive into trading fundamentals, from theoretical concepts to financial markets, strategies, AI-enabled tools and cutting-edge technology. Collaborate closely with best-in-class engineers, traders, and business teams to develop simple, well-architected solutions that meet the needs of our business. Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills. Push your limits and accelerate your growth in a fascinating and high-performing environment. What you’ll get You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries Highly competitive compensation package Global profit-sharing pool and performance-based bonus structure 401(k) match up to 50% Comprehensive health, mental, dental, vision, disability, and life coverage 25 paid vacation days alongside market holidays Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Science or Computer Engineering On track to graduate between December 2026 to June 2027 Passionate for writing clean code, well-architected systems, and continuous improvement Proficient in coding languages such as C++, Python, or Java A student with strong engineering instincts and a solid understanding of computer science fundamentals Driven by an entrepreneurial mindset and curious about how tech powers the financial industry A natural problem-solver with a sharp, analytical approach to tackling challenges A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Below is the expected base salary for this position. This is a good-faith estimate of the base pay scale for this position and offers will ultimately be determined based on experience, education, skill set, and performance in the interview process. This position will also be eligible for a discretionary bonus (if determined by Optiver) and Optiver’s benefits package with the benefits listed above. Base Salary Range $200,000 — $200,000 USD Open p",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -813,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -838,57 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
-      "machine_score": 75,
-      "machine_tier": "Strong",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Front End Engineer - AWS Agentic AI Automated Reasoning - AR",
-      "category": "Infrastructure / Systems",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "186000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-26",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10515062/apply",
-      "jd_excerpt": "Front End Engineer, AWS Agentic AI Automated Reasoning (AR) - Job ID: 10515062 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ Front End Engineer, AWS Agentic AI Automated Reasoning (AR) Job ID: 10515062 | Amazon.com Services LLC Apply now Description We are building exciting new capabilities in the Amazon Web Services (AWS) Agentic AI Automated Reasoning group by using Automated Reasoning in new, novel and exciting ways to enhance AWS services. The position is based in Seattle, Washington or New York City, New York. As AI workloads become more prevalent, the ones having accurate results will be differentiated from others. We are seeking a talented and passionate Senior Front End Engineer (SDE) who wishes to work at the intersection of Automated Reasoning and cloud-scale distributed systems, building the trust layer for agents to be used more reliably and in turn pervasively. As a Senior FEE, you will design, build, and operate Amazon's agent safety platform that enables customers to define boundaries within which agents would operate within. The platform would also provide customers to ensure agents operate in this boundary.  You will build the experience for customers to simulate, audit and create these agent boundaries. This is a unique opportunity to combine front end engineering with automated reasoning technology. You'll work alongside world-class scientists and engineers to turn research breakthroughs in NeuroSymbolic AI into production services that power correctness guarantees for millions of customers. The problems are hard, the impact is enormous, and the team is small enough that your contributions will be highly visible. Key job responsibilities - Design and implement core components of the agent safety platform, including policy authoring, policy management, policy audit and agent simulation. - Deliver agent safety experience in products where customers create agents today eg Kiro, Quick, other agentic platforms. - Develop and operate the area - Mentor junior engineers, contribute to technical design reviews, and raise the bar on engineering practices across the team. Basic Qualifications - 2+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience - 1+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience - Experience using JavaScript frameworks such as angular and react Preferred Qualifications - 1+ years of agile software development methodology experience - Experience with common front-end technologies such as HTML, CSS, JS, TypeScript, and Node Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, NY, New York - 158,100.00 - 213,800.00 USD annually USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually Job details USA, WA, Seattle USA, NY, New York Software Development Share this job Important FAQs for current Government employees Before proceeding, please review the following FAQs https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees JOIN US ON DOWNLOAD OUR APP Find Careers Job Categories Teams Locations Military careers Hourly Working At Amazon Culture Benefits Amazon Newsletter Inclusive experiences Leadership Principles Help FAQ How We Hire Application status Accommodations Legal disclosures and notices Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Veterans, military spouses, and people with d",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
       "machine_rank": 34,
-      "machine_score": 68,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: Python, Networking; downrank: data/analytics mismatch; new-grad: confirmed",
-      "company_priority": "",
-      "company": "GlobalFoundries",
-      "role": "AI/ML Analytics Engineer (2027 New College Graduate)",
-      "category": "Data Engineering",
-      "location": "Malta, New York, United States",
-      "salary": "$58K/yr - $101K/yr",
-      "salary_max_annual": 101000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-28",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6aba908bee0b348be729a1a1",
-      "jd_excerpt": "AI/ML Analytics Engineer (2027 New College Graduate) @ GlobalFoundries | Jobright.ai SIGN IN JOIN NOW AI/ML Analytics Engineer (2027 New College Graduate) jobs in United States Overview Company Apply on Employer Site APPLY NOW GlobalFoundries · 2 hours ago AI/ML Analytics Engineer (2027 New College Graduate) Malta, NY Full-time Onsite New Grad $58K/yr - $101K/yr GlobalFoundries is a semiconductor manufacturer focused on enabling AI and delivering power-efficient, high-performance solutions. The company is seeking a new college graduate to develop data-driven solutions for semiconductor manufacturing by preparing datasets, applying statistical and machine learning methods, developing predictive and agentic solutions, and communicating recommendations to stakeholders and Fab leadership. Electronics Manufacturing Semiconductor H1B Sponsor Likely Responsibilities Partner with the Analytics Center of Excellence Digital Manufacturing Manager to define project objectives, deliverables, success measures, and timelines; support the design, development, programming, testing, and documentation of analytics methods, processes, and systems across multiple use cases Collaborate with manufacturing, engineering, and other cross-functional teams to understand business needs, identify opportunities for artificial intelligence, machine learning, and digital manufacturing solutions, and translate requirements into measurable data-driven approaches Collect, clean, integrate, and preprocess large datasets from multiple sources; apply statistical analysis, visualization, and machine learning techniques to identify patterns, trends, root causes, and improvement opportunities Develop, evaluate, and implement predictive models and algorithms and agentic solutions for real-world manufacturing problems; communicate findings, limitations, and recommendations to technical stakeholders and Fab leadership using SMART objectives and clear measures of value Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs Qualification Statistical Analysis Machine Learning Predictive Modeling Data Visualization Digital Manufacturing Analytics Python R SQL Data Preparation Model Evaluation Reproducible Analytical Workflows Agentic Solution Building Project Management Planning and Organization Required Graduating with Bachelor's or Master's in Data Science, Computer Science, Statistics, Industrial Engineering, Electrical Engineering, Computer Engineering or related field from an accredited degree program Must have at least an overall 3.0 GPA and proven good academic standing Language Fluency - English (Written & Verbal) Preferred Prior related internship or co-op experience Demonstrated prior leadership experience in the workplace, school projects, competitions, etc Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making Project management skills, i.e. the ability to innovate and execute solutions that matter; the ability to navigate ambiguity Strong written and verbal communication skills Strong planning & organizational skills Coursework, research, internship, or project experience in statistical analysis, machine learning, predictive modeling, data visualization, or digital manufacturing analytics Programming experience with Python, R, SQL, or similar tools and familiarity with data preparation, model evaluation, visualization, and reproducible analytical workflows Programming experience with agentic solution building, including leveraging agentic solutions to rapid prototype, develop new features, and scale solutions Benefits Full-time employment path for recent graduates Accelerated training in a fast-paced work environment Cross-functional working opportunities Talent mobility Mentorship Networking opportunities Leadership opportunities Company GlobalFoundries Glassdoor 3.5 Semiconductor foundry manufacturing integrated circuits in high volume. Founded in 2009 New York, New York, USA 10001+ employees https://gf.com/ H1B Sponsorship GlobalFoundries has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 85 % Represents job field similar to this job Engineering and Development Management and Executive Accounting and Finance Sales Customer Service and Support Product Management Marketing Human Resources Trends of Total Sponsorships *2026 ( 31 ) 2025 ( 112 ) 2024 ( 76 ) 2023 ( 65 ) 2022 ( 100 ) 2021 ( 87 ) 2020 ( 187 ) Funding Current Stage Public Company Total Funding $5.61B Key Investors U.S. Department of Commerce European Commission U.S. Department of War 2026-07-29 Grant· $300M 2026-05-27 Post Ipo Secondary 2026-03-11 Post Ipo",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 35,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python, Networking; new-grad: likely",
@@ -938,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -963,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -982,6 +957,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 38,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Adobe",
+      "role": "2027 University Graduate - Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA +4",
+      "salary": "$168k/yr",
+      "salary_max_annual": "168000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Graduate",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-25",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1341,6 +1341,31 @@
       "machine_rank": 53,
       "machine_score": 70,
       "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "PathAI",
+      "role": "Software Engineer I - Fullstack",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-12",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
+      "jd_excerpt": "Careers - Job Post Skip to content BioPharma AI Product Solutions Translational Research Clinical Development Services Real-World Data Companion Diagnostics IHCExplore™ PathExplore™ LiverExplore™ IBDExplore™ Deep Bio Paige Visiopharm DoMore Diagnostics Central Pathology Laboratory Operations AISight®️ Clinical Trials AI-Enabled Clinical Development Deep Bio Paige Visiopharm DoMore Diagnostics Anatomic Pathology AISight®️ Digital Pathology Platform AI Product Solutions Precision Pathology Network AISight®️ Image Management System (RUO) AISight®️ Dx Digital Pathology Platform (FDA 510(k) cleared) AISight Consults AISight®️ Dx Digital Pathology Platform (CE-IVDR marked) Deep Bio Paige Visiopharm DoMore Diagnostics PathAI Algorithm Products Workflow Optimization Biomarker Quantification PathAssist PathAI AI Partners Deep Bio Paige Visiopharm DoMore Diagnostics News and Resources Press Releases Publications Blog About Us Our History Leadership Team Careers Contact Us Request a Demo Search BioPharma Menu Biopharma Translational Research Clinical Development Services Real-World Data Companion Diagnostics Anatomic Pathology Menu Anatomic Pathology AISight®️ Digital Pathology Platform AISight® Image Management System (RUO) AISight®️ Dx Digital Pathology Platform (FDA 510(k) cleared) AISight Consults AISight® Dx Digital Pathology Platform (CE-IVDR Marked) AI Product Solutions PathAI Algorithm Products ArtifactDetect TumorDetect AIM-Tumor Cellularity PathAssistDerm PathAssistDerm AIM-PDL1 AIM-HER AIM-ER AIM-PR AIM-Ki67 AIM-MASH AIM-HI-UC METPredict Partner Algorithm Products DeepBio Paige Visopharm DoMore Diagnostics Precision Pathology Network News and Resources Menu News and Resources Press Releases Publications Blog About Us Menu About Us Our History Leadership Team Careers Contact Us Login Request a Demo Join our team. A new path is waiting. Our team is passionate about solving big challenges in healthcare and transforming the field of pathology with artificial intelligence. × Apply Now Careers About PathAI Careers Contact Us Follow us on LinkedIn Follow us on Twitter Follow us on Facebook Privacy Notice Cookie Notice Terms of Use PathAI BioPharma Laboratory Licenses Report a Vulnerability Copyright © 2026 PathAI, Inc. PathAI, its logo, and its products are trademarks of PathAI, Inc. All other names and trademarks are the property of their respective owners. All rights reserved. | MKT-012-15",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 54,
+      "machine_score": 70,
+      "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
       "company_priority": "",
       "company": "MyKargo",
@@ -1363,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 55,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
@@ -1388,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 56,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1411,31 +1436,6 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 56,
-      "machine_score": 64,
-      "machine_tier": "Consider",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "Quant",
-      "company": "Jane Street",
-      "role": "Software Engineer Full-Time: New Grad",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "salary": "$398k/yr",
-      "salary_max_annual": "398000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
-      "jd_excerpt": "",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 57,
@@ -1789,6 +1789,31 @@
     },
     {
       "machine_rank": 71,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Development Engineer - AWS OpenSearch Service",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10477971/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1813,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1838,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1863,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1888,7 +1913,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1911,31 +1936,6 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 76,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "Quant",
-      "company": "Optiver",
-      "role": "Graduate Software Engineer - 2027 Start",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "salary": "$200,000–$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Software",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.optiver.com/join-us/jobs/8401042002?gh_jid=8401042002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 77,
@@ -1989,6 +1989,31 @@
     },
     {
       "machine_rank": 79,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "DV Trading",
+      "role": "Quantitative Trader - Multi-Asset - New York",
+      "category": "Quantitative Finance",
+      "location": "Chicago, IL +2",
+      "salary": "$100,000 - $200,000",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4687460005",
+      "jd_excerpt": "Jobs at DV Trading Explore Opportunities at DV Trading Create a Job Alert Level-up your career by having opportunities at DV Trading sent directly to your inbox. Create alert Search Department Select... Office Select... 73 jobs Accounting Job Audit & Financial Reporting Manager Chicago Treasury & Capital Manager Chicago DV Commodities Job 2027 Graduate Software Engineer (DV Commodities) New York C++ Software Engineer (DV Commodities - London) London C++ Software Engineer (DV Commodities - New York) New York Experienced Trader (DV Commodities) New York Experienced Trader (DV Commodities) London Experienced Trader (DV Commodities) Dubai, Dubai, United Arab Emirates; Singapore Junior Trading Operations Analyst London Software Engineer Intern - Summer 2027 (DV Commodities) New York Software Engineer Intern - Summer 2027 (DV Commodities) London Trading Intern - Summer 2027 (DV Commodities) London Trading Intern - Summer 2027 (DV Commodities) New York DV Equities Job 2027 Quantitative Researcher Graduate (DV Equities) New Hong Kong 2027 Quantitative Research Intern (DV Equities) Hong Kong 2027 Quantitative Trader Graduate (DV Equities) Hong Kong 2027 Quantitative Trader Graduate (DV Equities) New York 2027 Software Developer Intern  (DV Equities) Hong Kong Business Development (Asia) Hong Kong Chief of Staff (DV Equities) Hong Kong C++ Software Developer (DV Equities) London Data Engineer (DV Equities) New Hong Kong Equity Research  Analyst （DV Equities） Hong Kong Institutional Sales and Trading (DV Equities) Hong Kong Quantitative Researcher London Quantitative Researcher - Experienced (DV Equities) Hong Kong Quantitative Research Intern - Summer 2027 (DV Equities) New York Quantitative Trading Intern (DV Equities) Hong Kong Quantitative Trading Intern - Summer 2027 (DV Equities) New York Senior FPGA Engineer (DV Equities) Remote Software Developer - Experienced (DV Equities) Hong Kong Software Developer Intern - Summer 2027 (DV Equities) New York DV Securities Job Futures & Options Trading Analyst Intern - Summer 2027 New York Sales Execution Trader London Vice President/Director - US Futures & Asset Manager Coverage New York Operations Job Senior Trading Operations Analyst London Trade Desk Support Engineer Chicago Risk Job Operational Risk Manager Chicago Quantitative Risk Intern - Summer 2027 Chicago Technology Job AI Engineer Intern - Summer 2027 Chicago Client Platforms Engineer Chicago Client Platforms Engineer Hong Kong Client Platforms Engineer Intern - Summer 2027 Chicago Client Platforms Engineer Intern - Summer 2027 New York Client Platforms Engineer Intern - Summer 2027 London DevOps Engineer Intern - Summer 2027 Chicago Security Engineer Intern - Summer 2027 New London Senior AI Engineer Chicago; New York Senior AI Engineer Hong Kong; London; Singapore Senior AI Engineer Chicago; Hong Kong; London; New York; Singapore 1 2 Powered by Greenhouse",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 80,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2013,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 81,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2038,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 82,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2063,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 83,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2088,7 +2113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 84,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2113,7 +2138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 85,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2138,7 +2163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 86,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2163,7 +2188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 87,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
