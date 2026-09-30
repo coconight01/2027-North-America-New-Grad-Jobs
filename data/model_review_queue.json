@@ -27,15 +27,15 @@
       "fill": 0
     },
     "priority_company_candidates": 197,
-    "new_job_candidates": 97,
-    "high_potential_title_candidates": 254
+    "new_job_candidates": 104,
+    "high_potential_title_candidates": 256
   },
   "veto_counts": {
     "explicit 2026-only title": 10,
     "security-clearance requirement in title": 2,
     "non-full-time program title": 3
   },
-  "exact_tracked_jobs_removed": 16,
+  "exact_tracked_jobs_removed": 15,
   "candidates": [
     {
       "machine_rank": 1,
@@ -839,31 +839,6 @@
     },
     {
       "machine_rank": 33,
-      "machine_score": 65,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; new-grad: confirmed",
-      "company_priority": "",
-      "company": "EvolutionIQ",
-      "role": "Technical Support Specialist - AI / SaaS",
-      "category": "Other",
-      "location": "New York City, NY",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says recent graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-29",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/evolutioniq/jobs/6209953004",
-      "jd_excerpt": "Job Application for Technical Support Specialist (AI / SaaS) at EvolutionIQ New Technical Support Specialist (AI / SaaS) New York, NY Apply About Us: EvolutionIQ’s mission is to deliver state of the art technology that helps insurance claims teams make claims handling more accurate, fair, and efficient, so that more people impacted by injury or illness can continue their lives with dignity and stability. We are currently experiencing massive growth and to accomplish our goals, we are hiring world-class talent who want to help build and scale internally, and transform the insurance space. Our team is our #1 priority, and we have been named one of Inc.’s Best Workplaces 3 years in a row and Built In’s Best Places to work in 2025 and 2026! We are looking for a motivated and technically minded Technical Support Specialist to join our team in New York City. In this role, you will serve as the first point of contact for our client’s users, helping them navigate technical challenges and ensuring they get the most value out of our platform. This is an ideal role for a recent graduate or early-career professional looking to launch a career in technical product support, customer success, or solutions engineering. You will gain deep exposure to AI-as-a-Service (AIaaS) concepts, database management, and enterprise SaaS workflows. What You Will Do Front-Line Support: Act as the primary point of contact for client users, managing incoming inquiries via email, chat, and ticketing systems. Troubleshooting: Diagnose and resolve technical issues related to the EvolutionIQ platform; replicate bugs and work with the Technical Engagement Management and Solutions Engineering team to escalate complex problems. Client Education: Translate complex technical concepts into clear, easy-to-understand explanations for non-technical users. Data Analysis: Use SQL to query databases and investigate data discrepancies to resolve client support tickets. Workflow Optimization: Utilize tools like Zendesk and Salesforce to track issues, document solutions, and contribute to our internal knowledge base. Product Feedback: Be the \"voice of the customer\" by gathering user feedback and trends to share with the Product and Engineering teams. Who You Are Education: You hold a Bachelor’s degree, preferably in Computer Science, Information Systems, Engineering, or a Business discipline (Finance, Accounting, etc.). Experience: You are fresh out of a top program and ideally 1-2 years of professional experience. Previous internships in tech support, IT, or client services are a strong plus. Communications: You possess excellent written and verbal communication skills. You can write a professional email and speak confidently with clients. Tech-Savvy: You have a firm grasp of technical support workflows and a strong interest in AI technologies and SaaS business models. Problem Solving: You enjoy digging into a puzzle and don't stop until you find the solution. Technical Skills Required: Understanding of AI-as-a-Service (AIaaS) concepts. Basic to Intermediate proficiency in SQL (selects, joins, basic data manipulation). Familiarity with CRM and Ticketing platforms (specifically Salesforce and Zendesk ). Preferred: Experience with ServiceNow is a plus. Experience with API testing tools (like Postman) or basic scripting (Python/JS). Work-life, Culture & Perks: Compensation: The base salary range is 75-95K , with flexibility depending on a candidate’s background and experience. An annual bonus plan is also included in our compensation package. Well-Being: Medical, dental, vision, short & long-term disability, life insurance and AD&D, and 401k matching. Additional family, wellness, and pet benefits. Home & Family: Paid time off and sick leave, 100% paid parental leave (16 weeks for primary caregivers and 12 weeks for secondary caregivers). We offer a flexible schedule for new parents returning to work. Office Life: Catered lunches, happy hours, pet-friendly spaces, and monthly technology stipend. Growth & Training: $1,000/year for each employee for professional development, as well opportunities for tuition reimbursement. Sponsorship: We are open to sponsoring candidates currently in the U.S. who need to transfer their active visa. Please check with our Recruiting team if your visa is applicable for transfer. EvolutionIQ appreciates your interest in our company as a place of employment. EvolutionIQ is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Create a Job Alert Interested in building your career at EvolutionIQ? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter * Attach Attac",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 34,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Distributed / Systems; skills: Python, Linux; new-grad: confirmed; $200k+ stated ceiling",
@@ -883,6 +858,31 @@
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a50fe8bbf63b66c79977e7f",
       "jd_excerpt": "Campus Full Time 2027 - Trading Operations Engineer @ Five Rings | Jobright.ai SIGN IN JOIN NOW Campus Full Time 2027 - Trading Operations Engineer jobs in United States Overview Company Apply on Employer Site APPLY NOW Five Rings · 1 hour ago Campus Full Time 2027 - Trading Operations Engineer New York, NY Full-time Onsite New Grad $250K/yr - $300K/yr Five Rings is a proprietary trading firm combining strategy, innovation, and technology across global markets. The Trading Operations Engineer will provide technical operations support to US and UK trading desks, serving as a first point of contact for traders while supporting trading applications, incident management, and light coding initiatives. Finance Information Technology Professional Services Financial Services Comp. & Benefits H1B Sponsor Likely Responsibilities First point of contact for traders utilizing the firm’s trading systems Install, configure and monitor critical trading applications Incident management via ticketing system and documentation Collaborate with developers for all operational processes supporting trading applications Qualification Python Bash MySQL Linux Required Strong problem solving and multitasking abilities Experience with Python, bash and MySQL on Linux is required Excellent communication skills Company Five Rings Glassdoor 3.7 Proprietary trading firm in domestic and international markets. Founded in 2009 New York, New York, USA 51-200 employees https://fiverings.com H1B Sponsorship Five Rings has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 76 % Represents job field similar to this job Engineering and Development Accounting and Finance Customer Service and Support Trends of Total Sponsorships *2026 ( 1 ) 2025 ( 12 ) 2024 ( 9 ) 2023 ( 5 ) 2022 ( 1 ) 2021 ( 4 ) 2020 ( 2 ) Funding Current Stage Growth Stage Recent News Financial IT BMLL Welcomes Five Rings to Its Client Product Advisory Board 2026-05-28 SuperbCrew ElectronX Raises $30 Million In Series A Funding Round 2025-11-20 Venture Capital ElectronX Secures $30 Million Series A Funding Led by DCVC and Global Energy Firms 2025-11-15 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Python Bash MySQL Linux Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach T Tamara E. Head of Human Resources A Andrew K. Trading Operations Engineer Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 34,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Python; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Formlabs",
+      "role": "SLS Materials Scientist - June 2027 Grads",
+      "category": "Other",
+      "location": "Somerville, MA, United States",
+      "salary": "$75K/yr - $130K/yr",
+      "salary_max_annual": 130000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-30",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6abc38f73217d1d13329de47",
+      "jd_excerpt": "SLS Materials Scientist - June 2027 Grads @ Formlabs | Jobright.ai SIGN IN JOIN NOW SLS Materials Scientist - June 2027 Grads jobs in United States Overview Company Apply on Employer Site APPLY NOW Formlabs · 3 hours ago SLS Materials Scientist - June 2027 Grads Somerville, MA Full-time Onsite New Grad $75K/yr - $130K/yr Formlabs develops 3D printing tools that enable users to design, prototype, and manufacture physical products. The SLS Materials Scientist will develop and commercialize materials for selective laser sintering, conduct research and rigorous testing, and collaborate with product, hardware, and software teams to optimize material performance and print-system methodologies. 3D Printing Consumer Goods Hardware Manufacturing 3D Technology Consumer Electronics H1B Sponsor Likely Responsibilities Build world-class SLS materials for 3D printing from initial lab explorations to validation and commercialization Lead research that pushes the boundaries of SLS material performance, turning discoveries into next-gen solutions Partner with product, hardware, and software teams to iterate and improve material performance based on customer feedback Develop methodologies to evaluate material formulations in coordination with SLS print systems —balancing material chemistry, thermal dynamics, and printing parameters Qualification Materials Science Polymer Product Development Thermoplastic Engineering Material Commercialization Experimental Design SLS 3D Printing Materials 3D CAD Modeling Python MATLAB SQL Required Experience bringing a new material to market from ideation to production Have a solid understanding of the fundamentals of materials science and polymer product development Hands-on experience in thermo-plastic engineering Passionate about testing and troubleshooting, not afraid to test hundreds of times Love to harness data; can design and conduct rigorous experiments to optimize materials Can work autonomously and take initiative to learn new skills to complete an objective Understand the value of good documentation B.S., M.S., or PhD in a relevant science or engineering field (all are welcome) Preferred Experience developing materials for 3D printing, especially for SLA/DLP or SLS printers! 3D CAD modeling Programming skills (Python, Matlab, SQL, etc) Benefits Robust equity program to build future wealth through RSUs Comprehensive healthcare coverage (Medical, Dental, Vision) 401K matching and access to financial advisors Generous paid Parental Leave (up to 16 weeks) Tenure-based paid Sabbatical Leave (up to 6 weeks) Flexible Out of Office Plan – Take time when you need it Ample on-site parking & pre-tax commuter benefits Healthy on-site lunches, snacks, beverages, & treats Regular sponsored professional development opportunities Many opt-in culture events across our diverse community Unlimited 3D prints Full time employees receive equity, in the form of RSUs Company Formlabs Glassdoor 3.0 Professional SLA and SLS 3D printers and post-processing tools. Founded in 2011 Somerville, Massachusetts, USA 501-1000 employees http://www.formlabs.com H1B Sponsorship Formlabs has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 67 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Accounting and Finance Sales Customer Service and Support Marketing Legal and Compliance Trends of Total Sponsorships *2026 ( 3 ) 2025 ( 20 ) 2024 ( 15 ) 2023 ( 14 ) 2022 ( 14 ) 2021 ( 11 ) 2020 ( 9 ) Funding Current Stage Late Stage Total Funding $253.7M Key Investors SoftBank Vision Fund Vintage Investment Partners New Enterprise Associates 2021-05-19 Series E· $150M 2019-01-01 Series Unknown 2018-08-01 Series D· $15M Leadership Team Maxim Lobovsky Co-founder and CEO Daniel O'Shaughnessy Chief Financial Officer Recent News Mac Daily News Formlabs names former Apple Hardware Chief Dan Riccio strategic advisor amid board reshuffle 2026-08-14 Hackaday Is Now The Time For Volumetric 3D Printing? 2026-07-08 Hackaday OpenCAL: Computed Axial Lithographic 3D Printing For Everyone 2026-06-15 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Materials Science Polymer Product Development Thermoplastic Engineering Material Commercialization Experimental Design Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach C Caitlin D. Head of Workplace & Learning Experience K Kerrie J. Recruiting Lead Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"

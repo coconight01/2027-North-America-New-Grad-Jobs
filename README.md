@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-30** · Open roles: **2108**
+> Last automated update: **2026-09-30** · Open roles: **2116**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,20 +18,20 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 105 |
+| **Big Tech & Frontier AI** | 104 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 20 |
-| **ByteDance / TikTok** (separate) | 367 |
-| Other companies | 1557 |
+| **ByteDance / TikTok** (separate) | 369 |
+| Other companies | 1564 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-09-28 | **Microsoft** | [Cloud Network Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001979) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
-| 2026-09-24 | **Amazon** | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://jobright.ai/jobs/info/6ab4f74c3362fb9a8705f58e) | $129K/yr - $129K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-09-23 | **Amazon** | [Front-End Engineer - Luna Omni](https://www.amazon.jobs/jobs/10556675/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-19 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) | $172k/yr | Remote - Santa Clara, CA +2 | ❔ | ✅ Confirmed | — |
 | 2026-09-19 | **Microsoft** | [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | $168k/yr | USA | ❔ | ❔ Review | — |
@@ -100,10 +100,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>367 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>369 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | **TikTok** | [Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start](https://jobright.ai/jobs/info/6a71a40ecb96192a36849994) | $128K/yr - $256K/yr | San Jose | ❔ | ✅ Confirmed | — |
+| 2026-09-30 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start (PhD)](https://jobright.ai/jobs/info/6a85dd0a74e02153f1458e39) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6abb8ca57e39348a2648f007) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **ByteDance** | [AI Agent Security Software Engineer Graduate (Security Engineering) - 2027 Start](https://jobright.ai/jobs/info/6a98359ec8ed473c5c762912) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2027 Start](https://jobright.ai/jobs/info/6abb8c7f7e39348a2648effe) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -114,16 +116,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-28 | **TikTok** | [(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start](https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
 | 2026-09-27 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start](https://jobright.ai/jobs/info/6ab8f3543a2ec87116e28072) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-25 | **ByteDance** | [Organizational Effectiveness Graduate (RD Mid-Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7688391015880083717?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | — |
-| 2026-09-24 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a8b069f680f314a29d40c1f) | $242K/yr - $456K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-19 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6aadbc6d0ebc8fb2313eb30c) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ◐ Likely | — |
 
-_Showing 12 of 367 active roles. Use the Job Radar for all roles._
+_Showing 12 of 369 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2108 active roles**. Featured groups account for **184** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2116 active roles**. Featured groups account for **183** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
