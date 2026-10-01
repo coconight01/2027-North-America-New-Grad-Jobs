@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30",
+  "updated_at": "2026-10-01",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,15 +26,16 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 193,
-    "new_job_candidates": 115,
-    "high_potential_title_candidates": 258
+    "priority_company_candidates": 198,
+    "new_job_candidates": 83,
+    "high_potential_title_candidates": 260
   },
   "veto_counts": {
     "explicit 2026-only title": 10,
+    "security-clearance requirement in title": 2,
     "non-full-time program title": 3
   },
-  "exact_tracked_jobs_removed": 15,
+  "exact_tracked_jobs_removed": 14,
   "candidates": [
     {
       "machine_rank": 1,
@@ -63,6 +64,31 @@
     },
     {
       "machine_rank": 2,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: C++, Python, Linux, Networking; role shape: entry-level ML role; $200k+ stated ceiling",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "Agentic AI Engineer, Automation",
+      "category": "AI / Machine Learning",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$220,000–$292,000",
+      "salary_max_annual": "292000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-04",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007",
+      "jd_excerpt": "Job Application for Agentic AI Engineer, Automation at Anduril Industries Agentic AI Engineer, Automation Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. About the team Air Dominance & Strike designs, builds, and flies autonomous air vehicles — from collaborative combat aircraft to expendable cruise missiles to counter-UAS interceptors. Our vehicles move from whiteboard to first flight on timelines that traditional primes consider impossible, which means our design cycles live or die on how fast we can close the iteration loop and begin testing. The Anduril AI-Engineering team exists to collapse that loop. We are engineers first. We work from engineering first principles and unlock capability through machine learning. We are building to scale across design, analysis, test, and program execution, with agent pipelines and tooling that carry across programs. About the job We are looking for an Agentic AI Engineer to automate engineering workflows, build new capability through agents, and improve how engineers access and act on their data. Our R&D work runs through tools of varying fidelity, from empirical methods and low-order models to high-fidelity solvers. You will chain those tools into automated flows that carry a design through analysis to build and then back into the next iteration. You will own agent pipelines end to end: orchestration logic, tool and data integrations, evaluation harnesses, and guardrails. Much of the work is getting agents to drive legacy engineering software which were built for human operators rather than programmatic control. You will also use agents to build new tools as programs evolve and requirements change, standing up capability on program timelines rather than software release cycles. Defense experience is not required. We are looking for engineers who came to machine learning through the problems they were already trying to solve. This role is based onsite in our Costa Mesa, CA office. What You'll Do Build and deploy multi-agent pipelines that compress the engineering design loop, including automated case setup, batch submission, and post-processing of solver runs across CFD, FEA, thermal, and electromagnetics Design, implement, and evolve how agents interact with classical engineering software: tool calling, prompt engineering, task decomposition, state management, retries, and human-in-the-loop checkpoints, Automate data extraction and aggregation across solvers, test benches, and program systems, and build the dashboards that give engineers and leadership rapid access to their own results Build bespoke tooling through agents for engineering sub-disciplines, including aerodynamics, thermal, GNC, structures, and avionics, that brings new capability in-house Choose which model to run at each stage of agent work, from planning through tool development to execution, and tune routing, context management, and caching so agents run efficiently against token cost and latency budgets Build the evaluation harnesses, guardrails, and sandboxed execution needed to defend agent behavior before it is deployed on a program Mentor engineers who are not ML specialists, and work with them to identify and scope the projects where agents deliver the highest impact Qualifications MS or PhD in aerospace, mechanical, or electrical engineering, computer science, data science, or machine learning 0-3 years of professional experience, with demonstrated hands-on work implementing agentic AI systems Strong programming skills in Python and MATLAB, and working knowledge of at least one",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 3,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -87,7 +113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 3,
+      "machine_rank": 4,
       "machine_score": 92,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -112,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Linux, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -137,7 +163,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -162,7 +188,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 7,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -187,7 +213,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -212,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 9,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -237,7 +263,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 10,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -262,7 +288,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 11,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -287,7 +313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 12,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -312,7 +338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 13,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -337,7 +363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 14,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -362,7 +388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 15,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -387,7 +413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 16,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -410,31 +436,6 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 16,
-      "machine_score": 84,
-      "machine_tier": "Strong",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "Quant",
-      "company": "Jane Street",
-      "role": "Software Engineer Full-Time: New Grad",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "salary": "$398k/yr",
-      "salary_max_annual": "398000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
-      "jd_excerpt": "Software Engineer , New York :: Jane Street Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting âAcceptâ or âRejectâ. For information regarding our cookie practices, see Jane Streetâs Ad and Cookie Policy . Accept All Reject All WHO WE ARE WHAT WE DO THE LATEST CULTURE JOIN JANE STREET mobile navigation menu toggle CLIENT OFFERING GLOBAL CAPITAL MARKETS BENEFITS OUR OFFICES STREET VIEW PUZZLES DEPARTMENTS OPEN ROLES PROGRAMS AND EVENTS INTERNSHIPS INTERVIEWING Who We Are What We Do OVERVIEW CLIENT OFFERING GLOBAL CAPITAL MARKETS The Latest Culture OVERVIEW BENEFITS OUR OFFICES STREET VIEW PUZZLES Join Jane Street OVERVIEW DEPARTMENTS OPEN ROLES PROGRAMS AND EVENTS INTERNSHIPS INTERVIEWING CONTACT US Disclosures & Policies Privacy Fraud and Impersonation\n              Warnings Join Jane Street Open roles Students and new grads Job description Software Engineer LOCATION NYC DEPARTMENT Technology TEAM Software Engineering Apply Share this job About the Position Weâre looking for Software Engineers who want to help us design and build the systems and tools that run the firm. Youâll find Software Engineers in all parts of Jane Street, solving real problems in critical areas ranging from trading desks to our accounting team, as well as building foundational infrastructure, whether that means implementing network monitoring or risk models. We are big believers in functional programming and, using OCaml, a statically -typed functional programming language, as our primary tool. More recently, Python has become a vital part of Jane Streetâs research and trading work, acting as the go-to language for data analysis, visualization, and machine learning. Beyond our own environment, we also recognize the value of open source software, leveraging it in our daily work and releasing over a million lines of our own code as open source. Weâre also always looking for ways to expand open source projects, and provide ongoing support to things like Mercurial, the OCaml compiler, and the OPAM package manager. That said, weâre interested in talented engineers with experience in any languageâmost of us came in with little to no practical experience in OCaml before we joined. If youâd like to learn more, you can read about our interview process and meet some of our newest hires . About You We donât expect you to have a background in functional programming, OCaml, Python, finance, or any other specific fieldâweâre looking for smart programmers who enjoy solving interesting problems. Weâre more interested in how you think and learn than what you currently know. You should be: A top-notch programmer with a love for technology Intellectually curious, collaborative, and eager to learn Humble and unafraid to ask questions and admit mistakes Base salary is $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus. Jane Street is an Equal Opportunity Employer Apply Share this job Helpful Links web page Technology at Jane Street The work at Jane Street is technologically intense, and the systems we build play an essential role in everything we do. web page Functional Programming at Jane Street In addition to our extensive work on the core OCaml language, we often take a PL approach to challenging problems we face on a daily basis. blog Jane Street Blog Musings from our engineers blog post Jane Street Blog: What the Interns Have Wrought web page Open Source From committing patches to the Linux kernel to releasing our own projects, weâre always looking for ways to participate in the open source community. podcast episode Swapping the Engine out of a Moving Race Car video Software Engineering Mock Interview Interviews are an important part of Jane Streetâs hiring process. We also recognize that they can be stressful, especially if you donât know what to expect. web page Preparing for a Software Engineering interview at Jane Street GTKU Get to Know Us: Rory talks Production Engineering Who We Are What We Do The Latest Culture Join Jane Street Contact Us ç®ä½ä¸­æ | Disclosures and Policies | Privacy | Cookies | Fraud and Impersonation Warnings Jane Street is an Equal Opportunity Employer © 2026 Jane Street Group, LLC. All rights reserved. Services are provided in the U.S. by Jane Street Capital, LLC and Jane Street Execution Services, LLC, each of which is a SEC-registered broker\n          dealer and member of FINRA ( www.finra.org ). Regulated activities are undertaken in Europe by Jane Street Financial Limited, an investment firm authorized and regulated by the U.K. Financial\n          Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by the Netherlands Authority for the Financial Markets ( Autoriteit FinanciÃ«le Markten ), and in Hong Kong by J",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 17,
@@ -538,6 +539,31 @@
     },
     {
       "machine_rank": 21,
+      "machine_score": 77,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$166,000–$220,000",
+      "salary_max_annual": "220000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-04",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007",
+      "jd_excerpt": "Job Application for Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus at Anduril Industries Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are looking for a Modeling, Simulation and Analysis Engineer to join our team. As part of the team you will have the opportunity to develop, implement and maintain sufficient fidelity virtual representations of the myriad of different vehicles Anduril works on. In this role you will be required to develop and coordinate deployment and maintenance of vehicle models and simulation instantiations for various programs ongoing at Anduril. A critical aspect of this role involves owning and operating Hardware-In-The-Loop (HITL) simulation environments that enable safe, rapid iteration of flight control and autonomy software with real avionics hardware before live flight tests. The ideal candidate has experience working on aerospace systems and understands the right fidelity of sub-system and system level modeling required to integrate with the broader flight control and mission autonomy software to support development. In addition the candidate should be versed in coding and software integration practices. Experience with HITL operations, including real-time simulation, avionics integration, and closed-loop testing with physical hardware is highly valued. If you have a passion for flight and like the idea of building a physics based digital representation of a flying vehicle and testing it with real hardware, this is the role for you! WHAT YOU'LL DO Work on challenging problems in a fast-paced environment from across our portfolio of programs and products: Simulation solutions for Guidance, Navigation and Control algorithm development Software-In-The-Loop (SITL) solutions Hardware-In-The-Loop (HITL) solutions Customer product training solutions Monte-Carlo simulation analysis Simulation and Test data analysis tools and processes Design, develop, deploy, and maintain HITL simulation infrastructure for complex aerospace systems, including real-time vehicle models, avionics emulation, and sensor simulation environments Own the end-to-end configuration and operation of SITL and HITL environments for test vehicles, ensuring safe and efficient flight test execution Coordinate and execute HITL test campaigns, working closely with flight test teams to validate GNC algorithms, mission autonomy software, and vehicle performance prior to live flights Develop and maintain emulated interfaces for on-board avionics systems to enable closed-loop hardware testing in simulation environments Troubleshoot and resolve real-time simulation issues during HITL operations, including timing constraints, hardware interface problems, and model fidelity discrepancies Work with multi-disciplinary subject matter experts to understand and adequately model pertinent sub-system, system and system of system dynamics Work with internal and external customers to understand simulation requirements and develop efficient modeling and simulation solutions Support flight test operations with pre-flight simulation validation and post-flight data correlation analysis to continuously improve model fidelity REQUIRED QUALIFICATIONS Bachelor's Degree or higher in engineering, computer science, mathematics, physics, chemistry, or related technical discipline Senior Modeling Simulation Engineer: 8 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Modeling Simulation Engineer: 3 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Experience with aerospace/aeronautical systems (including rotorcraft/VTOL) and/or Subsea vehicles Experience in flight dynamics/platform physics and control Nominal proficiency with C/C++ Advanced proficiency with scientific computing systems (Mathworks products (e.g., MATLAB, SIMULINK etc.), scientific Python (e.g., numpy, scipy) Flight test data processing/sim correlation experience Experience with developing sub-system and system level models (Air vehicle, ground vehicles, ground based sensors and other types of complex systems) Experience with model development to support Guidance, Navigat",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 22,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -562,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 23,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -587,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 24,
       "machine_score": 81,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, PyTorch; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -612,7 +638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 25,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -632,31 +658,6 @@
       "official_source": false,
       "url": "https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472",
       "jd_excerpt": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | Citi Careers Skip to main content Menu Careers Search Jobs Saved Jobs Search Jobs Why Citi About Us People, Engagement and Inclusion Early Career Early Career Overview Programs Pre-Internships Internships Full-Time Programs Apprenticeships Job Simulations Events Talent Networks Early Career Talent Network (opens in new window) Career Professionals Talent Network (opens in new window) Saved Jobs Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 Apply (opens in new window) Save Job Req Id: 25928747 Location(s): New York, New York, United States Job Type: Hybrid Posted: Dec. 22, 2025 Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 2027) You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth, it is not a question of if, but when. Citi is looking for Summer Analysts to join the Citi Markets – Quantitative Analysis (MQA) team in New York City. As part of Markets, your work can make an immediate impact. From derivatives modeling to algorithmic execution, you will build innovative solutions to the most complex financial problems facing our trading businesses and our clients. Our Markets Analyst Program is unlike any other on Wall Street. It is a highly competitive and selective program that gives you the opportunity to combine traditional financial engineering principles with the latest machine learning and data science techniques to design and develop the quantitative solutions and analytics that support diverse investment and transaction strategies across Markets. We provide you with the knowledge and skills you need to succeed. All Summer Analysts participate in a week-long comprehensive training program during the first week of the Summer Program. The training program is taught by skilled external consultants along with selected professionals with industry and product expertise. Our training program is designed to cover all fundamental aspects of the Markets Summer Analyst role. Your time here will look something like this. Summer Analysts will be placed on a quantitative modeling desk and assigned a summer project designed to highlight the importance of quantitative methods as financial products and trading strategies become increasingly sophisticated. At the conclusion of the Summer Program, Summer Analysts will present their results to senior leadership. We offer weekly speaker events with product heads throughout the summer that will give you a deeper understanding of the Markets industry. As a Summer Analyst, you will also participate in a business wide Data Science competition. You will also attend various networking events that will give you exposure to both junior and senior level professionals. In addition, Summer Analysts will shadow multiple quantitative trading and structuring desks throughout the summer. In these rotations, Summer Analysts will have the opportunity to learn from these professionals as they make markets for our institutional client base while actively monitoring and hedging their risk. We want to hear from you if... · You are obtaining a Bachelor’s or Master’s degree (graduating in Fall 2027 or Spring 2028) and majoring in Quantitative Finance, Computer Science, Engineering, Mathematics, and/or a closely related field · You are excited to work in our New York office · You currently maintain a GPA of 3.3 or above · You have excellent mathematical skills, specifically as it relates to Data Analysis and Statistical Modeling · You have excellent programming skills in C++, Python or Java · You have experience designing, developing, and implementing artificial intelligence models and machine learning algorithms · You are creative in solving problems and are intellectually curious · You are enthusiastic, quick-thinking and able to juggle multiple tasks simultaneously · You are confident, comfortable and articulate in oral and written communication Who we think will be a great fit... You are interested in Markets, and you’re determined to succeed in the field. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the markets and want to make an impact. We value diversity and so do you. We’ll be looking for ta",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 25,
-      "machine_score": 79,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Western Digital",
-      "role": "Summer 2027 - Software Engineering In...",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says early career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027",
-      "official_source": false,
-      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
-      "jd_excerpt": "Western Digital Summer 2027 Intern - Software Engineering | SmartRecruiters Google Chrome Microsoft Edge Apple Safari Mozilla Firefox Summer 2027 Intern - Software Engineering Intern Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details below Salary Range: 34.52-46.00 Business Function: Engineering Support Work Location: San Jose Great Oaks Headquarters--LOC_WDT_USCA23 Company Description WD is building the infrastructure behind the AI-driven data economy. As AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s where we come in. We combine deep engineering expertise with global-scale manufacturing to deliver the storage systems that make AI possible, powering hyperscale data centers, cloud platforms, and enterprise infrastructure worldwide. This isn’t theoretical work. It’s real systems, at real scale, people solving some of the hardest challenges in technology today. We’re looking for people who want to build, solve, and operate at that level. Join us and let’s shape the future of data. Job Description This posting supports current and anticipated early-career hiring needs. Applying allows our recruiting team to consider you for opportunities that align with your qualifications, preferences, and availability. An immediate opening or interview is not guaranteed. Where are these roles located? You’ll have the opportunity to work with teams in: Colorado Springs, Colorado Irvine, California Longmont, Colorado Fremont, California Rochester, Minnesota San Jose, California System Tools Software Intern : Build the software behind the technology. As a System Tools Software Intern , you'll create the software that powers engineering teams and next-generation products. You'll design, develop, test, and improve tools that make systems faster, more reliable, and easier to build. In this role, you may: Design and develop system software, utilities, and engineering tools. Build or enhance operating systems, compilers, networking tools, databases, and Internet-based applications. Troubleshoot, debug, and optimize software performance. Collaborate with hardware and software engineers to ensure seamless integration. Help influence hardware design by developing software that works efficiently with new technologies. Applications Software Intern: Create software that helps teams work smarter. As an Applications Software Engineer , you'll develop applications that support employees, customers, and business operations. You'll design, build, test, and improve software used across enterprise systems. In this role, you may: Design, develop, and maintain commercial and internal software applications. Write clean, efficient, and maintainable code using modern programming languages. Test, debug, and improve application performance. Collaborate with teammates to build new features and solve technical problems. Create documentation that supports software deployment and ongoing maintenance. Data Analytics Intern : Turn data into insights that drive better decisions. As a Data Analytics Engineer , you'll build the tools and data systems that help teams understand performance, improve products, and solve business challenges. You'll work with large datasets to create meaningful insights that influence engineering and business decisions. In this role, you may: Design and develop data pipelines, databases, and data warehouses. Build software and automation tools for collecting, processing, and analyzing data. Create dashboards, reports, and visualizations that support decision-making. Partner with stakeholders to understand business needs and translate them into technical solutions. Analyze data to identify trends, improve processes, and solve complex problems. Firmware Engineering Intern : Write the code that brings hardware to life. As a Firmware Intern , you'll develop the low-level software that allows hardware devices to function. Working at the intersection of hardware and software, you'll help build reliable, high-performance embedded systems used in next-generation technology. In this role, you may: Design, develop, test, and debug embedded firmware. Write software using C, C++, assembly, and other low-level programming languages. Collaborate with hardware engineers to integrate software with electronic systems. Troubleshoot firmware and hardware interactions to improve performance and reliability. Support new product development from concept through production. This role is part of WD's early career development program. WD's early career development program is ideal for individuals at the early stages of their professional career.  Participants receive foundational training through structured onboarding, mentorship, and a curated development curriculum. The responsibilities of this role are typically aligned with candidates who have approximately 0–2+ years of relevant professional experi",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1290,6 +1291,31 @@
       "machine_rank": 51,
       "machine_score": 64,
       "machine_tier": "Consider",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Quant",
+      "company": "Jane Street",
+      "role": "Software Engineer Full-Time: New Grad",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "salary": "$398k/yr",
+      "salary_max_annual": "398000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
+      "jd_excerpt": "",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 52,
+      "machine_score": 64,
+      "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
       "company_priority": "",
       "company": "Akuna Capital",
@@ -1312,7 +1338,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 53,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Western Digital",
+      "role": "Summer 2027 - Software Engineering In...",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says early career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027",
+      "official_source": false,
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 54,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -1337,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1362,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 56,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1387,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1412,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1437,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 59,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1462,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1487,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 61,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1512,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 62,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1537,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 63,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1562,32 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "GlobalFoundries",
-      "role": "Production Control Engineer (2027 New College Graduate)",
-      "category": "Infrastructure / Systems",
-      "location": "Malta, New York, United States",
-      "salary": "$58K/yr - $101K/yr",
-      "salary_max_annual": "101000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-16",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a8088bbad9ff00c26bb2ad7",
-      "jd_excerpt": "Production Control Engineer (2027 New College Graduate) @ GlobalFoundries | Jobright.ai SIGN IN JOIN NOW Production Control Engineer (2027 New College Graduate) jobs in United States Overview Company This job has closed. APPLY to similar jobs GlobalFoundries · 1 month ago Production Control Engineer (2027 New College Graduate) Malta, NY Full-time Onsite New Grad $58K/yr - $101K/yr GlobalFoundries is a leading full-service semiconductor foundry providing design, development, and fabrication services to technology companies worldwide. The Production Control Engineer will support production planning, new product introduction execution, manufacturing data analysis, and data-driven improvements in a high-volume semiconductor environment. Electronics Manufacturing Semiconductor H1B Sponsor Likely Responsibilities Work with the Production Control team to support new product introduction and manufacturing execution initiatives Analyze production data and develop reporting tools that improve delivery performance and operational decision making Collaborate with Customer Engineering, Integration, Planning, and Line Control teams to ensure successful product launches and factory readiness Lead and support continuous improvement projects focused on productivity, efficiency, and manufacturing excellence Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs Qualification Data Analytics Lean Manufacturing Continuous Improvement Project Management Required * Education – Graduating with a Bachelor's or Master's degree in Industrial Engineering, Computer Science, Data Science, Manufacturing Engineering, or a related field from an accredited degree program * Must have at least an overall 3.0 GPA and proven good academic standing * Language Fluency - English (Written & Verbal) * Travel - Up to 10% Preferred * Prior related internship or co-op experience * Demonstrated prior leadership experience in the workplace, school projects, competitions, etc * Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making * Project management skills and the ability to innovate and execute solutions that matter * Strong written and verbal communication skills * Strong planning and organizational skills * Experience with data analytics, reporting tools, and manufacturing systems * Knowledge of Lean manufacturing principles and continuous improvement methodologies Benefits Accelerated training in a fast-paced work environment Cross-functional working opportunities Talent mobility Mentorship Networking opportunities Leadership opportunities Company GlobalFoundries Glassdoor 3.5 Semiconductor foundry manufacturing integrated circuits in high volume. Founded in 2009 New York, New York, USA 10001+ employees https://gf.com/ H1B Sponsorship GlobalFoundries has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 85 % Represents job field similar to this job Engineering and Development Management and Executive Accounting and Finance Sales Customer Service and Support Product Management Marketing Human Resources Trends of Total Sponsorships *2026 ( 31 ) 2025 ( 112 ) 2024 ( 76 ) 2023 ( 65 ) 2022 ( 100 ) 2021 ( 87 ) 2020 ( 187 ) Funding Current Stage Public Company Total Funding $5.61B Key Investors U.S. Department of Commerce European Commission U.S. Department of War 2026-07-29 Grant· $300M 2026-05-27 Post Ipo Secondary 2026-03-11 Post Ipo Secondary· $840M Leadership Team Tom Caulfield CEO Pradheepa Raman Chief People Officer Recent News TechWire Asia More than 10 Applied Materials tools were built in Singapore. Now its advanced packaging lab is expanding 2026-09-28 The Next Web GlobalFoundries reportedly sees strong demand for Chinese optical modules 2026-09-27 Tech Funding News 10 UK quantum computing startups riding Britain’s breakout funding year 2026-09-21 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Data Analytics Lean Manufacturing Continuous Improvement Project Management Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach K Karthik S. Production Control Engineer D Dinesh B. Process Control Engineer Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 63,
+      "machine_rank": 64,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1607,31 +1633,6 @@
       "official_source": false,
       "url": "https://www.amazon.jobs/jobs/10464040/apply",
       "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 64,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; role shape: early-career SWE",
-      "company_priority": "",
-      "company": "WeRide.ai",
-      "role": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-      "category": "AI / Machine Learning",
-      "location": "San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-10",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
-      "jd_excerpt": "Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4 and is the world's first publicly listed autonomous vehicle (AV) company. Its business footprint now spans more than 60 cities across 13 countries. Powered by the intelligent, versatile, and highly adaptable WeRide One platform, the company provides autonomous driving products and services ranging from Level 2 to Level 4, addressing mobility, logistics, and urban services. Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4 and is the world's first publicly listed autonomous vehicle (AV) company. Its business footprint now spans more than 60 cities across 13 countries. Powered by the intelligent, versatile, and highly adaptable WeRide One platform, the company provides autonomous driving products and services ranging from Level 2 to Level 4, addressing mobility, logistics, and urban services. What Happens Next:\n \nWe’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision.\n \nDuring the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process.\n \nWe recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today!\n \n\n\nWeRide.ai offers competitive salary depending on the experience. Employee benefits include:\nPremium Medical, Dental and Vision Plan (No cost from employees or their families)\nFree Daily Breakfast, Lunch and Dinner\nPaid vacations and holidays\n401K plan What Happens Next: We’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision. During the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process. We recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today! WeRide.ai offers competitive salary depending on the experience. Employee benefits include: Premium Medical, Dental and Vision Plan (No cost from employees or their families) Free Daily Breakfast, Lunch and Dinner Paid vacations and holidays 401K plan What you will do: Team Introduction: The AI team is responsible for developing CV/ML algorithms to understand the surroundings of ego vehicles in real time , including obstacle detection, online mapping, and scene understanding. The perception system takes inputs from multiple sensors across time, and outputs various obstacle-level and scene-level understandings for downstream modules such as prediction and planning, etc. In the AI team, you will: Develop and deploy cutting-edge perception and deep learning models, including computer vision models, vision-language and large language models (VLMs and LLMs), for real-time integration into our system. Create and optimize data pipelines for data mining, labeling, training, and evaluation, supporting comprehensive onboard development. Conduct advanced research in perception algorithms to address complex, real-world scenarios, focusing on areas like object detection, segmentation, road understanding, and motion prediction. Leverage multi-modal sensor fusion techniques to build robust architectures tailored for autonomous driving. Qualifications: Currently pursuing a degree in Computer Science, Robotics, or a related field, with an expected graduation date between December 2026 and June 2027. Strong programming experience in C++ or Python. Experienced in one or more of the following areas: machine learning, robotics, computer vision, data mining, LiDAR. Knowledgeable in data structures, 3D geometry, and advanced algorithms. Solid foundation in core robotics principles, including state estimation, 3D reconstruction, and visual odometry. Excellent software and computing fundamentals. Bonus Points: Experience with Large",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1765,6 +1766,31 @@
       "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Qualus",
+      "role": "Power Systems Engineer I - Arc Flash Boot Camp Winter 2027",
+      "category": "Infrastructure / Systems",
+      "location": "West Chester, OH, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-25",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a63d4dd979290281c70471f",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 71,
+      "machine_score": 59,
+      "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
       "company_priority": "Quant",
       "company": "Citadel",
@@ -1787,7 +1813,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1812,7 +1838,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1837,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1862,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1887,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1912,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 77,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1937,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 78,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1962,7 +1988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 79,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1987,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 80,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2012,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 81,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2037,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 82,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2062,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 83,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

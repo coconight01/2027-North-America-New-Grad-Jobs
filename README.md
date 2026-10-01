@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-09-30** · Open roles: **2119**
+> Last automated update: **2026-10-01** · Open roles: **2114**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,17 +18,18 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 105 |
+| **Big Tech & Frontier AI** | 106 |
 | **AI Infra / Systems** | 11 |
-| **Quant / HFT** | 48 |
+| **Quant / HFT** | 47 |
 | **Other high-value tech** | 20 |
-| **ByteDance / TikTok** (separate) | 370 |
-| Other companies | 1565 |
+| **ByteDance / TikTok** (separate) | 372 |
+| Other companies | 1558 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-01 | **Apple** | [Network Engineer - Infrastructure Services, IS&T Early Career](https://jobs.apple.com/en-us/details/200685805-0157/network-engineer-infrastructure-services-is-t-early-career?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-09-30 | **Microsoft** | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557008566) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-09-28 | **Microsoft** | [Cloud Network Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001979) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
@@ -40,7 +41,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
 | 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Austin | ❔ | ❔ Review | — |
-| 2026-08-27 | **Apple** | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=CORSV) | Not listed | Cupertino | ❔ | ❔ Review | — |
 | 2026-08-26 | **Meta** | [Software Engineer - Systems ML - Compilers / Backend](https://www.metacareers.com/jobs/2145505832666693) | Not listed | Sunnyvale, CA +2 | ❔ | ❔ Review | — |
 | 2026-08-25 | **Google** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://jobright.ai/jobs/info/6a8d37002f736c304f2a8fef) | $147K/yr - $210K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-08-25 | **Anthropic** | [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Not listed | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | ❔ | ❔ Review | — |
@@ -54,7 +54,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027) · 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000–$160,000 | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ❔ Review | — |
+| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Crusoe** | [Software Engineer I - DCIE](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Baseten** | [Applied AI Inference Engineer](https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa) | Not listed | Remote - San Francisco, CA +1 | ❔ | ❔ Review | — |
@@ -100,10 +100,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>370 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>372 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-01 | **ByteDance** | [Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start](https://jobright.ai/jobs/info/6abd90274ac55253f5d5e324) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-10-01 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7dd801e51a1e18a240a9f6) | Not listed | San Jose, CA, United States | ❔ | ❔ Review | PhD only |
 | 2026-09-30 | **TikTok** | [Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start](https://jobright.ai/jobs/info/6a71a40ecb96192a36849994) | $128K/yr - $256K/yr | San Jose | ❔ | ✅ Confirmed | — |
 | 2026-09-30 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start (PhD)](https://jobright.ai/jobs/info/6a85dd0a74e02153f1458e39) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-30 | **ByteDance** | [Research Scientist Graduate (Seed Model - Vision) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9835cbdef18223c854dff1) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -114,16 +116,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Vision) - 2027 Start](https://jobright.ai/jobs/info/6abb914e7e39348a2648f0d2) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb8dfc7e39348a2648f044) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb9158c11b83387262f721) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-28 | **TikTok** | [(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start](https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
-| 2026-09-27 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start](https://jobright.ai/jobs/info/6ab8f3543a2ec87116e28072) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 370 active roles. Use the Job Radar for all roles._
+_Showing 12 of 372 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2119 active roles**. Featured groups account for **184** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2114 active roles**. Featured groups account for **184** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
