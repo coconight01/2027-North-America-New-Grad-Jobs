@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 20 |
-| **ByteDance / TikTok** (separate) | 372 |
-| Other companies | 1558 |
+| **ByteDance / TikTok** (separate) | 373 |
+| Other companies | 1557 |
 
 ### Big Tech & Frontier AI
 
@@ -100,11 +100,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>372 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>373 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-10-01 | **ByteDance** | [Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start](https://jobright.ai/jobs/info/6abd90274ac55253f5d5e324) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-10-01 | **TikTok** | [(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a71a422e2b7476e7b20ed8c) | $162K/yr - $317K/yr | San Jose | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-01 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7dd801e51a1e18a240a9f6) | Not listed | San Jose, CA, United States | ❔ | ❔ Review | PhD only |
 | 2026-09-30 | **TikTok** | [Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start](https://jobright.ai/jobs/info/6a71a40ecb96192a36849994) | $128K/yr - $256K/yr | San Jose | ❔ | ✅ Confirmed | — |
 | 2026-09-30 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start (PhD)](https://jobright.ai/jobs/info/6a85dd0a74e02153f1458e39) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -115,9 +116,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Speech) - 2027 Start](https://jobright.ai/jobs/info/6abb918ec11b83387262f72e) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Vision) - 2027 Start](https://jobright.ai/jobs/info/6abb914e7e39348a2648f0d2) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb8dfc7e39348a2648f044) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-29 | **ByteDance** | [Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abb9158c11b83387262f721) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 
-_Showing 12 of 372 active roles. Use the Job Radar for all roles._
+_Showing 12 of 373 active roles. Use the Job Radar for all roles._
 
 </details>
 
