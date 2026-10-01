@@ -26,15 +26,94 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 197,
-    "new_job_candidates": 85,
+    "priority_company_candidates": 198,
+    "new_job_candidates": 109,
     "high_potential_title_candidates": 260
   },
-  "veto_counts": {},
-  "exact_tracked_jobs_removed": 0,
+  "veto_counts": {
+    "explicit 2026-only title": 8,
+    "security-clearance requirement in title": 2,
+    "non-full-time program title": 3
+  },
+  "exact_tracked_jobs_removed": 15,
   "candidates": [
     {
       "machine_rank": 1,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA, United States",
+      "salary": "$146K/yr - $196K/yr",
+      "salary_max_annual": 196000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-01",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6abe9238064da25272e01930",
+      "jd_excerpt": "Master's University Grad Machine Learning Engineer 2027 (USA) @ Pinterest | Jobright.ai SIGN IN JOIN NOW Master's University Grad Machine Learning Engineer 2027 (USA) jobs in United States Overview Company Apply on Employer Site APPLY NOW Pinterest · 2 hours ago Master's University Grad Machine Learning Engineer 2027 (USA) San Francisco, CA +3 more Full-time Hybrid New Grad $146K/yr - $196K/yr Pinterest is a platform that helps people discover creative ideas and plan meaningful experiences. The Machine Learning Engineer will contribute to research and large-scale applied machine learning projects, developing models and recommendation systems for discovery, ads, search, and notifications while independently solving moderately complex problems. Telecom & Communications Social Media Software Internet Photo Sharing Social Bookmarking Social Network Visual Search Comp. & Benefits H1B Sponsor Likely Responsibilities Contribute to cutting-edge research in machine learning and artificial intelligence that can be applied to Pinterest problems Collect, analyze, and synthesize findings from data and build intelligent data-driven model Write clean, efficient, and sustainable code Use machine learning, natural language processing, and graph analysis to solve modeling and ranking problems across discovery, ads and search Design, build, and test models to predict engagement for notifications (push, emails, in-app notifications) Build content recommendation systems to power our push, email, and in-app notifications Work on state-of-the-art large-scale applied machine learning projects Scope and independently solve moderately complex problems Qualification Machine Learning Natural Language Processing Ranking Systems Content Recommendation Systems Big Data Technologies Real-Time Stream Processing Python Java C++ TensorFlow PyTorch MLflow Required Master's in Computer Science, ML, NLP, Statistics, Information Sciences or related field required Machine Learning experience (ranking, computer vision, NLP, content recommendations, embedding, information retrieval etc) Experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data Mastery of at least one systems languages (Java, C++, Python) or one ML framework (Tensorflow, Pytorch, MLFlow) Proficiency with AI-native engineering, including the design of agent-friendly codebases High degree of autonomy in learning new agent-first development tools Strong critical thinking when working with AI-generated suggestions, with a clear approach to validating correctness, performance, security, and maintainability Comfort iterating on prompts, refining workflows, and adapting AI-assisted approaches based on the problem, context, and constraints Experience in research and in solving analytical problems Strong communicator and team player. Being able to find solutions for open-ended problems Benefits The position is also eligible for equity. Flexibility to do your best work. This role may require you to be located near an office for in-person collaboration, and therefore may need to be located a commutable distance from one of our Pinterest offices. Company Pinterest Glassdoor 3.6 Visual inspiration platform for discovering, saving, and shopping ideas. Founded in 2010 San Francisco, California, USA 1001-5000 employees https://www.pinterest.com/ H1B Sponsorship Pinterest has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 88 % Represents job field similar to this job Engineering and Development Product Management Management and Executive Sales Customer Service and Support Accounting and Finance Creatives and Design Marketing Legal and Compliance Human Resources Trends of Total Sponsorships *2026 ( 287 ) 2025 ( 353 ) 2024 ( 309 ) 2023 ( 215 ) 2022 ( 314 ) 2021 ( 202 ) 2020 ( 166 ) Funding Current Stage Public Company Total Funding $2.49B Key Investors Elliott Management Corp. Brandtech Ventures Goldman Sachs Investment Partners,SV Angel,Wellington Management 2026-03-03 Post Ipo Debt· $1B 2022-07-14 Post Ipo Equity 2020-01-01 Post Ipo Equity Leadership Team Julia Brau Donnelly Chief Financial Officer Matt Hogle Vice President of Mid-Market, SMB, and Channel Sales Recent News E27 Pinterest and Shopee link up to bring creator-led shopping to Indonesia 2026-09-26 E27 Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier 2026-09-26 Morningstar.com PACSUN UNVEILS THE YOUTH 25™, HONORING THE CREATORS, ARTISTS, AND ICONS SHAPING THE NEXT GENERATION 2026-09-24 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Machine Learning Natural Language Processing Ranking Syst",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 2,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "University Grad Machine Learning Engineer 2027 (Toronto)",
+      "category": "AI / Machine Learning",
+      "location": "Toronto, ON",
+      "salary": "$135,000—$162,000",
+      "salary_max_annual": 162000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-01",
+      "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027",
+      "jd_excerpt": "University Grad Machine Learning Engineer 2027 (Toronto), Toronto | Pinterest Careers Skip to main content Careers Jobs Locations Locations Go to Locations North America Europe Latin America Asia Pacific Remote Departments Departments Go to Departments Administration Apprenticeship Corporate Strategy Design Engineering Finance Global Content Organization Go-to-Market Solutions & Innovations Government & Corporate Affairs HR IT Legal & Compliance Marketing, Communications, and Creative Product Recruiting Sales Trust & Safety University Workplace tvScientific Early Career Early Career Go to Early Career Apprenticeships University Recruiting Inside Pinterest Inside Pinterest Go to Inside Pinterest Inclusion & Belonging PinFlex Benefits Candidate Hub Candidate Hub Go to Candidate Hub Life at Pinterest Blog Our Philosophy on AI in Hiring Events Saved Jobs Join Talent Community [Open search bar] Keywords: Location: Locations Atlanta Berlin Buenos Aires Chicago Dublin Hamburg Hybrid London Los Angeles Mexico City New York Palo Alto Remote San Francisco Seattle Singapore Tokyo Toronto US US Remote Zurich Search Save Saved University Grad Machine Learning Engineer 2027 (Toronto) Toronto University Regular Share Apply Now Description About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . As a Machine Learning Engineer at Pinterest, you’ll develop and improve machine learning systems that power product experiences and discovery. You’ll partner with engineering, product and design teams to build, evaluate and iterate on scalable solutions that help Pinners find relevant, inspiring content. In this role, you’ll grow your technical expertise while contributing to reliable, high-impact systems. What you’ll do: Conduct applied machine learning research to address product and platform challenges at Pinterest. Collect, analyze and synthesize data to develop data-driven machine learning models. Write maintainable, efficient code and contribute to testing and code-review practices. Apply machine learning techniques, including natural language processing and graph-based approaches, to modeling and ranking challenges across discovery, ads and search. Design, build and test recommendation and engagement-prediction models that improve push, email and in-app notification experiences. Develop and iterate on large-scale applied machine learning systems, using evaluation results to improve model performance and reliability. Scope, implement and deliver solutions for moderately complex ML problems, escalating risks and tradeoffs as needed. Experience applying machine learning or AI concepts through research, coursework, projects or internships. Use AI to accelerate analysis and iteration while applying judgment and verification to ensure correctness and quality. What we’re looking for: Master's in Computer Science, ML, NLP, Statistics, Information Sciences or related field required Machine Learning experience (ranking, computer vision, NLP, content recommendations, embedding, information retrieval etc) Experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data Mastery of at least one systems languages (Java, C++, Python) or one ML framework (Tensorflow, Pytorch, MLFlow) Cross-functional collaborator and strong communicator Comfortable solving ambiguous problems and adapting to a dynamic environment Experience in research and in solving analytical problems This job posting is for an open vacancy. Please note that the company utilizes artificial intelligence to screen applicants for the positions. In-Office Requirement: This onsite internship will be based in our Toronto office requiring a few days in office. Our program will run in a full-time capacity during typical business hours between Monday-Friday. This role will need to be in the office for in-person collaboration 2-3 weekdays per week and therefore needs to be wit",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 3,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Distributed Systems, PyTorch, Kubernetes; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "iManage",
+      "role": "Applied AI Engineer - New or Recent Grad",
+      "category": "AI / Machine Learning",
+      "location": "Chicago, IL",
+      "salary": "$100,000–$130,000 per year",
+      "salary_max_annual": 130000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Recent Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-24",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "http://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad",
+      "jd_excerpt": "Applied AI Engineer (New or Recent Grad) - iManage - Career Page Skip To Job Description View All Jobs View Our Website iManage combines artificial intelligence with content and email management to free, secure, and understand information. Over 3000 companies and 1 million users worldwide rely on our market-leading software to share and protect their most valuable data. Our work is not always easy but it is ambitious and rewarding. So we’re looking for people who love a challenge. People who are happiest when they’re solving problems and collaborating with the industry’s best and brightest. In exchange, we’ll make sure the work you do here is worth doing. That’s the iManage way. It’s how we do things that might appear impossible. How we develop our employees’ strengths and unlock their potential. It’s how we find meaning in everything we do. Whoever you are, whatever you do, however you work. Make it mean something at iManage. Applied AI Engineer (New or Recent Grad) Chicago, IL Full Time Applied AI Student (College) Share Applied AI Engineer Engineering - Chicago - Full Time Flexible: We offer a flexible working policy that supports a healthy balance between personal and professional well-being. This role requires in-office presence on Tuesdays & Thursdays to collaborate, connect, and learn from peers - while also maintaining the flexibility for meaningful work-life balance. Being an Applied AI Engineer at iManage Means… You are early in your career and excited to build and ship AI systems that work at scale in production. You will work within the Applied AI team alongside engineers, data scientists, and product stakeholders - learning from experienced peers as you help develop the AI capabilities that power iManage's enterprise work platform, including Ask iManage, our generative AI document assistant, as well as document classification, extraction, and LLM-driven features that directly impact how knowledge workers search, organize, and understand their most critical information. You bring solid fundamentals, a growth mindset, and a hunger to learn how machine learning, software engineering, and cloud infrastructure come together in real products. iM Responsible For… Contributing to AI systems across the ML lifecycle - from model development and evaluation to production serving — with guidance and mentorship from senior engineers Writing, testing, and maintaining production-quality code for ML/LLM features and APIs Helping build and run evaluations that measure model quality and catch regressions Supporting deployment and monitoring of ML systems on cloud infrastructure, and learning our CI/CD and DevOps practices Collaborating with teammates and product stakeholders, asking good questions, and taking ownership of well-scoped pieces of work Continuously growing your skills through code review, pairing, and best-practice guidance Building internal platform tooling and paved paths that make it faster and safer for the wider team to ship AI systems iM Qualified Because I Have… A Bachelor's degree in Computer Science, Machine Learning, Data Science, Artificial Intelligence, Statistics, or a related field 0-2 years of experience, including internships, research, or substantial coursework/personal projects in ML/AI or software engineering Proficiency in Python and familiarity with modern AI frameworks such as PyTorch and Hugging Face A solid grasp of ML fundamentals, with some hands-on exposure to modern generative AI or transformer architectures Foundational software engineering skills - version control (Git/GitHub) and an understanding of how code gets built and tested The ability to work collaboratively, communicate clearly, and take ownership of your learning A growth mindset and genuine enthusiasm for building AI systems Bonus Points If I Have... Internship experience shipping software or ML features Personal, academic, or open-source projects involving LLMs, RAG, or agentic systems Exposure to containerization (Docker), Kubernetes, or cloud infrastructure (Azure, AWS, or GCP) Coursework or projects in NLP, deep learning, or distributed systems Don't meet every qualification listed above? Studies show that women and people of color are less likely to apply to jobs unless they meet all qualifications. At iManage, we are committed to building a diverse and inclusive environment, and encourage everyone to show up as their full authentic selves. We welcome those that come with a growth mindset and a hunger for learning; so, if you are excited about this role but your past experience doesn't align perfectly with every qualification we encourage you to apply anyways! iM Getting To… Join a rapidly evolving, industry-leading SaaS company on an exciting journey of growth and scalability! Take on meaningful, high-impact challenges by leveraging cutting-edge technologies and best-in-class protocols to drive innovation. Own my career path with our internal development framework. Ask us more about this! Expand my skill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -59,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 2,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: C++, Python, Linux, Networking; role shape: entry-level ML role; $200k+ stated ceiling",
@@ -84,7 +163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 3,
+      "machine_rank": 6,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -109,7 +188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 7,
       "machine_score": 92,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -134,7 +213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -159,7 +238,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -184,7 +263,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -209,7 +288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 11,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -234,7 +313,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 12,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -259,7 +338,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 13,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -284,7 +363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 14,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -309,7 +388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 15,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -334,7 +413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 16,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -359,7 +438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 17,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -384,7 +463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 18,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -409,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 19,
       "machine_score": 84,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -434,7 +513,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 20,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -459,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -484,7 +563,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 22,
+      "machine_score": 79,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "University Grad Software Engineer 2027 (USA)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA, United States",
+      "salary": "$129K/yr - $174K/yr",
+      "salary_max_annual": 174000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-01",
+      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32",
+      "jd_excerpt": "University Grad Software Engineer 2027 (USA) @ Pinterest | Jobright.ai SIGN IN JOIN NOW University Grad Software Engineer 2027 (USA) jobs in United States Overview Company Apply on Employer Site APPLY NOW Pinterest · 4 hours ago University Grad Software Engineer 2027 (USA) United States Full-time Remote New Grad $129K/yr - $174K/yr 1+ years exp Pinterest is a platform that helps people discover creative ideas and plan meaningful experiences. The company is seeking university graduates to join its engineering teams, where they will work with mentors and cross-functional partners to build technologies, features, systems, and tools. Engineers will complete scoped technical projects, deliver quality code, use AI tools in their workflow, and contribute across backend, full stack, mobile, web, and security domains. Telecom & Communications Social Media Software Internet Photo Sharing Social Bookmarking Social Network Visual Search Comp. & Benefits H1B Sponsor Likely Responsibilities Deliver code that is well-documented, tested, and operable Execute scoped technical tasks end-to-end to help build the future of Pinterest Take ownership of the completion, quality, and maintainability of your tasks and projects Leverage AI tools in your daily engineering workflow to accelerate delivery—brainstorming approaches, writing and refining code, and producing clear documentation Collaborate with teammates and cross-functional partners to build products, systems, and tools that support Pinterest Proactively communicate ideas and perspectives with candor, and continue growing professionally through feedback, learning, and development opportunities Contribute to engineering work across backend, full stack, mobile, web, and security domains, depending on team Qualification Programming Artificial Intelligence Data Structures Algorithms Software Design Python Java JavaScript/TypeScript Go C++ React Required Bachelor's or Master's degree in Computer Science or a related technical field, expected by **June** **2027** Must be available to start full-time between January 2027 and September 2027 At least one year of programming experience through internships, research, coursework, teaching, personal projects, open source, or hackathons Familiarity using **AI as a learning, productivity,** and **engineering tool**, and as an iterative coding partner, to accelerate engineering work while exercising strong judgment around accuracy, security, and when to ask for help Strong foundation in computer science fundamentals, including data structures, algorithms, and software design Experience with one or more programming languages such as Python, Java, JavaScript/TypeScript, Go, or C++, and familiarity with relevant frameworks, tools, or technologies such as React or similar. Technical requirements vary by team Strong communication skills and product sense Passion for Pinterest, comfort with ambiguity, and a growth mindset with a willingness to continuously learn Preferred Previous software engineering internship experience strongly preferred Benefits The position is also eligible for equity. Some employees will work in a hybrid model (commutable distance to one of our offices, with in-person collaboration approximately 1–2 times per week), and some will work fully remote within approved locations. Company Pinterest Glassdoor 3.6 Visual inspiration platform for discovering, saving, and shopping ideas. Founded in 2010 San Francisco, California, USA 1001-5000 employees https://www.pinterest.com/ H1B Sponsorship Pinterest has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 88 % Represents job field similar to this job Engineering and Development Product Management Management and Executive Sales Customer Service and Support Accounting and Finance Creatives and Design Marketing Legal and Compliance Human Resources Trends of Total Sponsorships *2026 ( 287 ) 2025 ( 353 ) 2024 ( 309 ) 2023 ( 215 ) 2022 ( 314 ) 2021 ( 202 ) 2020 ( 166 ) Funding Current Stage Public Company Total Funding $2.49B Key Investors Elliott Management Corp. Brandtech Ventures Goldman Sachs Investment Partners,SV Angel,Wellington Management 2026-03-03 Post Ipo Debt· $1B 2022-07-14 Post Ipo Equity 2020-01-01 Post Ipo Equity Leadership Team Julia Brau Donnelly Chief Financial Officer Matt Hogle Vice President of Mid-Market, SMB, and Channel Sales Recent News E27 Pinterest and Shopee link up to bring creator-led shopping to Indonesia 2026-09-26 E27 Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier 2026-09-26 Morningstar.com PACSUN UNVEILS THE YOUTH 25™, HONORING THE CREATORS, ARTISTS, AND ICONS SHAPING THE NEXT GENERATION 2026-09-24 Company data provided by crunchbase Boost Your Interview Chances I",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 23,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -509,32 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
-      "machine_score": 75,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: Python, Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "GlobalFoundries",
-      "role": "Device Compact Modeling Engineer (2027 New College Graduate)",
-      "category": "Other",
-      "location": "Malta, New York, United States",
-      "salary": "$58K/yr - $101K/yr",
-      "salary_max_annual": 101000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-30",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6abc5f42187b1378d873dc85",
-      "jd_excerpt": "Device Compact Modeling Engineer (2027 New College Graduate) @ GlobalFoundries | Jobright.ai SIGN IN JOIN NOW Device Compact Modeling Engineer (2027 New College Graduate) jobs in United States Overview Company Apply on Employer Site APPLY NOW GlobalFoundries · 3 hours ago Device Compact Modeling Engineer (2027 New College Graduate) Malta, NY Full-time Onsite New Grad $58K/yr - $101K/yr GlobalFoundries is a semiconductor manufacturer developing power-efficient and high-performance solutions for growth markets. The Device Compact Modeling Engineer will develop digital, analog, and RF SPICE compact models for CMOS technologies, collaborate with cross-functional technology and design teams, and support internal and external customers with model-related technical issues. Electronics Manufacturing Semiconductor H1B Sponsor Likely Responsibilities Work on SPICE model development projects covering digital, analog, and RF devices for GF CMOS technologies while meeting project timelines and maintaining high-quality standards Drive best practices and standardization in data selection, model extraction, QA, validation, and circuit benchmarking across technology platforms Coordinate cross-functional teams including Device Modeling, Characterization Labs, PDK, Device Engineering, Process Integration, Design Manual, and Test Chip Design/Layout teams to execute model-related projects and resolve issues Stay current on industry trends and advancements in SPICE modeling methodologies and incorporate innovative techniques into model development flows Communicate project progress effectively and provide technical updates to stakeholders Participate in customer engagement activities and provide technical support for compact model questions, investigations, and issue resolution Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs Qualification Semiconductor Device Physics Semiconductor Device Noise and Matching Compact Device Modeling SPICE Model Generation and QA Analog/RF Design Flow Python Perl Machine Learning Artificial Intelligence Test Structure Layout Project Management Required Graduating with a Bachelor's degree in Electrical Engineering, Physics or related field from an accredited degree program Must have at least an overall 3.0 GPA and proven good academic standing Language Fluency - English (Written & Verbal) Fundamental knowledge of semiconductor device physics related to compact modeling of different types of devices Understanding of semiconductor device noise and matching behaviors Preferred Prior related internship or co-op experience Demonstrated prior leadership experience in the workplace, school projects, competitions, etc Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making Project management skills, i.e. the ability to innovate and execute solutions that matter; the ability to navigate ambiguity Strong written and verbal communication skills Strong planning & organizational skills Experience with analog or RF design flow and methodology Coding skills in Python, Perl, or other computing languages Experience in machine learning and artificial intelligence Experience in SPICE model generation and QA flow Experience in test structure layout of individual devices and arrays Benefits Full-time employment paths for recent graduates Accelerated training in a fast-paced work environment Cross-functional working opportunities Talent mobility Mentorship Networking opportunities Leadership opportunities Company GlobalFoundries Glassdoor 3.5 Semiconductor foundry manufacturing integrated circuits in high volume. Founded in 2009 New York, New York, USA 10001+ employees https://gf.com/ H1B Sponsorship GlobalFoundries has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 85 % Represents job field similar to this job Engineering and Development Management and Executive Accounting and Finance Sales Customer Service and Support Product Management Marketing Human Resources Trends of Total Sponsorships *2026 ( 31 ) 2025 ( 112 ) 2024 ( 76 ) 2023 ( 65 ) 2022 ( 100 ) 2021 ( 87 ) 2020 ( 187 ) Funding Current Stage Public Company Total Funding $5.61B Key Investors U.S. Department of Commerce European Commission U.S. Department of War 2026-07-29 Grant· $300M 2026-05-27 Post Ipo Secondary 2026-03-11 Post Ipo Secondary· $840M Leadership Team Tom Caulfield CEO Pradheepa Raman Chief People Officer Recent News TechWire Asia More than 10 Applied Materials tools were built in Singapore. Now its advanced packaging lab is expanding 2026-09-28 The Next Web GlobalFoundries reportedly sees strong demand for Chinese op",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 21,
+      "machine_rank": 24,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -559,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 25,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -584,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 26,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -609,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 27,
       "machine_score": 81,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, Distributed Systems, PyTorch; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -634,7 +713,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 28,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -659,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 29,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -684,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 30,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -709,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 31,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -734,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -759,32 +838,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
-      "machine_score": 58,
+      "machine_rank": 33,
+      "machine_score": 69,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Python; new-grad: confirmed",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Python; role shape: entry-level ML role",
       "company_priority": "",
-      "company": "Formlabs",
-      "role": "SLS Materials Scientist - June 2027 Grads",
+      "company": "edmentum",
+      "role": "Research Scientist - Applied AI Research",
       "category": "Other",
-      "location": "Somerville, MA, United States",
-      "salary": "$75K/yr - $130K/yr",
-      "salary_max_annual": 130000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
+      "location": "USA",
+      "salary": "$90,000 - $100,000",
+      "salary_max_annual": 100000,
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-09-30",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "posted_date": "2026-10-01",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6abc38f73217d1d13329de47",
-      "jd_excerpt": "SLS Materials Scientist - June 2027 Grads @ Formlabs | Jobright.ai SIGN IN JOIN NOW SLS Materials Scientist - June 2027 Grads jobs in United States Overview Company Apply on Employer Site APPLY NOW Formlabs · 3 hours ago SLS Materials Scientist - June 2027 Grads Somerville, MA Full-time Onsite New Grad $75K/yr - $130K/yr Formlabs develops 3D printing tools that enable users to design, prototype, and manufacture physical products. The SLS Materials Scientist will develop and commercialize materials for selective laser sintering, conduct research and rigorous testing, and collaborate with product, hardware, and software teams to optimize material performance and print-system methodologies. 3D Printing Consumer Goods Hardware Manufacturing 3D Technology Consumer Electronics H1B Sponsor Likely Responsibilities Build world-class SLS materials for 3D printing from initial lab explorations to validation and commercialization Lead research that pushes the boundaries of SLS material performance, turning discoveries into next-gen solutions Partner with product, hardware, and software teams to iterate and improve material performance based on customer feedback Develop methodologies to evaluate material formulations in coordination with SLS print systems —balancing material chemistry, thermal dynamics, and printing parameters Qualification Materials Science Polymer Product Development Thermoplastic Engineering Material Commercialization Experimental Design SLS 3D Printing Materials 3D CAD Modeling Python MATLAB SQL Required Experience bringing a new material to market from ideation to production Have a solid understanding of the fundamentals of materials science and polymer product development Hands-on experience in thermo-plastic engineering Passionate about testing and troubleshooting, not afraid to test hundreds of times Love to harness data; can design and conduct rigorous experiments to optimize materials Can work autonomously and take initiative to learn new skills to complete an objective Understand the value of good documentation B.S., M.S., or PhD in a relevant science or engineering field (all are welcome) Preferred Experience developing materials for 3D printing, especially for SLA/DLP or SLS printers! 3D CAD modeling Programming skills (Python, Matlab, SQL, etc) Benefits Robust equity program to build future wealth through RSUs Comprehensive healthcare coverage (Medical, Dental, Vision) 401K matching and access to financial advisors Generous paid Parental Leave (up to 16 weeks) Tenure-based paid Sabbatical Leave (up to 6 weeks) Flexible Out of Office Plan – Take time when you need it Ample on-site parking & pre-tax commuter benefits Healthy on-site lunches, snacks, beverages, & treats Regular sponsored professional development opportunities Many opt-in culture events across our diverse community Unlimited 3D prints Full time employees receive equity, in the form of RSUs Company Formlabs Glassdoor 3.0 Professional SLA and SLS 3D printers and post-processing tools. Founded in 2011 Somerville, Massachusetts, USA 501-1000 employees http://www.formlabs.com H1B Sponsorship Formlabs has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 67 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Accounting and Finance Sales Customer Service and Support Marketing Legal and Compliance Trends of Total Sponsorships *2026 ( 3 ) 2025 ( 20 ) 2024 ( 15 ) 2023 ( 14 ) 2022 ( 14 ) 2021 ( 11 ) 2020 ( 9 ) Funding Current Stage Late Stage Total Funding $253.7M Key Investors SoftBank Vision Fund Vintage Investment Partners New Enterprise Associates 2021-05-19 Series E· $150M 2019-01-01 Series Unknown 2018-08-01 Series D· $15M Leadership Team Maxim Lobovsky Co-founder and CEO Daniel O'Shaughnessy Chief Financial Officer Recent News Mac Daily News Formlabs names former Apple Hardware Chief Dan Riccio strategic advisor amid board reshuffle 2026-08-14 Hackaday Is Now The Time For Volumetric 3D Printing? 2026-07-08 Hackaday OpenCAL: Computed Axial Lithographic 3D Printing For Everyone 2026-06-15 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Materials Science Polymer Product Development Thermoplastic Engineering Material Commercialization Experimental Design Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach C Caitlin D. Head of Workplace & Learning Experience K Kerrie J. Recruiting Lead Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "url": "https://job-boards.greenhouse.io/edmentum/jobs/6211309004",
+      "jd_excerpt": "Job Application for Research Scientist, Applied AI Research at Edmentum Back to jobs New Research Scientist, Applied AI Research United States Apply WHO WE ARE Edmentum is a dynamic educator and student-focused company dedicated to tech-enabled learning solutions. Our goal is to ensure that all students have access to flexible learning environments and educators have the tools they need to support their students. We are on a mission to create innovative, proven learning technology, partnering with educators to ignite student potential. We are a Remote First organization with a strong commitment to excellence, innovation, and customer satisfaction. What You’ll Do As a Research Scientist, you’ll contribute to the design and execution of applied AI research studies that provide evidence of reliability, validity, and fairness for Edmentum’s educational products – particularly those that include AI features. You’ll collaborate with internal teams and external researchers, apply advanced psychometric methods, and help communicate research findings to diverse audiences. In this role you will: Conduct and manage rigorous research using applied AI and psychometric methods that support product development and evaluation. Translate complex research methods and results into clear, accessible formats. Collaborate with internal teams and external researchers to support research execution. Prepare research briefs, technical documents, and presentations. Contribute to conference presentations, journal publications, and white papers. Assist in preparing materials for the Technical Advisory Committee (TAC) and other expert panels. Who You Are: You have a PhD in psychometrics, quantitative psychology, educational measurement, statistics, data science, AI evaluation, or related field. You bring 1+ years of experience conducting applied AI research, ideally related to educational assessment. You are proficient in R, SAS, or Python for large-scale data analysis. You are familiar with IRT, scaling/equating, and methods for quantifying reliability, including generalizability theory. You communicate technical content clearly to non-technical audiences. You collaborate effectively across cross-functional teams. You are knowledgeable about educational assessment design, power analysis, and validity studies. You manage multiple tasks and meet deadlines with ease. You are eager to stay current with methodological advances in research. You are willing to take on evolving responsibilities based on business needs. Job Application Deadline: October 30, 2026 or until filled Pay range for this role: $90,000 - $100,000 USD At Edmentum, we are committed to pay transparency. The salary range provided reflects market research, the responsibilities of the role, and alignment with our compensation principles. Actual compensation will be determined based on multiple factors, including, but not limited to, relevant experience and skill sets. All compensation decisions are individualized and based on the specific circumstances of each candidate. We also offer a comprehensive benefits package to support your overall well-being and work-life balance. This includes medical, dental, and vision insurance with various plan options, a 401(k) retirement plan with company matching, and a time away program, volunteer time away, and a winter office closure at the end of December. Additionally, we provide resources to promote wellness, ensuring you have the support you need both professionally and personally. Our goal is to provide a benefits package that helps you thrive in all aspects of life. Edmentum is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, national origin, ancestry, sex, age, disability, status as a disabled, recently separated, Armed Forces service medal or other protected veteran (“covered veteran”), marital status, status regarding public assistance, sexual orientation or any other characteristic protected by applicable federal, state or local laws. We are dedicated to meeting the needs of individuals with disabilities and to creating an environment that supports our employees' physical and mental health. If you are a qualified individual with a disability or a covered veteran and need a reasonable accommodation to complete any part of the application process, please contact recruiting@edmentum.com . As part of our hiring process, we may use AI-powered tools to support our HR team in reviewing, screening, and managing applications. These tools aim to improve efficiency, consistency, and fairness, but final decisions are made by our people. Applicants' personal information (e.g., resume, cover letter, qualifications, and application responses) may be processed by third-party AI tools for tasks like resume parsing, skills matching, candidate ranking, and interview scheduling. Edmentum’s notice regarding the collection of personal information from int",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 34,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -809,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -834,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 36,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -859,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 37,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -884,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 38,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -909,7 +988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 39,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -934,7 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 40,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -959,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 41,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -984,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 42,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1009,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1034,7 +1113,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 44,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10526808/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 45,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1059,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 46,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1084,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 47,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1109,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 48,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1134,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 49,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1159,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 50,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely",
@@ -1184,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 51,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1209,15 +1313,15 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 52,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch, JAX; new-grad: confirmed",
       "company_priority": "Quant",
       "company": "IMC Trading",
-      "role": "Graduate Machine Learning Researcher - Chicago",
+      "role": "Graduate Deep Learning Researcher - Chicago, New York",
       "category": "Quantitative Finance",
-      "location": "Chicago, United States",
+      "location": "Chicago, United States; New York, United States",
       "salary": "Not listed",
       "salary_max_annual": "",
       "ng_confidence": "Confirmed",
@@ -1234,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 53,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1259,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 54,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1284,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 55,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1309,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 56,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: systems scheduling / planning; skills: Python, Distributed Systems",
@@ -1334,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1359,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1384,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 59,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1409,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 60,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1434,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 61,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1459,7 +1563,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 62,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer - Early Career - Campus",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA +9",
+      "salary": "$123000 - $174000",
+      "salary_max_annual": 174000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-10",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+      "jd_excerpt": "Jobs search — Google Careers Careers Careers Skip navigation links home home Home Home work_outline work_outline Jobs Jobs noogler_hat noogler_hat Students Students google google How we work How we work handyman handyman How we hire How we hire person_outline person_outline Your career Your career help_outline Help link feedback Send feedback more_vert Help Send Feedback Sign in Careers Careers home Home work_outline Jobs expand_more noogler_hat Students expand_more google How we work expand_more handyman How we hire expand_more person_outline Your career expand_more job details arrow_back Back to jobs search Jobs search results 3,369 jobs matched GSRS Commercial Contracts Program Manager Sunnyvale, CA, USA ; Atlanta, GA, USA ; +5 more ; +4 more Staff Forward Deployed Engineer, GenAI, Google Cloud Zürich, Switzerland Commercial Program Manager, Data Center Non-Firm Grid Capacity San Francisco, CA, USA ; Austin, TX, USA ; +3 more ; +2 more Associate Principal Strategist, Trust and Safety, Product Fairness Austin, TX, USA ; Atlanta, GA, USA ; +3 more ; +2 more Senior Technical Program Manager, Edge Technologies Sunnyvale, CA, USA ; Reston, VA, USA Engagement Manager, gTech Ads Atlanta, GA, USA ; Chicago, IL, USA ; +3 more ; +2 more Policy Specialist Hyderabad, Telangana, India ; Gurugram, Haryana, India Technical Program Manager, Google Flow Mountain View, CA, USA ; New York, NY, USA Trust and Safety Analyst, Developer Experience and Ecosystem Programs Atlanta, GA, USA ; Austin, TX, USA ; +2 more ; +1 more Group Product Manager, Generative AI, Google Cloud Sunnyvale, CA, USA Staff Software Engineer, Android Growth Systems and App Foundations London, UK Technical Account Manager II, Google Cloud Consulting Sunnyvale, CA, USA ; San Francisco, CA, USA Software Engineer III, Infrastructure, Internet Egress Traffic Engineering Sunnyvale, CA, USA Senior Leadership Technical Program Manager, Data Intelligence, Core Systems San Jose, CA, USA Staff AI Solution Builder, Cloud Learning Services Austin, TX, USA ; Atlanta, GA, USA ; +3 more ; +2 more Director, Google Cloud Consulting, Professional Services Organization LatAm São Paulo, Brazil AI Technical Delivery Lead, Google Cloud London, UK Senior Network Engineer, Sovereign Operations, Public Sector Reston, VA, USA Senior Product Technology Manager, Cloud Support on Gemini Sunnyvale, CA, USA ; Seattle, WA, USA ; +3 more ; +2 more Account Executive, GCS, New Business Sales (Italian, English) Dublin, Ireland Showing 1 to 20 of 3369 rows 1‑20 of 3369 navigate_next Go to next page Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press open_in_new Related Information Investor relations open_in_new Blog open_in_new Equal Opportunity Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . More about us expand_more Related information expand_more Equal opportunity expand_more Privacy open_in_new Applicant & Candidate Privacy open_in_new Terms open_in_new Manage cookies help Help open_in_new arrow_back Back to jobs search Job not found. This job may have been taken down. Search again Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press open_in_new Related Information Investor relations open_in_new Blog open_in_new Equal Opportunity Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . More about us expand_more Related information expand_more Equal opportunity expand_more Privacy open_in_new Applicant & Candidate Privacy open_in_new Terms open_in_new Manage cookies help Help open_in_new Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press ope",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 63,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1484,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 64,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1509,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1534,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 66,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1559,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 67,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1584,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 68,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1609,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 69,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1634,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1659,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 71,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1684,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1709,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 73,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1734,7 +1863,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1759,7 +1888,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1784,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1809,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 77,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1834,32 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: production LLM agents / tools; skills: C++, Distributed Systems, Networking",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS Agentic AI",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10486378/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 74,
+      "machine_rank": 78,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1884,7 +1988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 79,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1909,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 80,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1934,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 81,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1959,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 82,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1984,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 83,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2009,7 +2113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 84,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2034,7 +2138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 85,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
