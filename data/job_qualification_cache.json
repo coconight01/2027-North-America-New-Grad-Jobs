@@ -16137,7 +16137,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-30",
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a": {
@@ -29756,7 +29756,7 @@
     "salary_max_annual": 110000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-11",
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3a15b959a10d7230d2d9c": {
@@ -29773,6 +29773,22 @@
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-09-11",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6aa3a7b9626f9945308b2317": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "Yes",
+    "salary": "$115K/yr - $130K/yr",
+    "salary_min_annual": 115000,
+    "salary_max_annual": 130000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3ac44c5a856ac7e33adac": {
@@ -29820,7 +29836,7 @@
     "salary_max_annual": 130000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-11",
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3bcebc5a856ac7e33b530": {
@@ -30220,7 +30236,7 @@
     "salary_max_annual": 104000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-09-12",
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa57a0c42411952ff9a8caa": {
@@ -57139,6 +57155,22 @@
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": false,
     "checked_at": "2026-09-23",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-adobe-external-experienced-R172017?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": false,
+    "checked_at": "2026-10-02",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-adobe-external-experienced-R172018?s=gh-new-grad-jobs-2027": {
