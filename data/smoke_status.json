@@ -23,7 +23,7 @@
     },
     "manual_official_status_override": {
       "outcome": "success",
-      "detail": "exact closed-requisition override blocks stale discovery copies without suppressing adjacent roles"
+      "detail": "multiple exact closed-requisition overrides block stale copies without suppressing adjacent roles"
     },
     "pure_hardware_veto": {
       "outcome": "success",

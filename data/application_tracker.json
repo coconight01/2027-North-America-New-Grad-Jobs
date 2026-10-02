@@ -752,10 +752,10 @@
       "role": "New Grads 2027 - Software Engineer, Algorithm",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-09-25",
+      "status_date": "2026-09-30",
       "confidence": "Exact",
-      "evidence": "WeRide recruiting confirmed on 2026-09-25 that Yuhan advanced after the prior virtual onsite and requested availability for the next virtual onsite session; Yuhan replied with evening Pacific availability.",
-      "next_action": "Wait for the next virtual-onsite time confirmation and prepare the algorithm/systems interview."
+      "evidence": "WeRide recruiting confirmed the next virtual onsite for 2026-10-09 at 8:00 PM Pacific / 10:00 PM Central, lasting 45-60 minutes.",
+      "next_action": "Prepare the algorithm/systems virtual onsite for 2026-10-09 at 10:00 PM Central."
     },
     {
       "company": "DRW",
@@ -916,6 +916,26 @@
       "confidence": "Exact",
       "evidence": "SpaceXAI sent an official Ashby confirmation on 2026-09-25 naming Software Engineer, New Grad 2027. This is distinct from the previously rejected MTS - RL Inference requisition.",
       "next_action": "Wait for review; suppress this exact new-grad role only."
+    },
+    {
+      "company": "Apple",
+      "role": "AI Software Engineer, Apple Cloud AI Platform (200686380)",
+      "status": "Applied",
+      "applied_date": "2026-10-02",
+      "status_date": "2026-10-02",
+      "confidence": "Exact",
+      "evidence": "Apple Worldwide Recruiting sent an official confirmation on 2026-10-02 naming AI Software Engineer, Apple Cloud AI Platform and requisition 200686380.",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "Amazon Annapurna Labs",
+      "role": "Software Development Engineer I, ML Infra Services (10464055)",
+      "status": "Rejected",
+      "applied_date": "2026-09-28",
+      "status_date": "2026-09-30",
+      "confidence": "Exact",
+      "evidence": "Amazon sent an exact-role application confirmation on 2026-09-28 and an official status update on 2026-09-30 naming Software Development Engineer I, ML Infra Services, Annapurna Labs (ID 10464055) and declining the application.",
+      "next_action": "Closed after rejection; do not recommend this exact requisition again."
     }
   ]
 }
