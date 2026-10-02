@@ -194,10 +194,13 @@ def test_manual_official_status_override() -> str:
         "url": "https://cached.example/jobs/JR2026218",
     })
     assert hard_veto(stale) == "manual official-status override: closed/unavailable"
+    second_stale = dict(stale)
+    second_stale.update({"role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "url": "https://example.com/JR2026011"})
+    assert hard_veto(second_stale) == "manual official-status override: closed/unavailable"
     adjacent = dict(stale)
-    adjacent.update({"role": "AI Compiler Engineer - New College Grad 2027 (JR2026011)", "url": "https://example.com/JR2026011"})
+    adjacent.update({"role": "AI Compiler Engineer - New College Grad 2027 (JR2026012)", "url": "https://example.com/JR2026012"})
     assert not hard_veto(adjacent)
-    return "exact closed-requisition override blocks stale discovery copies without suppressing adjacent roles"
+    return "multiple exact closed-requisition overrides block stale copies without suppressing adjacent roles"
 
 
 def test_pure_hardware_veto() -> str:
