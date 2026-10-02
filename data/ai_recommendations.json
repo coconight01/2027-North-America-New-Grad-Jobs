@@ -110,10 +110,10 @@
     },
 
     {
-      "rank": 5, "tier": "secondary", "company": "SingleStore", "role": "Software Engineer - New Grad 2027 (8205389)", "status": "RECENT", "fit": "3.8/5 · distributed database / systems hedge",
-      "why_screen": "OS, concurrency, algorithms and distributed-system research are strong; recent C++ depth is the gap.", "why_team": "Schedulers, fault tolerance and performance debugging transfer to distributed SQL.", "why_interest": "Deep distributed-systems fundamentals with long-term infrastructure value.",
+      "rank": 5, "tier": "secondary", "company": "SingleStore", "role": "Software Engineer - Helios - New Grad 2027 (8205389)", "status": "RECENT", "fit": "3.7/5 · cloud control-plane / distributed database hedge",
+      "why_screen": "OS, concurrency, multithreading, server architecture, algorithms and distributed-systems research fit the fundamentals; JavaScript/TypeScript/Go is the language-stack gap.", "why_team": "Helios builds a hybrid-cloud control plane that autonomously manages high-performance distributed databases, so scheduling, reliability and systems debugging transfer well.", "why_interest": "Useful production distributed-systems training with real cloud control-plane ownership.",
       "location": "United States", "salary": "Unknown", "new_grad": "Bachelor's minimum; no professional-years requirement.",
-      "sponsorship": "Unknown.", "caveat": "Strong C or C++ is required; some teams are query/compiler-heavy.", "urgency": "Active new-grad requisition; rolling.",
+      "sponsorship": "Unknown; the application asks whether sponsorship is required but states no policy.", "caveat": "The required language stack is JavaScript/TypeScript/Go and the role is database/cloud infrastructure rather than MLSys.", "urgency": "Active official Apply page verified October 2; rolling.",
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
     },
     {
