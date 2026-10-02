@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-01** · Open roles: **2147**
+> Last automated update: **2026-10-02** · Open roles: **2152**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 107 |
 | **AI Infra / Systems** | 11 |
 | **Quant / HFT** | 46 |
-| **Other high-value tech** | 23 |
-| **ByteDance / TikTok** (separate) | 384 |
-| Other companies | 1576 |
+| **Other high-value tech** | 25 |
+| **ByteDance / TikTok** (separate) | 386 |
+| Other companies | 1577 |
 
 ### Big Tech & Frontier AI
 
@@ -35,8 +35,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-28 | **Microsoft** | [Cloud Network Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001979) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-09-23 | **Amazon** | [Security Engineer – 2027 (US)](https://jobright.ai/jobs/info/6ab31a2578c69ff506c425c0) | $152K/yr - $152K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-20 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-19 | **NVIDIA** | [AI Compiler Engineer- New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) | $172k/yr | Remote - Santa Clara, CA +2 | ❔ | ✅ Confirmed | — |
+| 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | $242k/yr | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
 | 2026-08-28 | **Meta** | [AI Design Generalist](https://www.metacareers.com/jobs/2514988162259403) | Not listed | Sunnyvale, CA +1 | ❔ | ❔ Review | — |
@@ -88,8 +88,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-10-01 | **Pinterest** | [Master's University Grad Machine Learning Engineer 2027 (USA)](https://jobright.ai/jobs/info/6abe9238064da25272e01930) | $146K/yr - $196K/yr | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-01 | **Pinterest** | [University Grad Machine Learning Engineer 2027 (Toronto)](https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027) | $135,000—$162,000 | Toronto, ON | ❔ | ✅ Confirmed | — |
+| 2026-10-02 | **Pinterest** | [Master's University Grad Machine Learning Engineer 2027 (USA)](https://www.pinterestcareers.com/jobs?gh_jid=8140219) | $146,000—$196,000 | San Francisco, CA, US +3 | ❔ | ✅ Confirmed | — |
+| 2026-10-02 | **Pinterest** | [PhD University Grad Data Scientist 2027 (USA)](https://www.pinterestcareers.com/jobs?gh_jid=8157351) | $147,000—$194,000 | San Francisco, CA, US +3 | ❔ | ✅ Confirmed | — |
 | 2026-09-29 | **Snap** | [Software Engineer - Android - Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q326SWEA2-2) | $195k/yr | Los Angeles, CA +3 | ❔ | ❔ Review | — |
 | 2026-09-29 | **Snap** | [Software Engineer - C++ - Level 3](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--C----Level-3_R0046951-1) | $195k/yr | Los Angeles, CA | ❔ | ❔ Review | — |
 | 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
@@ -102,10 +102,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>384 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>386 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-02 | **ByteDance** | [Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6abea9610e027c0f3b39a074) | $207K/yr - $368K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
+| 2026-10-02 | **ByteDance** | [Research Scientist Graduate (Multimedia Standards) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abef460064da25272e03d58) | Not listed | San Diego, CA, United States | ❔ | ◐ Likely | PhD only |
 | 2026-10-01 | **ByteDance** | [Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start](https://jobright.ai/jobs/info/6abd90274ac55253f5d5e324) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-01 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7673632479987992837?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 | 2026-10-01 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7670355132899526965?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | — |
@@ -116,16 +118,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-01 | **ByteDance** | [Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7623550778255165701?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-01 | **ByteDance** | [Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7673264681083898165?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-01 | **ByteDance** | [Production System Engineer Graduate (Server Management) - 2027 Start](https://zapply.jobs/l/d/bytedance-7667619805899966725?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | New York, New York | ❔ | ◐ Likely | — |
-| 2026-10-01 | **ByteDance** | [Sourcing Specialist Graduate (Supply Chain Management) - 2027 Start](https://zapply.jobs/l/d/bytedance-7667274521334335797?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | — |
-| 2026-10-01 | **ByteDance** | [Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7668365756950137141?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
 
-_Showing 12 of 384 active roles. Use the Job Radar for all roles._
+_Showing 12 of 386 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2147 active roles**. Featured groups account for **187** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2152 active roles**. Featured groups account for **189** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
