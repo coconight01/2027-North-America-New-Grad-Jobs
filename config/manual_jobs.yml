@@ -108,3 +108,57 @@ jobs:
     status: Open
     match: "Official Early Career full-time role; accessible requirements state 0-2 years; exact 2027 start timing is not stated"
     description: "Build and deploy applied-AI systems for institutional workflows using modern ML frameworks and agentic approaches. Exact official Ashby requisition is live. Compensation and sponsorship are not stated; no explicit citizenship or clearance restriction was found."
+
+  - company: Cerebras
+    role: AI Inference Core - Software Integration Engineer
+    category: ML Systems / Inference Infrastructure
+    location: Sunnyvale, CA; Toronto, ON
+    country: United States; Canada
+    graduation: "2027 eligible (exceptional junior engineers explicitly welcomed)"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: Unknown
+    salary_min_annual: ""
+    salary_max_annual: ""
+    phd_required: "No"
+    personalized_score: 99
+    priority: Top
+    personalized_reason: "Cross-stack inference debugging, distributed systems, profiling, runtime and AI-infrastructure work directly match NCCL, multi-GPU, vLLM cold-start and Linux performance experience"
+    skills: "Python, C++, Go, Distributed Systems, LLM Inference, Profiling, Linux, Containers, Orchestration"
+    url: https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/
+    source: "Manual official verification: Cerebras Ashby"
+    date_added: "2026-10-03"
+    last_verified: "2026-10-03"
+    status: Open
+    match: "Official full-time role explicitly welcomes exceptional junior engineers and accepts internships, research, academic projects or open source as systems evidence"
+    description: "Integrate and debug AI inference workloads across frameworks, runtime, compiler, kernels, distributed systems and infrastructure. Preferred experience includes compute clusters, LLM/AI infrastructure, profiling/observability, microservices, containers, orchestration or HPC. Hybrid three days per week in Sunnyvale or Toronto; remote is not offered. No numeric professional-experience minimum is stated."
+
+  - company: Microsoft
+    role: Software Engineer - Forward Deployed Engineer (200057324)
+    category: AI / Backend Software Engineering
+    location: Redmond, WA
+    country: United States
+    graduation: "2027 eligible (BS required; current MS preferred)"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: "$85400 - $168100 annually"
+    salary_min_annual: 85400
+    salary_max_annual: 168100
+    phd_required: "No"
+    personalized_score: 93
+    priority: High
+    personalized_reason: "Production AI/data systems, Python, cloud integration and customer-facing end-to-end delivery align with TikTok agent engineering and research systems work"
+    skills: "Python, C++, Java, Cloud, AI, Data Pipelines, Backend Systems"
+    url: https://apply.careers.microsoft.com/careers/job/1970393557004814
+    source: "Manual official verification: Microsoft Careers"
+    date_added: "2026-10-03"
+    last_verified: "2026-10-03"
+    status: Open
+    match: "IC2 full-time role; bachelor's or equivalent required with no professional-years minimum; internships, projects and coursework are preferred evidence"
+    description: "Build production-grade AI, data and software solutions with customers and internal product teams. Redmond-based with three days per week in office and under 25% travel. Official US base range is $85,400-$168,100. The exact posting does not state a sponsorship policy."
