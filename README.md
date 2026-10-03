@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-03** · Open roles: **2184**
+> Last automated update: **2026-10-03** · Open roles: **2185**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -19,7 +19,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Group | Active roles |
 |---|---:|
 | **Big Tech & Frontier AI** | 105 |
-| **AI Infra / Systems** | 11 |
+| **AI Infra / Systems** | 12 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 28 |
 | **ByteDance / TikTok** (separate) | 390 |
@@ -51,6 +51,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-03 | **Cerebras** | [AI Inference Core - Software Integration Engineer](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Unknown | Sunnyvale, CA; Toronto, ON | ❔ | ❔ Review | — |
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027) · 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000–$160,000 | San Francisco | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
@@ -125,7 +126,7 @@ _Showing 12 of 390 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2184 active roles**. Featured groups account for **191** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2185 active roles**. Featured groups account for **192** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

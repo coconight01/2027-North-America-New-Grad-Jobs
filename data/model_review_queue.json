@@ -26,44 +26,19 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 201,
-    "new_job_candidates": 144,
-    "high_potential_title_candidates": 261
+    "priority_company_candidates": 202,
+    "new_job_candidates": 143,
+    "high_potential_title_candidates": 262
   },
   "veto_counts": {
     "explicit 2026-only title": 4,
     "non-full-time program title": 4,
     "security-clearance requirement in title": 2
   },
-  "exact_tracked_jobs_removed": 15,
+  "exact_tracked_jobs_removed": 21,
   "candidates": [
     {
       "machine_rank": 1,
-      "machine_score": 100,
-      "machine_tier": "Top",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Pinterest",
-      "role": "Master's University Grad Machine Learning Engineer 2027 (USA)",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA, US +3",
-      "salary": "$146,000—$196,000",
-      "salary_max_annual": 196000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-02",
-      "source": "GitHub:ricsign/Ricsign-New-Grads-Jobs-2027:boards/NEW_GRAD_SWE.md",
-      "official_source": false,
-      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140219",
-      "jd_excerpt": "Master's University Grad Machine Learning Engineer 2027 (USA), San Francisco + 3 other locations | Pinterest Careers Skip to main content Careers Jobs Locations Locations Go to Locations North America Europe Latin America Asia Pacific Remote Departments Departments Go to Departments Administration Apprenticeship Corporate Strategy Design Engineering Finance Global Content Organization Go-to-Market Solutions & Innovations Government & Corporate Affairs HR IT Legal & Compliance Marketing, Communications, and Creative Product Recruiting Sales Trust & Safety University Workplace tvScientific Early Career Early Career Go to Early Career Apprenticeships University Recruiting Inside Pinterest Inside Pinterest Go to Inside Pinterest Inclusion & Belonging PinFlex Benefits Candidate Hub Candidate Hub Go to Candidate Hub Life at Pinterest Blog Our Philosophy on AI in Hiring Events Saved Jobs Join Talent Community [Open search bar] Keywords: Location: Locations Atlanta Berlin Buenos Aires Chicago Dublin Hamburg Hybrid London Los Angeles Mexico City New York Palo Alto Remote San Francisco Seattle Singapore Tokyo Toronto US US Remote Zurich Search Save Saved Master's University Grad Machine Learning Engineer 2027 (USA) San Francisco / Palo Alto / Seattle / New York University Regular Share Apply Now Description About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . With more than 640 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers help build personalized experiences to help Pinners create a life they love. At Pinterest, you’ll experience hands-on access to an incredible vault of data and contribute large-scale recommendation systems in ways you won’t find anywhere else. By applying to this role, you will be considered for multiple roles open across our various ML teams. Please only apply once within the USA or Canada as multiple applications may delay our recruitment process. This is a general posting for multiple roles open across our various ML teams. You will have the opportunity to work on a very large scope of problems in recommender systems, search, ads, ranking, natural language processing, graph representation learning, personalization, etc. As a Machine Learning Engineer at Pinterest, you’ll work on tackling new challenges in machine learning and artificial intelligence. As you kickstart your career at Pinterest, you’ll join our engineering teams as we maneuver through exponential growth and massive scale while building awesome products and features, creating visually rich experiences, spearheading the discovery problem, and pinpointing tomorrow’s engineering challenges. What you’ll do: Contribute to cutting-edge research in machine learning and artificial intelligence that can be applied to Pinterest problems Collect, analyze, and synthesize findings from data and build intelligent data-driven model Write clean, efficient, and sustainable code Use machine learning, natural language processing, and graph analysis to solve modeling and ranking problems across discovery, ads and search Design, build, and test models to predict engagement for notifications (push, emails, in-app notifications) Build content recommendation systems to power our push, email, and in-app notifications Work on state-of-the-art large-scale applied machine learning projects Scope and independently solve moderately complex problems What we’re looking for: Master's in Computer Science, ML, NLP, Statistics, Information Sciences or related field required Machine Learning experience (ranking, computer vision, NLP, content recommendations, embedding, information retrieval etc) Experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data Mastery of at least one systems languages (Java, C++, Python) or one ML framework (Tensorflow, Pytorch, MLFlow) Proficiency with AI-native engineering,",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -88,7 +63,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 3,
+      "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Distributed Systems, PyTorch, Kubernetes; role shape: entry-level ML role; new-grad: confirmed",
@@ -113,7 +88,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 3,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -138,7 +113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -163,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
@@ -188,7 +163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; role shape: systems/performance role; new-grad: confirmed",
@@ -213,7 +188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -238,7 +213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Applied LLM / Agents; resume overlap: production LLM agents / tools, systems scheduling / planning; skills: C++, Python, Linux, Networking; role shape: entry-level ML role; $200k+ stated ceiling",
@@ -263,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -288,7 +263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -313,7 +288,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 11,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -338,7 +313,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 12,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -363,7 +338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 13,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -388,7 +363,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 14,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -413,7 +388,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 15,
       "machine_score": 92,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -438,7 +413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 16,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -463,7 +438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 17,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -488,7 +463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 18,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -513,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 85,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python, PyTorch, Kubernetes; role shape: entry-level ML role; new-grad: likely",
@@ -538,7 +513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 20,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python, PyTorch, JAX; role shape: early-career SWE; new-grad: confirmed",
@@ -563,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -713,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -738,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; new-grad: confirmed",
@@ -763,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed",
@@ -788,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -813,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 31,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -838,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 32,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -863,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -938,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -963,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -988,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 38,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1008,6 +983,31 @@
       "official_source": true,
       "url": "https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer",
       "jd_excerpt": "2027 University Graduate - Machine Learning Engineer in San Jose, California, United States of America | Engineering and Product at Adobe We're sorry… the job you are trying to apply for has been filled. Maybe you would like to consider the Categories below : Card text Stay in the loop. Join a community of innovators and get early access to opportunities, insider insights, and exclusive updates on life at Adobe. Join our talent community Widget title goes here Your engaging subtitle goes here. This text should capture attention and provide a brief overview of what follows. Learn more Meta card 1 Title card 1 A brief description highlighting the key message or action users can take Learn more Meta card 2 Title card 2 A brief description highlighting the key message or action users can take Learn more Meta card 3 Title card 3 A brief description highlighting the key message or action users can take Learn more Your engaging footer subtitle goes here Learn more Career Site Cookie Settings Personal Information Shop for Creative Cloud Photoshop Photography Premiere Pro Adobe Express Adobe Stock Elements Family Document Cloud Acrobat Acrobat Sign Special offers View plans and pricing View all products For business Creative Cloud for teams Creative Cloud for enterprise Document Cloud for business For education Discounts for students and teachers Schools and universities Digital Learning Solutions For mobile Apps for iOS Apps for Android Experience Cloud What is Experience Cloud? Analytics Experience Manager Commerce Marketo Engage Workfront Support Download and install Help Center Adobe Support Community Enterprise Support Genuine software Resources Adobe Blog Adobe Developer Adobe Account Log in to your account Adobe About Careers Newsroom Corporate responsibility Investor Relations Supply chain Trust Center Events Adobe for All Integrity Featured Downloads Adobe Acrobat Reader Photoshop Illustrator Copyright © 2022 Adobe. All rights reserved. Privacy Terms of Use Cookie preferences Do not sell my personal information AdChoices Shop for Creative Cloud Photoshop Photography Premiere Pro Adobe Express Adobe Stock Elements Family Document Cloud Acrobat Acrobat Sign Special offers View plans and pricing View all products For business Creative Cloud for teams Creative Cloud for enterprise Document Cloud for business For education Discounts for students and teachers Schools and universities Digital Learning Solutions For mobile Apps for iOS Apps for Android Experience Cloud What is Experience Cloud? Analytics Experience Manager Commerce Marketo Engage Workfront Support Download and install Help Center Adobe Support Community Enterprise Support Genuine software Resources Adobe Blog Adobe Developer Adobe Account Log in to your account Adobe About Careers Newsroom Corporate responsibility Investor Relations Supply chain Trust Center Events Adobe for All Integrity Featured Downloads Adobe Acrobat Reader Photoshop Illustrator Copyright © 2022 Adobe. All rights reserved. Privacy Terms of Use Cookie preferences Do not sell my personal information AdChoices 1483f1babf554e629715d74f227c6462",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 39,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "PhD University Grad Data Scientist 2027 (USA)",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA, US +3",
+      "salary": "$147,000—$194,000",
+      "salary_max_annual": 194000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "GitHub:ricsign/Ricsign-New-Grads-Jobs-2027:boards/NEW_GRAD_SWE.md",
+      "official_source": false,
+      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8157351",
+      "jd_excerpt": "PhD University Grad Data Scientist 2027 (USA), San Francisco + 3 other locations | Pinterest Careers Skip to main content Careers Jobs Locations Locations Go to Locations North America Europe Latin America Asia Pacific Remote Departments Departments Go to Departments Administration Apprenticeship Corporate Strategy Design Engineering Finance Global Content Organization Go-to-Market Solutions & Innovations Government & Corporate Affairs HR IT Legal & Compliance Marketing, Communications, and Creative Product Recruiting Sales Trust & Safety University Workplace tvScientific Early Career Early Career Go to Early Career Apprenticeships University Recruiting Inside Pinterest Inside Pinterest Go to Inside Pinterest Inclusion & Belonging PinFlex Benefits Candidate Hub Candidate Hub Go to Candidate Hub Life at Pinterest Blog Our Philosophy on AI in Hiring Events Saved Jobs Join Talent Community [Open search bar] Keywords: Location: Locations Atlanta Berlin Buenos Aires Chicago Dublin Hamburg Hybrid London Los Angeles Mexico City New York Palo Alto Remote San Francisco Seattle Singapore Tokyo Toronto US US Remote Zurich Search Save Saved PhD University Grad Data Scientist 2027 (USA) San Francisco / Palo Alto / Seattle / New York University Regular Share Apply Now Description About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . With more than 640 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers help build personalized experiences to help Pinners create a life they love. At Pinterest, you’ll experience hands-on access to an incredible vault of data and contribute large-scale recommendation systems in ways you won’t find anywhere else. By applying to this role, you will be considered for multiple roles open across our various data science teams. We’re looking for a Data Scientist to help evolve and shape the future of our product -- inspiring Pinners and connecting them with actionable content, understanding advertisers and measuring the value Pinterest provides to them, and enabling our employees to evaluate potential product changes faster than ever before. You’ll apply quantitative analysis, statistical techniques, modeling and data mining while working cross-functionally with engineering and product partners. The results of your work will influence the team roadmap, identify actionable product opportunities, refine our experimentation platform, and drive key initiatives, turning your insights and analyses into real-world products. What you’ll do: Contribute to our product roadmap and mission - to bring everyone the inspiration to create a life they love - using data and exploratory analysis to understand user behavior and trends, and identify opportunities for product innovation. Design and implement core metrics that guide the team efforts and help design and evaluate A/B experiments that drive these metrics. Explore alternative experimentation techniques to help internal teams evaluate their ideas faster. Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest. What we’re looking for: PhD degree in statistics, mathematics, economics, applied sciences, computer science or related field. Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL and a scripting language (Python or R) experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields Excellent communication skills and the ability to explain learnings to both technical and non-technical partners Strong critical thinking when working with AI-generated suggestions, with a clear approach to validating correctness, performance, security, and maintainabilit",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"

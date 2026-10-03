@@ -37709,6 +37709,22 @@
     "checked_at": "2026-09-26",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Unknown",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-03",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -57573,6 +57589,22 @@
     "checked_at": "2026-09-21",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/greenhouse-astranis-4704282006?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Yes",
+    "sponsorship": "Unknown",
+    "visa_evidence": "must be a U.S. citizen",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "citizenship/security-clearance requirement",
+    "source_fetched": true,
+    "checked_at": "2026-10-03",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/greenhouse-astranis-4705617006?s=gh-new-grad-software-engineering-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -59907,6 +59939,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-16",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR351508?s=gh-internships-2027": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": false,
+    "checked_at": "2026-10-03",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR351508?s=gh-new-grad-jobs-2027": {
