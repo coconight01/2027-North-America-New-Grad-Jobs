@@ -4286,7 +4286,7 @@
     "salary_max_annual": "171000",
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-09-25",
+    "checked_at": "2026-10-03",
     "parser_version": 4
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/5208962007?gh_jid=5208962007": {
@@ -16617,7 +16617,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-02",
+    "checked_at": "2026-10-03",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a6b736dca1f9338465fa69a": {
@@ -19069,6 +19069,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-26",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a73f276e55c73319eb19c7b": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$122K/yr - $243K/yr",
+    "salary_min_annual": 122000,
+    "salary_max_annual": 243000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-03",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a73f28fe55c73319eb19c80": {
@@ -21808,8 +21824,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8088bbad9ff00c26bb2ad7": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -21819,7 +21835,7 @@
     "salary_min_annual": "58000",
     "salary_max_annual": "101000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-10-03",
     "parser_version": 4
   },
@@ -36237,6 +36253,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-01",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6abe9b370e027c0f3b399c3a": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$66K/yr - $99K/yr",
+    "salary_min_annual": 66000,
+    "salary_max_annual": 99000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-03",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abea9610e027c0f3b39a074": {
@@ -58645,6 +58677,22 @@
     "checked_at": "2026-09-17",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000123215?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-03",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000123215?s=gh-new-grad-software-engineering-jobs-2027": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -59874,6 +59922,22 @@
     "salary_max_annual": "",
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
+    "checked_at": "2026-10-03",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-santander-santandercareers-Req1600119?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
     "checked_at": "2026-10-03",
     "parser_version": 4
   },
