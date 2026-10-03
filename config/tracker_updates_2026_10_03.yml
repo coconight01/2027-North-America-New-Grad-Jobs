@@ -1,0 +1,28 @@
+# Exact application evidence reconciled on 2026-10-03.
+updates:
+  - company: Pinterest
+    role: "Master's University Grad Machine Learning Engineer 2027 (USA) (8140219)"
+    status: Applied
+    applied_date: "2026-10-02"
+    status_date: "2026-10-02"
+    confidence: Exact
+    evidence: "Pinterest sent an official application confirmation on 2026-10-02 naming Master's University Grad Machine Learning Engineer 2027 (USA). The verified official requisition is 8140219."
+    next_action: "Wait for review; suppress this exact requisition from actionable recommendations."
+
+  - company: DoorDash
+    role: "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US (8163709)"
+    status: Applied
+    applied_date: "2026-10-02"
+    status_date: "2026-10-02"
+    confidence: Exact
+    evidence: "DoorDash sent an official Greenhouse confirmation on 2026-10-02 naming Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US. The verified official requisition is 8163709."
+    next_action: "Wait for review; suppress this exact requisition from actionable recommendations."
+
+  - company: SpaceXAI
+    role: "Software Engineer, New Grad 2027"
+    status: Applied
+    applied_date: "2026-09-25"
+    status_date: "2026-09-25"
+    confidence: Exact
+    evidence: "SpaceXAI sent an official Ashby confirmation naming Software Engineer, New Grad 2027. The live Cursor posting uses the same exact title and says the hiring pool joins SpaceXAI software-engineering teams, including Cursor and Cloud Agents, so this is the same application rather than a separate unapplied Cursor requisition."
+    next_action: "Wait for review; suppress the Cursor/SpaceXAI Software Engineer, New Grad 2027 pool from actionable recommendations."
