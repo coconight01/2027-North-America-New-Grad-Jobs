@@ -4526,7 +4526,7 @@
     "salary_max_annual": "171000",
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-09-26",
+    "checked_at": "2026-10-04",
     "parser_version": 4
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/5216691007?gh_jid=5216691007": {
@@ -36959,6 +36959,22 @@
     "checked_at": "2026-10-03",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ac265a6d9621c5b2839a0be": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$128K/yr - $317K/yr",
+    "salary_min_annual": 128000,
+    "salary_max_annual": 317000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-04",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -46761,6 +46777,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-27",
+    "parser_version": 4
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer_JR2026967-1": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$172k/yr",
+    "salary_min_annual": "172000",
+    "salary_max_annual": "172000",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-04",
     "parser_version": 4
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517": {
@@ -59699,6 +59731,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-29",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-finra-finra-R-010296?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-04",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604189?s=gh-new-grad-jobs-2027": {
