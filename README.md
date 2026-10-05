@@ -18,24 +18,24 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 108 |
+| **Big Tech & Frontier AI** | 109 |
 | **AI Infra / Systems** | 12 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 31 |
 | **ByteDance / TikTok** (separate) | 393 |
-| Other companies | 1622 |
+| Other companies | 1621 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-05 | **NVIDIA** | [NVIDIA 2027 Ignite Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-10-04 | **NVIDIA** | [AI Developer Technology Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer_JR2026967-1) | $172k/yr | Remote - Santa Clara, CA +5 | ❔ | ❔ Review | — |
 | 2026-10-03 | **Amazon** | [Software Dev Engineer - AWS ECS](https://www.amazon.jobs/jobs/10568315/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-10-03 | **Microsoft** | [Software Engineer Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-10-02 | **Microsoft** | [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557004814) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
 | 2026-10-01 | **Apple** | [Network Engineer - Infrastructure Services, IS&T Early Career](https://jobs.apple.com/en-us/details/200685805-0157/network-engineer-infrastructure-services-is-t-early-career?team=SFTWR) | Not listed | Austin | ❔ | ✅ Confirmed | — |
 | 2026-10-01 | **Amazon** | [Front End Engineer - Amazon Quick](https://www.amazon.jobs/jobs/10565709/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-09-22 | **NVIDIA** | [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d) | $108K/yr - $178K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | $242k/yr | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
@@ -127,7 +127,7 @@ _Showing 12 of 393 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2213 active roles**. Featured groups account for **198** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2213 active roles**. Featured groups account for **199** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

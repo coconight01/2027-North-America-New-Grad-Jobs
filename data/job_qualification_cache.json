@@ -21004,7 +21004,7 @@
     "salary_max_annual": 98800,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-04",
+    "checked_at": "2026-10-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7cb71877d5f033c4b902cf": {
@@ -33143,12 +33143,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$107K/yr - $158K/yr",
-    "salary_min_annual": "107000",
-    "salary_max_annual": "158000",
+    "salary": "$107400-$158000/yr",
+    "salary_min_annual": 107400,
+    "salary_max_annual": 158000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-09-29",
+    "checked_at": "2026-10-05",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab14f33f9692ca98b048a76": {
@@ -36973,6 +36973,38 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-10-04",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac37ee2d9621c5b2839cbaf": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$128K/yr - $317K/yr",
+    "salary_min_annual": 128000,
+    "salary_max_annual": 317000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-05",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac3a8e50e027c0f3b3a6c19": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$86K/yr - $88K/yr",
+    "salary_min_annual": 86000,
+    "salary_max_annual": 88000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-05",
     "parser_version": 4
   },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
@@ -46729,6 +46761,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-22",
+    "parser_version": 4
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-05",
     "parser_version": 4
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742": {
