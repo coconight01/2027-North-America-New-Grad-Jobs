@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-04** · Open roles: **2213**
+> Last automated update: **2026-10-05** · Open roles: **2213**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 108 |
 | **AI Infra / Systems** | 12 |
 | **Quant / HFT** | 47 |
-| **Other high-value tech** | 30 |
+| **Other high-value tech** | 31 |
 | **ByteDance / TikTok** (separate) | 393 |
-| Other companies | 1623 |
+| Other companies | 1622 |
 
 ### Big Tech & Frontier AI
 
@@ -97,6 +97,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career · 2027](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-08-05 | **Roblox** | [[[2027] Software Engineer, Early Career](https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94?utm_campaign=Software%20Engineering&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-06-29 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | $135,000–$145,000/year | Chicago, IL | ❔ | ✅ Confirmed | — |
 | 2026-06-25 | **Palantir** | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | $135,000–$145,000/year | New York, NY | ❔ | ✅ Confirmed | — |
@@ -126,7 +127,7 @@ _Showing 12 of 393 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2213 active roles**. Featured groups account for **197** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2213 active roles**. Featured groups account for **198** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
