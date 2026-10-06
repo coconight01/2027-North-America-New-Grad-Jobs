@@ -37151,6 +37151,38 @@
     "checked_at": "2026-10-06",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ac43817d9621c5b283a08e7": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$20/hr - $56/hr",
+    "salary_min_annual": 41600,
+    "salary_max_annual": 116480,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-06",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac46e718ff3fb9b3bc8599f": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$85K/yr - $85K/yr",
+    "salary_min_annual": 85000,
+    "salary_max_annual": 85000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-06",
+    "parser_version": 4
+  },
   "https://jobs.apple.com/en-us/details/200658892-0157": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -59861,6 +59893,22 @@
     "checked_at": "2026-09-30",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/workday-disney-disneycareer-10160000?s=gh-new-grad-data-science-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-06",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/workday-disney-disneycareer-10160000?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -59891,6 +59939,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-10-01",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-disney-disneycareer-10160472?s=gh-internships-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-disney-disneycareer-10160506?s=gh-internships-2027": {
@@ -60883,6 +60947,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-09-29",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254327?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254327?s=gh-new-grad-jobs-2027": {
