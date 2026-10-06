@@ -30060,7 +30060,7 @@
     "salary_max_annual": 70000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6b7ef23570cae246267": {
@@ -30076,7 +30076,7 @@
     "salary_max_annual": 85000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6b8ef23570cae24626a": {
@@ -30092,7 +30092,7 @@
     "salary_max_annual": 77000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6b93272060a8e3f2155": {
@@ -30108,23 +30108,23 @@
     "salary_max_annual": 85000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6bb0ffb3d4fea6b70d7": {
-    "ng_confidence": "Confirmed",
-    "ng_evidence": "posting says New Grad",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$77K/yr - $77K/yr",
-    "salary_min_annual": 77000,
-    "salary_max_annual": 77000,
-    "reject_reason": "maximum stated annual salary below $100k",
-    "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6fb3272060a8e3f2179": {
@@ -30140,7 +30140,7 @@
     "salary_max_annual": 85000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-14",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1ccfcdbc0e60e37e13c32": {
@@ -31263,6 +31263,22 @@
     "checked_at": "2026-09-28",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6aa84c9ca77a53f5a1578855": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$68K/yr - $93K/yr",
+    "salary_min_annual": 68000,
+    "salary_max_annual": 93000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-06",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6aa851703a9f0a4fe6f187b5": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry Level",
@@ -31356,7 +31372,7 @@
     "salary_max_annual": 160000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa898fa82e82a31997c6a1b": {
@@ -35181,6 +35197,22 @@
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-09-25",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ab6c8a062bb1fbd451dbd68": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New College Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$84K/yr - $138K/yr",
+    "salary_min_annual": 84000,
+    "salary_max_annual": 138000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-06",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab6fee9d7fde2c08ec8a76b": {
