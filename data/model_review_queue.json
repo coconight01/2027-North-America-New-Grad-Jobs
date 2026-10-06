@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,12 +26,16 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 205,
-    "new_job_candidates": 117,
-    "high_potential_title_candidates": 265
+    "priority_company_candidates": 206,
+    "new_job_candidates": 101,
+    "high_potential_title_candidates": 264
   },
-  "veto_counts": {},
-  "exact_tracked_jobs_removed": 0,
+  "veto_counts": {
+    "explicit 2026-only title": 5,
+    "non-full-time program title": 6,
+    "security-clearance requirement in title": 2
+  },
+  "exact_tracked_jobs_removed": 18,
   "candidates": [
     {
       "machine_rank": 1,
@@ -62,31 +66,6 @@
       "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "",
-      "company": "Pangle",
-      "role": "AI Compute Systems Engineer (PhD Grad) 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "San Jose, CA",
-      "salary": "$162,000–$317,000",
-      "salary_max_annual": "317000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says recent graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-10-02",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.jobleads.com/us/job/ai-compute-systems-engineer-phd-grad-2027-start--san-jose--ef81ed3a88c06248032535ec56e66c80b",
-      "jd_excerpt": "AI Compute Systems Engineer (PhD Grad) 2027 Start | San Jose | JobLeads.com Save this job Log in I’m interested AI Compute Systems Engineer (PhD Grad) 2027 Start Pangle San Jose (CA) Hybrid USD 162,000 - 317,000 Full time 10 days ago Application generator Stand out for this role — generate a tailored resume and cover letter in about a minute. Get past ATS filters Generate application Job summary ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Qualifications PhD in Software Development, Computer Science, Computer Engineering, or related technical discipline. Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking. Hands-on experience building cloud or ML infrastructure including resource management, scheduling, monitoring, or orchestration. Solid knowledge of container and orchestration technologies (Docker, Kubernetes). Proficiency in Go, Rust, Python, or C++. Responsibilities Design and build large-scale, container-based cluster management and orchestration systems with extreme performance and scalability. Architect next-generation cloud-native GPU and AI accelerator infrastructure for cost-efficient ML platforms. Collaborate across teams to deliver inference solutions using various LLM engines. Stay current with open source, AI/ML and LLM infrastructure, and integrate best practices into production systems. Write high-quality, production-ready code that is maintainable and testable. Skills Large model inference Distributed systems High-performance networking Container orchestration Go Rust Python C++ Education PhD in Software Development / CS / CE Tools Docker Kubernetes Job description ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Show more Get your free, confidential resume review. Select file or drag and drop your file here. Rated “Excellent” based on 23,520 reviews Michael Carter I was stuck sending out resumes with no response until I used JobLeads. They made my resume impossible for recruiters to ignore. Sophie Reynolds JobLeads' resume review helped me fix critical mistakes, and I started getting interviews almost immediately! Daniel Fischer With JobLeads' resume review, my resume went from overlooked to interview-ready in no time! Similar jobs worth comparing Lead Engineer, AI Compute Infrastructure Lead Engineer, AI Compute Infrastructure ByteDance • San Jose (CA) On-site USD 244,800 - 450,000 Day‑one health benefits 401(k) with company match Parental leave +1 14 days+ Graduate Software Engineer, AI Compute & Cloud Systems Graduate Software Engineer, AI Compute & Cloud Systems ByteDance • Seattle (WA) On-site USD 154,000 - 301,000 11 days ago Graduate Research Engineer, AI Infra & Compute Graduate Research Engineer, AI Infra & Compute ByteDance • Seattle (WA) On-site USD 130,000 - 180,000 14 days+ Graduate Research Scientist, AI Infra & Compute – San Jose Graduate Research Scientist, AI Infra & Compute – San Jose ByteDance • San Jose (CA) On-site USD 180,000 - 230,000 14 days+ Graduate Cloud-Native AI Inference Engineer Graduate Cloud-Native AI Inference Engineer ByteDance • Seattle (WA) On-site USD 154,000 - 301,000 10 days ago Senior AI Infra Engineer: Compute Efficiency & Scale Senior AI Infra Engineer: Compute Efficiency & Scale ByteDance • San Jose (CA) On-site USD 218,000 - 480,000 14 days+ PhD Research Intern — AI Infra & Cloud Compute PhD Research Intern — AI Infra & Cloud Compute Bytedance • San Jose (CA), Northern (KY) Hybrid USD 34,000 - 48,000 14 days+ Graduate Software Engineer - Cloud-Native GPU Inference Graduate Software Engineer - Cloud-Native GPU Inference ByteDance • San Jose (CA) On-site USD 162,000 - 317,000 Medical Insurance Dental Insurance Vision Insurance +8 11 days ago AI Compute & DPU Research Scientist AI Compute & DPU Research Scientist ByteDance • Seattle (WA) On-site USD 202,160 - 368,220 14 days+ AI Compute Research Intern: Cloud & GPUs (PhD, Summer 2027) AI Compute Research Intern: Cloud & GPUs (PhD, Summer 2027) ByteDance • Seattle (WA) On-site USD 65,000 - 92,000 Health insurance Housing allowance Paid holidays 14 days+ Show mor",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 3,
-      "machine_score": 100,
-      "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
       "company_priority": "",
       "company": "Pinterest",
@@ -104,6 +83,31 @@
       "official_source": false,
       "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027",
       "jd_excerpt": "University Grad Machine Learning Engineer 2027 (Toronto), Toronto | Pinterest Careers Skip to main content Careers Jobs Locations Locations Go to Locations North America Europe Latin America Asia Pacific Remote Departments Departments Go to Departments Administration Apprenticeship Corporate Strategy Design Engineering Finance Global Content Organization Go-to-Market Solutions & Innovations Government & Corporate Affairs HR IT Legal & Compliance Marketing, Communications, and Creative Product Recruiting Sales Trust & Safety University Workplace tvScientific Early Career Early Career Go to Early Career Apprenticeships University Recruiting Inside Pinterest Inside Pinterest Go to Inside Pinterest Inclusion & Belonging PinFlex Benefits Candidate Hub Candidate Hub Go to Candidate Hub Life at Pinterest Blog Our Philosophy on AI in Hiring Events Saved Jobs Join Talent Community [Open search bar] Keywords: Location: Locations Atlanta Berlin Buenos Aires Chicago Dublin Hamburg Hybrid London Los Angeles Mexico City New York Palo Alto Remote San Francisco Seattle Singapore Tokyo Toronto US US Remote Zurich Search Save Saved University Grad Machine Learning Engineer 2027 (Toronto) Toronto University Regular Share Apply Now Description About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . As a Machine Learning Engineer at Pinterest, you’ll develop and improve machine learning systems that power product experiences and discovery. You’ll partner with engineering, product and design teams to build, evaluate and iterate on scalable solutions that help Pinners find relevant, inspiring content. In this role, you’ll grow your technical expertise while contributing to reliable, high-impact systems. What you’ll do: Conduct applied machine learning research to address product and platform challenges at Pinterest. Collect, analyze and synthesize data to develop data-driven machine learning models. Write maintainable, efficient code and contribute to testing and code-review practices. Apply machine learning techniques, including natural language processing and graph-based approaches, to modeling and ranking challenges across discovery, ads and search. Design, build and test recommendation and engagement-prediction models that improve push, email and in-app notification experiences. Develop and iterate on large-scale applied machine learning systems, using evaluation results to improve model performance and reliability. Scope, implement and deliver solutions for moderately complex ML problems, escalating risks and tradeoffs as needed. Experience applying machine learning or AI concepts through research, coursework, projects or internships. Use AI to accelerate analysis and iteration while applying judgment and verification to ensure correctness and quality. What we’re looking for: Master's in Computer Science, ML, NLP, Statistics, Information Sciences or related field required Machine Learning experience (ranking, computer vision, NLP, content recommendations, embedding, information retrieval etc) Experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data Mastery of at least one systems languages (Java, C++, Python) or one ML framework (Tensorflow, Pytorch, MLFlow) Cross-functional collaborator and strong communicator Comfortable solving ambiguous problems and adapting to a dynamic environment Experience in research and in solving analytical problems This job posting is for an open vacancy. Please note that the company utilizes artificial intelligence to screen applicants for the positions. In-Office Requirement: This onsite internship will be based in our Toronto office requiring a few days in office. Our program will run in a full-time capacity during typical business hours between Monday-Friday. This role will need to be in the office for in-person collaboration 2-3 weekdays per week and therefore needs to be wit",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 3,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "",
+      "company": "Pangle",
+      "role": "AI Compute Systems Engineer (PhD Grad) 2027 Start",
+      "category": "AI / Machine Learning",
+      "location": "San Jose, CA",
+      "salary": "$162,000–$317,000",
+      "salary_max_annual": "317000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says recent graduate",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-10-02",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.jobleads.com/us/job/ai-compute-systems-engineer-phd-grad-2027-start--san-jose--ef81ed3a88c06248032535ec56e66c80b",
+      "jd_excerpt": "AI Compute Systems Engineer (PhD Grad) 2027 Start | San Jose | JobLeads.com Save this job Log in I’m interested AI Compute Systems Engineer (PhD Grad) 2027 Start Pangle San Jose (CA) Hybrid USD 162,000 - 317,000 Full time 10 days ago Application generator Stand out for this role — generate a tailored resume and cover letter in about a minute. Get past ATS filters Generate application Job summary ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Qualifications PhD in Software Development, Computer Science, Computer Engineering, or related technical discipline. Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking. Hands-on experience building cloud or ML infrastructure including resource management, scheduling, monitoring, or orchestration. Solid knowledge of container and orchestration technologies (Docker, Kubernetes). Proficiency in Go, Rust, Python, or C++. Responsibilities Design and build large-scale, container-based cluster management and orchestration systems with extreme performance and scalability. Architect next-generation cloud-native GPU and AI accelerator infrastructure for cost-efficient ML platforms. Collaborate across teams to deliver inference solutions using various LLM engines. Stay current with open source, AI/ML and LLM infrastructure, and integrate best practices into production systems. Write high-quality, production-ready code that is maintainable and testable. Skills Large model inference Distributed systems High-performance networking Container orchestration Go Rust Python C++ Education PhD in Software Development / CS / CE Tools Docker Kubernetes Job description ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Show more Get your free, confidential resume review. Select file or drag and drop your file here. Rated “Excellent” based on 23,520 reviews Michael Carter I was stuck sending out resumes with no response until I used JobLeads. They made my resume impossible for recruiters to ignore. Sophie Reynolds JobLeads' resume review helped me fix critical mistakes, and I started getting interviews almost immediately! Daniel Fischer With JobLeads' resume review, my resume went from overlooked to interview-ready in no time! Similar jobs worth comparing Lead Engineer, AI Compute Infrastructure Lead Engineer, AI Compute Infrastructure ByteDance • San Jose (CA) On-site USD 244,800 - 450,000 Day‑one health benefits 401(k) with company match Parental leave +1 14 days+ Graduate Software Engineer, AI Compute & Cloud Systems Graduate Software Engineer, AI Compute & Cloud Systems ByteDance • Seattle (WA) On-site USD 154,000 - 301,000 11 days ago Graduate Research Engineer, AI Infra & Compute Graduate Research Engineer, AI Infra & Compute ByteDance • Seattle (WA) On-site USD 130,000 - 180,000 14 days+ Graduate Research Scientist, AI Infra & Compute – San Jose Graduate Research Scientist, AI Infra & Compute – San Jose ByteDance • San Jose (CA) On-site USD 180,000 - 230,000 14 days+ Graduate Cloud-Native AI Inference Engineer Graduate Cloud-Native AI Inference Engineer ByteDance • Seattle (WA) On-site USD 154,000 - 301,000 10 days ago Senior AI Infra Engineer: Compute Efficiency & Scale Senior AI Infra Engineer: Compute Efficiency & Scale ByteDance • San Jose (CA) On-site USD 218,000 - 480,000 14 days+ PhD Research Intern — AI Infra & Cloud Compute PhD Research Intern — AI Infra & Cloud Compute Bytedance • San Jose (CA), Northern (KY) Hybrid USD 34,000 - 48,000 14 days+ Graduate Software Engineer - Cloud-Native GPU Inference Graduate Software Engineer - Cloud-Native GPU Inference ByteDance • San Jose (CA) On-site USD 162,000 - 317,000 Medical Insurance Dental Insurance Vision Insurance +8 11 days ago AI Compute & DPU Research Scientist AI Compute & DPU Research Scientist ByteDance • Seattle (WA) On-site USD 202,160 - 368,220 14 days+ AI Compute Research Intern: Cloud & GPUs (PhD, Summer 2027) AI Compute Research Intern: Cloud & GPUs (PhD, Summer 2027) ByteDance • Seattle (WA) On-site USD 65,000 - 92,000 Health insurance Housing allowance Paid holidays 14 days+ Show mor",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -760,6 +764,31 @@
     },
     {
       "machine_rank": 30,
+      "machine_score": 71,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: Python, Kubernetes; new-grad: confirmed",
+      "company_priority": "",
+      "company": "OmegaHires",
+      "role": "Software Engineer",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-06",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://omegahires.applytojob.com/apply/y471r9ACxK/Software-Engineer",
+      "jd_excerpt": "Software Engineer - OmegaHires - Career Page Skip To Job Description View All Jobs View Our Website Thanks for visiting our Career Page. Please review our open positions and apply to the positions that match your qualifications. Software Engineer New York City, NY Contracted Entry Level Share Software Engineer Job Title: Software Engineer specializing in Performance & Load Testing Location: New York City, NY (Hybrid) Job Description: Our squad that needs a Software Engineer specializing in Performance & Load Testing to build next-generation traffic-replay infrastructure and scenario-generation tooling. Rather than executing manual performance tests, you will build software that parses raw API/event logs, converts massive exports into realistic, replayable traffic profiles (utilizing LLM-assisted pipelines), and partners with engineering teams to diagnose and remediate core system bottlenecks. Responsibilities:- Build automated tooling, data parsers, and custom load generators using languages like Go, Python, Java, or Rust.- Build or customize load generation frameworks (k6, Locust, Gatling, or custom distributed replay tools).- Process massive datasets (JSON, Parquet, PCAP, raw HTTP/event logs) to reconstruct stateful application workflows.- Isolate system bottlenecks using telemetry tools (Grafana, Prometheus, Datadog, OpenTelemetry).- Understand and work with HTTP/REST, WebSockets, gRPC, and event-driven architectures (e.g., Kafka, RabbitMQ). Required Skills:- Strong engineering background in relevant programming languages.- Deep experience with load generation frameworks.- Experience processing large datasets.- Hands-on experience with telemetry tools.- Deep understanding of various communication protocols and architectures. Preferred Skills:- Experience using LLM APIs (OpenAI, Anthropic) or prompt-engineering pipelines to parse, structure, or generate synthetic test data from unstructured logs.- Expertise managing distributed, multi-region load testing infrastructure on Kubernetes/Cloud providers (AWS/GCP/Azure). Share Apply Apply for this position Required * First Name * Last Name * Email Address * Phone * Resume * We've received your resume. Click here to update it. Attach resume or Paste resume Attach resume as .pdf, .doc, .docx, .odt, .txt, or .rtf (limit 5MB) or Paste resume Paste your resume here or Attach resume file Desired Rate per hour ($) * -- No answer -- $50-$70 $70-$80 $80-$90 $90-$100 $100-$120 Current contract end date * Willing to relocate * Yes Open to Travel (within United States) * Yes Work Authorization * Current Location * Human Check * Submit Application This website uses cookies and other analytics technologies. By selecting \"Allow\", you consent to the recording, use and sharing of your website activity by this website and its service providers. Allow Reject All Powered by",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 31,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -784,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 32,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -804,31 +833,6 @@
       "official_source": false,
       "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
       "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 32,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: early-career SWE",
-      "company_priority": "Tier B",
-      "company": "Microsoft",
-      "role": "Software Engineer Intune",
-      "category": "Software Engineering",
-      "location": "Washington, DC",
-      "salary": "$168k/yr",
-      "salary_max_annual": "168000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-03",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "jd_excerpt": "654c6aaa25ad4751986d2b4fdcf3da6f-b7d405fc-078f-42fd-99cf-e21de3479349-7421 Software Engineer Intune | Microsoft Careers {\"themeOptions\": {\"customTheme\": {\"varTheme\": {\"accordion-body-text-color\": \"#646464\", \"check-box-border-color\": \"#646464\", \"check-box-checked-background-color\": \"#463668\", \"check-box-mark-color\": \"#ffffff\", \"button-secondary-hover-background-color\": \"#EBE7F3\", \"pcsx-jobcard-flag-text-color\": \"#474748\", \"tab-hover-label\": \"#5c1b86\", \"primary-color-60\": \"#5c1b86\", \"primary-color-70\": \"#5c1b86\", \"button-primary-background-color\": \"#463668\", \"button-primary-text-color\": \"#ffffff\", \"border-radius-xl\": \"2px\", \"button-primary-hover-background-color\": \"#e2d9f1\", \"font-family\": \"'Segoe', 'FabricMDL2Icons-10', 'FabricMDL2Icons-4', 'FabricMDL2Icons-1', 'FabricMDL2Icons'\", \"navbar-text-hover-color\": \"#262626\", \"navbar-nav-active-background-color\": \"transparent\", \"pcsx-welcome-banner-text-color\": \"#171717\", \"pcsx-theme-linear-gradient\": \"#FFF8F3\", \"jobcard-title-text-color\": \"#171717\", \"tab-active-label\": \"#5c1b86\", \"tab-indicator-color\": \"#5c1b86\", \"pcsx-hero-image-height\": \"100px\", \"card-border-width\": \"1px\", \"pcsx-hero-image-text-color\": \"#323130\", \"pcsx-hero-image-overlay-text-font-size\": \"28px\", \"pcsx-hero-image-overlay-font-weight\": \"700\", \"pcsx-hero-image-justify-content\": \"var(--navbar-right-container-margin-left)\", \"pcsx-insights-header-text-background-gradient\": \"#474748\", \"button-primary-border-color\": \"#2c8cc9\", \"button-pill-shape-border-radius\": \"4px\", \"button-primary-hover-text-color\": \"#463668\", \"button-secondary-border-color\": \"#646464\", \"primary-color\": \"#146da6\", \"stepper-form-nav-offset\": \"0px\", \"navbar-height\": \"0px\", \"form-help-text-font-color\": \"#000\", \"button-secondary-text-color\": \"#463668\", \"accent-background2-color\": \"#EBE7F3\", \"button-two-state-checked-background-color\": \"#efe7f9\", \"button-two-state-checked-text-color\": \"#463668\", \"button-two-state-hover-text-color\": \"#646464\", \"button-two-state-hover-background-color\": \"#efe7f9\", \"button-two-state-active-background-color\": \"#EFE7F9\", \"anchor-focus-color\": \"#ffffff\"}, \"customFonts\": [{\"fontFamily\": \"Segoe\", \"src\": \"url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff2')format('woff2')\"}]}}, \"domain\": \"microsoft.com\", \"configPath\": \"PCS>\", \"updatePath\": \"PCS>\"} {\"navbarData\": {\"desktop\": {\"nav_left_items\": [{\"type\": \"BRANDING\", \"id\": \"branding\", \"product_homepage_url\": \"https://www.microsoft.com\", \"company_name\": \"Microsoft\", \"company_logo_url\": \"https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31\"}, {\"type\": \"NAVLINK\", \"id\": \"careers\", \"primary_text\": \"Careers\", \"url\": \"/careers\"}, {\"type\": \"NAVLINK\", \"id\": \"dashboard\", \"primary_text\": \"Dashboard\", \"url\": \"/careers/dashboardv2\"}, {\"type\": \"NAVLINK\", \"id\": \"profile\", \"primary_text\": \"Profile\", \"url\": \"/careers/profile\"}, {\"type\": \"NAVLINK\", \"id\": \"jtn_link\", \"primary_text\": \"Join Talent Network\", \"url\": \"/careers/join?domain=microsoft.com\", \"target\": \"_blank\"}], \"nav_right_items\": [{\"type\": \"CANDIDATE_NOTIFICATION_CENTER\", \"id\": \"candidate_notification_center\"}, {\"type\": \"CANDIDATE_ACCOUNT\", \"id\": \"candidate_account\", \"items\": [{\"type\": \"NAVLINK\", \"id\": \"candidate_settings\", \"primary_text\": \"Settings\", \"url\": \"/careers/settings\"}], \"user_image_url\": null, \"user_name\": \"Import microsoft.com\", \"user_email\": \"import@microsoft.com\", \"is_user_logged_in\": \"is_candidate_logged_in\", \"logged_in_candidate_info\": {\"is_logged_in\": false}}]}, \"mobile\": {\"nav_left_items\": [{\"type\": \"HAMBURGER_MENU\", \"id\": \"hamburger_menu\", \"icon\": \"mdiForwardBurger\", \"body_items\": [{\"type\": \"NAVLINK\", \"id\": \"careers\", \"primary_text\": \"Careers\", \"url\": \"/careers\"}, {\"type\": \"NAVLINK\", \"id\": \"dashboard\", \"primary_text\": \"Dashboard\", \"url\": \"/careers/dashboardv2\"}, {\"type\": \"NAVLINK\", \"id\": \"profile\", \"primary_text\": \"Profile\", \"url\": \"/careers/profile\"}], \"footer_items\": []}, {\"type\": \"BRANDING\", \"id\": \"branding\", \"product_homepage_url\": \"https://www.microsoft.com\", \"company_name\": \"Microsoft\", \"company_logo_url\": \"https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31\"}], \"nav_right_items\": [{\"type\": \"CANDIDATE_NOTIFICATION_CENTER\", \"id\": \"candidate_notification_center\"}, {\"type\": \"CANDIDATE_ACCOUNT\", \"id\": \"candidate_account\", \"items\": [{\"type\": \"NAVLINK\", \"id\": \"candidate_settings\", \"primary_text\": \"Settings\", \"url\": \"/careers/settings\"}], \"user_image_url\": null, \"user_name\": \"Import microsoft.com\", \"user_email\": \"import@microsoft.com\", \"is_user_logged_in\": \"is_candidate_logged_in\", \"logged_in_candidate_info\": {\"is_logged_in\": false}}]}, \"customHtmlNavbarData\": {\"enable\": true, \"html\": \"<div id=\\\"configurable-navbar\\\"></div>\", \"css\": \"\", \"stylesheets\": [], \"scripts\": [], \"inject_in_html_template\": true}}, \"isUiRefreshGateEnabled\": 1, \"isEmailWizardV2Enabled\": 1, \"isNavbarImproveSearchResultsEnabled\": 1, \"isTaBulkActionsUseIngestFrameworkGateEnabled\": true, \"isTaPipeline",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1412,6 +1416,31 @@
       "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10526808/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 57,
+      "machine_score": 61,
+      "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
       "company_priority": "",
       "company": "PagerDuty",
@@ -1434,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1459,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1484,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1509,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 61,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1534,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 62,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1559,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 63,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; new-grad: confirmed; $200k+ stated ceiling",
@@ -1584,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 64,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed",
@@ -1609,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 65,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1634,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 66,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1659,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 67,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1684,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 68,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1709,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 69,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1734,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 70,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1759,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 71,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1784,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 72,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1809,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1834,7 +1863,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1859,7 +1888,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1884,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1909,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 77,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1928,31 +1957,6 @@
       "source": "GitHub:jobright-ai/2026-Data-Analysis-New-Grad:README.md",
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a5a56973ac7627fe90036fe",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 77,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: production LLM agents / tools; skills: C++, Distributed Systems, Networking",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS Agentic AI",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10486378/apply",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
