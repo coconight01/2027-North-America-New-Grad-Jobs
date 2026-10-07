@@ -21103,6 +21103,22 @@
     "checked_at": "2026-08-12",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a7bdb50b933773d16be968d": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "$154K/yr - $301K/yr",
+    "salary_min_annual": 154000,
+    "salary_max_annual": 301000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-07",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a7bdd64ecfd29770753b0f3": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -24892,7 +24908,7 @@
     "salary_max_annual": 82000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-15",
+    "checked_at": "2026-10-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a90ff6b2e254e06fb9f35c6": {
@@ -33548,7 +33564,7 @@
     "salary_max_annual": 86000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-21",
+    "checked_at": "2026-10-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab17499f9692ca98b049b6f": {
@@ -37562,6 +37578,22 @@
     "salary": "Not listed",
     "salary_min_annual": "",
     "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-07",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac5e71fd9621c5b283a713f": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "$154K/yr - $301K/yr",
+    "salary_min_annual": 154000,
+    "salary_max_annual": 301000,
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-07",
@@ -53971,6 +54003,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-05",
+    "parser_version": 4
+  },
+  "https://www.amazon.jobs/jobs/10528846/apply": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Front End Engineer II",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Front End Engineer II",
+    "source_fetched": false,
+    "checked_at": "2026-10-07",
     "parser_version": 4
   },
   "https://www.amazon.jobs/jobs/10535497/apply": {

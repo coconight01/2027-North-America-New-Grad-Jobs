@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-07** · Open roles: **2238**
+> Last automated update: **2026-10-07** · Open roles: **2240**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -22,8 +22,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **AI Infra / Systems** | 12 |
 | **Quant / HFT** | 49 |
 | **Other high-value tech** | 31 |
-| **ByteDance / TikTok** (separate) | 394 |
-| Other companies | 1639 |
+| **ByteDance / TikTok** (separate) | 395 |
+| Other companies | 1640 |
 
 ### Big Tech & Frontier AI
 
@@ -104,10 +104,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>394 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>395 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-07 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7bdb50b933773d16be968d) | $154K/yr - $301K/yr | Seattle | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-07 | **ByteDance** | [Research Engineer, Data Lake Infrastructure & Data Analytics Graduate (AML-Ark-US) - 2027 Start...](https://zapply.jobs/l/d/bytedance-7672398686110910773?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | — |
 | 2026-10-03 | **TikTok** | [Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start](https://jobright.ai/jobs/info/6a73f276e55c73319eb19c7b) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
 | 2026-10-03 | **ByteDance** | [Research Scientist Graduate (Seed Model - Speech) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac14c81d9621c5b28398efe) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -119,15 +120,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-02 | **ByteDance** | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7675473897004861749?s=gh-new-grad-data-science-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
 | 2026-10-02 | **ByteDance** | [Research Scientist Graduate (Multimedia Standards) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abef460064da25272e03d58) | Not listed | San Diego, CA, United States | ❔ | ◐ Likely | PhD only |
 | 2026-10-01 | **ByteDance** | [Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start](https://jobright.ai/jobs/info/6abd90274ac55253f5d5e324) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-01 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7673632479987992837?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 394 active roles. Use the Job Radar for all roles._
+_Showing 12 of 395 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2238 active roles**. Featured groups account for **205** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2240 active roles**. Featured groups account for **205** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
