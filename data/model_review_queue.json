@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,15 +27,15 @@
       "fill": 0
     },
     "priority_company_candidates": 207,
-    "new_job_candidates": 115,
-    "high_potential_title_candidates": 264
+    "new_job_candidates": 99,
+    "high_potential_title_candidates": 262
   },
   "veto_counts": {
-    "non-full-time program title": 7,
+    "non-full-time program title": 6,
     "explicit 2026-only title": 5,
     "security-clearance requirement in title": 2
   },
-  "exact_tracked_jobs_removed": 19,
+  "exact_tracked_jobs_removed": 20,
   "candidates": [
     {
       "machine_rank": 1,
@@ -489,6 +489,31 @@
     },
     {
       "machine_rank": 19,
+      "machine_score": 87,
+      "machine_tier": "Top",
+      "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "Applied Intuition",
+      "role": "Scenario Engineer - New Grad (2027)",
+      "category": "Other",
+      "location": "Sunnyvale, CA, United States",
+      "salary": "$90K/yr - $115K/yr",
+      "salary_max_annual": "115000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-05",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a7fa0e819ce4e6e9d939efd",
+      "jd_excerpt": "Scenario Engineer - New Grad (December 2026) @ Applied Intuition | Jobright.ai SIGN IN JOIN NOW Scenario Engineer - New Grad (December 2026) jobs in United States Overview Company Apply on Employer Site APPLY NOW Applied Intuition · 1 week ago Scenario Engineer - New Grad (December 2026) Sunnyvale, CA Full-time Onsite New Grad $90K/yr - $115K/yr Applied Intuition is powering the future of physical AI through simulation tools and infrastructure for moving machines. The Scenario Engineer will create, maintain, and curate simulation test scenarios, define safety and comfort requirements, develop performance visualizations and reports, and collaborate with Product, Engineering, Sales, and customer teams. Artificial Intelligence (AI) Transportation Enterprise Software Software Autonomous Vehicles Infrastructure H1B Sponsor Likely Top Investors Unicorn with $15B valuation Responsibilities Design scenarios across a variety of operating domains showcasing the capabilities of Applied's simulation tools Define and implement safety and comfort performance requirements for scenarios Create data visualizations and reports for understanding AV performance and coverage Work closely with our product teams while using and providing feedback on core simulation functionality and usability Support customer teams in defining and building scenario libraries relevant for their specific operational design domains Qualification Autonomous Vehicles Simulation Software Testing Software Debugging Python Workflow Automation Written and Verbal Communication Required Bachelor's degree from a 4-year university in Physics, Statistics, or related field graduating by December 2026 Is a self-starter who takes initiative in a fast paced environment Analytical and detail-oriented Excellent written and verbal communication skills Preferred Internship, research, or project experience with autonomous vehicles, simulation, scenario creation, or testing Experience with triage, debugging, or analyzing issues in software or simulation environments Ability to code in a scripting language (e.g. Python) to automate workflows Benefits Offers Equity Full-time employees may work remotely occasionally, start the day with morning meetings from home before heading to the office, or leave earlier when needed to accommodate family commitments. Company Applied Intuition Glassdoor 3.4 Physical AI software infrastructure for autonomous machines. Founded in 2017 Mountain View, California, USA 1001-5000 employees https://appliedintuition.com H1B Sponsorship Applied Intuition has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 88 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Accounting and Finance Creatives and Design Sales Marketing Human Resources Education and Training Trends of Total Sponsorships *2026 ( 98 ) 2025 ( 122 ) 2024 ( 56 ) 2023 ( 33 ) 2022 ( 16 ) 2021 ( 4 ) Funding Current Stage Late Stage Total Funding $1.5B Key Investors BlackRock,Kleiner Perkins Elad Gil,Lux Capital,Porsche Investments Management Addition,Coatue,Elad Gil 2025-06-17 Series F· $600M 2024-07-25 Secondary Market· $300M 2024-03-11 Series E· $250M Leadership Team Qasar Younis Founder, CEO Peter Ludwig CTO, Co-founder Recent News PR Newswire LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI 2026-09-30 koreajoongangdaily LG Innotek launches fleet of vehicles to collect autonomous driving sensor data on Korean roads 2026-09-29 Korea Herald LG Innotek, Applied Intuition begin gathering Korean road data 2026-09-29 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Autonomous Vehicles Simulation Software Testing Software Debugging Python Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach L Lucy W. Incoming Engineer P Ping-Hua (Michael) (. Engineeirng Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 20,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -513,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -538,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 22,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: Linux, Networking; new-grad: confirmed",
@@ -563,10 +588,10 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
-      "machine_score": 78,
+      "machine_rank": 23,
+      "machine_score": 74,
       "machine_tier": "Strong",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++; new-grad: confirmed",
       "company_priority": "",
       "company": "Schonfeld",
       "role": "Entry Level Quantitative Researcher",
@@ -582,13 +607,13 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8236826",
-      "jd_excerpt": "Job Application for Entry Level Quantitative Researcher at Schonfeld New Entry Level Quantitative Researcher New York, New York, United States Apply The Role We are seeking exceptional recent graduates or final year students to join one of our Quantitative Research teams in the New York City area metro area.  As a Quant Researcher you will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. You will have an opportunity to meaningfully contribute to multiple facets of running a successful quantitative trading business and help it grow and diversify.  This is a high‑impact role with clear ownership, mentorship, and visibility. What You’ll Do Variadic LLC, a Schonfeld partner, is a quantitative investment firm based in New York City. We are looking for recent graduates and students in their final year of study with an outstanding record of achievement who seek a role on the ground floor of a startup trading firm. We believe we have assembled an exceptionally talented, ambitious, and hungry team. As a new hire, you will be empowered to add value from day one. New hires are immediately given full access to data and code and asked to collaborate with experienced researchers on projects across the full stack. We expect you to learn from others, develop your own process, and reinforce the culture of ambition, creativity, rigor, and hard work. No previous financial experience is required. Max hunger is a must. What You Need A Bachelor’s, Master’s, or PhD degree in a quantitative or technical field such as statistics, mathematics, physics, electrical engineering, or computer science (ideally a recent graduate or with one year left in your academic program) Ability to hit the ground running on projects written in C++, JavaScript, Python, Rust, and Go, using a mix of in-house and open-source libraries. Willingness to learn and work on any level of the stack to drive a project to completion, from building infrastructure to manually collecting and checking data to conducting machine learning studies to managing production. No job is too small or too big. Intuition for maximizing expected value in decisions involving imperfect information, sophisticated adversaries, high risk, and high potential reward. Spider sense for missing data, outliers, time-of-day issues, statistical errors, off-by-ones, convergence failures, and software bugs; willingness to dig into the details and carefully think through corner cases. Hard worker. An understanding that success comes from time and effort put in by everyone on the team. Who We Are Schonfeld Strategic Advisors is a global multi-strategy, multi-manager investment platform that harnesses the transformative power of people to perform in all market environments. Our dynamic culture inspires better outcomes for our team, our investors, and our partners. We aim to consistently deliver risk-adjusted returns, with people driving performance. We specialize in four core strategies: Quantitative Trading, Fundamental Equity, Tactical Trading, and Discretionary Macro & Fixed Income. We capitalize on inefficiencies and opportunities within the markets, drawing from a significant investment in proprietary technology, infrastructure, and risk analytics. We invest through internal portfolio managers and external partner funds, pursuing alignment among investors, investment professionals, and the firm. Our footprint spans 7 countries and 19 offices. The annual base pay for this role is expected to be between $175,000 and $225,000 which will be prorated based on internship start and end date. The expected base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a variety of factors such as skills, qualifications and experience and level of education. Create a Job Alert Interested in building your career at Schonfeld ? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile Website What is your current cumulative GPA? * What degree are you currently pursuing? * Select... Will you graduate from January 2028-Summer 2028? Select... Are you authorized to work in the United States? * Select... Do you now require sponsorship for employment visa status to work legally in the United States? * Select... Will you in the future require sponsorship for employment visa status to work legally in the United",
+      "jd_excerpt": "Jobs at Schonfeld Current openings at Schonfeld Create a Job Alert Level-up your career by having opportunities at Schonfeld  sent directly to your inbox. Create alert Search Department Select... Office Select... 68 jobs Accounting Business Analytics Job Regulatory Reporting Associate New York, New York, United States Software Engineer - Business Analytics New York, New York, United States Accounting P&L Valuations Job Product Controller London, England, United Kingdom Product Controller Senior Associate São Paulo, Brazil Accounting Tax Job Tax Manager New York, New York, United States Administration Admin - Administration Job Executive Assistant Singapore, Central, Singapore Administration Workplace Experience Job Workplace Experience Manager New New York, New York, United States Business Development Job Strategist - Equity Risk London, England, United Kingdom Business Development DMFI COO Office Job AI Strategy Analyst London, England, United Kingdom Business Development Emerging Markets & D1 Quant Team Job Strategist Hong Kong, Hong Kong Strategist, Risk New São Paulo, Brazil Business Development Fundamental Equity Business Development Job Software Engineer - Fundamental Equities New York, New York, United States Business Development Fundamental Equity COO Office Job Quantitative Developer - Fundamental Equities London, England, United Kingdom Business Development Systematic COO Office Job Director of Systematic COO Office New York, New York, United States Corporate Strategy & Transformation Job Senior Business Analyst New New York, New York, United States DMFI Strategies DMFI Quant Team Job Quant Strategist  - Credit São Paulo, Brazil Quant Strategist / Researcher - FX Volatility São Paulo, Brazil Quant Strategist / Researcher - FX Volatility New London, England, United Kingdom Executive Office Job Strategist, CIO Office (Equities) New York, New York, United States Strategist, CIO Office (Equities) São Paulo, Brazil Strategist, CIO Office (FICC) New York, New York, United States Strategist, CIO Office (FICC) São Paulo, Brazil Human Capital Management Job Director of Human Capital Management (EMEA) London, England, United Kingdom Human Capital Management Talent Acquisition Job Recruiter, Talent Acquisition New York, New York, United States Talent Acquisition, Associate New London, England, United Kingdom Internship Job 2027 Core Operations Intern Miami, Florida, United States 2027 Corporate Strategy & Transformation Intern Miami, Florida, United States 2027 Cybersecurity Operations Intern New York, New York, United States 2027 DMFI Quant Developer Intern London, England, United Kingdom 2027 DMFI Quant Research Intern London, England, United Kingdom 2027 Emerging Markets and Delta One Investment Analyst Internship Dubai, United Arab Emirates 2027 Equity Middle Office Intern London, England, United Kingdom 2027 PhD Quantitative Research Intern Miami, Florida, United States 2027 PhD Quantitative Research Intern New York, New York, United States 2027 Platform Engineering Intern New York, New York, United States 2027 Quantitative C++ Developer Intern Hong Kong, Hong Kong 2027 Quantitative Research Intern Hong Kong, Hong Kong 2027 Systematic COO Intern New York, New York, United States Legal & Compliance Compliance Job Compliance Director London, England, United Kingdom Compliance Officer New York, New York, United States Compliance Officer London, England, United Kingdom Junior Compliance Associate London, England, United Kingdom Junior Compliance Associate New York, New York, United States Trade Surveillance Analyst London, England, United Kingdom Legal & Compliance Legal Job Associate Counsel, PM Legal and Fund Formation New York, New York, United States Operations Core Operations Job Core Operations Associate Singapore, Central, Singapore Operations Equity Middle Office Job Equity Middle Office Associate London, England, United Kingdom Portfolio Managers & Analysts Internal Portfolio Managers & Analysts Job Quantitative Developer Hong Kong, Hong Kong Quantitative Researcher Hong Kong, Hong Kong Quantitative Researcher - Hong Kong Hong Kong, Hong Kong 1 2 Powered by Greenhouse",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 24,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -613,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 25,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -638,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 26,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -663,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 27,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -688,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 28,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -713,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 29,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -738,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 30,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -763,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 31,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -788,32 +813,82 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
-      "machine_score": 71,
+      "machine_rank": 32,
+      "machine_score": 63,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: Python, Kubernetes; new-grad: confirmed",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; new-grad: confirmed",
       "company_priority": "",
-      "company": "OmegaHires",
-      "role": "Software Engineer",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
+      "company": "Sargent & Lundy",
+      "role": "Process Engineer 1 (Entry-Level) - Energy & Industrial (Summer 2027)",
+      "category": "Other",
+      "location": "Englewood, CO, United States",
       "salary": "Not listed",
       "salary_max_annual": "",
       "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry Level",
+      "ng_evidence": "title says Entry-Level",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-10-06",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "posted_date": "2026-10-07",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
       "official_source": false,
-      "url": "https://omegahires.applytojob.com/apply/y471r9ACxK/Software-Engineer",
-      "jd_excerpt": "Software Engineer - OmegaHires - Career Page Skip To Job Description View All Jobs View Our Website Thanks for visiting our Career Page. Please review our open positions and apply to the positions that match your qualifications. Software Engineer New York City, NY Contracted Entry Level Share Software Engineer Job Title: Software Engineer specializing in Performance & Load Testing Location: New York City, NY (Hybrid) Job Description: Our squad that needs a Software Engineer specializing in Performance & Load Testing to build next-generation traffic-replay infrastructure and scenario-generation tooling. Rather than executing manual performance tests, you will build software that parses raw API/event logs, converts massive exports into realistic, replayable traffic profiles (utilizing LLM-assisted pipelines), and partners with engineering teams to diagnose and remediate core system bottlenecks. Responsibilities:- Build automated tooling, data parsers, and custom load generators using languages like Go, Python, Java, or Rust.- Build or customize load generation frameworks (k6, Locust, Gatling, or custom distributed replay tools).- Process massive datasets (JSON, Parquet, PCAP, raw HTTP/event logs) to reconstruct stateful application workflows.- Isolate system bottlenecks using telemetry tools (Grafana, Prometheus, Datadog, OpenTelemetry).- Understand and work with HTTP/REST, WebSockets, gRPC, and event-driven architectures (e.g., Kafka, RabbitMQ). Required Skills:- Strong engineering background in relevant programming languages.- Deep experience with load generation frameworks.- Experience processing large datasets.- Hands-on experience with telemetry tools.- Deep understanding of various communication protocols and architectures. Preferred Skills:- Experience using LLM APIs (OpenAI, Anthropic) or prompt-engineering pipelines to parse, structure, or generate synthetic test data from unstructured logs.- Expertise managing distributed, multi-region load testing infrastructure on Kubernetes/Cloud providers (AWS/GCP/Azure). Share Apply Apply for this position Required * First Name * Last Name * Email Address * Phone * Resume * We've received your resume. Click here to update it. Attach resume or Paste resume Attach resume as .pdf, .doc, .docx, .odt, .txt, or .rtf (limit 5MB) or Paste resume Paste your resume here or Attach resume file Desired Rate per hour ($) * -- No answer -- $50-$70 $70-$80 $80-$90 $90-$100 $100-$120 Current contract end date * Willing to relocate * Yes Open to Travel (within United States) * Yes Work Authorization * Current Location * Human Check * Submit Application This website uses cookies and other analytics technologies. By selecting \"Allow\", you consent to the recording, use and sharing of your website activity by this website and its service providers. Allow Reject All Powered by",
+      "url": "https://jobright.ai/jobs/info/6aa079f1dbc0e60e37e0df9c",
+      "jd_excerpt": "Process Engineer 1 (Entry-Level) - Energy & Industrial (Summer 2027) @ Sargent & Lundy | Jobright.ai SIGN IN JOIN NOW Process Engineer 1 (Entry-Level) - Energy & Industrial (Summer 2027) jobs in United States Overview Company Apply on Employer Site APPLY NOW Sargent & Lundy · 2 hours ago Process Engineer 1 (Entry-Level) - Energy & Industrial (Summer 2027) Englewood, CO +1 more Full-time Onsite New Grad $63K/yr - $91K/yr Sargent & Lundy is seeking an entry-level Process Engineer to join its Energy & Industrial Group. The role supports multidisciplinary engineering projects by developing process designs, performing equipment and hydraulic calculations, preparing diagrams and documentation, and participating in safety reviews. The engineer will also support proposals, project scheduling, construction, commissioning, start-up activities, and operator training. Electronics Energy Information Technology Growth Opportunities No H1B Responsibilities Work as part of a multi-disciplinary team for multiple projects Work under the supervision of a more senior process engineer to: Develop the heat and material balance for new projects using process simulation tools. Perform equipment sizing calculations and prepare equipment data sheets. Perform detailed hydraulic calculations to determine pipe sizes, control valve sizing, compressor and pump duties, etc. Perform facility overpressure protection calculations, PSV sizing, and documentation with supervision. Develop Design Basis for new projects. Develop Process Control Narrative document and support Cause & Effect document Create process flow diagrams (PFD) and piping and instrumentation diagrams (P&IDs) Participate in safety reviews, HAZOP/PHAs and PSM activities Maintain effective communication with project team members and with clients, vendors, and contractors Participate in the preparation of proposals for engineering services. Support schedule planning for projects including coordinating staffing resources with Process Engineering Manager Support construction, commissioning, and start-up efforts, draft operating procedures and provide operator training manual input Qualification HYSYS Synergi VMG Symmetry ProMax Oil and Gas Industry Required BS in engineering with a strong academic background Excellent oral and written communication skills required Excellent teamwork skills We do not sponsor employees for work authorization in the U.S. for this position Preferred Oil and gas industry experience in midstream and/or upstream Skills in HYSYS, Synergi, VMG Symmetry, and/or ProMax preferred Benefits Medical, dental, and vision health plans Life and accident insurance Disability coverage Employee Assistance Program (EAP) Back-up daycare Flexible Spending Account (FSA) and Health Savings Account (HSA) 401(k) Pre-tax commuter account Merit scholarship program Employee discount program Corporate charitable giving program Tuition assistance First professional licensure bonus Employee referral bonus Paid annual personal/sick time (PST) Paid vacation Paid holidays Paid parental leave Paid bereavement leave Flexible work arrangements Eligible positions may participate in a yearly discretionary bonus Company Sargent & Lundy Glassdoor 4.2 Power and energy engineering and design services. Founded in 1891 Chicago, Illinois, USA 1001-5000 employees http://www.sargentlundy.com Funding Current Stage Late Stage Leadership Team Victor Suchodolski, P.E. Chairman, President & CEO JOSEPH DICOLA Sr. Vice President & CFO Recent News Tech Times Samsung Heavy and Sargent & Lundy Launch Floating Nuclear Power Plant for Any SMR 2026-07-25 MarketScreener Samsung Heavy Industries, Sargent & Lundy Sign Deal for FSMR Development; Shares Jump Over 5% 2026-07-23 koreajoongangdaily Samsung Heavy inks deal with U.S. company on FSMR development 2026-07-22 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role HYSYS Synergi VMG Symmetry ProMax Oil and Gas Industry Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach D Dave B. Process Engineering Intern W Wyatt R. Process Engineer Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; new-grad: likely",
+      "company_priority": "",
+      "company": "Astranis Space Technologies",
+      "role": "Avionics Associate Engineer (Summer 2027)",
+      "category": "Other",
+      "location": "San Francisco, CA, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-07",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6ab3522b835ccf4a28117889",
+      "jd_excerpt": "Avionics Associate Engineer (Summer 2027) @ Astranis Space Technologies | Jobright.ai SIGN IN JOIN NOW Avionics Associate Engineer (Summer 2027) jobs in United States Overview Company Apply on Employer Site APPLY NOW Astranis Space Technologies · 1 hour ago Avionics Associate Engineer (Summer 2027) San Francisco, CA Full-time Onsite New Grad $1,925/wk - $1,925/wk Astranis builds advanced satellites and satellite communications networks for enterprises, governments, and the U.S. military. The Avionics Associate Engineer will work with the avionics engineering team to build and test flight hardware, develop test equipment, debug designs, automate satellite hardware testing, and support low-level software for spacecraft subsystems. Aerospace Telecom & Communications National Defense GPS Internet National Security Satellite Communication Telecommunications Growth Opportunities No H1B U.S. Citizen Only Top Investors Unicorn with $2.8B valuation Responsibilities Work with the avionics engineering team to build and test flight hardware Design test equipment to validate designs across a wide range of stressed conditions Bring up and debug designs in the lab Write code to help evaluate performance and automate testing of satellite hardware Assist with low level software to interface with various spacecraft subsystems Qualification Python C++ Hardware Design, Build, and Testing Spacecraft Systems Altium Designer SPICE-Based Simulation Soldering and Rework Oscilloscope Operation Multimeter Operation Power Supply Operation Switched-Mode Converter Design Required Associate Engineer positions typically last for twelve weeks, and are salaried roles designed for students who have already received a bachelor's degree, and plan to return to receive their Master's following their Associate role at Astranis Have a four-year degree in electrical or computer engineering (or equivalent technical degree), with plans to pursue a graduate degree following your time at Astranis Interest in learning about, designing, and working with various spacecraft systems and subsystems A passion for hardware development, including working in a fast-paced environment and hands-on design and development Experience with Python and/or C++ Demonstrated ability to personally design, build, and test hardware from scratch US Citizenship or Green Card Preferred Experience with Altium Designer (or other PCB design software) Experience with SPICE-based simulators (LTSpice, PSPICE, ADS, etc) Comfortable with soldering and rework Familiarity with standard EE lab bench (power supply, oscilloscope, multimeter, etc) Familiarity with basic switched mode converter design (boost and buck converters) Company Astranis Space Technologies Glassdoor 4.2 Designs, builds, and operates GEO satellites for sovereign connectivity. Founded in 2015 San Francisco, California, USA 501-1000 employees http://www.astranis.com Funding Current Stage Late Stage Total Funding $1.68B Key Investors Export-Import Bank of the United States Franklin Templeton,Snowpoint Ventures Trinity Capital 2026-09-30 Debt Financing· $468M 2026-05-06 Series E· $300M 2026-05-06 Debt Financing· $155M Leadership Team Ryan McLinko Cofounder Recent News Telecompaper Astranis secures USD 468 mln US financing to expand satellite production 2026-10-01 Rising Tide Rising Tide Portfolio 2026-09-29 Tech Times Taiwan Carriers Lock Multi-Orbit Satellite Into 6G Architecture Before Standards Exist 2026-09-28 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Python C++ Hardware Design, Build, and Testing Spacecraft Systems Altium Designer Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach N Nick H. Head of Talent Acquisition L Linda T. Recruiting Coordinator Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 34,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; new-grad: likely",
+      "company_priority": "",
+      "company": "Astranis Space Technologies",
+      "role": "Avionics Associate Engineer (Winter 2027)",
+      "category": "Other",
+      "location": "San Francisco, CA, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-07",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6ab352205d482753f3e68a1c",
+      "jd_excerpt": "Avionics Associate Engineer (Winter 2027) @ Astranis Space Technologies | Jobright.ai SIGN IN JOIN NOW Avionics Associate Engineer (Winter 2027) jobs in United States Overview Company Apply on Employer Site APPLY NOW Astranis Space Technologies · 1 hour ago Avionics Associate Engineer (Winter 2027) San Francisco, CA Full-time Onsite New Grad $1,925/wk - $1,925/wk Astranis builds advanced satellites and satellite communications systems for customers including enterprises, governments, and the U.S. military. The Avionics Associate Engineer will work with the avionics engineering team to build and test flight hardware, develop test equipment, debug designs, automate satellite hardware testing, and assist with low-level spacecraft subsystem software. Aerospace Telecom & Communications National Defense GPS Internet National Security Satellite Communication Telecommunications Growth Opportunities No H1B U.S. Citizen Only Top Investors Unicorn with $2.8B valuation Responsibilities Work with the avionics engineering team to build and test flight hardware Design test equipment to validate designs across a wide range of stressed conditions Bring up and debug designs in the lab Write code to help evaluate performance and automate testing of satellite hardware Assist with low level software to interface with various spacecraft subsystems Qualification Python C++ Hardware Design, Build, and Testing Spacecraft Systems and Subsystems Altium Designer SPICE-Based Simulation Soldering and Rework Oscilloscope Multimeter Power Supply Switched-Mode Converter Design Required Have a four-year degree in electrical or computer engineering (or equivalent technical degree), with plans to pursue a graduate degree following your time at Astranis Interest in learning about, designing, and working with various spacecraft systems and subsystems A passion for hardware development, including working in a fast-paced environment and hands-on design and development Experience with Python and/or C++ Demonstrated ability to personally design, build, and test hardware from scratch US Citizenship or Green Card Preferred Experience with Altium Designer (or other PCB design software) Experience with SPICE-based simulators (LTSpice, PSPICE, ADS, etc) Comfortable with soldering and rework Familiarity with standard EE lab bench (power supply, oscilloscope, multimeter, etc) Familiarity with basic switched mode converter design (boost and buck converters) Company Astranis Space Technologies Glassdoor 4.2 Designs, builds, and operates GEO satellites for sovereign connectivity. Founded in 2015 San Francisco, California, USA 501-1000 employees http://www.astranis.com Funding Current Stage Late Stage Total Funding $1.68B Key Investors Export-Import Bank of the United States Franklin Templeton,Snowpoint Ventures Trinity Capital 2026-09-30 Debt Financing· $468M 2026-05-06 Series E· $300M 2026-05-06 Debt Financing· $155M Leadership Team Ryan McLinko Cofounder Recent News Telecompaper Astranis secures USD 468 mln US financing to expand satellite production 2026-10-01 Rising Tide Rising Tide Portfolio 2026-09-29 Tech Times Taiwan Carriers Lock Multi-Orbit Satellite Into 6G Architecture Before Standards Exist 2026-09-28 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Python C++ Hardware Design, Build, and Testing Spacecraft Systems and Subsystems Altium Designer Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach N Nick H. Head of Talent Acquisition L Linda T. Recruiting Coordinator Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 35,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -838,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 36,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -863,7 +938,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 37,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "Master's University Grad Data Scientist - USA",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA +3",
+      "salary": "$191k/yr",
+      "salary_max_annual": "191000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140389",
+      "jd_excerpt": "Master's University Grad Data Scientist (USA), San Francisco + 3 other locations | Pinterest Careers Skip to main content Careers Jobs Locations Locations Go to Locations North America Europe Latin America Asia Pacific Remote Departments Departments Go to Departments Administration Apprenticeship Corporate Strategy Design Engineering Finance Global Content Organization Go-to-Market Solutions & Innovations Government & Corporate Affairs HR IT Legal & Compliance Marketing, Communications, and Creative Product Recruiting Sales Trust & Safety University Workplace tvScientific Early Career Early Career Go to Early Career Apprenticeships University Recruiting Inside Pinterest Inside Pinterest Go to Inside Pinterest Inclusion & Belonging PinFlex Benefits Candidate Hub Candidate Hub Go to Candidate Hub Life at Pinterest Blog Our Philosophy on AI in Hiring Events Saved Jobs Join Talent Community [Open search bar] Keywords: Location: Locations Atlanta Berlin Buenos Aires Chicago Dublin Hamburg Hybrid London Los Angeles Mexico City New York Palo Alto Remote San Francisco Seattle Singapore Tokyo Toronto US US Remote Zurich Search Save Saved Master's University Grad Data Scientist (USA) San Francisco / Palo Alto / Seattle / New York University Regular Share Apply Now Description About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . With more than 640 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers help build personalized experiences to help Pinners create a life they love. At Pinterest, you’ll experience hands-on access to an incredible vault of data and contribute large-scale recommendation systems in ways you won’t find anywhere else. By applying to this role, you will be considered for multiple roles open across our various data science teams. We’re looking for a Data Scientist to help evolve and shape the future of our product -- inspiring Pinners and connecting them with actionable content, understanding advertisers and measuring the value Pinterest provides to them, and enabling our employees to evaluate potential product changes faster than ever before. You’ll apply quantitative analysis, statistical techniques, modeling and data mining while working cross-functionally with engineering and product partners. The results of your work will influence the team roadmap, identify actionable product opportunities, refine our experimentation platform, and drive key initiatives, turning your insights and analyses into real-world products. What you’ll do: Contribute to our product roadmap and mission - to bring everyone the inspiration to create a life they love - using data and exploratory analysis to understand user behavior and trends, and identify opportunities for product innovation. Design and implement core metrics that guide the team efforts and help design and evaluate A/B experiments that drive these metrics. Explore alternative experimentation techniques to help internal teams evaluate their ideas faster. Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest. What we’re looking for: Master’s degree in statistics, mathematics, economics, applied sciences, computer science or related field. Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL and a scripting language (Python or R) experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields Excellent communication skills and the ability to explain learnings to both technical and non-technical partners Strong critical thinking when working with AI-generated suggestions, with a clear approach to validating correctness, performance, security, and maintaina",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 38,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -888,7 +988,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 39,
+      "machine_score": 68,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Associate Systems Engineer / Systems Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Florida-Melbourne",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-16",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253424?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Latest Jobs Community Need Help Blog Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Nvidia Senior Machine Learning Engineer, AI Safety Santa Clara, CA +1 more Just now Senior Level AI / Machine Learning Apply Mastercard Manager Software Engineering O'Fallon, MO Just now Senior Level Software Engineering Apply Fidelity Investments Principal Data Engineer Westlake, TX Just now Senior Level Data Science Apply Fidelity Investments Principal Software Engineer/Developer Westlake, TX Just now Senior Level Software Engineering Apply Fidelity Investments Senior Software Engineer/Developer Westlake, TX Just now Senior Level Software Engineering Apply Caterpillar Power Electronics EOL Test Project Lead Mossville, IL Just now Senior Level Hardware Engineering Apply servicenow Principal AI Forward Deployed Engineer Santa Clara Just now Senior Level Operations Apply servicenow Senior StaffÂ ApplicationsÂ Development Engineer Santa Clara Just now Senior Level Operations Apply servicenow Senior Staff Software Engineer_Voice Connectivity Santa Clara Just now Senior Level Operations Apply Bmo Sr. Marketing Manager, Branch Marketing Chicago, IL Just now Senior Level Marketing Apply Nvidia Just now Senior Machine Learning Engineer, AI Safety Santa Clara, CA +1 more Senior Level AI / Machine Learning Apply Now Mastercard Just now Manager Software Engineering O'Fallon, MO Senior Level Software Engineering Apply Now Fidelity Investments Just now Principal Data Engineer Westlake, TX Senior Level Data Science Apply Now Fidelity Investments Just now Principal Software Engineer/Developer Westlake, TX Senior Level Software Engineering Apply Now Fidelity Investments Just now Senior Software Engineer/Developer Westlake, TX Senior Level Software Engineering Apply Now Caterpillar Just now Power Electronics EOL Test Project Lead Mossville, IL Senior Level Hardware Engineering Apply Now servicenow Just now Principal AI Forward Deployed Engineer Santa Clara Senior Level Operations Apply Now servicenow Just now Senior StaffÂ ApplicationsÂ Development Engineer Santa Clara Senior Level Operations Apply Now servicenow Just now Senior Staff Software Engineer_Voice Connectivity Santa Clara Senior Level Operations Apply Now Bmo Just now Sr. Marketing Manager, Branch Marketing Chicago, IL Senior Level Marketing Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights re",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 40,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -913,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -938,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -963,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -988,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 44,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1013,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1038,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1063,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 47,
       "machine_score": 73,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -1088,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 48,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1113,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 49,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
@@ -1138,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 50,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1163,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 51,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1188,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 52,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1213,7 +1338,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 53,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1238,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 54,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1263,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 55,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1288,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 56,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1313,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1338,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1363,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 59,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1388,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 60,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1413,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 61,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1438,7 +1563,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 62,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1463,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 63,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1488,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 64,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1513,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 66,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1563,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 67,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1588,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 68,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1613,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 69,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; new-grad: confirmed; $200k+ stated ceiling",
@@ -1638,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 70,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed",
@@ -1663,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 71,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1688,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 72,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1713,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 73,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1738,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 74,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1763,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 75,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1788,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 76,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1813,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 77,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1838,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 78,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1857,13 +1982,13 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8",
-      "jd_excerpt": "Embedded Systems Engineer, Recent Graduate @ Blissway Inc. You need to enable JavaScript to run this app.",
+      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 79,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1888,7 +2013,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 80,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1913,7 +2038,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 81,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1938,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 82,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1963,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 83,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1988,7 +2113,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 84,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Python, Kubernetes; $200k+ stated ceiling",
+      "company_priority": "Tier A",
+      "company": "xAI",
+      "role": "Software Engineer - Data",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "salary": "$150,000 - $210,000",
+      "salary_max_annual": "210000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-31",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
+      "jd_excerpt": "Jobs at SpaceXAI Current openings at SpaceXAI Create a Job Alert Level-up your career by having opportunities at SpaceXAI sent directly to your inbox. Create alert Search 305 jobs Data Center Job Asset Manager (Energy Storage) - Memphis Southaven, MS; Memphis, TN Barista - Memphis Memphis, TN Carpenter (Construction) - Memphis Southaven, MS; Memphis, TN Chiller Technician - Memphis Southaven, MS; Memphis, TN Civil Engineer Memphis, TN Civil Engineer, SpaceXAI Battery Storage - Memphis Memphis, TN Commissioning Engineer (Electrical) - Memphis New Memphis, TN Construction Manager, Electrical - Memphis Southaven, MS; Memphis, TN Construction Manager, Mechanical - Memphis Southaven, MS; Memphis, TN Construction Manager - Memphis Southaven, MS; Memphis, TN Construction Manager, Structural - Memphis Southaven, MS; Memphis, TN Construction Rigger - Memphis Southaven, MS; Memphis, TN Construction Scheduler - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Electrical - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Electrical (Night Shift) - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Mechanical - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Mechanical (Night Shift) - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Structural - Memphis Southaven, MS; Memphis, TN Construction Superintendent, Structural (Night Shift) - Memphis Memphis, TN Controls Engineer (Power Generation) - Memphis Southaven, MS; Memphis, TN Controls Engineer, Supercomputer Infrastructure - Memphis Southaven, MS; Memphis, TN Controls Technician - Memphis Southaven, MS; Memphis, TN Controls Technician (Physical Infrastructure) - Memphis Southaven, MS; Memphis, TN Cook - Memphis Memphis, TN Critical Facilities Engineer - Memphis Memphis, TN Critical Facilities Engineer - Memphis/Southaven New Southaven, MS; Memphis, TN Critical Facilities Technician Southaven, MS; Memphis, TN Data Center Manager New Southaven, MS; Memphis, TN Data Center Operations Supervisor New Memphis, TN Data Center Operations Technician Hillsboro, OR Data Center Operations Technician - Memphis Southaven, MS; Memphis, TN Design Engineer - Memphis Memphis, TN Director, Memphis Power Plant Operations Southaven, MS Director, Site Operations Memphis, TN Documentation Control Specialist - Infrastructure (Datacenters & Power Plants) Southaven, MS; Austin, TX; Memphis, TN Driver (CDL) - Memphis Southaven, MS; Memphis, TN Driver (CDL) - Memphis (Night Shift) New Southaven, MS; Memphis, TN Electrical Commissioning Technician - Memphis Southaven, MS; Memphis, TN Electrical Engineer, Data Center Infrastructure - Memphis Southaven, MS; Memphis, TN Electrical Engineer - Memphis Southaven, MS; Memphis, TN Electrical Engineer (Power Generation) - Memphis Southaven, MS; Memphis, TN Electrical Reliability Engineer, Data Center Infrastructure - Memphis Southaven, MS; Memphis, TN Electrical Technician (Power Generation) - Memphis Southaven, MS; Memphis, TN Electrician (Construction) Southaven, MS; Memphis, TN Electrician (Construction) - Memphis Southaven, MS; Memphis, TN Electrician, Operations - Memphis Memphis, TN Executive Chef - Memphis Memphis, TN Executive Sous Chef - Memphis Memphis, TN Facilities Engineer, Electrical - Memphis Southaven, MS; Memphis, TN Facilities Engineer, Mechanical (HVAC) - Memphis Southaven, MS; Memphis, TN 1 2 3 4 ... 7 Powered by Greenhouse",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 85,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2013,7 +2163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 86,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2038,7 +2188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 87,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2063,7 +2213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 88,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2088,7 +2238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 89,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2113,7 +2263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 90,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2138,7 +2288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 91,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2163,7 +2313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 92,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",

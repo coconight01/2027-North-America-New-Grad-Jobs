@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-06** · Open roles: **2230**
+> Last automated update: **2026-10-07** · Open roles: **2238**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -20,18 +20,18 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 113 |
 | **AI Infra / Systems** | 12 |
-| **Quant / HFT** | 48 |
+| **Quant / HFT** | 49 |
 | **Other high-value tech** | 31 |
-| **ByteDance / TikTok** (separate) | 393 |
-| Other companies | 1633 |
+| **ByteDance / TikTok** (separate) | 394 |
+| Other companies | 1639 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-07 | **NVIDIA** | [NVIDIA 2027 Ignite Internships: Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-internships-2027) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-10-06 | **Amazon** | [Software Development Engineer, ROBOTICS, Early Career - 2027](https://jobright.ai/jobs/info/6abeda44d9621c5b28391e80) | $129K/yr - $129K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-06 | **NVIDIA** | [NVIDIA 2027 Ignite Internships: Software Engineering](https://jobright.ai/jobs/info/6ac43817d9621c5b283a08e7) | $20/hr - $56/hr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-06 | **NVIDIA** | [NVIDIA 2027 Ignite Internships: Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-10-06 | **Apple** | [PR Specialist, Rotational Program](https://jobs.apple.com/en-us/details/200686181-0836/pr-specialist-rotational-program?team=MKTG) | Not listed | Cupertino | ❔ | ❔ Review | — |
 | 2026-10-06 | **Microsoft** | [DevOps Cloud Engineering Consultant- CTJ- TS/SCI](https://apply.careers.microsoft.com/careers/job/1970393557019058) | $168k/yr | Virginia, MN | ❔ | ❔ Review | — |
 | 2026-10-06 | **Microsoft** | [Data Science - Global Marketing Engines and Experiences - EE](https://apply.careers.microsoft.com/careers/job/1970393557022524) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
@@ -83,7 +83,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | $412k/yr | New York City, NY | ❔ | ◐ Likely | — |
+| 2026-07-20 | **Hudson River Trading** | [Software Engineer (C++ or Python) – 2027 Grads](https://jobright.ai/jobs/info/6a5505cf377f983ce8a973cf) | $300K/yr - $300K/yr | Austin, TX, United States | ❔ | ✅ Confirmed | — |
 
 ### Other high-value tech
 
@@ -104,10 +104,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>393 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>394 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-07 | **ByteDance** | [Research Engineer, Data Lake Infrastructure & Data Analytics Graduate (AML-Ark-US) - 2027 Start...](https://zapply.jobs/l/d/bytedance-7672398686110910773?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | — |
 | 2026-10-03 | **TikTok** | [Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start](https://jobright.ai/jobs/info/6a73f276e55c73319eb19c7b) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
 | 2026-10-03 | **ByteDance** | [Research Scientist Graduate (Seed Model - Speech) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac14c81d9621c5b28398efe) | $254K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-03 | **TikTok** | [AI Software Engineer Graduate - TikTok-PGC-OGC&Creator Strategy - 2027 Start - Graduate - TikTok PGC - 2027 Start](https://lifeattiktok.com/search/7672976491146004741) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
@@ -119,15 +120,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-02 | **ByteDance** | [Research Scientist Graduate (Multimedia Standards) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6abef460064da25272e03d58) | Not listed | San Diego, CA, United States | ❔ | ◐ Likely | PhD only |
 | 2026-10-01 | **ByteDance** | [Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start](https://jobright.ai/jobs/info/6abd90274ac55253f5d5e324) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-01 | **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7673632479987992837?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
-| 2026-10-01 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7670355132899526965?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 393 active roles. Use the Job Radar for all roles._
+_Showing 12 of 394 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2230 active roles**. Featured groups account for **204** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2238 active roles**. Featured groups account for **205** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
