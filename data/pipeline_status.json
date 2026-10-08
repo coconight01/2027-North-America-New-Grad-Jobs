@@ -1,9 +1,13 @@
 {
-  "source_sha": "9594950bf572334cda5d04a551da3ea2ac583175",
-  "checked_at_utc": "2026-10-08T06:16:15+00:00",
-  "overall": "success",
-  "critical_failures": [],
-  "incomplete_critical_stages": [],
+  "source_sha": "07b8e7e1be445de870409c6ceae093b1f59eca10",
+  "checked_at_utc": "2026-10-08T13:15:21+00:00",
+  "overall": "failure",
+  "critical_failures": [
+    "tracker_reconciliation"
+  ],
+  "incomplete_critical_stages": [
+    "review_queue"
+  ],
   "cancelled_stages": [],
   "warnings": [],
   "stages": {
@@ -14,8 +18,8 @@
     "extra_discovery": "success",
     "final_guard": "success",
     "qualification": "success",
-    "tracker_reconciliation": "success",
-    "review_queue": "success",
-    "china_discovery": "success"
+    "tracker_reconciliation": "failure",
+    "review_queue": "skipped",
+    "china_discovery": "skipped"
   }
 }
