@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-08",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "Ubiquant's Wutong Program AI Engineer is today's strongest new application: the official 2027 campus page is live, the screen is bachelor's-or-above with no professional-years minimum, and the role combines Agent systems, large-model post-training and automated training infrastructure. Gmail shows no new exact-role status change; Sierra's live technical interview remains scheduled for October 7 at 9:00 AM CT.",
+  "summary": "No brand-new unapplied role cleared today's Priority bar. Gmail produced three exact-role changes: Pinterest advanced to a 70-minute proctored ML CodeSignal assessment, IMC confirmed the Graduate Deep Learning Researcher application, and Gimlet Labs declined the ML Systems & Inference application. NVIDIA China's 2027 AI Infrastructure Engineer is an exceptional technical match but remains Review Only because the FY28 NCG portal allows two applications and both tracked NVIDIA China slots are already used.",
   "changes_today": [
-    "NEW TODAY: Ubiquant Wutong Program AI Engineer is a live 2027 campus requisition spanning Agent planning/memory/tool use, CPT/SFT/OPD/RL and automated training infrastructure; Python, Agent production work, distributed training and NOI Silver are direct matches.",
-    "APPLICATION LIMIT: Ubiquant's official portal allows only two applications in the July 28, 2026-July 28, 2027 campus cycle, so this role should be prioritized over the company's C++-dominant quant systems role.",
-    "GMAIL: no new exact-role application, assessment, interview, rejection or offer evidence was found; Sierra remains scheduled for a 45-minute live technical interview on October 7 at 9:00 AM CT.",
-    "SOURCE REVIEW: the refreshed China pool surfaced several DeepSeek systems roles. Training/Inference Framework and Agent Elastic Compute are retained for human review because the existing DeepSeek OA cannot be mapped to an exact requisition.",
-    "Frontier-AI official openings were rechecked on October 7. OpenAI Runtime Foundations and Compute Foundations are live but remain on hold because the reported five-application cap is full; roles with senior/staff labels or 3+ years remained excluded."
+    "PINTEREST OA: exact-role recruiter and CodeSignal invitations on October 7 advanced Master's University Grad Machine Learning Engineer 2027 (USA) (8140219) to Assessment. The proctored assessment has 10 ML quiz/coding questions in 70 minutes and a 14-day window; rolling review makes earlier completion preferable.",
+    "IMC APPLIED: an official October 7 confirmation names Graduate Deep Learning Researcher - Chicago, New York (4907416101). The exact requisition is removed from Priority and suppressed from repeat recommendations.",
+    "GIMLET REJECTED: an official October 7 update names Member of Technical Staff - ML Systems & Inference and declines the application. The distinct Distributed Systems requisition remains a separate stretch option.",
+    "NVIDIA CHINA REVIEW: the official 2027 AI Infrastructure Engineer page is live and is an exceptional Python/distributed/HPC/Slurm/PyTorch/Megatron/NCCL match, but the portal permits only two FY28 NCG applications and JR2024107 plus JR2024111 are already tracked as submitted.",
+    "FRONTIER SWEEP: official/current openings across OpenAI, Anthropic, SpaceXAI, DeepMind, Meta, NVIDIA, Microsoft AI, Amazon/Annapurna, Waymo, Databricks, Cerebras, Together, Fireworks and CoreWeave were rechecked October 8. Newly surfaced infrastructure roles requiring 3+ professional years or senior/staff level were excluded; no new unapplied frontier role cleared the Priority bar."
   ],
   "recommendations": [
     {
@@ -56,16 +56,7 @@
       "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/"
     },
     {
-      "rank": 6, "tier": "priority", "company": "IMC", "role": "Graduate Deep Learning Researcher - Chicago, New York (4907416101)", "status": "RECENT", "fit": "4.5/5 · deep-learning research / training infrastructure",
-      "why_screen": "The official BS/MS path accepts research demonstrated through thesis work, open-source contributions or projects. UIUC research, AutoScout, PyTorch, distributed training and the TikTok production internship create a credible screen without requiring publications.",
-      "why_team": "The role spans transformers, foundation/generative models, large-scale data and shared training infrastructure/deployment pipelines; Yuhan can contribute both research discipline and systems-performance evidence.",
-      "why_interest": "A rare high-compensation graduate research role that connects modern model work to training infrastructure rather than requiring low-latency C++ trading systems.",
-      "location": "Chicago or New York · full-time", "salary": "$300,000 base + discretionary bonus and benefits", "new_grad": "PhD/MS/BS completed for February or August 2027 start; BS/MS candidates need research experience, which may be thesis, OSS or projects; no professional-years minimum.",
-      "sponsorship": "Unknown; the official form asks about F-1 OPT and future sponsorship but does not state an approval or denial policy.", "caveat": "The technical center is deep-learning model research and training dynamics, not pure MLSys; evidence of model experimentation and research novelty must be foregrounded.", "urgency": "Live official Greenhouse application verified October 4; one application per role per year, and IMC encourages focusing on the single best-matching role.",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101"
-    },
-    {
-      "rank": 7, "tier": "priority", "company": "iManage", "role": "Applied AI Engineer (New or Recent Grad)", "status": "RECENT", "fit": "4.3/5 · production LLM / evaluation / platform tooling",
+      "rank": 6, "tier": "priority", "company": "iManage", "role": "Applied AI Engineer (New or Recent Grad)", "status": "RECENT", "fit": "4.3/5 · production LLM / evaluation / platform tooling",
       "why_screen": "The exact screen is a December 2026 or May 2027 relevant degree plus 0-2 years, explicitly counting internships, research, coursework and personal projects. Python, PyTorch, TikTok production-agent work, AutoScout and vLLM satisfy the core and bonus qualifications.",
       "why_team": "The team ships LLM features and APIs, builds model evaluations, supports production serving/monitoring and develops platform tooling that makes AI delivery safer and faster—strong overlap with Yuhan's production agent and MLSys work.",
       "why_interest": "A clean early-career path into the full production AI lifecycle, with mentorship and enough platform/evaluation work to be more technical than a generic product-AI role.",
@@ -74,7 +65,7 @@
       "url": "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad"
     },
     {
-      "rank": 8, "tier": "priority", "company": "Microsoft", "role": "Software Engineer - Forward Deployed Engineer (200057324)", "status": "RECENT", "fit": "4.2/5 · production AI/data systems / customer engineering",
+      "rank": 7, "tier": "priority", "company": "Microsoft", "role": "Software Engineer - Forward Deployed Engineer (200057324)", "status": "RECENT", "fit": "4.2/5 · production AI/data systems / customer engineering",
       "why_screen": "The basic qualification is a BS or equivalent plus coding in C/C++/C#/Java/JavaScript/Python, with no years minimum. UIUC MSCS, Python, TikTok production agent engineering and research systems work meet the screen cleanly.",
       "why_team": "The role builds production-grade AI, data and software solutions with customers; agent integration, cloud debugging and end-to-end delivery are concrete strengths.",
       "why_interest": "It combines AI systems, cloud infrastructure and production ownership at IC2, offering a cleaner early-career path than many unlabeled frontier roles.",
@@ -83,7 +74,7 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814"
     },
     {
-      "rank": 9, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.6/5 · direct training/inference platform match",
+      "rank": 8, "tier": "priority", "company": "Century Frontier", "role": "AI Infrastructure Engineer (Campus / New Grad)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.6/5 · direct training/inference platform match",
       "why_screen": "The role accepts exceptional new graduates and asks for distributed systems, GPU resource management, scheduling and systems thinking; AutoScout, NCCL/multi-GPU, vLLM and Linux profiling are direct evidence.",
       "why_team": "Large-scale model training/inference infrastructure, accelerator scheduling, diagnostics, observability and performance tuning are unusually direct resume overlaps.",
       "why_interest": "A true AI-platform role supporting model researchers rather than a generic backend assignment.",
@@ -228,10 +219,10 @@
     {"company": "Fireworks AI", "role": "Member of Technical Staff, New Grad (BS/MS)", "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e", "reason": "The overview says Summer 2027 while minimum qualifications say degree by end of 2026; eligibility is contradictory."}
   ],
   "watch_hold": [
-    {"company": "Pinterest", "role": "Master's University Grad Machine Learning Engineer 2027 (USA) (8140219)", "status": "Applied Oct 2; exact official confirmation; suppress this requisition."},
+    {"company": "Pinterest", "role": "Master's University Grad Machine Learning Engineer 2027 (USA) (8140219)", "status": "Assessment invited Oct 7: fully proctored 70-minute CodeSignal ML assessment with 10 quiz/coding questions and a 14-day window ending around Oct 21; rolling review favors earlier completion."},
     {"company": "DoorDash", "role": "Software Engineer I, Entry-Level (8163709)", "status": "Applied Oct 2; exact official confirmation; suppress this requisition."},
     {"company": "Cursor / SpaceXAI", "role": "Software Engineer, New Grad 2027", "status": "Applied Sep 25. Exact SpaceXAI confirmation plus the live Cursor page show one shared SpaceXAI hiring pool; do not recommend a duplicate Cursor application."},
-    {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Interview: CoderPad assessment passed review. Live 45-minute technical coding interview is scheduled for Oct 7 at 9:00 AM CT with practical coding, some data structures/algorithms, think-aloud scoping and collaboration."},
+    {"company": "Sierra", "role": "Software Engineer, Agent (New Grad 2027)", "status": "Interview pending outcome: the scheduled Oct 7 live technical interview time has passed, but Gmail contains no result email; do not infer an outcome from silence."},
     {"company": "WeRide", "role": "New Grads 2027 - Software Engineer, Algorithm", "status": "Next virtual onsite Oct 9 at 8:00 PM PT / 10:00 PM CT, 45-60 minutes."},
     {"company": "Apple", "role": "AI Software Engineer, Apple Cloud AI Platform (200686380)", "status": "Applied Oct 2; exact confirmation; suppress exact role."},
     {"company": "Amazon Annapurna Labs", "role": "Software Development Engineer I, ML Infra Services (10464055)", "status": "Rejected Sep 30; suppress exact requisition."},
@@ -239,8 +230,10 @@
     {"company": "NVIDIA", "role": "JR2026011 / JR2026218", "status": "Exact official requisitions unavailable; cached copies remain non-actionable."},
     {"company": "OpenAI", "role": "Training Runtime - Runtime Foundations / Compute Foundations and other infrastructure roles", "status": "Hold: user reports five-application cap full. Runtime Foundations and Compute Foundations are live official roles and were rechecked Oct 7, but no further application should be attempted until a slot opens."},
     {"company": "ByteDance/TikTok", "role": "All additional roles", "status": "Hold by user override."},
-    {"company": "AppLovin / Anthropic Inference / Together / Baseten / Luma / Amazon 10558915 / Replit / LiteLLM / Gimlet Inference", "role": "Previously confirmed exact roles", "status": "Applied; suppress exact-role repeats."},
-    {"company": "IMC", "role": "Quant Performance Engineer (4823836101)", "status": "Applied exact role; do not broaden this evidence to today's distinct Graduate Deep Learning Researcher or Graduate Quantitative Researcher requisitions."},
-    {"company": "NVIDIA China / AXQ / Goaly / DRW / DeepSeek", "role": "Existing assessments or interview processes", "status": "No new official result email found Oct 7; preserve existing exact or uncertain status without inference."}
+    {"company": "IMC", "role": "Graduate Deep Learning Researcher - Chicago, New York (4907416101)", "status": "Applied Oct 7; exact official confirmation; suppress this requisition."},
+    {"company": "Gimlet Labs", "role": "Member of Technical Staff - ML Systems & Inference", "status": "Rejected Oct 7; exact official update; suppress this requisition. Do not conflate it with the separate Distributed Systems role."},
+    {"company": "AppLovin / Anthropic Inference / Together / Baseten / Luma / Amazon 10558915 / Replit / LiteLLM", "role": "Previously confirmed exact roles", "status": "Applied; suppress exact-role repeats."},
+    {"company": "IMC", "role": "Quant Performance Engineer (4823836101)", "status": "Applied exact role; keep separate from Graduate Deep Learning Researcher and Graduate Quantitative Researcher."},
+    {"company": "NVIDIA China / AXQ / Goaly / DRW / DeepSeek", "role": "Existing assessments or interview processes", "status": "No new official result email found Oct 8; preserve existing exact or uncertain status without inference."}
   ]
 }
