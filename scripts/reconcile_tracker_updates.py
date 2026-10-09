@@ -11,7 +11,7 @@ from __future__ import annotations
 
 import json
 import re
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 import yaml
@@ -34,6 +34,13 @@ def key(item: dict) -> tuple[str, str]:
 def can_create(update: dict) -> bool:
     """Exact reviewed email evidence may create a new tracker row by default."""
     return bool(update.get("allow_create", False)) or norm(update.get("confidence")) == "exact"
+
+
+def json_safe(value: object) -> object:
+    """Normalize YAML-native date values before they enter the JSON tracker."""
+    if isinstance(value, (date, datetime)):
+        return value.isoformat()
+    return value
 
 
 def load_updates() -> tuple[list[Path], list[dict]]:
@@ -75,8 +82,8 @@ def main() -> None:
                 "company": update.get("company", ""),
                 "role": update.get("role", ""),
                 "status": update.get("status", "Applied"),
-                "applied_date": update.get("applied_date"),
-                "status_date": update.get("status_date"),
+                "applied_date": json_safe(update.get("applied_date")),
+                "status_date": json_safe(update.get("status_date")),
                 "confidence": update.get("confidence", "Exact"),
                 "evidence": update.get("evidence", "Reviewed application email evidence"),
                 "next_action": update.get("next_action", "Wait for review"),
@@ -89,8 +96,9 @@ def main() -> None:
             "status", "applied_date", "status_date", "confidence", "evidence",
             "next_action", "application_limit_note", "eligibility_note",
         ):
-            if field in update and existing.get(field) != update.get(field):
-                existing[field] = update.get(field)
+            value = json_safe(update.get(field))
+            if field in update and existing.get(field) != value:
+                existing[field] = value
                 changed += 1
 
     tracker["updated_at"] = date.today().isoformat()
