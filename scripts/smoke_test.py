@@ -289,12 +289,14 @@ def test_china_detail_fallback() -> str:
 
 def test_tracker_overlay_coverage() -> str:
     from scripts import reconcile_tracker_updates
+    from datetime import date
 
     assert "tracker_email_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
     assert "tracker_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
     paths, updates = reconcile_tracker_updates.load_updates()
     assert any(path.name.startswith("tracker_updates_") for path in paths), paths
     assert any(update.get("remove") for update in updates), "expected a reviewed removal overlay"
+    assert reconcile_tracker_updates.json_safe(date(2026, 10, 9)) == "2026-10-09"
     tracker = json.loads((DATA / "application_tracker.json").read_text(encoding="utf-8"))
     assert not any(
         item.get("company") == "DRW" and item.get("role") == "Role uncertain"
