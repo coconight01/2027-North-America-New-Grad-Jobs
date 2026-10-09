@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-08** · Open roles: **2304**
+> Last automated update: **2026-10-09** · Open roles: **2307**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 49 |
 | **Other high-value tech** | 31 |
 | **ByteDance / TikTok** (separate) | 401 |
-| Other companies | 1697 |
+| Other companies | 1700 |
 
 ### Big Tech & Frontier AI
 
@@ -108,9 +108,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start](https://jobright.ai/jobs/info/6ac7e295a444ac5d36f86712) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://jobright.ai/jobs/info/6ac6e4dc372c01f6cd73f7eb) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6a8f85b5d96ad228f125df70) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
-| 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start](https://jobright.ai/jobs/info/6ac7e295a444ac5d36f86712) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start](https://jobright.ai/jobs/info/6ac7e21151a1b3e4219ef2dd) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac7e296fe8f33a85d4fdd93) | $162K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac7e297fe8f33a85d4fdd94) | $154K/yr - $301K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -127,7 +127,7 @@ _Showing 12 of 401 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2304 active roles**. Featured groups account for **206** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2307 active roles**. Featured groups account for **206** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
