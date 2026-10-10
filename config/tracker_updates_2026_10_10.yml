@@ -1,0 +1,27 @@
+updates:
+  - company: AMD
+    role: "Software Development Engineer (2026-89481)"
+    status: Rejected
+    applied_date: 2026-08-17
+    status_date: 2026-10-09
+    confidence: Exact
+    evidence: "An official AMD recruiting email received on 2026-10-09 names requisition 2026-89481 and Software Development Engineer and says Yuhan was not selected to move forward."
+    next_action: "Closed for exact requisition 2026-89481 only; do not infer outcomes for other AMD applications."
+
+  - company: Waymo
+    role: "ML Engineer, Foundation Model Recipes"
+    status: Rejected
+    applied_date: 2026-09-10
+    status_date: 2026-10-09
+    confidence: Exact
+    evidence: "An official Waymo email received on 2026-10-09 names ML Engineer, Foundation Model Recipes and says the team will not move forward with the application."
+    next_action: "Closed for this exact role only; keep Foundation Model Infrastructure and other Waymo requisitions independent."
+
+  - company: Sierra
+    role: "Software Engineer, Agent (New Grad 2027)"
+    status: Rejected
+    applied_date: 2026-09-03
+    status_date: 2026-10-09
+    confidence: Exact
+    evidence: "After the exact Sierra New Grad Agent process advanced through CoderPad and a live technical interview, Sierra recruiting wrote on 2026-10-09 that it would not move forward."
+    next_action: "Closed for this exact requisition only; do not infer outcomes for other Sierra roles."

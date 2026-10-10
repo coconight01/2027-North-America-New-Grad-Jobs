@@ -137,13 +137,13 @@
     },
     {
       "company": "AMD",
-      "role": "Software Development Engineer / exact requisition uncertain",
-      "status": "Applied",
+      "role": "Software Development Engineer (2026-89481)",
+      "status": "Rejected",
       "applied_date": "2026-08-17",
-      "status_date": "2026-08-17",
-      "confidence": "Likely",
-      "evidence": "AMD recruiting confirmation names Software Development Engineer, but no requisition ID or location is present in the confirmation",
-      "next_action": "Wait for review; reconcile exact requisition if a later email names it"
+      "status_date": "2026-10-09",
+      "confidence": "Exact",
+      "evidence": "An official AMD recruiting email received on 2026-10-09 names requisition 2026-89481 and Software Development Engineer and says Yuhan was not selected to move forward.",
+      "next_action": "Closed for exact requisition 2026-89481 only; do not infer outcomes for other AMD applications."
     },
     {
       "company": "Micron Technology",
@@ -650,12 +650,12 @@
     {
       "company": "Sierra",
       "role": "Software Engineer, Agent (New Grad 2027)",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": "2026-09-03",
-      "status_date": "2026-10-06",
+      "status_date": "2026-10-09",
       "confidence": "Exact",
-      "evidence": "Sierra recruiting confirmed on 2026-10-06 that the CoderPad assessment passed review and advanced the exact application to a 45-minute live technical coding interview with an engineer. The calendar invitation schedules it for 2026-10-07 at 9:00 AM CT.",
-      "next_action": "Prepare for the 45-minute live coding interview on 2026-10-07 at 9:00 AM CT: practical real-world coding, some data structures and algorithms, explicit scoping/planning, think-aloud communication, and collaborative iteration."
+      "evidence": "After the exact Sierra New Grad Agent process advanced through CoderPad and a live technical interview, Sierra recruiting wrote on 2026-10-09 that it would not move forward.",
+      "next_action": "Closed for this exact requisition only; do not infer outcomes for other Sierra roles."
     },
     {
       "company": "IMC Trading",
@@ -720,12 +720,12 @@
     {
       "company": "Waymo",
       "role": "ML Engineer, Foundation Model Recipes",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-09-10",
-      "status_date": "2026-09-10",
+      "status_date": "2026-10-09",
       "confidence": "Exact",
-      "evidence": "Official Waymo application confirmation received on 2026-09-10 names the exact ML Engineer, Foundation Model Recipes role.",
-      "next_action": "Wait for review; remove only this exact role from recommendations. Keep Foundation Model Infrastructure and other Waymo requisitions independent."
+      "evidence": "An official Waymo email received on 2026-10-09 names ML Engineer, Foundation Model Recipes and says the team will not move forward with the application.",
+      "next_action": "Closed for this exact role only; keep Foundation Model Infrastructure and other Waymo requisitions independent."
     },
     {
       "company": "Scale AI",
