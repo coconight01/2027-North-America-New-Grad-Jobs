@@ -26635,7 +26635,7 @@
     "salary_min_annual": "65000",
     "salary_max_annual": "122000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-10-11",
     "parser_version": 4
   },
@@ -37389,6 +37389,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-09-29",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6abc13b37119e56191ceb26d": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$72K/yr - $78K/yr",
+    "salary_min_annual": 72000,
+    "salary_max_annual": 78000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-11",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abc1aebb23c6fb2b81a51c4": {

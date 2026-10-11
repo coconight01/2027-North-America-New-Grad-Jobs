@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-11** · Open roles: **2374**
+> Last automated update: **2026-10-11** · Open roles: **2372**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 117 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
-| **Other high-value tech** | 33 |
+| **Other high-value tech** | 32 |
 | **ByteDance / TikTok** (separate) | 408 |
-| Other companies | 1755 |
+| Other companies | 1754 |
 
 ### Big Tech & Frontier AI
 
@@ -129,7 +129,7 @@ _Showing 12 of 408 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2374 active roles**. Featured groups account for **211** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2372 active roles**. Featured groups account for **210** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
