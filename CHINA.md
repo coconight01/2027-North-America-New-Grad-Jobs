@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-12 | **StepFun (阶跃星辰)** | [AI 安全研究员 / Research Scientist, AI Safety](https://app.mokahr.com/social-recruitment/step/94904#/job/8a05c70c-d9c1-4a70-a08c-dc07fc3fc597) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-30 | **StepFun (阶跃星辰)** | [影像测试工程师(AI功能)](https://app.mokahr.com/social-recruitment/step/94904#/job/d0c8c8bb-4951-4d72-ac8d-5b51a7a42a83) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [IOT软件平台类-研发管理部专项](https://app.mokahr.com/social-recruitment/step/94904#/job/f55c752f-4027-4fea-b9fa-2ca9c0deff97) | Software Engineering | 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [影像应用软件工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0044db65-7aa7-4fe8-bacb-4164ad57e690) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
@@ -127,7 +128,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-05-18 | **StepFun (阶跃星辰)** | [相机应用开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/106cead8-3f9f-48ef-9714-69379c0999e3) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-05-07 | **StepFun (阶跃星辰)** | [数据采集开发工程师——web端/通用采集](https://app.mokahr.com/social-recruitment/step/94904#/job/ba12e4cb-63b2-4121-9fa2-bbb8eb57c910) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-05-06 | **Lingjun Investment (灵均)** | [量化开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/27ddbc59-12c8-4260-bc6c-56fab73654a5) | Quantitative Finance | 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-04-28 | **Lingjun Investment (灵均)** | [C++开发工程师（数据方向）](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/aa099f22-85a4-4545-95ce-c59b381fa814) | AI Infrastructure / Systems | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期权](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/3b230d52-24dc-4f38-938f-9bd47a2b7cbe) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-期货](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/39418bed-add2-4a70-bfb8-fe46e0a4e247) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-04-28 | **Lingjun Investment (灵均)** | [量化研究员-股票](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/6cd0ff0c-d870-4291-aa53-43cdd2021d15) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
