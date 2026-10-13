@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-13** · Open roles: **2388**
+> Last automated update: **2026-10-13** · Open roles: **2385**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,7 +18,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 125 |
+| **Big Tech & Frontier AI** | 122 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 32 |
@@ -55,7 +55,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-10 | **Databricks** | [Evergreen - Product Design New Grad (2027 Start)](https://jobright.ai/jobs/info/6ac975c3d4a5a037074126e9) | $128K/yr - $140K/yr | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-03 | **Cerebras** | [AI Inference Core - Software Integration Engineer](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Unknown | Sunnyvale, CA; Toronto, ON | ❔ | ❔ Review | — |
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-18 | **Together AI** | [Software Engineer, New Grad (2027) · 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000 - $160,000 | San Francisco | ❔ | ✅ Confirmed | — |
+| 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000 - $160,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
@@ -128,7 +128,7 @@ _Showing 12 of 408 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2388 active roles**. Featured groups account for **218** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2385 active roles**. Featured groups account for **215** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
