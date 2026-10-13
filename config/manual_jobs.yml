@@ -136,6 +136,60 @@ jobs:
     match: "Official full-time role explicitly welcomes exceptional junior engineers and accepts internships, research, academic projects or open source as systems evidence"
     description: "Integrate and debug AI inference workloads across frameworks, runtime, compiler, kernels, distributed systems and infrastructure. Preferred experience includes compute clusters, LLM/AI infrastructure, profiling/observability, microservices, containers, orchestration or HPC. Hybrid three days per week in Sunnyvale or Toronto; remote is not offered. No numeric professional-experience minimum is stated."
 
+  - company: Cerebras
+    role: Member of Technical Staff (Software Engineer)
+    category: ML Systems / Inference Infrastructure
+    location: Sunnyvale, CA
+    country: United States
+    graduation: "2027 eligible (one year explicitly accepts student/intern and equivalent part-time experience)"
+    start_date: Unknown
+    degree: MS
+    sponsorship: Unknown
+    visa_evidence: ""
+    citizenship_required: Unknown
+    salary: Unknown
+    salary_min_annual: ""
+    salary_max_annual: ""
+    phd_required: "No"
+    personalized_score: 94
+    priority: High
+    personalized_reason: "Low-latency inference infrastructure, Linux, Python, Kubernetes services, distributed tracing, networking diagnosis and performance regression work directly match vLLM, multi-GPU and profiling experience"
+    skills: "Python, Linux, Docker, Kubernetes, C++, Java, Kafka, Distributed Systems, LLM Inference, Profiling"
+    url: https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e
+    source: "Manual official verification: Cerebras Ashby"
+    date_added: "2026-10-13"
+    last_verified: "2026-10-13"
+    status: Open
+    match: "Official full-time role; master's plus one year explicitly accepts full-time or equivalent part-time experience as a student, intern, MTS or software engineer"
+    description: "Develop and operate high-performance, low-latency inference infrastructure and Kubernetes services; improve autoscaling, high availability, distributed tracing, networking diagnosis and performance regression detection. Required technology breadth includes Docker/Kubernetes, Java or C++, ActiveMQ/Kafka, Python/Groovy, JavaScript/TypeScript, Linux and SQL/OracleDB/Redis. Onsite in Sunnyvale."
+
+  - company: Together AI
+    role: "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering (5186628007)"
+    category: ML Systems / Inference Infrastructure
+    location: San Francisco, CA
+    country: United States
+    graduation: "2027 potentially eligible (Junior included; no numeric years minimum)"
+    start_date: Unknown
+    degree: Unknown
+    sponsorship: Unknown
+    visa_evidence: "Official application asks about current or future sponsorship but states no policy"
+    citizenship_required: Unknown
+    salary: "$160000 - $280000 annually + equity"
+    salary_min_annual: 160000
+    salary_max_annual: 280000
+    phd_required: "No"
+    personalized_score: 97
+    priority: Stretch
+    personalized_reason: "Kubernetes-native GPU inference control plane, scheduling, bin packing, defragmentation, NCCL/topology constraints, self-healing and fleet efficiency are exceptional matches for Yuhan's inference, collectives and scheduler background"
+    skills: "Python, Go, Rust, Kubernetes, Distributed Systems, Workflow Orchestration, Kafka, NCCL, CUDA, GPU Scheduling"
+    url: https://job-boards.greenhouse.io/togetherai/jobs/5186628007
+    source: "Manual official verification: Together AI Greenhouse"
+    date_added: "2026-10-13"
+    last_verified: "2026-10-13"
+    status: Open
+    match: "Official mixed-level full-time role includes Junior in the title and has no numeric years minimum; production control-plane experience remains an uncertain early-career screen"
+    description: "Build a Kubernetes-native control plane for GPU inference fleets: declarative APIs, reconciliation loops, durable workflows, event-driven health remediation, topology-aware cluster shapes, scheduling, bin packing, defragmentation and utilization optimization. Core requirements include Kubernetes controllers or equivalent reconciliation systems, Temporal/Cadence-like durable workflows and event-driven systems. Four days per week in the San Francisco office."
+
   - company: Microsoft
     role: Software Engineer - Forward Deployed Engineer (200057324)
     category: AI / Backend Software Engineering
