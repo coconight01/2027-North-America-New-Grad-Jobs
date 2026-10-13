@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-10-13** · Open roles: **173**
+> Last automated update: **2026-10-13** · Open roles: **174**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-13 | **StepFun (阶跃星辰)** | [OS测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c1d695b9-4263-4239-b74a-f462ce21c2ec) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-12 | **StepFun (阶跃星辰)** | [AI 安全研究员 / Research Scientist, AI Safety](https://app.mokahr.com/social-recruitment/step/94904#/job/8a05c70c-d9c1-4a70-a08c-dc07fc3fc597) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-30 | **StepFun (阶跃星辰)** | [影像测试工程师(AI功能)](https://app.mokahr.com/social-recruitment/step/94904#/job/d0c8c8bb-4951-4d72-ac8d-5b51a7a42a83) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [IOT软件平台类-研发管理部专项](https://app.mokahr.com/social-recruitment/step/94904#/job/f55c752f-4027-4fea-b9fa-2ca9c0deff97) | Software Engineering | 广东 · 南山区 | 全职 | Review eligibility |
@@ -44,6 +45,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-09-08 | **StepFun (阶跃星辰)** | [大数据平台 SRE 工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/28387f16-cbe4-486a-8cce-a2219ae8ab10) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-08 | **StepFun (阶跃星辰)** | [测试开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/f32567f1-012e-47ef-8ba4-a3994f24e766) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-07 | **StepFun (阶跃星辰)** | [PC端开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cc668705-8a7f-40df-86e7-d7ed4d079544) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-09-04 | **StepFun (阶跃星辰)** | [Agent基建工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0774a78a-44d6-4b4e-8c80-9d8bc8b67e19) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Pre-train 算法研究员（模型训练）](https://app.mokahr.com/social-recruitment/step/94904#/job/bce2f069-64b0-46d1-b0c6-b1e4bb129160) | AI Infrastructure / Systems | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Mid-train 算法工程师（数据方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/8e12af98-b080-450d-895b-4c4c07fa9a8c) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-03 | **StepFun (阶跃星辰)** | [Mid-train 算法研究员/工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0a177100-4e42-4732-bdff-a8519c2be998) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
@@ -141,7 +143,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-04-01 | **StepFun (阶跃星辰)** | [Post-Train 训推基建优化工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/2cdc77b5-1a47-451f-b329-957613e72793) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-03-19 | **StepFun (阶跃星辰)** | [语音大模型数据工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/65e77ae5-ed81-4e15-8fce-7689a22e309f) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-03-19 | **StepFun (阶跃星辰)** | [语音大模型评测工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0fbc8178-fc9b-431b-a2d8-11f5cfa6789b) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-03-10 | **StepFun (阶跃星辰)** | [Agent基建工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/773646f6-8a16-4761-947b-c8914dc739da) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-03-02 | **StepFun (阶跃星辰)** | [模型&Agent评测系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cb58c1c3-94c8-4c22-b1d4-c25e5201e717) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-02-28 | **StepFun (阶跃星辰)** | [Personal/Working Agent研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/2919ede2-f6e4-4745-8354-e4ce07958771) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-02-27 | **StepFun (阶跃星辰)** | [数据平台研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/be6d96c6-282b-4c45-a8f2-0feb2d391e14) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
