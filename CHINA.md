@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-14 | **StepFun (阶跃星辰)** | [BSP（底软）开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d) | Software Engineering | 上海市 · 徐汇区 / 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-10-14 | **StepFun (阶跃星辰)** | [企业工作台-客户端开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cae53095-fc39-45e3-a271-85eccf878b8f) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-13 | **StepFun (阶跃星辰)** | [OS测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c1d695b9-4263-4239-b74a-f462ce21c2ec) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-12 | **StepFun (阶跃星辰)** | [AI 安全研究员 / Research Scientist, AI Safety](https://app.mokahr.com/social-recruitment/step/94904#/job/8a05c70c-d9c1-4a70-a08c-dc07fc3fc597) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
@@ -96,7 +97,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】机器人软件工程师 - 仿真方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/32d048e9-2a58-43b1-96a4-24c515b0405e) | AI / ML | 上海市 · 浦东新区 | 全职 | Confirmed campus |
 | 2026-07-08 | **StepFun (阶跃星辰)** | [音频软件工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/11a6bd24-50ca-494d-af18-47609cabc75c) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-03 | **StepFun (阶跃星辰)** | [Agent研发工程师（金融投研方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/af66ae92-682e-4154-98ed-d24055dff565) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2026-07-01 | **StepFun (阶跃星辰)** | [AI软件服务商业化](https://app.mokahr.com/social-recruitment/step/94904#/job/4f20094c-07fa-4467-8a10-d6ca2609ebca) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-01 | **StepFun (阶跃星辰)** | [Pre train Data基建工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/846ba690-df4f-4974-b3cc-4141f4f18895) | AI / ML | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-01 | **StepFun (阶跃星辰)** | [云原生研发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d23793a6-d6eb-4413-89c7-198e66a552dc) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-06-30 | **StepFun (阶跃星辰)** | [质量体系工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/75ec2976-47a2-4cd2-9004-4e0e2b290133) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
