@@ -2,22 +2,6 @@
   {
     "posted_date": "2026-10-14",
     "company": "StepFun (阶跃星辰)",
-    "role": "BSP（底软）开发工程师",
-    "track": "Software Engineering",
-    "location": "上海市 · 徐汇区 / 广东 · 南山区",
-    "employment_type": "全职",
-    "eligibility": "Review eligibility",
-    "salary": "Not published",
-    "source": "Official MokaHR",
-    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d",
-    "job_id": "7d39db55-7da3-49e0-a1a8-2e31e6f5f75d",
-    "status": "Open",
-    "date_added": "2026-10-14",
-    "qualification_excerpt": "BSP五个模块，任选一个方向： Boot/Kernel 开发工程师； 外设驱动开发工程师； 底层显示/GPU图形驱动工程师； Sensor 子系统工程师（高通平台 LPI / 低功耗）； 底层安全 & 生物识别工程师 Boot/Kernel 开发工程师 岗位职责 负责手机平台 Boot、Kernel 及整机 Bringup 底层开发，支撑新机点亮、版本迭代及量产交付。 开展 LK/ABL/U‑Boot Bootloader 移植调试，适配 Secure Boot、AB 分区、OTA 底层逻辑，排查卡 logo、开机异常、升级故障；完成 Android/Linux 内核裁剪、基线维护、补丁合入，DTS/DTSI 设备树适配，GPIO、中断、I2C/SPI/UART 等硬件资源配置。 负责休眠唤醒、调频调压、温控功耗调优；解析 kernel log、panic、ramdump、watchdog，定位死机重启、漏电、卡顿等稳定性问题。 参与新机 Bringup，完成 DDR、UFS/EMMC、PMIC 及外设底层调试，协同硬件、芯片原厂解决软硬件疑难问题。 负责代码版本管理、代码评审，推动测试及量产问题闭环，输出技术文档，保障整机底层稳定性。 任职要求 本科及以上学历，计算机、电子信息、自动化等相关专业，3年+相关经验 熟悉 Linux 内核基础机制，有有嵌入式、主板 Bringup 相关实践经验优先。 熟练 C 语言，看得懂硬件原理图；了解高通 / MTK 平台，具备 ramdump、内核日志分析能力优先。 具备良好的问题分析能力，有一定文档编写与沟通协调、团队协作能力。 做事踏实严谨，能够跟进问题闭环，愿意深耕手机底层开发方向。"
-  },
-  {
-    "posted_date": "2026-10-14",
-    "company": "StepFun (阶跃星辰)",
     "role": "企业工作台-客户端开发工程师",
     "track": "Software Engineering",
     "location": "北京市 · 海淀区 / 上海市 · 徐汇区",
@@ -30,6 +14,22 @@
     "status": "Open",
     "date_added": "2026-10-14",
     "qualification_excerpt": "职位描述 负责企业工作台桌面客户端核心业务功能的设计、开发与持续演进，关注性能、稳定性、易用性及交互体验，提升企业办公场景下的使用效率与流畅度。 负责桌面端业务领域建模与技术架构设计，将复杂产品需求转化为清晰的业务分层、模块边界和可扩展的技术方案，持续提升代码质量与研发效率。 负责 Windows、macOS、Linux 等平台的客户端能力建设，解决跨平台兼容性问题，保障各操作系统下功能、性能和用户体验的一致性与完整性。 参与本地文件管理、多任务并行、进程间通信、系统能力集成、Agent 本地执行等复杂场景的方案设计与工程实现。 与产品、设计、AI Agent、算法及服务端团队紧密协作，推动需求分析、技术方案设计、开发交付和效果验证，保障项目高质量落地。 持续完善客户端工程体系，包括性能监控、异常诊断、自动化测试、灰度发布及质量保障机制，提升客户端的稳定性和可维护性。 关注桌面客户端、AI Agent及相关领域的技术发展，结合业务场景推动新技术探索与落地。 任职要求 本科及以上学历，计算机、软件工程或相关专业。 5 年及以上客户端开发经验，精通 TypeScript/JavaScript，具备扎实的计算机基础、良好的编码习惯和工程实践能力。 熟悉 Electron 桌面应用开发，深入理解主进程、渲染进程、进程间通信、窗口管理、应用生命周期及安全机制。 具备 Windows、macOS、Linux 跨平台桌面应用开发经验，熟悉不同操作系统的特性、权限机制及兼容性处理。 具备良好的业务架构思维和抽象能力，能够将复杂需求拆解为边界清晰、职责明确、易于维护和扩展的客户端实现方案。 具备客户端性能优化与稳定性治理经验，能够系统分析并解决启动速度、内存占用、CPU 使用率、卡顿、崩溃等问题。 具备优秀的问题定位与技术攻坚能力，面对复杂疑难问题能够深入根因、跨层排查并推动彻底解决。 具备良好的沟通协作能力、责任心和结果意识，能够与不同职能团队高效协作并推动项目落地。 加分项 具备 Rust、C++、Swift、Objective-C、C# 等一种或多种原生开发经验。 有大型桌面应用、企业级协作工具或复杂客户端架构设计与演进经验。 有大模型、AI Agent、MCP、工具调用、端云协同或本地智能任务执行相关项目经验。 有客户端工程化、自动化测试、持续集成、灰度发布、监控告警及崩溃分析体系建设经验。 具备开源项目贡献经验，或有高质量技术文章、技术分享及相关社区影响力。"
+  },
+  {
+    "posted_date": "2026-10-14",
+    "company": "StepFun (阶跃星辰)",
+    "role": "底软/驱动开发工程师（BSP)",
+    "track": "Software Engineering",
+    "location": "上海市 · 徐汇区 / 广东 · 南山区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d",
+    "job_id": "7d39db55-7da3-49e0-a1a8-2e31e6f5f75d",
+    "status": "Open",
+    "date_added": "2026-10-14",
+    "qualification_excerpt": "BSP五个模块，任选一个方向： Boot/Kernel 开发工程师； 外设驱动开发工程师； 底层显示/GPU图形驱动工程师； Sensor 子系统工程师（高通平台 LPI / 低功耗）； 底层安全 & 生物识别工程师 Boot/Kernel 开发工程师 岗位职责 负责手机平台 Boot、Kernel 及整机 Bringup 底层开发，支撑新机点亮、版本迭代及量产交付。 开展 LK/ABL/U‑Boot Bootloader 移植调试，适配 Secure Boot、AB 分区、OTA 底层逻辑，排查卡 logo、开机异常、升级故障；完成 Android/Linux 内核裁剪、基线维护、补丁合入，DTS/DTSI 设备树适配，GPIO、中断、I2C/SPI/UART 等硬件资源配置。 负责休眠唤醒、调频调压、温控功耗调优；解析 kernel log、panic、ramdump、watchdog，定位死机重启、漏电、卡顿等稳定性问题。 参与新机 Bringup，完成 DDR、UFS/EMMC、PMIC 及外设底层调试，协同硬件、芯片原厂解决软硬件疑难问题。 负责代码版本管理、代码评审，推动测试及量产问题闭环，输出技术文档，保障整机底层稳定性。 任职要求 本科及以上学历，计算机、电子信息、自动化等相关专业，3年+相关经验 熟悉 Linux 内核基础机制，有有嵌入式、主板 Bringup 相关实践经验优先。 熟练 C 语言，看得懂硬件原理图；了解高通 / MTK 平台，具备 ramdump、内核日志分析能力优先。 具备良好的问题分析能力，有一定文档编写与沟通协调、团队协作能力。 做事踏实严谨，能够跟进问题闭环，愿意深耕手机底层开发方向。"
   },
   {
     "posted_date": "2026-10-13",

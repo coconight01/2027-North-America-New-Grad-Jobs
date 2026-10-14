@@ -8,8 +8,8 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
-| 2026-10-14 | **StepFun (阶跃星辰)** | [BSP（底软）开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d) | Software Engineering | 上海市 · 徐汇区 / 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-10-14 | **StepFun (阶跃星辰)** | [企业工作台-客户端开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cae53095-fc39-45e3-a271-85eccf878b8f) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-10-14 | **StepFun (阶跃星辰)** | [底软/驱动开发工程师（BSP)](https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d) | Software Engineering | 上海市 · 徐汇区 / 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-10-13 | **StepFun (阶跃星辰)** | [OS测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c1d695b9-4263-4239-b74a-f462ce21c2ec) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-12 | **StepFun (阶跃星辰)** | [AI 安全研究员 / Research Scientist, AI Safety](https://app.mokahr.com/social-recruitment/step/94904#/job/8a05c70c-d9c1-4a70-a08c-dc07fc3fc597) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-09-30 | **StepFun (阶跃星辰)** | [影像测试工程师(AI功能)](https://app.mokahr.com/social-recruitment/step/94904#/job/d0c8c8bb-4951-4d72-ac8d-5b51a7a42a83) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
