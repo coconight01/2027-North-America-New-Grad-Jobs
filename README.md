@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 125 |
+| **Big Tech & Frontier AI** | 121 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 33 |
-| **ByteDance / TikTok** (separate) | 410 |
-| Other companies | 1851 |
+| **ByteDance / TikTok** (separate) | 411 |
+| Other companies | 1854 |
 
 ### Big Tech & Frontier AI
 
@@ -105,10 +105,11 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>410 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>411 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-14 | **TikTok** | [Research Engineer Graduate (Realtime Codec Optimizations-Video Codec) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6acfcb2378d51ae69ce082be) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start](https://lifeattiktok.com/search/7695929967028750645) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start - PhD](https://lifeattiktok.com/search/7695927144126253317) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | PhD only |
 | 2026-10-10 | **TikTok** | [Machine Learning Engineer Graduate (Conversational AI) - 2027 Start](https://jobright.ai/jobs/info/6ac96b15d4a5a03707412494) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -120,15 +121,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-10 | **TikTok Inc.** | [(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start (PhD) / TikTok Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11388557) | Not listed | San Jose, CA | ❔ | ❔ Review | PhD only |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start](https://jobright.ai/jobs/info/6ac7e295a444ac5d36f86712) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://jobright.ai/jobs/info/6ac6e4dc372c01f6cd73f7eb) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://jobright.ai/jobs/info/6a8f85b5d96ad228f125df70) | $122K/yr - $243K/yr | Seattle | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 410 active roles. Use the Job Radar for all roles._
+_Showing 12 of 411 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2480 active roles**. Featured groups account for **219** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2480 active roles**. Featured groups account for **215** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
