@@ -27551,6 +27551,22 @@
     "checked_at": "2026-10-10",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a970445246d697dcee02ca4": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$18/hr - $18/hr",
+    "salary_min_annual": 37440,
+    "salary_max_annual": 37440,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a970870d13b4819f39deb20": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -27772,7 +27788,7 @@
     "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97177bb22f636c81415c7d": {
@@ -27884,7 +27900,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a972020e4e60e4b8da5c3bc": {
@@ -27916,7 +27932,7 @@
     "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97202ab22f636c81416054": {
@@ -27932,23 +27948,23 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97202b455eaf6a08c1ad4b": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$78K/yr - $125K/yr",
-    "salary_min_annual": 78000,
-    "salary_max_annual": 125000,
-    "reject_reason": "no sponsorship",
-    "source_fetched": true,
-    "checked_at": "2026-09-01",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a972036246d697dcee0387c": {
@@ -28060,7 +28076,7 @@
     "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-28",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a976553b22f636c81417a95": {
@@ -28076,7 +28092,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a976553e4e60e4b8da5de12": {
@@ -28140,23 +28156,23 @@
     "salary_max_annual": 150000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97775a455eaf6a08c1cb0b": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Software Engineer II",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$89K/yr - $150K/yr",
-    "salary_min_annual": 89000,
-    "salary_max_annual": 150000,
-    "reject_reason": "no sponsorship",
-    "source_fetched": true,
-    "checked_at": "2026-09-24",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "non-entry title/level: Software Engineer II",
+    "source_fetched": false,
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a97775ab22f636c81417ea9": {
@@ -28447,6 +28463,22 @@
     "checked_at": "2026-09-02",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6a988405c8ed473c5c7647ad": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$63K/yr - $91K/yr",
+    "salary_min_annual": 63000,
+    "salary_max_annual": 91000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6a988d1cdef18223c8550191": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -28464,19 +28496,19 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a988d21af954907d6574070": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Not NG",
+    "ng_evidence": "senior-level title: Senior",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$89K/yr - $150K/yr",
-    "salary_min_annual": 89000,
-    "salary_max_annual": 150000,
-    "reject_reason": "no sponsorship",
-    "source_fetched": true,
-    "checked_at": "2026-09-03",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "senior-level title: Senior",
+    "source_fetched": false,
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a988d2fdef18223c855019b": {
@@ -30844,7 +30876,7 @@
     "salary_max_annual": 151200,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-13",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5": {
@@ -33788,7 +33820,7 @@
     "salary_max_annual": 125000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aaab7568e1bf0f764af5ddc": {
@@ -36415,6 +36447,22 @@
     "checked_at": "2026-10-08",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ab448477bd0813713316cec": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$78K/yr - $125K/yr",
+    "salary_min_annual": 78000,
+    "salary_max_annual": 125000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ab44dd0ef911c35dffa4921": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Entry Level",
@@ -38991,6 +39039,22 @@
     "checked_at": "2026-10-03",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6abe9ff5372c01f6cd7249df": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "0-1 year of experience in",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$69K/yr - $88K/yr",
+    "salary_min_annual": 69000,
+    "salary_max_annual": 88000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6abea9610e027c0f3b39a074": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -39805,6 +39869,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-10-06",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac540d7064da25272e15b26": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Engineer I",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$75K/yr - $90K/yr",
+    "salary_min_annual": 75000,
+    "salary_max_annual": 90000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ac59b6c0e027c0f3b3afb26": {
@@ -41195,6 +41275,22 @@
     "salary_min_annual": 98000,
     "salary_max_annual": 98000,
     "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ad10ce3e2d41540d4a6daf0": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$76K/yr - $114K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 114000,
+    "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-10-15",
     "parser_version": 4
@@ -67571,6 +67667,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-10-13",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256213?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-15",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256219?s=gh-new-grad-hardware-engineering-jobs-2027": {
