@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-15** · Open roles: **2488**
+> Last automated update: **2026-10-15** · Open roles: **2489**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 124 |
+| **Big Tech & Frontier AI** | 123 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 33 |
-| **ByteDance / TikTok** (separate) | 411 |
+| **ByteDance / TikTok** (separate) | 413 |
 | Other companies | 1859 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-10-15 | **NVIDIA** | [NVIDIA 2027 Internships: Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-10-14 | **NVIDIA** | [SoC Software Engineer - New College Grad 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026744?s=gh-new-grad-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
+| 2026-10-14 | **NVIDIA** | [SoC Software Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6acec4204391691a335ae824) | Not listed | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-14 | **Amazon** | [Software Development Engineer - Amazon Connect](https://www.amazon.jobs/jobs/10534557/apply) | Not listed | New York City, NY | ❔ | ❔ Review | — |
 | 2026-10-10 | **Google, Inc.** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start / Google, Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11339948) | Not listed | Seattle, WA (+9 others) | ❔ | ✅ Confirmed | — |
 | 2026-10-09 | **Amazon** | [Software Engineer I](https://www.amazon.jobs/jobs/10573768/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
@@ -105,10 +105,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>411 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>413 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-15 | **TikTok** | [Backend Engineer Graduate (Social Foundation) - 2027 Start](https://jobright.ai/jobs/info/6ad090521db1f75ea46a0262) | $128K/yr - $256K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
+| 2026-10-15 | **TikTok** | [Backend Engineer Graduate (Account) - 2027 Start](https://jobright.ai/jobs/info/6ad090651db1f75ea46a0264) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | — |
 | 2026-10-14 | **TikTok** | [Research Engineer Graduate (Realtime Codec Optimizations-Video Codec) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6acfcb2378d51ae69ce082be) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start](https://lifeattiktok.com/search/7695929967028750645) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start - PhD](https://lifeattiktok.com/search/7695927144126253317) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | PhD only |
@@ -119,16 +121,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-10 | **TikTok** | [Research Scientist Graduate - Conversational AI - 2027 Start - PhD](https://lifeattiktok.com/search/7670685496821713205) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | PhD only |
 | 2026-10-10 | **TikTok USDS JV** | [Machine Learning Engineer Graduate (Tech and Product, USDS) - 2027 Start (PhD)](https://www.indeed.com/viewjob?jk=b6b9acdcdf19f5c2) | Not listed | Seattle, WA | ❔ | ❔ Review | PhD only |
 | 2026-10-10 | **TikTok Inc.** | [(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start (PhD) / TikTok Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11388557) | Not listed | San Jose, CA | ❔ | ❔ Review | PhD only |
-| 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start](https://jobright.ai/jobs/info/6ac7e295a444ac5d36f86712) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-08 | **TikTok** | [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://jobright.ai/jobs/info/6ac6e4dc372c01f6cd73f7eb) | $122K/yr - $243K/yr | Seattle, WA, United States | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 411 active roles. Use the Job Radar for all roles._
+_Showing 12 of 413 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2488 active roles**. Featured groups account for **218** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2489 active roles**. Featured groups account for **217** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

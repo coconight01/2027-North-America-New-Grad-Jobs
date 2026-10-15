@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-10-15** · Open roles: **175**
+> Last automated update: **2026-10-15** · Open roles: **176**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -161,6 +161,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2025-12-29 | **StepFun (阶跃星辰)** | [端侧大模型压缩算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/9b8eee49-0feb-4967-8cc8-a2916a912aef) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-12-24 | **StepFun (阶跃星辰)** | [高性能网络工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/7bedd341-0a78-4632-8085-b9c6c75d5142) | AI Infrastructure / Systems | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2025-12-08 | **StepFun (阶跃星辰)** | [端侧VLM 算法研究员](https://app.mokahr.com/social-recruitment/step/94904#/job/8c2c891c-39a5-4909-9bc7-54ed303c7d32) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
+| 2025-12-01 | **StepFun (阶跃星辰)** | [大模型系统工程师(co-design)](https://app.mokahr.com/social-recruitment/step/94904#/job/a696647e-3b0f-4c5e-8bb9-997bd5ce271e) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2025-10-24 | **StepFun (阶跃星辰)** | [大模型推理优化系统工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-10-24 | **StepFun (阶跃星辰)** | [大模型训练框架工程师（预训练方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556) | AI Infrastructure / Systems | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2025-09-05 | **StepFun (阶跃星辰)** | [机器学习平台工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/a9a6604c-9dd2-4ebd-8852-b3ef9a8b490c) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
