@@ -2402,8 +2402,8 @@
   {
     "posted_date": "2025-12-29",
     "company": "StepFun (阶跃星辰)",
-    "role": "端侧大模型压缩算法工程师",
-    "track": "AI / ML",
+    "role": "端侧大模型量化算法工程师",
+    "track": "Quantitative Finance",
     "location": "上海市 · 徐汇区 / 北京市 · 海淀区",
     "employment_type": "全职",
     "eligibility": "Review eligibility",
@@ -2413,7 +2413,7 @@
     "job_id": "9b8eee49-0feb-4967-8cc8-a2916a912aef",
     "status": "Open",
     "date_added": "2026-10-15",
-    "qualification_excerpt": "核心职责： 1、负责端侧大模型在手机、驾舱及智能硬件等终端的 压缩部署 ， 2、负责端侧大模型的前沿压缩算法研究、推动 剪枝、量化、蒸馏、稀疏化 等技术的创新与应用， 3、探索与攻关端侧大模型的低精度训练技术，从训练阶段优化模型对低精度计算的适应性， 4、研究与设计硬件友好的低精度量化算法，协同底层算子团队，实现在异构硬件上的极致性能优化。 职位要求： 1、精通模型压缩理论： 深刻理解剪枝、量化、知识蒸馏、稀疏化、低秩分解等技术的数学原理与工程权衡，具备独立的技术选型与改进能力。 2、具备顶尖的大模型量化研究与工程经验： 深入理解 LLM 量化前沿（如 SmoothQuant, AWQ, GPTQ, QuaRot），具备丰富的实战调优经验，能针对不同架构与任务进行算法创新。 3、拥有系统级的问题解决能力 ：能系统性定位低精度部署中的性能与精度瓶颈，建立从量化误差分析、调试到验证的完整方法论。 4、具备硬件感知的优化思维 ：熟悉主流端侧硬件（ARM CPU, Adreno/Mali GPU, Qualcomm/MTK NPU）的计算单元、内存架构与低精度指令集，能据此进行算法与协同设计。 5、卓越的研究背景（优先） ：在 CVPR、ICLR、NeurIPS、ICML、ACL 等顶级会议以第一作者发表过模型压缩、计算加速或相关领域的论文，或拥有公认的同等技术影响力（如主流开源项目核心贡献）。"
+    "qualification_excerpt": "核心职责 负责端侧大模型在手机、驾舱及智能硬件等终端的压缩部署 负责量化算法前沿研究与攻关，开展QAT、PTQ等模型量化技术研究，重点攻关2bit QAT训练技术 搭建PTQ&QAT的量化框架和配套工具体系，建立量化误差分析、调试、验证的完整方法论，支撑量化问题快速定位，持续迭代量化算法效果 职位要求 熟悉PTQ、QAT两类量化方法的理论，具备完整且体系化的量化架构知识储备，有独立的技术选型和算法探索能力 具备2bit/4bit 超低比特量化落地经验，熟悉PTQ三阶段相关的量化算法（如AWQ、SpinQuant、AdaRound、GPTQ等），熟悉QAT极低比特量化算法（如BitNet、EFQAT、PARQ等） 具备丰富的实战调优经验，能系统性定位低精度部署中的性能与精度瓶颈，建立从量化误差分析、调试到验证的完整方法论 自研 / 参与搭建过 PTQ/QAT 量化框架，做过量化仿真与板端一致性对齐工作优先 在 CVPR、ICLR、NeurIPS、ICML、ACL 等顶会以一作发表模型压缩、计算加速相关论文；或为开源量化项目核心贡献者优先"
   },
   {
     "posted_date": "2025-12-24",
@@ -2514,8 +2514,8 @@
   {
     "posted_date": "2025-08-20",
     "company": "StepFun (阶跃星辰)",
-    "role": "端侧大模型部署优化工程师",
-    "track": "Software Engineering",
+    "role": "端侧大模型推理优化工程师",
+    "track": "AI Infrastructure / Systems",
     "location": "北京市 · 海淀区 / 上海市 · 徐汇区",
     "employment_type": "全职",
     "eligibility": "Review eligibility",
@@ -2525,7 +2525,7 @@
     "job_id": "08798ca3-fe83-4fa5-aac7-149e22651c4d",
     "status": "Open",
     "date_added": "2026-10-15",
-    "qualification_excerpt": "职位描述： 负责端侧(手机/驾舱/智能硬件)大模型的部署，包括但不限于框架开发，算子优化，硬件适配， 负责端侧大模型的前沿优化技术调研与落地， 参与模型、系统与硬件的协同优化与联合设计。 职位要求： 熟悉 linux，熟悉C/C++/Python，具有良好的编程风格， 熟悉主流的 LLM，VLM 模型架构以及常用的 LLM 优化技术，例如 Continous-Batching, Speculative-Decoding, Quantization 等， 熟悉 GAN、Diffusion、Flow-Matching 多种生成式技术与 DiT 等代表性模型架构， 掌握语音核心技术（ASR、TTS）与模型架构（Whisper、Tacotron），具备端到端的工业级落地经验， 熟悉至少一款主流的推理引擎框架，如 llama.cpp、MNN、vLLM、TensorRT， 熟悉 OpenCL、CUDA 等并行编程， 有异构系统开发经验，熟悉 QualComm NPU 开发流程， 有系统顶会(OSDI、NSDI、MLSys)一作者优先。"
+    "qualification_excerpt": "核心职责 负责端侧大模型在手机、驾舱及智能硬件等终端的推理部署工作，追求业界领先的端侧推理性能 紧跟端侧大模型推理的前沿技术，将前沿优化方案落地到实际项目中，提升端侧推理性能，减少资源占用 构建全栈端侧大模型推理工具链，保证极致推理性能的同时提升业务交付效率 职位要求 熟悉LLM、VLM、Omni等主流大模型的架构及演进方向，掌握KV（GQA、MLA）、线性Attention（GDA、KDA）、稀疏Attention（QSA、DSA）、模型结构（MoE、Dense）等主流模块的结构 熟悉ASR（Whisper、Qwen-Audio）和TTS（CosyVoice、Moss-TTS）的主流模型架构，具备语音模型工业落地的部署经验 熟悉Genie、NeuralPilot、llama.cpp、MNN、TensorRT、SGLang、vLLM等至少一款大模型推理框架，掌握投机解码、KVCache内存优化、PromptCache、LMHead分离、ExpertOffload等大模型推理加速技术 掌握CPU（Neon）、GPU（Cuda、OpenCL）、NPU（HVX）侧的高性能算子开发，熟练使用算子开发Agent编写出高效率的底层算子 熟悉高通、联发科、英伟达、国产等至少一款平台，并有丰富的端侧大模型落地经验"
   },
   {
     "posted_date": "2025-07-25",
