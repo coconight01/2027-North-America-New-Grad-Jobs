@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,11 +27,11 @@
       "fill": 0
     },
     "priority_company_candidates": 233,
-    "new_job_candidates": 190,
+    "new_job_candidates": 164,
     "high_potential_title_candidates": 297
   },
   "veto_counts": {
-    "non-full-time program title": 6,
+    "non-full-time program title": 9,
     "explicit 2026-only title": 5,
     "security-clearance requirement in title": 2
   },
@@ -514,31 +514,6 @@
     },
     {
       "machine_rank": 20,
-      "machine_score": 87,
-      "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "Applied Intuition",
-      "role": "Scenario Engineer - New Grad (2027)",
-      "category": "Other",
-      "location": "Sunnyvale, CA, United States",
-      "salary": "$90K/yr - $115K/yr",
-      "salary_max_annual": "115000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-05",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a7fa0e819ce4e6e9d939efd",
-      "jd_excerpt": "Scenario Engineer - New Grad (December 2026) @ Applied Intuition | Jobright.ai SIGN IN JOIN NOW Scenario Engineer - New Grad (December 2026) jobs in United States Overview Company Apply on Employer Site APPLY NOW Applied Intuition · 1 week ago Scenario Engineer - New Grad (December 2026) Sunnyvale, CA Full-time Onsite New Grad $90K/yr - $115K/yr Applied Intuition is powering the future of physical AI through simulation tools and infrastructure for moving machines. The Scenario Engineer will create, maintain, and curate simulation test scenarios, define safety and comfort requirements, develop performance visualizations and reports, and collaborate with Product, Engineering, Sales, and customer teams. Artificial Intelligence (AI) Transportation Enterprise Software Software Autonomous Vehicles Infrastructure H1B Sponsor Likely Top Investors Unicorn with $15B valuation Responsibilities Design scenarios across a variety of operating domains showcasing the capabilities of Applied's simulation tools Define and implement safety and comfort performance requirements for scenarios Create data visualizations and reports for understanding AV performance and coverage Work closely with our product teams while using and providing feedback on core simulation functionality and usability Support customer teams in defining and building scenario libraries relevant for their specific operational design domains Qualification Autonomous Vehicles Simulation Software Testing Software Debugging Python Workflow Automation Written and Verbal Communication Required Bachelor's degree from a 4-year university in Physics, Statistics, or related field graduating by December 2026 Is a self-starter who takes initiative in a fast paced environment Analytical and detail-oriented Excellent written and verbal communication skills Preferred Internship, research, or project experience with autonomous vehicles, simulation, scenario creation, or testing Experience with triage, debugging, or analyzing issues in software or simulation environments Ability to code in a scripting language (e.g. Python) to automate workflows Benefits Offers Equity Full-time employees may work remotely occasionally, start the day with morning meetings from home before heading to the office, or leave earlier when needed to accommodate family commitments. Company Applied Intuition Glassdoor 3.4 Physical AI software infrastructure for autonomous machines. Founded in 2017 Mountain View, California, USA 1001-5000 employees https://appliedintuition.com H1B Sponsorship Applied Intuition has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 88 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Accounting and Finance Creatives and Design Sales Marketing Human Resources Education and Training Trends of Total Sponsorships *2026 ( 98 ) 2025 ( 122 ) 2024 ( 56 ) 2023 ( 33 ) 2022 ( 16 ) 2021 ( 4 ) Funding Current Stage Late Stage Total Funding $1.5B Key Investors BlackRock,Kleiner Perkins Elad Gil,Lux Capital,Porsche Investments Management Addition,Coatue,Elad Gil 2025-06-17 Series F· $600M 2024-07-25 Secondary Market· $300M 2024-03-11 Series E· $250M Leadership Team Qasar Younis Founder, CEO Peter Ludwig CTO, Co-founder Recent News PR Newswire LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI 2026-09-30 koreajoongangdaily LG Innotek launches fleet of vehicles to collect autonomous driving sensor data on Korean roads 2026-09-29 Korea Herald LG Innotek, Applied Intuition begin gathering Korean road data 2026-09-29 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Autonomous Vehicles Simulation Software Testing Software Debugging Python Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach L Lucy W. Incoming Engineer P Ping-Hua (Michael) (. Engineeirng Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 21,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -563,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: entry-level ML role",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++; new-grad: confirmed",
@@ -707,13 +682,13 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8236826",
-      "jd_excerpt": "Jobs at Schonfeld Current openings at Schonfeld Create a Job Alert Level-up your career by having opportunities at Schonfeld  sent directly to your inbox. Create alert Search Department Select... Office Select... 68 jobs Accounting Business Analytics Job Regulatory Reporting Associate New York, New York, United States Software Engineer - Business Analytics New York, New York, United States Accounting P&L Valuations Job Product Controller London, England, United Kingdom Product Controller Senior Associate São Paulo, Brazil Accounting Tax Job Tax Manager New York, New York, United States Administration Admin - Administration Job Executive Assistant Singapore, Central, Singapore Administration Workplace Experience Job Workplace Experience Manager New New York, New York, United States Business Development Job Strategist - Equity Risk London, England, United Kingdom Business Development DMFI COO Office Job AI Strategy Analyst London, England, United Kingdom Business Development Emerging Markets & D1 Quant Team Job Strategist Hong Kong, Hong Kong Strategist, Risk New São Paulo, Brazil Business Development Fundamental Equity Business Development Job Software Engineer - Fundamental Equities New York, New York, United States Business Development Fundamental Equity COO Office Job Quantitative Developer - Fundamental Equities London, England, United Kingdom Business Development Systematic COO Office Job Director of Systematic COO Office New York, New York, United States Corporate Strategy & Transformation Job Senior Business Analyst New New York, New York, United States DMFI Strategies DMFI Quant Team Job Quant Strategist  - Credit São Paulo, Brazil Quant Strategist / Researcher - FX Volatility São Paulo, Brazil Quant Strategist / Researcher - FX Volatility New London, England, United Kingdom Executive Office Job Strategist, CIO Office (Equities) New York, New York, United States Strategist, CIO Office (Equities) São Paulo, Brazil Strategist, CIO Office (FICC) New York, New York, United States Strategist, CIO Office (FICC) São Paulo, Brazil Human Capital Management Job Director of Human Capital Management (EMEA) London, England, United Kingdom Human Capital Management Talent Acquisition Job Recruiter, Talent Acquisition New York, New York, United States Talent Acquisition, Associate New London, England, United Kingdom Internship Job 2027 Core Operations Intern Miami, Florida, United States 2027 Corporate Strategy & Transformation Intern Miami, Florida, United States 2027 Cybersecurity Operations Intern New York, New York, United States 2027 DMFI Quant Developer Intern London, England, United Kingdom 2027 DMFI Quant Research Intern London, England, United Kingdom 2027 Emerging Markets and Delta One Investment Analyst Internship Dubai, United Arab Emirates 2027 Equity Middle Office Intern London, England, United Kingdom 2027 PhD Quantitative Research Intern Miami, Florida, United States 2027 PhD Quantitative Research Intern New York, New York, United States 2027 Platform Engineering Intern New York, New York, United States 2027 Quantitative C++ Developer Intern Hong Kong, Hong Kong 2027 Quantitative Research Intern Hong Kong, Hong Kong 2027 Systematic COO Intern New York, New York, United States Legal & Compliance Compliance Job Compliance Director London, England, United Kingdom Compliance Officer New York, New York, United States Compliance Officer London, England, United Kingdom Junior Compliance Associate London, England, United Kingdom Junior Compliance Associate New York, New York, United States Trade Surveillance Analyst London, England, United Kingdom Legal & Compliance Legal Job Associate Counsel, PM Legal and Fund Formation New York, New York, United States Operations Core Operations Job Core Operations Associate Singapore, Central, Singapore Operations Equity Middle Office Job Equity Middle Office Associate London, England, United Kingdom Portfolio Managers & Analysts Internal Portfolio Managers & Analysts Job Quantitative Developer Hong Kong, Hong Kong Quantitative Researcher Hong Kong, Hong Kong Quantitative Researcher - Hong Kong Hong Kong, Hong Kong 1 2 Powered by Greenhouse",
+      "jd_excerpt": "Jobs at Schonfeld Current openings at Schonfeld Create a Job Alert Level-up your career by having opportunities at Schonfeld  sent directly to your inbox. Create alert Search Department Select... Office Select... 66 jobs Accounting Business Analytics Job Regulatory Reporting Associate New York, New York, United States Software Engineer - Business Analytics New York, New York, United States Accounting P&L Valuations Job Product Controller London, England, United Kingdom Product Controller Senior Associate São Paulo, Brazil Administration Admin - Administration Job Executive Assistant Singapore, Central, Singapore Administration Workplace Experience Job Workplace Experience Manager New York, New York, United States Business Development Job Strategist - Equity Risk London, England, United Kingdom Business Development DMFI COO Office Job AI Strategy Analyst London, England, United Kingdom Business Development Emerging Markets & D1 Quant Team Job Strategist São Paulo, Brazil Strategist Hong Kong, Hong Kong Strategist, Risk São Paulo, Brazil Business Development Fundamental Equity Business Development Job Software Engineer - Fundamental Equities New York, New York, United States Business Development Systematic COO Office Job Director of Systematic COO Office New York, New York, United States Corporate Strategy & Transformation Job Senior Business Analyst New York, New York, United States DMFI Strategies DMFI Quant Team Job Quant Strategist  - Credit São Paulo, Brazil Quant Strategist / Researcher - FX Volatility São Paulo, Brazil Quant Strategist / Researcher - FX Volatility London, England, United Kingdom Executive Office Job Strategist, CIO Office (Equities) New York, New York, United States Strategist, CIO Office (Equities) São Paulo, Brazil Strategist, CIO Office (FICC) New York, New York, United States Strategist, CIO Office (FICC) São Paulo, Brazil Human Capital Management Job Director of Human Capital Management (EMEA) London, England, United Kingdom Human Capital Management Talent Acquisition Job Recruiter, Talent Acquisition New York, New York, United States Talent Acquisition, Associate London, England, United Kingdom Internship Job 2027 Business Analytics Intern New York, New York, United States 2027 Core Operations Intern Miami, Florida, United States 2027 Corporate Strategy & Transformation Intern Miami, Florida, United States 2027 Cybersecurity Operations Intern New York, New York, United States 2027 DMFI COO Intern New London, England, United Kingdom 2027 DMFI Quant Developer Intern London, England, United Kingdom 2027 DMFI Quant Research Intern London, England, United Kingdom 2027 Emerging Markets and Delta One Investment Analyst Internship Dubai, United Arab Emirates 2027 PhD Quantitative Research Intern Miami, Florida, United States 2027 PhD Quantitative Research Intern New York, New York, United States 2027 Platform Engineering Intern New York, New York, United States 2027 Quantitative C++ Developer Intern Hong Kong, Hong Kong 2027 Quantitative Research Intern Hong Kong, Hong Kong 2027 Systematic COO Intern New York, New York, United States Legal & Compliance Compliance Job Compliance Director London, England, United Kingdom Compliance Officer New York, New York, United States Compliance Officer London, England, United Kingdom Trade Surveillance Analyst London, England, United Kingdom Legal & Compliance Legal Job Associate Counsel, PM Legal and Fund Formation New York, New York, United States Operations Core Operations Job Core Operations Associate Singapore, Central, Singapore Operations Equity Middle Office Job Equity Middle Office Associate London, England, United Kingdom Portfolio Managers & Analysts Internal Portfolio Managers & Analysts Job Quantitative Developer Hong Kong, Hong Kong Quantitative Researcher Hong Kong, Hong Kong Quantitative Researcher - Hong Kong Hong Kong, Hong Kong Quantitative Trading Associate Hong Kong, Hong Kong Risk DMFI Risk Job Risk Manager New York, New York, United States 1 2 Powered by Greenhouse",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -738,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -763,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -788,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -813,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 31,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -838,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -863,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -938,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -963,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -988,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 38,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; skills: C++; role shape: early-career SWE; new-grad: confirmed",
@@ -1013,7 +988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 39,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1038,7 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 40,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1063,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1088,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1113,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1138,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1157,6 +1132,31 @@
       "source": "GitHub:zapplyjobs/New-Grad-Data-Science-Jobs-2027:README.md",
       "official_source": false,
       "url": "https://zapply.jobs/l/d/workday-aig-aig-JR2603744?s=gh-new-grad-data-science-jobs-2027",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 45,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Systems Engineer - Pathways Program - Baltimore MD",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Maryland-Baltimore",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-21",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",

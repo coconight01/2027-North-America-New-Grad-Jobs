@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-14** · Open roles: **2480**
+> Last automated update: **2026-10-15** · Open roles: **2488**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,19 +18,19 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 121 |
+| **Big Tech & Frontier AI** | 124 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 33 |
 | **ByteDance / TikTok** (separate) | 411 |
-| Other companies | 1854 |
+| Other companies | 1859 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-15 | **NVIDIA** | [NVIDIA 2027 Internships: Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-10-14 | **NVIDIA** | [SoC Software Engineer - New College Grad 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026744?s=gh-new-grad-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
-| 2026-10-14 | **NVIDIA** | [SoC Software Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6acec4204391691a335ae824) | Not listed | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-14 | **Amazon** | [Software Development Engineer - Amazon Connect](https://www.amazon.jobs/jobs/10534557/apply) | Not listed | New York City, NY | ❔ | ❔ Review | — |
 | 2026-10-10 | **Google, Inc.** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start / Google, Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11339948) | Not listed | Seattle, WA (+9 others) | ❔ | ✅ Confirmed | — |
 | 2026-10-09 | **Amazon** | [Software Engineer I](https://www.amazon.jobs/jobs/10573768/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
@@ -128,7 +128,7 @@ _Showing 12 of 411 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2480 active roles**. Featured groups account for **215** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2488 active roles**. Featured groups account for **218** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
