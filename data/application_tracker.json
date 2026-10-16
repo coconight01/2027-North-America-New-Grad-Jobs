@@ -3,6 +3,46 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-10-16. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
+      "company": "Mercor",
+      "role": "MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling)",
+      "status": "Assessment",
+      "applied_date": null,
+      "status_date": "2026-10-15",
+      "confidence": "Exact opportunity / employment details unverified",
+      "evidence": "Mercor sent an official email on 2026-10-15 naming the exact opportunity and stating that Yuhan moved to the next stage with a required Listing Form assessment.",
+      "next_action": "Complete the assessment if still timely, but verify the underlying employer, full-time employment type, location, compensation and sponsorship before treating it as a target full-time role. Do not conflate it with Mercor Project Odin short-duration task work."
+    },
+    {
+      "company": "Harvey",
+      "role": "Software Engineer, New Grad (2027)",
+      "status": "Applied",
+      "applied_date": "2026-10-15",
+      "status_date": "2026-10-15",
+      "confidence": "Exact",
+      "evidence": "Harvey sent an official Ashby application confirmation on 2026-10-15 naming Software Engineer, New Grad (2027).",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "Moveworks / ServiceNow",
+      "role": "Software Engineer, Core Infrastructure - Moveworks (New Grad) (JB0076058)",
+      "status": "Applied",
+      "applied_date": "2026-10-15",
+      "status_date": "2026-10-15",
+      "confidence": "Exact",
+      "evidence": "ServiceNow sent an official application confirmation on 2026-10-15 naming Software Engineer, Core Infrastructure - Moveworks (New Grad). The verified exact requisition is JB0076058.",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "Cerebras",
+      "role": "AI Inference Core - Software Integration Engineer",
+      "status": "Applied",
+      "applied_date": "2026-10-15",
+      "status_date": "2026-10-15",
+      "confidence": "Exact",
+      "evidence": "Cerebras sent an official Ashby application confirmation on 2026-10-15 naming AI Inference Core - Software Integration Engineer.",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
       "company": "Together AI",
       "role": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering (5186628007)",
       "status": "Applied",
