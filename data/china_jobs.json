@@ -2,6 +2,22 @@
   {
     "posted_date": "2026-10-16",
     "company": "StepFun (阶跃星辰)",
+    "role": "Linux Kernel 研发工程师",
+    "track": "Software Engineering",
+    "location": "北京市 · 海淀区 / 上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/659dad07-4064-4a34-9413-6d74d56867fe",
+    "job_id": "659dad07-4064-4a34-9413-6d74d56867fe",
+    "status": "Open",
+    "date_added": "2026-10-16",
+    "qualification_excerpt": "岗位职责 内核核心子系统研发。 负责调度器（CFS/EAS、调度延迟与优先级）、内存管理（THP、内存分层、回收策略、NUMA balancing）、网络栈（RoCE 与 TCP、拥塞控制、XDP/eBPF）、I/O 栈（io_uring、blk-mq、NVMe 多队列）与文件系统（ext4、overlayfs 及分布式文件系统客户端）的特性开发与缺陷修复。 AI 与 HPC 场景性能优化。 降低调度与 I/O 的尾延迟抖动，优化大页、内存带宽与 NUMA 亲和；改进 CPU 亲和与隔离、中断与软中断处理；优化 RDMA 内核旁路路径与驱动的协同，以及 GPUDirect、NVMe-oF、GPU Direct Storage 等主机侧数据通路。 大规模集群稳定性治理。 定位并修复 panic、hung task、soft lockup、OOM、内存泄漏等疑难问题，完成 crash dump 与 vmcore 分析；建设 kprobe、ftrace、eBPF 工具链，形成线上问题的根因分析与闭环修复机制。 版本与发行版工程。 负责内核版本选型、CVE 修复、补丁管理与 backport，参与龙蜥（Anolis）、openEuler 及上游社区贡献，保持内部版本与社区的同步演进。 虚拟化与轻量隔离优化。 负责 KVM/QEMU、Kata Containers等虚拟化与虚拟化容器方案的内核侧支撑，优化 vCPU 调度与抢占、内存虚拟化（EPT/NPT、virtio-balloon、DAX 大页）以及 virtio、vhost-net/vhost-user 数据通路，压降虚拟化开销。 容器运行时与安全加固。 负责 runc/containerd、cgroup v2、namespace的内核侧支撑，推进 livepatch/kpatch 热升级能力，收敛多租户与不可信代码执行场景下的内核攻击面。 硬件平台适配。 支持新服务器平台的 BSP 适配，覆盖 x86、ARM 及国产 CPU 平台，完成网卡、存储、GPU 驱动与 ACPI/BIOS/BMC 固件的联调。 技术沉淀与输出。 建设内核知识库与性能调优指南，承担内部培训，推动专利、技术文章与社区影响力建设。 Agentic 负载内核支撑。 面向 Agent 编排产生的大量短生命周期沙箱与容器实例，优化 fork/exec、namespace 建立、cgroup 挂载等创建与销毁路径，改进 overlayfs、erofs 及按需加载（lazy loading）的镜像挂载效率，缩短沙箱冷启动时间；治理秒级启停节拍下的 PID 与 inode 泄漏、临时文件系统压力及 page cache 抖动。 GPU 与加速器虚拟化。 支撑 GPU/NPU 的多租户切分与共享，参与 vGPU、MIG、SR-IOV 及基于 vfio 的"
+  },
+  {
+    "posted_date": "2026-10-16",
+    "company": "StepFun (阶跃星辰)",
     "role": "大模型数据架构工程师",
     "track": "Software Engineering",
     "location": "上海市 · 徐汇区 / 北京市 · 海淀区",
@@ -2046,22 +2062,6 @@
     "status": "Open",
     "date_added": "2026-10-16",
     "qualification_excerpt": "职位描述 1. 负责公司内容安全算法建设和持续优化，覆盖文本、图片、视频、音频等多模态场景，结合业务风险，建设内容识别、违规判定、风险治理等核心算法能力； 2. 与安全产品、工程、策略、运营团队协作，推动算法能力从数据分析、模型训练、效果评测到线上落地的完整闭环； 3. 推动大模型/Agent在内容安全人审和标注场景中的落地，提升复杂场景识别效果与整体治理效率； 4. 负责优化内容安全模型体系，提高文本和图片模型推理性能，提升模型单位产出效率 职位要求 1. 本科及以上学历，计算机、人工智能、数学、统计等相关专业优先； 2. 具有扎实的机器学习基础和数理功底，NLP/CV/多模态/大模型等相关背景优先，熟悉主流的文本/视觉预训练模型，有独立攻关和解决实际问题的能力，有大规模场景实际应用落地经验更佳； 3. 三年及以上内容安全、风控、内容分发等领域工作经验，在大模型审核微调、agent、推理性能优化等场景有相关经验者优先； 4. 熟悉大模型的指令微调、偏好对齐、CoT、RAG等技术，能够解决长文本、少样本、违规素材提示等审核场景常见问题； 5. 有强烈的技术好奇心、自驱力和进取心，能及时关注和学习业界最佳实践；有较强的业务问题到算法模型的建模能力，合作意识强，善于跨团队沟通并且推动解决实际问题"
-  },
-  {
-    "posted_date": "2026-04-28",
-    "company": "Lingjun Investment (灵均)",
-    "role": "基础架构研发工程师",
-    "track": "Software Engineering",
-    "location": "北京市 · 海淀区",
-    "employment_type": "全职",
-    "eligibility": "Review eligibility",
-    "salary": "Not published",
-    "source": "Official MokaHR",
-    "url": "https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/db47df90-0454-49d7-8e28-50b35339a6a2",
-    "job_id": "db47df90-0454-49d7-8e28-50b35339a6a2",
-    "status": "Open",
-    "date_added": "2026-10-16",
-    "qualification_excerpt": "岗位职责 1、负责算力平台后端的设计和研发，支撑用户的各类计算任务和开发环境； 2、负责构建相关项目的 CI/CD 流程，实现自动化测试和部署； 3、负责解决相关项目中的关键问题和技术难题； 4、参与算力平台的架构设计和技术选型； 5、探索并落地 AI 辅助研发工具与流程（如 AI 代码生成、智能运维、自动化文档等），提升团队研发效率。 任职要求 1、计算机相关专业本科及以上学历，5 年以上 Go/Python 后端开发经验； 2、具备高并发、高可用、分布式系统的开发经验； 3、熟悉常用中间件（如数据库、缓存、消息队列、KV 存储、对象存储等）； 4、有 PaaS 平台开发经验者优先； 5、有 Kubernetes 组建、维护或开发经验者优先； 6、熟悉可观测性生态常用组件（如 Prometheus/VictoriaMetrics、Grafana、ELK/Loki、PagerDuty/FlashDuty 等）者优先； 7、有支持 PyTorch、TensorFlow 等 AI 任务经验者优先。 加分项 1、具备全栈开发能力，熟悉至少一种主流前端框架（如 React/Vue/Angular），能够独立完成前后端联调与全链路开发； 2、熟悉大模型应用开发，有基于 LLM 构建内部工具、智能助手或自动化工作流的经验； 3、有使用 AI 辅助编程工具（如 GitHub Copilot、Cursor、Claude Code 等）提升研发效率的实践经验； 4、了解 AI Infra 相关技术栈（如 vLLM、Triton、Ray、KubeFlow 等），有模型推理服务化或 AI 平台工程化经验； 5、有 MCP（Model Context Protocol）协议、Agent 框架或 AI Workflow 编排工具的实践经验。"
   },
   {
     "posted_date": "2026-04-11",
