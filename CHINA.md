@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-10-15** · Open roles: **176**
+> Last automated update: **2026-10-16** · Open roles: **177**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | **StepFun (阶跃星辰)** | [大模型数据架构工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/72a0532b-f211-4af2-9073-897a036fa377) | Software Engineering | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-10-14 | **StepFun (阶跃星辰)** | [企业工作台-客户端开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/cae53095-fc39-45e3-a271-85eccf878b8f) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-14 | **StepFun (阶跃星辰)** | [底软/驱动开发工程师（BSP)](https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d) | Software Engineering | 上海市 · 徐汇区 / 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-10-13 | **StepFun (阶跃星辰)** | [OS测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c1d695b9-4263-4239-b74a-f462ce21c2ec) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |

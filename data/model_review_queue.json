@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-16",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,7 +27,7 @@
       "fill": 0
     },
     "priority_company_candidates": 232,
-    "new_job_candidates": 169,
+    "new_job_candidates": 139,
     "high_potential_title_candidates": 297
   },
   "veto_counts": {
@@ -35,7 +35,7 @@
     "explicit 2026-only title": 4,
     "security-clearance requirement in title": 2
   },
-  "exact_tracked_jobs_removed": 18,
+  "exact_tracked_jobs_removed": 17,
   "candidates": [
     {
       "machine_rank": 1,
@@ -164,7 +164,7 @@
     },
     {
       "machine_rank": 6,
-      "machine_score": 92,
+      "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
       "company_priority": "Tier A",
@@ -182,7 +182,7 @@
       "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d",
-      "jd_excerpt": "",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -814,31 +814,6 @@
     },
     {
       "machine_rank": 32,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Brillio",
-      "role": "AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "Dallas, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says entry-level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-12",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 33,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -863,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -888,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -913,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -932,6 +907,31 @@
       "source": "Google Jobs via SerpAPI",
       "official_source": true,
       "url": "https://www.wayup.com/i-Technology-j-Forward-Deployed-Engineer-New-Grad-December-2026-Applied-Intution-759590041662601",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Brillio",
+      "role": "AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Dallas, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says entry-level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-12",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
