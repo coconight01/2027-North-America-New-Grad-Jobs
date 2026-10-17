@@ -3,6 +3,26 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-10-17. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
+      "company": "NVIDIA",
+      "role": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 (JR2027083)",
+      "status": "Applied",
+      "applied_date": "2026-10-16",
+      "status_date": "2026-10-16",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-16 Central / 2026-10-17 UTC naming Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 (JR2027083).",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Software Engineer, DL Kernel Libraries - New College Grad 2027 (JR2027337)",
+      "status": "Applied",
+      "applied_date": "2026-10-16",
+      "status_date": "2026-10-16",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-16 Central / 2026-10-17 UTC naming Software Engineer, DL Kernel Libraries - New College Grad 2027 (JR2027337).",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
       "company": "Mercor",
       "role": "MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling)",
       "status": "Assessment",
