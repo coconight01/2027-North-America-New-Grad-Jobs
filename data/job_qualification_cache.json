@@ -35420,7 +35420,7 @@
     "salary_max_annual": 84000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-17",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aadd48ade327d3e210d4831": {
@@ -35724,7 +35724,7 @@
     "salary_max_annual": 158000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-08",
+    "checked_at": "2026-10-17",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab14f33f9692ca98b048a76": {
@@ -68467,6 +68467,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256445?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-17",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023489?s=gh-new-grad-hardware-engineering-jobs-2027": {

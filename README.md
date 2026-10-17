@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 124 |
+| **Big Tech & Frontier AI** | 122 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
 | **Other high-value tech** | 32 |
 | **ByteDance / TikTok** (separate) | 412 |
-| Other companies | 1889 |
+| Other companies | 1891 |
 
 ### Big Tech & Frontier AI
 
@@ -128,7 +128,7 @@ _Showing 12 of 412 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2518 active roles**. Featured groups account for **217** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2518 active roles**. Featured groups account for **215** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
