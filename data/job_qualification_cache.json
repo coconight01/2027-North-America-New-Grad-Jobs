@@ -21982,7 +21982,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-10",
+    "checked_at": "2026-10-18",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a764b8367a1ad0bc53c9c3c": {
@@ -30782,7 +30782,7 @@
     "salary_max_annual": 78000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-08",
+    "checked_at": "2026-10-18",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9e23b727c94c3d5a1cb560": {
@@ -68597,6 +68597,38 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-10-15",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256390?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-18",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256411?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-18",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256445?s=gh-new-grad-hardware-engineering-jobs-2027": {
