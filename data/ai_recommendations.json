@@ -47,7 +47,7 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744"
     },
     {
-      "rank": 2, "tier": "secondary", "company": "StepFun", "role": "Mid-train Algorithm Researcher / Engineer", "status": "NEW TODAY", "fit": "4.4/5 · model training / reasoning / agents",
+      "rank": 2, "tier": "secondary", "company": "StepFun", "role": "Mid-train Algorithm Researcher / Engineer", "status": "RECENT", "fit": "4.4/5 · model training / reasoning / agents",
       "why_screen": "The exact role accepts 2026/2027 master's graduates or exceptional undergraduates, requires Transformer and pre/post-training understanding plus independent experiment design, and prefers reasoning, code, long-context or agent experience. TikTok Agent, PyTorch, distributed training, AutoScout and NOI Silver form a plausible screen.",
       "why_team": "The team develops curriculum, continual learning, self-training and synthetic-data methods across code, math, reasoning, agents and multimodal models. Yuhan contributes production-agent engineering and rigorous systems experimentation.",
       "why_interest": "It offers a direct route into capability-training research and a close interface with Pre-train, Post-train, Evaluation and Infra teams.",
@@ -57,7 +57,7 @@
     },
 
     {
-      "rank": 3, "tier": "secondary", "company": "Applied Intuition", "role": "Forward Deployed Engineer - New Grad (2027)", "status": "RECENT · DISCOVERED TODAY", "fit": "4.1/5 · production systems / infrastructure / forward deployment",
+      "rank": 3, "tier": "secondary", "company": "Applied Intuition", "role": "Forward Deployed Engineer - New Grad (2027)", "status": "RECENT", "fit": "4.1/5 · production systems / infrastructure / forward deployment",
       "why_screen": "The exact role accepts BS/MS graduates by December 2026 or Summer 2027 and asks for C++ or Python, broad engineering problem solving and one year in any field or equivalent education/experience. TikTok production-agent engineering, Python, distributed-systems research and end-to-end delivery meet the baseline cleanly.",
       "why_team": "The team deploys and integrates Applied Intuition products while solving infrastructure, robotics and systems problems across the full stack. Yuhan's production debugging, agent integration and systems-performance background can differentiate her from a purely product-oriented FDE candidate.",
       "why_interest": "It offers unusually broad ownership from development through customer deployment, with a realistic path into complex infrastructure and autonomy systems even though it is not a pure ML-systems role.",
@@ -66,7 +66,7 @@
       "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943"
     },
     {
-      "rank": 4, "tier": "secondary", "company": "NewRocket", "role": "AI Engineer/Anthropic-Campus Hire - US West (6163518004)", "status": "NEW TODAY", "fit": "4.2/5 · production agents / LLM integration / evaluation",
+      "rank": 4, "tier": "secondary", "company": "NewRocket", "role": "AI Engineer/Anthropic-Campus Hire - US West (6163518004)", "status": "RECENT", "fit": "4.2/5 · production agents / LLM integration / evaluation",
       "why_screen": "The exact campus-hire role accepts a current or recent degree and 1-3 years of relevant experience gained through internships, co-ops, research, freelance work, academic projects or professional roles. Python, TikTok production Agent/MCP engineering, API integration, model evaluation and end-to-end systems work make the screen credible.",
       "why_team": "The team builds Claude-powered enterprise applications, agentic workflows, RAG, tool/function calling, MCP integrations, evaluations, monitoring and safety controls. Yuhan's production-agent evidence and systems debugging would help move prototypes into reliable deployments.",
       "why_interest": "It offers immediate ownership of production GenAI systems and agent infrastructure with mentorship, customer exposure and a direct Anthropic ecosystem, even though it is more integration-oriented than inference-runtime engineering.",
@@ -163,7 +163,7 @@
     },
 
     {
-      "rank": 18, "tier": "secondary", "company": "SirenOpt", "role": "Software Engineer (Early Career) - C++ & Systems (4452002009)", "status": "NEW TODAY", "fit": "3.6/5 · Linux systems / performance / real-time data pipelines",
+      "rank": 18, "tier": "secondary", "company": "SirenOpt", "role": "Software Engineer (Early Career) - C++ & Systems (4452002009)", "status": "RECENT", "fit": "3.6/5 · Linux systems / performance / real-time data pipelines",
       "why_screen": "The exact posting welcomes recent BS/MS graduates and asks for 0-2 years of professional experience while explicitly counting internships, co-ops, research and substantial projects. Linux, Python, algorithms, OS/concurrency, profiling and supporting C++ provide a plausible path.",
       "why_team": "The role builds a modern C++17/20 real-time sensor-data pipeline and Python automation around a physical-AI process platform. Yuhan's Linux performance diagnosis, systems research and Python tooling would help with throughput, latency, debugging and reliability.",
       "why_interest": "It offers close mentorship and meaningful ownership of performance-sensitive systems software, making it a useful systems hedge even though the domain is not LLM infrastructure.",
@@ -174,7 +174,7 @@
   ],
   "high_value_stretch": [
     {
-      "rank": 1, "tier": "stretch", "company": "StepFun", "role": "Post-Train Training/Inference Infrastructure Optimization Engineer", "status": "NEW TODAY · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
+      "rank": 1, "tier": "stretch", "company": "StepFun", "role": "Post-Train Training/Inference Infrastructure Optimization Engineer", "status": "RECENT · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.2/5 screening",
       "why_screen": "The official role directly asks for profiling and optimizing training/inference systems across memory, communication, scheduling, throughput and latency, including tensor parallelism, pipeline scheduling, NCCL and GPU memory. AutoScout, distributed training, NCCL, multi-GPU, PyTorch/Linux and performance profiling map almost one-for-one; no numeric years minimum is stated.", "why_team": "Yuhan can contribute firsthand evidence around collective communication, model loading/cold starts and configuration/performance diagnosis to the post-training framework and data-infrastructure stack.", "why_interest": "This is the densest direct match to the long-term training/inference systems trajectory among today's new roles.",
       "location": "Beijing · full-time", "salary": "Unknown", "new_grad": "Unlabeled social-recruitment role; no degree or numeric professional-years minimum, but practical large-scale training/inference optimization cases are expected.", "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "The screen is steep: the JD wants firsthand SFT/RLVR/RLHF/Agent-RL production cases and deeper large-scale framework ownership than the current resume proves.", "urgency": "Official Moka page and active Apply button re-verified October 17; marked urgent, with no public deadline.",
       "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/2cdc77b5-1a47-451f-b329-957613e72793"
