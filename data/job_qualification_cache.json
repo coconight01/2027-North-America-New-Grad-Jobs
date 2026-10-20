@@ -17892,7 +17892,7 @@
     "salary_min_annual": "100000",
     "salary_max_annual": "150000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
@@ -19687,8 +19687,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a701c1fcd3bac13d37098ba": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -19698,7 +19698,7 @@
     "salary_min_annual": "76000",
     "salary_max_annual": "128000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
@@ -20178,8 +20178,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a706e77d4735b7dbbcce675": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -20189,7 +20189,7 @@
     "salary_min_annual": "156000",
     "salary_max_annual": "388000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
@@ -23582,7 +23582,7 @@
     "salary_max_annual": 175000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-09",
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e4cb56bea5779c063ab": {
@@ -27694,7 +27694,7 @@
     "salary_max_annual": 79000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96f467d13b4819f39dde90": {
@@ -27833,12 +27833,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$77K/yr - $79K/yr",
-    "salary_min_annual": 77000,
-    "salary_max_annual": 79000,
-    "reject_reason": "maximum stated annual salary below $100k",
-    "source_fetched": true,
-    "checked_at": "2026-09-24",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96f972455eaf6a08c199d6": {
@@ -35841,6 +35841,22 @@
     "checked_at": "2026-09-21",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ab1635123005eee3545a1b1": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$48K/yr - $59K/yr",
+    "salary_min_annual": 48000,
+    "salary_max_annual": 59000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ab17493191d8c340dbdac85": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -42015,6 +42031,22 @@
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-10-19",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ad627603dc655658d8e2b6a": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$77K/yr - $79K/yr",
+    "salary_min_annual": 77000,
+    "salary_max_annual": 79000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ad6343b67bec1d0d9c6c0cc": {
@@ -56333,6 +56365,22 @@
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
+  "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Business-Operations---Insights-Analyst--Winter-2027-_JR00128004-1": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
   "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Cloud-CX-Consultant--Winter-2027-_JR00128340": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -64711,7 +64759,39 @@
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/ashby-persona-a587a272-adf1-4805-9047-2ba9608f9e51?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/ashby-persona-fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d?s=gh-internships-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/ashby-persona-fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
@@ -65653,6 +65733,38 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-19",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/greenhouse-andurilindustries-5268704007?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Early Career",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$86,000 - $114,000",
+    "salary_min_annual": 86000,
+    "salary_max_annual": 114000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/greenhouse-andurilindustries-5268883007?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$77,000 - $102,000",
+    "salary_min_annual": 77000,
+    "salary_max_annual": 102000,
+    "reject_reason": "non-entry title/level: Manager",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827458002?s=gh-internships-2027": {
@@ -69608,6 +69720,22 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7587?s=gh-new-grad-hardware-engineering-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7587?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",

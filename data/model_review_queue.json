@@ -26,12 +26,12 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 246,
-    "new_job_candidates": 75,
+    "priority_company_candidates": 247,
+    "new_job_candidates": 78,
     "high_potential_title_candidates": 302
   },
   "veto_counts": {
-    "non-full-time program title": 7,
+    "non-full-time program title": 8,
     "explicit 2026-only title": 6,
     "security-clearance requirement in title": 2
   },
@@ -441,31 +441,6 @@
       "machine_rank": 17,
       "machine_score": 86,
       "machine_tier": "Top",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "2027 Early Career Supply Chain Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States",
-      "salary": "$77,000–$114,000",
-      "salary_max_annual": "114000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-19",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007",
-      "jd_excerpt": "Job Application for 2027 Early Career Supply Chain Engineer at Anduril Industries New 2027 Early Career Supply Chain Engineer Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. WHAT YOU’LL DO The positions will support the Supply Chain group in strategic planning, long-term supplier selection and negotiations. This position requires the ability to work with procurement, engineering, finance and legal teams and third parties such as suppliers. The position requires interest in industry dynamics, business negotiation and pricing, manufacturing processes, and risk mitigation. Domain Areas and Key Responsibilities – Collaborate and support in the development and rollout of various business solutions within the following areas: Demand & Material Planning – Support enhancement and optimization of our MRP system inputs/outputs/engine-logic and integration into all ERP modules, develop analytics/dashboards. Identifying material gaps and supplier risk, aid the configuration team with BOM errors, sparing contract requirements and SC master data requirements, support the Program team with right-to-left planning and supply chain milestone checkoff procedures. Procurement – Optimize an RFQ system and upstream data flows into the Supply Chain landscape. Develop tools to support multi-tier quoting, advanced sourcing, enhanced Supplier Collaboration and Interaction. Build Sourcing & Cost Trajectory analyses and insight tools. Purchasing – Support the Buying team with specific Purchasing SOPs and training material, troubleshoot Part/BOM issues, develop part availability tracking dashboards and ad-hoc analytics, enhance the deployed Purchase Request process to better automate Purchasing workflows and traceability, etc. Logistics, Warehouse & Supplier Quality – Optimize WMS/QMS systems and associated integrated processes to enhance inventory accuracy and build readiness. Support compliance and sparing audits. Work with System teams with Inventory analytics for period-end/ad-hoc requests. Operational Scale & Supply Chain Health – Document Supply Chain processes (both for internal SMEs and external Supplier collaborators) and develop Doc change control and rollout procedures, support in developing a comprehensive Supplier Scorecard and integrate it into the Supplier Portal system landscape, develop a risk assessment supplier profile and health-check mechanism to enable scale and risk mitigation, aid the development of Compliance Requirements related to Federal and/or Industry-specific regulations and guidelines. Develop and Manage Supply Chain Onboarding material and checklists. Miscellaneous/Collaborative – Liaise between Business and IT groups to gather and clarify requirements, support sprint planning and end-user testing and training. Perform end-user application/system/process testing and report out. Support the effort to develop a global and comprehensive Supply Chain digital ecosystem pipeline and capability roadmap. Collaborate with Data team with data flow triage and issue-resolution intended to enable streamlined and accurate analytics. Develop a strong familiarity with the Supply Chain end-user base and their data and system usage and feedback to gather enhancement requirements for ad-hoc problem solving and building into the overall roadmap. REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Supply Chain Management, Business Analytics, Information Technology & Systems Architecture, Software Engineer, Computer Science, or any related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. PREFERRED QUALIFICATIONS Proficiency in a variety of programming languages such as Go, Java, C++, Python, JavaScript, etc Experience with Microsoft Excel, Spark, PySpark, SQL (T-SQL Postgres), Enterprise Data Systems like Palantir Foundry Experience with AWS, Azure, or GCP security ecosystem, containerization, and associated tooling. Knowledge of connecting external APIs Knowledge of data & visualization tools, such as Tableau US Salary Range $77,000 - $114,000 USD The salary range for this role is an estimate based on a wide range of",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 18,
-      "machine_score": 86,
-      "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
       "company_priority": "",
       "company": "Shield AI",
@@ -488,7 +463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 18,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -513,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -538,7 +513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 20,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -563,7 +538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++; new-grad: confirmed",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -713,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -738,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -763,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -782,6 +757,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/7863348?gh_jid=7863348",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 30,
+      "machine_score": 65,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "2027 Early Career Supply Chain Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$77,000–$114,000",
+      "salary_max_annual": "114000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-19",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
