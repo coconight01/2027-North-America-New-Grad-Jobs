@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-20** · Open roles: **2549**
+> Last automated update: **2026-10-20** · Open roles: **2507**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 131 |
-| **AI Infra / Systems** | 14 |
-| **Quant / HFT** | 47 |
-| **Other high-value tech** | 32 |
+| **Big Tech & Frontier AI** | 123 |
+| **AI Infra / Systems** | 12 |
+| **Quant / HFT** | 43 |
+| **Other high-value tech** | 28 |
 | **ByteDance / TikTok** (separate) | 412 |
-| Other companies | 1913 |
+| Other companies | 1889 |
 
 ### Big Tech & Frontier AI
 
@@ -53,9 +53,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-10-10 | **Databricks** | [Product Design New Grad (2027 Start)](https://zapply.jobs/l/d/greenhouse-databricks-8843577002?s=gh-new-grad-jobs-2027) | $128,000–$140,000 | San Francisco, California | ❔ | ✅ Confirmed | — |
 | 2026-10-10 | **Databricks** | [Evergreen - Product Design New Grad (2027 Start)](https://jobright.ai/jobs/info/6ac975c3d4a5a037074126e9) | $128K/yr - $140K/yr | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
-| 2026-10-03 | **Cerebras** | [AI Inference Core - Software Integration Engineer](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Unknown | Sunnyvale, CA; Toronto, ON | ❔ | ❔ Review | — |
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
@@ -97,9 +95,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-02 | **Pinterest** | [PhD University Grad Data Scientist 2027 (USA)](https://www.pinterestcareers.com/jobs?gh_jid=8157351) | $147,000—$194,000 | San Francisco, CA, US +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-02 | **Pinterest** | [Master's University Grad Data Scientist - USA](https://www.pinterestcareers.com/jobs?gh_jid=8140389) | $191k/yr | San Francisco, CA +3 | ❔ | ✅ Confirmed | — |
 | 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
-| 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-08-05 | **Roblox** | [[2027] Software Engineer, Early Career · 2027](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-06-29 | **Palantir** | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | $135,000–$145,000/year | Chicago, IL | ❔ | ✅ Confirmed | — |
 
@@ -109,8 +104,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-10-15 | **TikTok** | [Backend Engineer Graduate - Social Foundation - 2027 Start](https://lifeattiktok.com/search/7696782198126545157) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-10-15 | **TikTok** | [Backend Engineer Graduate - Account - 2027 Start](https://lifeattiktok.com/search/7696779797359233333) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
+| 2026-10-15 | **TikTok** | [Backend Engineer Graduate - Social Foundation - 2027 Start](https://lifeattiktok.com/search/7696782198126545157) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-10-14 | **TikTok** | [Research Engineer Graduate (Realtime Codec Optimizations-Video Codec) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6acfcb2378d51ae69ce082be) | $123K/yr - $301K/yr | San Diego, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start](https://lifeattiktok.com/search/7695929967028750645) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
 | 2026-10-13 | **TikTok** | [Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start - PhD](https://lifeattiktok.com/search/7695927144126253317) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | PhD only |
@@ -128,7 +123,7 @@ _Showing 12 of 412 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2549 active roles**. Featured groups account for **224** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2507 active roles**. Featured groups account for **206** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
