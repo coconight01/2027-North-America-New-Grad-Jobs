@@ -21357,8 +21357,8 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "outside target technical roles: Workplace Health and Safety",
-    "source_fetched": true,
-    "checked_at": "2026-08-09",
+    "source_fetched": false,
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a73b4b76a034212ea029361": {
@@ -22318,7 +22318,7 @@
     "salary_max_annual": 120000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-09-20",
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a764f537b3417772ade7d42": {
@@ -40625,6 +40625,22 @@
     "checked_at": "2026-10-06",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ac51f440e027c0f3b3acf1e": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$122K/yr - $183K/yr",
+    "salary_min_annual": 122000,
+    "salary_max_annual": 183000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ac540d7064da25272e15b26": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Engineer I",
@@ -42685,6 +42701,22 @@
     "salary_min_annual": 75000,
     "salary_max_annual": 85000,
     "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ad7b5b254bbabbab0701617": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "non-entry title/level: Manager",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$79K/yr - $149K/yr",
+    "salary_min_annual": 79000,
+    "salary_max_annual": 149000,
+    "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
     "checked_at": "2026-10-20",
     "parser_version": 4
@@ -67415,6 +67447,22 @@
     "checked_at": "2026-10-16",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/sr-ServiceNow-744000155345689?s=gh-new-grad-data-science-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/sr-ServiceNow-744000155345689?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Currently pursuing a Master",
@@ -67445,6 +67493,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-16",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/sr-ServiceNow-744000155345889?s=gh-new-grad-data-science-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-20",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/sr-ServiceNow-744000155345889?s=gh-new-grad-jobs-2027": {
