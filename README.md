@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-19** · Open roles: **2537**
+> Last automated update: **2026-10-20** · Open roles: **2546**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,24 +18,24 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 128 |
+| **Big Tech & Frontier AI** | 130 |
 | **AI Infra / Systems** | 14 |
 | **Quant / HFT** | 47 |
-| **Other high-value tech** | 33 |
+| **Other high-value tech** | 32 |
 | **ByteDance / TikTok** (separate) | 412 |
-| Other companies | 1903 |
+| Other companies | 1911 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-20 | **Amazon** | [Software Development Engineer, Early Career - 2027 (CAN)](https://jobright.ai/jobs/info/6ad67935e4b94611ab83f08b) | Not listed | Vancouver, BC, Canada | ❔ | ✅ Confirmed | — |
+| 2026-10-20 | **Amazon** | [Software Development Engineer, Early Career - 2027 (US)](https://jobright.ai/jobs/info/6ad6946d54bbabbab06f9c18) | $129K/yr - $129K/yr | Madison, WI, United States | ❔ | ✅ Confirmed | — |
+| 2026-10-20 | **NVIDIA** | [Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027](https://jobright.ai/jobs/info/6ad6a77de4b94611ab840fff) | $84K/yr - $144K/yr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-19 | **NVIDIA** | [Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027742?s=gh-new-grad-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-10-19 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Cupertino | ❔ | ✅ Confirmed | — |
 | 2026-10-19 | **Apple** | [Software Engineer, IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200689349-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR) | Not listed | Sunnyvale | ❔ | ✅ Confirmed | — |
-| 2026-10-16 | **Amazon** | [Software Development Engineer - AWS WorkSpaces](https://www.amazon.jobs/jobs/10504598/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-10-16 | **Microsoft** | [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) | $168k/yr | Washington, DC | ❔ | ❔ Review | — |
-| 2026-10-14 | **NVIDIA** | [SoC Software Engineer - New College Grad 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026744?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
-| 2026-10-14 | **Amazon** | [Software Development Engineer - Amazon Connect](https://www.amazon.jobs/jobs/10534557/apply) | Not listed | New York City, NY | ❔ | ❔ Review | — |
 | 2026-10-10 | **Google, Inc.** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start / Google, Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11339948) | Not listed | Seattle, WA (+9 others) | ❔ | ✅ Confirmed | — |
 | 2026-10-08 | **Microsoft** | [Research Scientist - Economist](https://apply.careers.microsoft.com/careers/job/1970393557024073) | $168k/yr | Washington, DC +1 | ❔ | ❔ Review | — |
 | 2026-09-15 | **Google** | [Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-123087196289671878?s=gh-new-grad-data-science-jobs-2027) | Not listed | United States | ❔ | ✅ Confirmed | — |
@@ -55,7 +55,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-10 | **Databricks** | [Evergreen - Product Design New Grad (2027 Start)](https://jobright.ai/jobs/info/6ac975c3d4a5a037074126e9) | $128K/yr - $140K/yr | San Francisco, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-03 | **Cerebras** | [AI Inference Core - Software Integration Engineer](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Unknown | Sunnyvale, CA; Toronto, ON | ❔ | ❔ Review | — |
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | $150,000 - $160,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-09-18 | **Together AI** | [Software Engineer - New Grad - 2027](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-04 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
@@ -128,7 +128,7 @@ _Showing 12 of 412 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2537 active roles**. Featured groups account for **222** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2546 active roles**. Featured groups account for **223** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
