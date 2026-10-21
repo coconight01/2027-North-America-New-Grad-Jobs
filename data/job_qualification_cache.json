@@ -20718,7 +20718,7 @@
     "salary_max_annual": 256000,
     "reject_reason": "senior-level title: Lead",
     "source_fetched": true,
-    "checked_at": "2026-09-27",
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362": {
@@ -23390,7 +23390,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-08",
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b": {
@@ -23822,7 +23822,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-08",
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df": {
@@ -32334,7 +32334,7 @@
     "salary_max_annual": 114000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-09",
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa07ce1500b01124c7796f6": {
@@ -38846,7 +38846,7 @@
     "salary_max_annual": 83200,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-29",
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abbcf41d6acfd3dd29fa008": {
@@ -42753,6 +42753,38 @@
     "checked_at": "2026-10-21",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ad83997e4b94611ab84c45f": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$101K/yr - $151K/yr",
+    "salary_min_annual": 101000,
+    "salary_max_annual": 151000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ad881ce54bbabbab070709d": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$23/hr - $26/hr",
+    "salary_min_annual": 47840,
+    "salary_max_annual": 54080,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
   "https://jobs-bylight.icims.com/jobs/11799/software-engineer-i/job": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Software Engineer I",
@@ -43951,6 +43983,54 @@
     "checked_at": "2026-10-20",
     "parser_version": 4
   },
+  "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
   "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Early Career",
@@ -43965,6 +44045,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-16",
+    "parser_version": 4
+  },
+  "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-21",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/brellium/65f55c9f-4614-4b41-a64b-0cdb6a55792e": {
