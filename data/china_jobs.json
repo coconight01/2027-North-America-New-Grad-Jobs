@@ -1,5 +1,21 @@
 [
   {
+    "posted_date": "2026-10-22",
+    "company": "StepFun (阶跃星辰)",
+    "role": "大模型架构研究员（Co-Design 方向）",
+    "track": "AI / ML",
+    "location": "上海市 · 徐汇区 / 北京市 · 海淀区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/048743eb-86e9-484a-bb5a-95c8b9fc0bc3",
+    "job_id": "048743eb-86e9-484a-bb5a-95c8b9fc0bc3",
+    "status": "Open",
+    "date_added": "2026-10-22",
+    "qualification_excerpt": "【团队使命】 我们致力于下一代大模型架构的协同设计研究（Model-System Co-Design），从模型算法、计算系统与硬件架构的交叉视角，探索更高效的模型 Scaling 路径。 团队以模型架构创新为核心，重点关注 Efficient Model Scaling、Memory-Efficient Architecture 和 Hardware-Aware Architecture Design 三大研究方向。我们希望从真实的训练与推理成本、计算与存储瓶颈出发，研究更高效的模型架构设计。 【岗位定位】 这是一个面向下一代大模型架构的预研岗位，重点关注模型算法与计算系统、硬件架构之间的协同设计。 欢迎具有模型算法、AI Systems 或计算机体系结构等不同背景的人才加入。工作以架构研究、性能分析、建模仿真和实验验证为主，而非现有训练或推理系统的工程维护和性能交付。 【岗位职责】 研究大模型的高效 Scaling 方法，包括 MoE、模型 Upcycling、Loop、计算与状态复用等方向，分析不同模型结构在模型能力、训练成本和推理成本上的取舍。 研究 Attention 和 Memory 相关架构，包括 Sparse/Hybrid Attention、KV Cache 压缩与共享、跨层信息复用等，重点关注长上下文及推理过程中的计算、存储与访存开销。 研究模型与计算架构的协同设计。通过性能建模、架构仿真和实验分析，研究不同 AI 加速器的计算、存储和通信特性对模型效率的影响，探索适合不同硬件架构的模型结构与计算方法。 参与新架构的设计和验证，包括算法原型开发、小规模训练、消融实验、性能建模与测试，评估模型效果、训练效率及推理成本。 与模型算法、训练和推理团队合作，推动研究方案的进一步验证与实际应用；同时自主发现值得研究的技术问题，开展中长期架构预研。 【岗位要求】 在大模型算法、AI Systems、分布式计算、计算机体系结构或 AI 加速器等至少一个方向有扎实的技术积累。 理解 Transformer 及大模型的基本架构，对模型训练、推理及其计算效率有一定认识。 具备较强的技术分析和研究能力，能够从实际问题出发提出解决思路，并通过建模、仿真、原型或实验进行验证。 具备良好的编程和动手能力，愿意深入技术细节，能够独立分析和解决复杂技术问题。 对技术有好奇心和研究热情，逻辑清晰，自驱力强，具备良好的跨领域学习与协作能力。 【加分项】 有模型架构、Model Scaling、Attention、MoE 或模型效率相关研究经验。 有大模型训练/推理性能分析、Cost Modeling、Hardware-Software Co-Design 等相关经验。 熟悉 GPU/AI 加速器架构、体系结构性能建模、架构级仿真、计算与存储系统或高性能计算等技术。 曾主导创新"
+  },
+  {
     "posted_date": "2026-10-20",
     "company": "Lingjun Investment (灵均)",
     "role": "量化开发工程师",

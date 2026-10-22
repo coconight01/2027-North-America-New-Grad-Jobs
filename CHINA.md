@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-10-22** · Open roles: **182**
+> Last automated update: **2026-10-22** · Open roles: **183**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | **StepFun (阶跃星辰)** | [大模型架构研究员（Co-Design 方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/048743eb-86e9-484a-bb5a-95c8b9fc0bc3) | AI / ML | 上海市 · 徐汇区 / 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-10-20 | **Lingjun Investment (灵均)** | [量化开发工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/27ddbc59-12c8-4260-bc6c-56fab73654a5) | Quantitative Finance | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-10-20 | **Lingjun Investment (灵均)** | [量化研究员-股票](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/6cd0ff0c-d870-4291-aa53-43cdd2021d15) | Quantitative Finance | 上海市 · 浦东新区 / 北京市 · 海淀区 / 香港 · 中西区 / 新加坡 | 全职 | Review eligibility |
 | 2026-10-20 | **Lingjun Investment (灵均)** | [新股研究员](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/40c05ff5-05b8-498a-83c3-4d9e2c2c971d) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |

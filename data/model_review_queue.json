@@ -27,11 +27,14 @@
       "fill": 0
     },
     "priority_company_candidates": 256,
-    "new_job_candidates": 113,
-    "high_potential_title_candidates": 315
+    "new_job_candidates": 131,
+    "high_potential_title_candidates": 316
   },
-  "veto_counts": {},
-  "exact_tracked_jobs_removed": 0,
+  "veto_counts": {
+    "non-full-time program title": 8,
+    "explicit 2026-only title": 5
+  },
+  "exact_tracked_jobs_removed": 18,
   "candidates": [
     {
       "machine_rank": 1,
@@ -410,56 +413,6 @@
     },
     {
       "machine_rank": 16,
-      "machine_score": 85,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Performance / Runtime; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Clear Street",
-      "role": "DevOps Production Engineer",
-      "category": "Quantitative Finance",
-      "location": "New York City, NY",
-      "salary": "$150,000–$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-21",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8304159",
-      "jd_excerpt": "Job Application for DevOps Production Engineer at Clear Street Back to jobs New DevOps Production Engineer New York Apply About Clear Street Clear Street is modernizing the brokerage ecosystem. Founded in 2018, Clear Street is a diversified financial services firm replacing the legacy infrastructure used across capital markets. We started from scratch by building a completely cloud-native clearing and custody system designed for today's complex, global market. Our platform is fully integrated with central clearing houses and exchanges to support billions in trading volume per day. We've agonized about our data model abstractions, created horizontal scalability, and crafted thoughtful APIs. All so we can provide a best-in-class experience for our clients. By combining highly-skilled product and engineering talent with seasoned finance professionals, we're building the essentials to compete in today's fast-paced markets. The Team Production Engineering is responsible for the daily operation of Clear Street's trading systems — a set of distributed network applications running on Linux hosts, integrated with liquidity venues, clearing houses, and exchanges that support billions in trading volume per day. We use a mix of open-source and proprietary software to provide low-latency direct market access across asset classes. The team's work centers on three areas: monitoring and alerting (Grafana, Wireshark), deployment and testing (Ansible, pytest), and system optimization (C++, hardware testing). The Role Own the daily operation of production trading systems: monitoring, alerting, incident response, and troubleshooting across Linux hosts and network infrastructure. Build and extend our monitoring and alerting stack (Grafana, Wireshark) and our deployment and testing tooling (Ansible, pytest), treating infrastructure as code and servers as cattle, not pets. Optimize system performance at the software and hardware level — latency, throughput, and jitter — including work in C++ and hands-on hardware testing. Interface with the many external venue and counterparty systems our platform connects to; notice failure patterns and propose upgrades that make the whole system more resilient. Weigh risk and reward in real time on decisions that affect live trading, and help traders and other non-technical users navigate those choices. What We Value Technical curiosity: a relentless drive to understand how things work under the hood — not satisfied with \"it works,\" you want to know why. Attention to detail: in trading, accuracy is paramount; you take pride in reliable code and graceful handling of edge cases. Tactical judgment: the ability to make thoughtful risk/reward trade-offs, with incomplete information, on decisions that impact the bottom line of a live trading business. High ownership and accountability, strong collaboration across engineering, trading, and operations, and satisfaction in work with a direct, measurable impact. Requirements 1–3 years of professional experience in production engineering, site reliability engineering, systems administration, or a related field. Linux native: comfortable with file and process management, system troubleshooting, debugging, configuration, and networking. Strong command of Python for backend development — clean, efficient, Pythonic code. A GitOps mindset: you understand the value of treating infrastructure as code. A Bachelor's or Master's degree in Computer Science, Engineering, or a related field. Nice To Haves Familiarity with C++ — our high-performance trading engines run on it, and the ability to read and interface with that codebase is valuable. High-performance networking experience: achieving low deterministic latency and high throughput with minimal jitter (kernel bypass, hardware timestamping, multicast, cut-through switches). We Offer The opportunity to join a small and growing team of good people, where you can make a difference. A modern, cloud-native platform with little technical debt and room to build new services and features. A meritocratic philosophy that champions collaboration. Competitive compensation, benefits, and perks. The Base Salary Range for this role is $150,000 – $200,000. This range is representative of the starting base salaries for this role at Clear Street. Where a candidate falls in this range will be based on job related factors such as relevant experience, skills, and location. This range represents Base Salary only, which is just one element of Clear Street's total compensation. The range stated does not include other factors of total compensation such as bonuses or equity. At Clear Street, we offer competitive compensation packages, company equity, 401k matching, gender neutral parental leave, and full medical, dental and vision insurance. This role is based in our New York office four days per week; in-office benefits include lunch stipends, fully stocked kitchens, happy hours, a great location, and amazing views. Our top priority is o",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 17,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "Tier B watchlist; best track: Performance / Runtime; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "2027 Early Career Business Operations Associate",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
-      "salary": "$78,000–$104,000",
-      "salary_max_annual": "104000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-21",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007",
-      "jd_excerpt": "Job Application for 2027 Early Career Business Operations Associate at Anduril Industries New 2027 Early Career Business Operations Associate Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. WHAT YOU’LL DO Build Repeatable Analytics Workflows: Design, execute, and automate high-quality, repeatable data models and analytical pipelines to track critical operational, business, and financial metrics. Drive Business Decision-Making: Partner closely with leadership and functional stakeholders to deliver actionable insights, evaluate operational trade-offs, and guide strategic decisions through data synthesis. Data Visualization & Dashboarding: Develop clear, self-service dashboards and visualization frameworks that equip functional teams with the tools and metrics to monitor and improve their processes. Executive Storytelling: Translate complex analyses into clean, executive-ready presentations, reports, and narratives, with results presented directly to senior leadership teams. System & Tool Deep-Dives: Work deeply within our data tools and business infrastructure (including Salesforce, Oracle, Palantir Foundry, Databricks, and other core enterprise systems) to execute scrappy analyses on short timelines and build robust data pipelines over the long term. Drive Operational Excellence: Proactively identify friction and process bottlenecks across the organization, using quantitative analysis to drive sustainable operational solutions. REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Business Operations, Business Analytics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. PREFERRED QUALIFICATIONS Experience with Business Analytics and Data Visualization: Ability to structure ambiguous operational problems, manipulate large datasets, and present data visually to influence decisions. Enterprise Data Tooling: Exposure to querying and working within modern data and analytics platforms (e.g., Salesforce, Oracle, Palantir Foundry, Databricks, SQL, or equivalent enterprise data environments). High Fluency in Excel & PowerPoint: Capability in Excel (modeling, pivot tables, data manipulation) and PowerPoint (building polished narrative decks). High Ownership & Bias for Action: You are self-driven, hyper-organized, and detail-oriented; you step into gaps proactively and follow through from insight to execution. US Salary Range $78,000 - $104,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Benefits At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits . Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind: No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates. Please alway",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 18,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -484,7 +437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 17,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -509,7 +462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 18,
       "machine_score": 88,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -534,7 +487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 19,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -559,7 +512,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 20,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -579,6 +532,56 @@
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8036541?gh_jid=8036541",
       "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations OMM Explained Work With Us Experienced Early Careers Internships Life at Akuna Options 101 Talent Community All Rights Reserved © 2011-2026 Akuna Technologies LLC - Terms and\n      Conditions - Privacy Policy Media Inquiries",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 21,
+      "machine_score": 81,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier B watchlist; best track: Performance / Runtime; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "2027 Early Career Business Operations Associate",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United...",
+      "salary": "$78,000–$104,000",
+      "salary_max_annual": "104000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5271811007?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Job Application for 2027 Early Career Business Operations Associate at Anduril Industries New 2027 Early Career Business Operations Associate Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. WHAT YOU’LL DO Build Repeatable Analytics Workflows: Design, execute, and automate high-quality, repeatable data models and analytical pipelines to track critical operational, business, and financial metrics. Drive Business Decision-Making: Partner closely with leadership and functional stakeholders to deliver actionable insights, evaluate operational trade-offs, and guide strategic decisions through data synthesis. Data Visualization & Dashboarding: Develop clear, self-service dashboards and visualization frameworks that equip functional teams with the tools and metrics to monitor and improve their processes. Executive Storytelling: Translate complex analyses into clean, executive-ready presentations, reports, and narratives, with results presented directly to senior leadership teams. System & Tool Deep-Dives: Work deeply within our data tools and business infrastructure (including Salesforce, Oracle, Palantir Foundry, Databricks, and other core enterprise systems) to execute scrappy analyses on short timelines and build robust data pipelines over the long term. Drive Operational Excellence: Proactively identify friction and process bottlenecks across the organization, using quantitative analysis to drive sustainable operational solutions. REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Business Operations, Business Analytics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. PREFERRED QUALIFICATIONS Experience with Business Analytics and Data Visualization: Ability to structure ambiguous operational problems, manipulate large datasets, and present data visually to influence decisions. Enterprise Data Tooling: Exposure to querying and working within modern data and analytics platforms (e.g., Salesforce, Oracle, Palantir Foundry, Databricks, SQL, or equivalent enterprise data environments). High Fluency in Excel & PowerPoint: Capability in Excel (modeling, pivot tables, data manipulation) and PowerPoint (building polished narrative decks). High Ownership & Bias for Action: You are self-driven, hyper-organized, and detail-oriented; you step into gaps proactively and follow through from insight to execution. US Salary Range $78,000 - $104,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Benefits At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits . Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind: No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates. Please alway",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 22,
+      "machine_score": 74,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Red Carrot",
+      "role": "Business Operations & AI Innovation Associate",
+      "category": "Other",
+      "location": "Miami, FL",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://redcarrot.applytojob.com/apply/BiFOfyN3MV/Business-Operations-AI-Innovation-Associate",
+      "jd_excerpt": "Business Operations & AI Innovation Associate - Red Carrot - Career Page Skip To Job Description View All Jobs View Our Website Thanks for visiting our Career Page. Please review our open positions and apply to the positions that match your qualifications. Business Operations & AI Innovation Associate Miami, FL Full Time Entry Level Share The opportunity Help us make work simpler, faster, and more effective. Red Carrot is a strategic communications, marketing, creative, and professional services company. We’re looking for a curious recent graduate who wants to understand how a business works, solve operational problems, and turn AI ideas into useful tools and better processes. You’ll work with leadership and colleagues to identify inefficiencies, research solutions, and put improvements into practice. You should be comfortable taking initiative, learning unfamiliar tools, and moving a project forward independently while knowing when to ask questions. What you’ll do Examine how teams work, identify repetitive tasks and bottlenecks, and recommend practical improvements. Use AI for research, analysis, organizing information, and developing solutions to business problems. Build and test automations, simple tools, trackers, and workflows that reduce manual work and improve accuracy. Take improvement projects from problem definition through implementation, documentation, and follow-up. Talk with colleagues to understand their needs and help them adopt useful tools and processes. Measure whether changes save time, reduce errors, or make work easier. Check AI outputs for accuracy and use approved tools with appropriate care for confidential information. What you’ll bring A completed bachelor’s degree in business or industrial engineering. Curiosity about how things work and persistence in figuring out how to improve them. Practical experience using AI beyond basic questions—including research, analysis, and building an automation or simple tool. The ability to organize your work, follow through, and communicate progress and obstacles clearly. Comfort working with spreadsheets, data, and unfamiliar software. Sound judgment about when to proceed independently and when to seek input. School projects, internships, personal projects, and work experience can all demonstrate these abilities. Prior experience is required. What success looks like in your first 90 days Understand key team workflows and identify specific opportunities for improvement. Prioritize opportunities with leadership based on their value and feasibility. Implement at least one useful process improvement, automation, or simple tool. Document how it works, help colleagues use it, and evaluate its results. Show us how you think Please share an example of a problem you solved or a process you improved using AI, automation, or data. Explain the problem, what you built or changed, how you checked your work, and what you learned. Academic and personal projects are welcome. Benefits at Red Carrot: At Red Carrot, we empower you to be a leader. We attract and develop talent from all backgrounds because we believe there’s strength in diversity, offering different perspectives and skills. Together, we can solve our client’s biggest challenges. We offer a competitive compensation and benefits package. Training and Development – Tuition reimbursement and professional trainings for eligible employees. Healthcare – Top-tier medical, dental, vision, life insurance and long-term disability coverage. 401(k) Plan – 401(k)-retirement and Roth plan with company matching and no vesting period. Profit Sharing – Discretionary profit-sharing plan to all eligible employees after one year of employment. Paid Time Off – Provides flexible work hours, paid time off, and 11 federal holidays. About Us: Red Carrot is an award-winning, woman-owned small business built for the complexity of federal government work. We partner with clients to advance their goals — powered by a team fueled by passion, backed by intelligence, and grounded in expertise. From day one, we've applied industrial engineering principles and data analytics to solve complex problems with precision. Our approach is research-centric, data-informed, and audience-oriented — and it's how we deliver work that actually moves the needle. We exist to strengthen the organizations and communities we serve through trusted, purposeful communication. That's not a tagline — it's the standard we hold ourselves to on every engagement. Headquartered in Miami, Florida, with a strong and growing presence in Washington, D.C., our team works with clients across the country. Distance doesn't dilute our service. We build capacity where our clients need it, delivering Strategic Communications, Customer Experience, Management Consulting, and Human Capital Solutions that fit their mission — and their moment. We're the partner organizations turn to when communication challenges are real, the stakes are high, and the work has to matter. Share ",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -787,6 +790,31 @@
       "machine_rank": 31,
       "machine_score": 68,
       "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; downrank: generic CRUD/backend; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Affirm",
+      "role": "Analyst - Early Career - Full Stack",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA +1",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "jd_excerpt": "Job Application for Analyst, Early Career (Full Stack) at Affirm New Analyst, Early Career (Full Stack) New York, New York, United States; San Francisco, California, United States Apply At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. In our hybrid early career program, you’ll be paired with a tenured Affirmer and have an opportunity to collaborate in-person 3 days a week out of our New York City, or San Francisco offices. You'll experience the best of both worlds: the in-office experience and remote work. After the one-year, you can remain hybrid, go remote, or stay in an office. Opportunities are available across different tech stacks and teams so that you can find a perfect fit to launch your career with Affirm! About the Risk & Analytics Team: The Risk & Analytics (R&A) team makes crucial decisions that direct Affirm’s business strategy. We partner with Machine Learning, Product, Engineering, Capital Markets, and Commercial teams to grow Affirm responsibly by optimizing approval, conversion, losses, and profitability. Operating across the entire customer and merchant lifecycle, we tackle a diverse array of challenges from optimizing checkout conversion and mitigating fraud risk, to building scalable data foundations and enabling international growth. We analyze performance not just to report on it, but to determine where to invest resources for maximum impact through building tools, scalable data infrastructure, and analytical frameworks. We improve the analytics experience across Affirm by streamlining workflows and fostering a culture of learning and documentation. By taking ownership of the entire analytical lifecycle, from initial question to final business decision, we turn complex data and systems into clear, actionable signals that ensure Affirm grows efficiently and intelligently. Our Teams (Where You Might Sit): We are hiring multiple Early Career Analyst roles across Affirm's Risk & Analytics organization through this single job posting. Rather than interviewing for one specific team, candidates will go through a shared interview process designed to assess the core skills we look for across R&A. If selected, we will work with you to determine the best team match based on your interests, experience, strengths, and current business needs. You will have the opportunity to learn more about our teams and share your preferences as you move through the process. Potential team placements include: Point of Sale (POS): Optimize merchant and checkout performance to improve conversion, approvals, and unit economics across the purchase funnel. Direct to Consumer (DTC) / Card: Drive engagement, repeat usage, and lifecycle health across Affirm's app, web, and card experiences. Fraud: Prevent and reduce fraud losses across the customer journey while maintaining a frictionless user experience. Core Analytics: Build the quantitative research, machine learning models,  performance monitoring, and scalable data foundations that enable fast, economically sound decisions. Servicing and Payments: Enhance the post-origination customer experience by analyzing repayment behavior, collections strategies, and operational efficiency. International Expansion: Build the measurement and decision foundations needed to sustainably launch and scale Affirm in new global markets. About the Role As an Early Career Analyst in Affirm's Risk & Analytics organization, you will join one of several analytical teams working across the customer and merchant lifecycle. While the specific problems you tackle will depend on your eventual team placement, all Analyst I roles share a common foundation: using data to understand business performance, identify opportunities, and help Affirm make better decisions. You will learn the fundamentals of consumer lending while executing scoped analytical work under the guidance of senior analysts and managers. You will leverage SQL, Python, and modern analytical tools to help optimize business strategies, monitor performance, and turn complex data into actionable insights. You are a thoughtful, driven individual eager to build a strong technical foundation, learn how to navigate exogenous market changes, and integrate modern AI tooling to solve hard problems efficiently. What You Will Do Derive Insights & Support Strategy: Leverage data analytics to uncover insights that help optimize product, risk, or growth strategies across geographies. Monitor Portfolio Health: Assist in tracking performance metrics, user behavior, and macroeconomic trends that impact business outcomes, flagging risks and anomalies to senior team members. Technical Execution: Write clean, working SQL and Python to build scalable reporting and partner with Engineering to support the deployment of machine learning and risk models. Cross-Functional Collaboration: Work closely with Product, Legal, and Complian",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 32,
+      "machine_score": 68,
+      "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
       "company_priority": "Tier B",
       "company": "Palantir",
@@ -809,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; resume overlap: profiling / performance modeling, systems scheduling / planning; new-grad: confirmed",
@@ -834,7 +862,82 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 34,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
+      "company_priority": "",
+      "company": "Guidewire",
+      "role": "Junior AI Engineer- Applied AI",
+      "category": "AI / Machine Learning",
+      "location": "Remote - USA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 35,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Twitch",
+      "role": "Software Engineer I",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "salary": "$110,500–$160,000",
+      "salary_max_annual": "160000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "jd_excerpt": "Job Application for Software Engineer I at Twitch New Software Engineer I Seattle, WA Apply About Us Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day. We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X ,  and discover the projects we’re solving on our Blog . Be sure to explore our Interviewing Guide to learn how to ace our interview process. About the Role On-Demand is a team within the Engagement Growth organization at Twitch, focused on ensuring our creators have the tools they need to build, grow, and entertain their communities. As an engineer here, you'll work on our video on demand, clips, and other short-form content. This includes how creators create and curate them, as well as the platforms that distribute these assets to all of their viewers. You'll work alongside a highly engaged, collaborative team that designs, builds, and maintains systems that scale to millions of concurrent users. We're constantly improving the experience for our users, and we're looking for new team members who share that passion for the end user. This position is in Seattle, WA. You Will: Learn and contribute across the full stack of our software Backend (Go), Frontend (React) Collaborate with fellow engineers, product managers and designers to build new products and solutions Participate in Operational Excellence work to maintain and support our live services Help earn customer trust by working with our support teams to resolve issues and fix production bugs You Have: A Bachelor's degree in Computer Science or equivalent industry experience as a Software Engineer Willingness to learn new things and work with a diverse group of people A strong foundation in data structures and algorithms. Familiarity with scalability, concurrency, API design, data modeling, and distributed systems fundamentals. Proficiency in Go, Java, Python or another Object-oriented language An eagerness to grow as a Software Engineer Bonus Points Familiarity with AWS infrastructure Coding experience with React Twitch experience / knowledge as a viewer, moderator or streamer Perks Medical, Dental, Vision & Disability Insurance 401(k) Maternity & Parental Leave Flexible PTO Amazon Employee Discount Job ID: TW9308 The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . US, WA, Seattle - Annually $110,500 - $160,000 USD Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Twitch values your privacy. Please consult our Candidate Privacy Notice , for information about how we collect, use, and disclose personal information of our candidates. Create a Job Alert Interested in building your career at Twitch? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School Select... Degree Select... Discipline Select... Start date month Select... Start date year End date month Select... End date year Add another LinkedIn Profile Website How would you describe your experience with Twitch? (Select one) * Select... We review all applications equally, whether you're an advanced user or new to the platform. Let us know your history with us! How many years have you been active on the platform? * Select... Do you have experience in the Creator Economy beyond Twitch? * TikTok Meta / Instagram / Facebook WhatNot YouTube Other None Are you currently a Twitch employee? * Select... Are you open to relocation? * Select... Please choose a location from the list below if you're open to relocating with Twitch. If not, select your preference from the remaining options. Are you a cu",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Clear Street",
+      "role": "DevOps Production Engineer",
+      "category": "Quantitative Finance",
+      "location": "New York City, NY",
+      "salary": "$150,000–$200,000",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-21",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8304159",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 37,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role; new-grad: likely",
@@ -859,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 38,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -884,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 39,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -909,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 40,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -934,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 41,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -959,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 42,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -984,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 43,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1009,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 44,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1034,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 45,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1059,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 46,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1084,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 47,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1109,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 48,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; role shape: early-career SWE; downrank: qa/test specialization; new-grad: confirmed",
@@ -1134,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1159,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 50,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1184,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 51,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1209,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 52,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1234,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 53,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1259,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 54,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1284,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 55,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1309,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 56,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1334,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 57,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1359,7 +1462,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 58,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1384,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 59,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1409,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 60,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1434,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 61,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1459,7 +1562,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 62,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1484,7 +1587,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 63,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1509,7 +1612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 64,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1534,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 65,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1559,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 66,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1584,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 67,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1609,7 +1712,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 68,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1634,7 +1737,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 69,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "186000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-03",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10526808/apply",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 70,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1659,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 71,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1684,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 72,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1709,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 73,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1734,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 74,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1759,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 75,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1784,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 76,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1809,7 +1937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 77,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1834,7 +1962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 78,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1859,7 +1987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 79,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1884,7 +2012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 80,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1909,7 +2037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 81,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1934,7 +2062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 82,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1959,7 +2087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 83,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1984,7 +2112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 84,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2009,7 +2137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 85,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2034,7 +2162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 86,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -2059,7 +2187,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 87,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -2084,7 +2212,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 88,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -2109,7 +2237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 89,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2134,7 +2262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 90,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -2159,32 +2287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: production LLM agents / tools; skills: C++, Distributed Systems, Networking",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS Agentic AI",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10486378/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 87,
+      "machine_rank": 91,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2209,7 +2312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 92,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2234,7 +2337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 93,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2259,7 +2362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 94,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2284,7 +2387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 95,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2309,7 +2412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 96,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2328,81 +2431,6 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 93,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Bridgewater Associates",
-      "role": "Research Associate - Equities Data Engineer",
-      "category": "Quantitative Finance",
-      "location": "New York City, NY",
-      "salary": "$150,000-$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-02",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 94,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Point72",
-      "role": "[Summer 2027 Quantitative Research Int...](https://boards.greenhouse.io/point72/jobs/7297642002?ghjid=7297642002)",
-      "category": "Quantitative Finance",
-      "location": "New York",
-      "salary": "$240,000–$300,000",
-      "salary_max_annual": "300000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-08-05",
-      "source": "GitHub:DereC4/internships-and-newgrad:README.md",
-      "official_source": false,
-      "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 95,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
-      "company_priority": "",
-      "company": "Ketch",
-      "role": "Backend Software Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "San Francisco, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-07",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/Ketch/043266ee-ec94-4ae0-be8a-bc4e01bb901e",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
