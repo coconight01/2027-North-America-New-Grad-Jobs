@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21",
+  "updated_at": "2026-10-22",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,15 +26,15 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 254,
-    "new_job_candidates": 134,
-    "high_potential_title_candidates": 310
+    "priority_company_candidates": 255,
+    "new_job_candidates": 113,
+    "high_potential_title_candidates": 315
   },
   "veto_counts": {
-    "non-full-time program title": 8,
+    "non-full-time program title": 6,
     "explicit 2026-only title": 5
   },
-  "exact_tracked_jobs_removed": 20,
+  "exact_tracked_jobs_removed": 19,
   "candidates": [
     {
       "machine_rank": 1,
@@ -588,31 +588,6 @@
     },
     {
       "machine_rank": 23,
-      "machine_score": 75,
-      "machine_tier": "Strong",
-      "machine_reason": "Tier B watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: CUDA, Networking",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "Financial Analyst II, AD&S",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States",
-      "salary": "$88,000–$117,000",
-      "salary_max_annual": "117000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-21",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213031007?gh_jid=5213031007",
-      "jd_excerpt": "Job Application for Financial Analyst II, AD&S at Anduril Industries Financial Analyst II, AD&S Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Air Dominance & Strike (AD&S) division builds advanced autonomous air vehicles and munitions systems designed to deter, compel, and defeat adversaries at scale. Our portfolio — including platforms like Fury and Barracuda — spans high-performance multi-mission air vehicles purpose-built for contested environments and hyper-scale production. The AD&S Finance team provides the financial infrastructure to support programs as they scale from rapid development through production ramp, partnering with engineering, supply chain, and program leadership to maintain cost visibility and financial rigor across a fast-growing portfolio. ABOUT THE JOB As a Financial Analyst, you will provide dedicated program finance support to the Advanced Effects Business Line within the Air Dominance & Strike Division. This portfolio spans cutting-edge missile programs that are rapidly scaling from development into production. Your primary focus will be tracking and forecasting the cost build-up of hardware products — understanding how material, labor, and overhead flow through each stage of the product lifecycle and translating that into reliable baselines, forecasts, and variance analysis. You will work closely with Program Managers, Supply Chain, and Accounting to ensure cost visibility keeps pace with program execution. This role requires someone who can operate autonomously, drive projects from inception to completion, and communicate financial performance clearly to cross-functional stakeholders. You will also help the team navigate ongoing data and systems challenges as we mature our ERP and forecasting tool environments. WHAT YOU’LL DO Own program-level cost forecasting and EAC/ETC development for hardware programs transitioning from development to production Build and maintain bottoms-up cost models that capture material, labor, overhead, and subcontract elements across the hardware build cycle Track actuals against baselines, identify variances, and drive root-cause analysis with program and supply chain teams Deliver monthly program financial reporting and present performance narratives to program management and business line leadership Partner with Supply Chain and Accounting to reconcile procurement activity, inventory movements, and cost postings Support the development and improvement of forecasting workflows in FP&A and ERP tools (Oracle, Anaplan, Foundry) Assist in pricing activities and proposal cost volume development Contribute to long-range planning and production rate ramp financial modeling Drive continuous improvement in reporting accuracy, data integrity, and process efficiency REQUIRED QUALIFICATIONS 1-3 years of experience in FP&A, program finance, or cost analysis — preferably in an environment that manufactures or integrates hardware Bachelor's degree or higher in Finance, Accounting, or related field Experience building or managing cost models for physical products (BOM-based costing, production cost build-ups, or similar) Strong understanding of how material, labor, and indirect costs flow through a manufacturing or defense program lifecycle Ability to operate independently in a fast-paced, high-growth environment and carry projects forward with minimal direction Excellent communication skills — comfortable presenting financial narratives and variance explanations to non-finance stakeholders Proficiency with financial systems and data tools; experience with ERP platforms (Oracle preferred) is a plus Must be authorized to work in the United States PREFERRED QUALIFICATIONS DoD industry experience or familiarity with government contract cost accounting (FAR/CAS) Security clearance (or ability to obtain one) Experience navigating ERP transitions or standing up new forecasting tools Exposure to supply chain or procurement finance Per Anduril's expansion plans, we anticipate this job will be based out of Long Beach, CA beginning late 2027. US Salary Range $88,000 - $117,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (b",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 24,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++; new-grad: confirmed",
@@ -637,7 +612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -662,7 +637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -682,6 +657,31 @@
       "official_source": true,
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907368101",
       "jd_excerpt": "Job Application for Graduate Quantitative Researcher (BS/MS) at IMC Back to jobs Graduate Quantitative Researcher (BS/MS) Chicago, United States Apply As a Quantitative Researcher at IMC, your work will directly impact our global trading strategies. You will leverage your superior analytical, mathematical, and computing skills to improve existing models and develop new ones.  We will empower you to discover your unique niche and excel, taking on responsibility and ownership from the start. Quantitative Researchers work closely with Traders and Developers in an environment where problem solving, innovation and teamwork are recognized and rewarded. Your Core Responsibilities: Apply rigorous analytical and quantitative techniques to solve complex problems Build custom tools to explore new research ideas Design mathematical models based upon trading ideas Implement and deploy new models into production Maintain best practices to keep our systems logical and consistent Your Skills and Experience: Current university student graduating between September 2026 – July 2027 that is pursuing a Bachelor’s or Master’s degree in Mathematics, Engineering, Statistics, Physics, Computer Science, or another highly quantitative field Has a passion for research and problem solving Approaches data analysis with rigorous thought processes and strong intuition Is a creative thinker who is driven and eager to solve challenging problems collaboratively Proficiency in a programming language (Python, C, C++, etc) is highly desired Must be available for full-time employment starting in February or August 2027 You may submit one application per role each year.  We strongly encourage you to focus on applying to a single role that best matches your skills and interests.  Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2027. The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information. Base Salary: $250,000 About Us IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective, combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage. Create a Job Alert Interested in building your career at IMC? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another When did you graduate from High School? * Select... Select your Standardized Test score type: * Select... Provide your best result on SAT: * Select... Provide your best result on ACT: * Select... When is your anticipated graduation date - please select a Graduation Date range: * Select... What is your GPA? * Select... Will you require immigration sponsorship to begin working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Will you require immigration sponsorship in the future to continue working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select... Is there any other context you’d like to share about your U.S. Immigration sponsorship needs? Have you applied to this role or another role @IMC within the last 12-18 months?\n\nAs a reminder, if you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2027. * Select... Do you currently have any offers? * Select... If you answered \"Yes\" above, please specify relevant details (company name, job title, deadline date). Please provide your university email address. * Please select the location of y",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 26,
+      "machine_score": 77,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$166,000–$220,000",
+      "salary_max_annual": "220000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-04",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007",
+      "jd_excerpt": "Job Application for Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus at Anduril Industries Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are looking for a Modeling, Simulation and Analysis Engineer to join our team. As part of the team you will have the opportunity to develop, implement and maintain sufficient fidelity virtual representations of the myriad of different vehicles Anduril works on. In this role you will be required to develop and coordinate deployment and maintenance of vehicle models and simulation instantiations for various programs ongoing at Anduril. A critical aspect of this role involves owning and operating Hardware-In-The-Loop (HITL) simulation environments that enable safe, rapid iteration of flight control and autonomy software with real avionics hardware before live flight tests. The ideal candidate has experience working on aerospace systems and understands the right fidelity of sub-system and system level modeling required to integrate with the broader flight control and mission autonomy software to support development. In addition the candidate should be versed in coding and software integration practices. Experience with HITL operations, including real-time simulation, avionics integration, and closed-loop testing with physical hardware is highly valued. If you have a passion for flight and like the idea of building a physics based digital representation of a flying vehicle and testing it with real hardware, this is the role for you! WHAT YOU'LL DO Work on challenging problems in a fast-paced environment from across our portfolio of programs and products: Simulation solutions for Guidance, Navigation and Control algorithm development Software-In-The-Loop (SITL) solutions Hardware-In-The-Loop (HITL) solutions Customer product training solutions Monte-Carlo simulation analysis Simulation and Test data analysis tools and processes Design, develop, deploy, and maintain HITL simulation infrastructure for complex aerospace systems, including real-time vehicle models, avionics emulation, and sensor simulation environments Own the end-to-end configuration and operation of SITL and HITL environments for test vehicles, ensuring safe and efficient flight test execution Coordinate and execute HITL test campaigns, working closely with flight test teams to validate GNC algorithms, mission autonomy software, and vehicle performance prior to live flights Develop and maintain emulated interfaces for on-board avionics systems to enable closed-loop hardware testing in simulation environments Troubleshoot and resolve real-time simulation issues during HITL operations, including timing constraints, hardware interface problems, and model fidelity discrepancies Work with multi-disciplinary subject matter experts to understand and adequately model pertinent sub-system, system and system of system dynamics Work with internal and external customers to understand simulation requirements and develop efficient modeling and simulation solutions Support flight test operations with pre-flight simulation validation and post-flight data correlation analysis to continuously improve model fidelity REQUIRED QUALIFICATIONS Bachelor's Degree or higher in engineering, computer science, mathematics, physics, chemistry, or related technical discipline Senior Modeling Simulation Engineer: 8 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Modeling Simulation Engineer: 3 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Experience with aerospace/aeronautical systems (including rotorcraft/VTOL) and/or Subsea vehicles Experience in flight dynamics/platform physics and control Nominal proficiency with C/C++ Advanced proficiency with scientific computing systems (Mathworks products (e.g., MATLAB, SIMULINK etc.), scientific Python (e.g., numpy, scipy) Flight test data processing/sim correlation experience Experience with developing sub-system and system level models (Air vehicle, ground vehicles, ground based sensors and other types of complex systems) Experience with model development to support Guidance, Navigat",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -888,31 +888,6 @@
     },
     {
       "machine_rank": 35,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "American Express",
-      "role": "Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ",
-      "category": "AI / Machine Learning",
-      "location": "Phoenix, AZ, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-12",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6a970f04e4e60e4b8da5bd22",
-      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 36,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -937,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -962,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -987,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 38,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1012,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 39,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1037,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 40,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1062,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1087,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1112,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1137,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; role shape: early-career SWE; downrank: qa/test specialization; new-grad: confirmed",
@@ -1162,32 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Northrop Grumman",
-      "role": "2027 Systems Engineer - Pathways Program - Baltimore MD",
-      "category": "Infrastructure / Systems",
-      "location": "United States-Maryland-Baltimore",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-21",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 47,
+      "machine_rank": 45,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1212,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1237,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 47,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1262,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 48,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1287,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 49,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1312,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 50,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1337,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 51,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1362,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 52,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1387,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 53,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1412,7 +1362,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 54,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1437,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 55,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1462,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 56,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1487,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 57,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1512,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1537,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 59,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1562,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 60,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1587,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1612,7 +1562,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1637,7 +1587,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1662,7 +1612,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 64,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1687,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1712,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 66,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -1737,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 67,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1762,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 68,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1787,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 69,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1812,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 70,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1837,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 71,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -1862,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 72,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1887,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 73,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -1906,13 +1856,13 @@
       "source": "GitHub:ricsign/Ricsign-New-Grads-Jobs-2027:boards/QUANT.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
-      "jd_excerpt": "",
+      "jd_excerpt": "Job Application for Associate Engineer - 2027 Start at CTC Campus - Website Create a Job Alert Interested in building your career at CTC Campus - Website? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month * Select... Start date year * End date month * Select... End date year * Add another Alternate Email * What is your expected graduation month? * Select... What is your expected graduation year? * Select... What is the highest degree level you are currently pursuing? * Select... Please select your GPA range based on a 4.0 scale. If you're on a 5.0 scale, please adjust to a 4.0 scale. * 3.6-4.0 3.3-3.59 3.0-3.29 2.99 or below On a scale from 0 to 100, how strongly do you prefer one location over the other?  Please select a number that best matches your preference: * Select... What is your preferred programming language to use for technical interviews? * Select... If you move forward to the interview stage of our recruiting process, our team uses this to match you with interviewers who share your language preference. Please select one of the following statements based on your work authorization: * Select... How did you hear about CTC? * AfroTech Blind Campus Career Center CPPCON CTC360 CTC Employee CTC Office Visit CTC Website Duke Technology Scholars Program Friend Girls Who Code GitHub Glassdoor Google Grace Hopper Celebration Greenwood Project Handshake Direct Message Handshake Job Posting LinkedIn Direct Message LinkedIn Job Posting National Society of Black Engineers (NSBE) Past CTC Intern Poker Tournament Professor Reddit SEO Career Society of Hispanic Professional Engineers (SHPE) Society of Women Engineers (SWE) Trading Competition Vimeo Other If Other, Please Specify Street Address * City * State (If N/A, Select Other) * Select... If Other, Please Specify Country * Zip / Postal Code * Are you currently registered with FINRA? * Select... If 'Yes' to above, are you actively maintaining any security licenses? * Select... Voluntary Self-Identification For government reporting purposes, we ask candidates to respond to the below self-identification survey.\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring\nprocess or thereafter. Any information that you do provide will be recorded and maintained in a\nconfidential file. As set forth in CTC Campus - Website’s Equal Employment Opportunity policy,\nwe do not discriminate on the basis of any protected group status under any applicable law. Gender Select... Are you Hispanic/Latino? Select... Race & Ethnicity Definitions If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.\n  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure\n  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories\n  is as follows: A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability. A \"recently separated veteran\" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service. An \"active duty wartime or campaign badge veteran\" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense. An \"Armed forces service medal veteran\" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985. Veteran Status Select... Submit application Powered by Greenhouse",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 74,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1937,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 75,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1962,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 76,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -1987,7 +1937,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 77,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Systems Engineer - Pathways Program - Baltimore MD",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Maryland-Baltimore",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-21",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 78,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2012,7 +1987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 79,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -2037,7 +2012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 80,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2062,7 +2037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 81,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2087,7 +2062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 82,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -2112,7 +2087,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 83,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -2137,7 +2112,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 84,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -2162,7 +2137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 85,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2187,7 +2162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 86,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -2212,7 +2187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 87,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2237,7 +2212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 88,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2262,7 +2237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 89,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -2287,7 +2262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 90,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2312,7 +2287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 91,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2337,7 +2312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 92,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2362,7 +2337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 93,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2387,7 +2362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 94,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; $200k+ stated ceiling",
@@ -2412,7 +2387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Distributed Systems, Kubernetes",
