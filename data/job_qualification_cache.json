@@ -24974,7 +24974,7 @@
     "salary_max_annual": 184000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a84f9b8c1a3fd7120f74106": {
@@ -28073,12 +28073,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$76K/yr - $128K/yr",
+    "salary_min_annual": 76000,
+    "salary_max_annual": 128000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-07",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96e09bd13b4819f39dd6ff": {
@@ -28366,7 +28366,7 @@
     "salary_max_annual": 128000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-09-30",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a970997455eaf6a08c1a49b": {
@@ -33266,19 +33266,19 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3c6625c11cce3603665ba": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
     "salary": "$20/hr - $50/hr",
     "salary_min_annual": 41600,
     "salary_max_annual": 104000,
-    "reject_reason": "no sponsorship",
+    "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3c97f959a10d7230d4067": {
@@ -33762,19 +33762,19 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa5f52142411952ff9aac0a": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
     "salary": "$20/hr - $50/hr",
     "salary_min_annual": 41600,
     "salary_max_annual": 104000,
-    "reject_reason": "no sponsorship",
+    "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa6d3d582e82a31997c13c6": {
@@ -35646,7 +35646,7 @@
     "salary_max_annual": 86000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-10",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aad9cd46956574eac8b6bc5": {
@@ -39758,7 +39758,7 @@
     "salary_max_annual": 148000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-01",
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abd8dde064da25272dfe50a": {
@@ -67253,6 +67253,22 @@
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
     "checked_at": "2026-10-20",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/greenhouse-andurilindustries-5271811007?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Early Career",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$78,000\u2013$104,000",
+    "salary_min_annual": "78000",
+    "salary_max_annual": "104000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-22",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827458002?s=gh-internships-2027": {
