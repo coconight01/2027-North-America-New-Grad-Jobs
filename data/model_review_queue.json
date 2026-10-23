@@ -26,8 +26,8 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 282,
-    "new_job_candidates": 302,
+    "priority_company_candidates": 285,
+    "new_job_candidates": 311,
     "high_potential_title_candidates": 361
   },
   "veto_counts": {
@@ -88,6 +88,31 @@
     },
     {
       "machine_rank": 3,
+      "machine_score": 92,
+      "machine_tier": "Top",
+      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "2027 New Grad Low Observables Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$88,000–$117,000",
+      "salary_max_annual": "117000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
+      "jd_excerpt": "Job Application for 2027 New Grad Low Observables Engineer at Anduril Industries New 2027 New Grad Low Observables Engineer Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Air Dominance and Strike Low Observables Team are advancing into the next generation of LO Technology to enhance the survivability and effectiveness of unmanned air systems. Our Low Observables engineering team is responsible for designing, analyzing, testing, and sustaining stealth features that reduce radar (RCS) and infrared (IR) signatures, ensuring our systems remain undetectable in contested environments. ABOUT THE ROLE This is an early career role open to engineers with a degree in aerospace, electrical, or mechanical engineering. Low Observables work sits at the intersection of all three: the shape of the air vehicle, the electromagnetic behavior of its surfaces, and the materials and processes used to build it. You do not need prior stealth experience. Almost nobody arrives with it, because most of it cannot be taught outside a cleared program. We will teach you the LO-specific methods. What we are looking for is strong engineering fundamentals, comfort picking up unfamiliar analysis tools, and the judgment to tell a real result from a bad one. You will be paired with an LO engineer and start on a scoped piece of a live program, not a training exercise. WHAT YOU'LL DO: Run broadband Radar Cross Section (RCS) analysis on components and full air vehicles, and learn to judge when a prediction can be trusted Support the design and development of Low Observable unmanned air systems, from early configuration trades through detailed design Build and improve the analysis tools, scripts, and validation workflows the team runs on Model LO materials and treatments, and help select and optimize them for specific components Support manufacturing and validation planning, including tolerances, inspection methods, and what is actually producible at rate Help plan and execute RCS measurement campaigns in indoor chambers and on outdoor ranges, then reduce and interpret the data Compare measured results against predictions, chase down the disagreements, and feed what you learn back into the models REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Electrical Engineering, Aerospace Engineering, Mechanical Engineering, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start in 2027. PREFERRED QUALIFICATIONS: Coursework in at least one of: electromagnetics or RF, aircraft or vehicle design, or materials and manufacturing processes Working knowledge of a scripting or analysis language such as MATLAB, Python, or C++ Familiarity with a 3D CAD package such as NX, CATIA, SolidWorks, or Creo Demonstrated hands-on engineering work: a capstone or senior design project, internship, undergraduate research, or a student competition team Ability to explain a technical result clearly, in writing and in a design review Exposure to any electromagnetic simulation tool, such as HFSS, CST, FEKO, or COMSOL. X-Patch, SENTRi, and McMoM2D are government codes and we do not expect you to have used them Coursework or project experience with composites, additive manufacturing, casting, or injection molding Experience with laboratory RF measurement: network analyzers, anechoic chambers, or antenna pattern measurement Experience reducing, visualizing, and sanity-checking measured data sets A prior internship or co-op in aerospace, defense, or another hardware-heavy environment US Salary Range $88,000 - $117,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Benefits At Anduril, we invest in our people. Our co",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Linux, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -112,7 +137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Distributed Systems, PyTorch, Kubernetes; role shape: entry-level ML role; new-grad: confirmed",
@@ -137,7 +162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -162,7 +187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 7,
       "machine_score": 99,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -187,7 +212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 8,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -212,7 +237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 9,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -237,7 +262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -262,7 +287,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 11,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -287,7 +312,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 12,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -312,7 +337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 13,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -337,7 +362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 14,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -362,7 +387,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 15,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -387,7 +412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 16,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -412,7 +437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 17,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -437,7 +462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 18,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -462,7 +487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 19,
       "machine_score": 86,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Performance / Runtime; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; role shape: early-career SWE; new-grad: confirmed",
@@ -482,31 +507,6 @@
       "official_source": false,
       "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671",
       "jd_excerpt": "AI Research Scientist - Campus Full-Time - New York - Two Sigma Careers Open navigation Expanded hamburger menu for Two Sigma's site navigation Close navigation Search for Clear search About Us Businesses Investment Management Securities Real Estate Sightway Capital Insights Topics Data Science Engineering Markets & Economy News & Culture Careers Internships Engineering Quantitative Research & Data Science Open Roles Contact Us Investor Hub Skip to content Careers Portal Career Portal Open Roles Events Login AI Research Scientist - Campus Full-Time Location NY New York United States Business Investment Management Function Quantitative Research Experience Level Early Careers Apply Share this job Email LinkedIn Position Summary Two Sigma is a leading quantitative investment management and trading firm. The company applies a scientific approach to investing, combining cutting-edge technology, artificial intelligence, data science, and quantitative research with rigorous human inquiry to capitalize on market opportunities and deliver alpha for investors. Our team of engineers, quantitative researchers, and data scientists looks beyond the traditional to test hypotheses and develop creative solutions to some of the world’s most complex economic problems. We are looking for creative experts who are interested in applying general Machine Learning and specifically Deep Learning (complex neural networks, sequence models etc.), Large Language Models, Reinforcement Learning techniques to many types of problems in complex systems, but particularly those with large amounts of noisy data. This role is only open to MS with work experience and PhDs, both in their final year of study. You will take on the following responsibilities: Develop effective techniques and infrastructure, from the initial idea to the running prototypes and productionization You will write code, use the latest AI and Machine Learning tools, run experiments on state-of-the-art infrastructure and in the cloud, and generally develop techniques and processes to build predictive models for financial markets including but not limited to alpha modeling and trading tactics Partner with teams across Two Sigma to implement your ideas into our products Remain connected to the broader research community by partnering with internal and external collaborators and participate in relevant conferences You should possess the following qualifications: Advanced degree in Computer Science, Engineering, or other STEM field, preferably in a PhD program, or in a Master’s program with some prior work experience Excellent programming skills in Python (familiarity with Rust/Java/C++ is a plus) and deep knowledge of Tensorflow/PyTorch/JAX or similar Internships/work experience with Deep Learning, LLMs and/or Reinforcement Learning Background in Machine Learning techniques with large amounts of noisy data, curiosity in applying it to financial problems Relevant research experience (publications at NeurIPS, ICML, ICLR or similar are preferred) Experience with cloud environments and multi-machine CPU/GPU setups Experience with version control systems, regression/unit testing, code reviews, profiling Participation in open source community is a plus Being able to work well with others in teams You will enjoy the following benefits: Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, competitive 401k match, employer-paid life & disability insurance Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms Learning: Tuition reimbursement, conference and training sponsorship Time Off: Generous vacation and unlimited sick days, competitive paid caregiver leaves Hybrid Work Policy: Flexible in-office days with budget for home office setup The base pay for this role will be $300,000 . This role may also be eligible for other forms of compensation and benefits, such as a discretionary bonus, health, dental and other wellness plans and 401(k) contributions. Discretionary bonus can be a significant portion of total compensation. Actual compensation for successful candidates will be carefully determined based on a number of factors, including their skills, qualifications and experience. We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics. Two Sigma is committed to providing reasonable accommodations to qualified individuals in accordance with applicable federal, state, and local laws. If you believe you need an accommodation, please visit our website for additional information. Back to Open Roles Don't see a fit at this time? Sign up for job alerts to get notified of new openings! Log in and get notified Don't see a fit at this time? Sign up for job alerts",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 19,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: entry-level ML role; new-grad: likely",
-      "company_priority": "",
-      "company": "Highmetric",
-      "role": "AI Engineer-Anthropic-University/Graduate Level - Netherlands/Western Europe",
-      "category": "AI / Machine Learning",
-      "location": "Europe-Remote",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://www.newrocket.com/careers/job?gh_jid=6164687004&gh_jid=6164687004",
-      "jd_excerpt": "Careers and Remote Job Opportunities at NewRocket What We Do Our Expertise AI Strategy and Planning Anthropic Claude ServiceNow AI Transformation Explore Capabilities FlightPath AI Accelerator Services NewRocket Intelligence Trusted AI, Anthropic and ServiceNow Partner Elevate engagement through better experiences that enhance efficiency and productivity while reducing costs. Start your AI Journey AI-Driven Solutions Training and Enablement Design Services Forward Deployed Engineers Adoption Services Trusted AI, Anthropic Claude Partner Turn Claude into practical enterprise value with expert strategy, implementation, and services designed for secure, responsible AI adoption. Explore Claude Services Strategic Offerings Services Solutions Products Agents Trusted AI, ServiceNow Elite Partner As an elite ServiceNow partner, we help enterprise leaders accelerate value and navigate change with confidence. Explore ServiceNow Services Advisory & Consulting Services UX Design & Services Implementation Services Managed Services Solutions Employee Customer Technology Security Risk & Resilience Products Codeworks.ai DataWorks Agents Agentic AI Discover Our Platform Platform Optimization Operating Model and Governance AI-First User Experiences AI Transformation Trusted AI, Anthropic and ServiceNow Partner Elevate engagement through better experiences that enhance efficiency and productivity while reducing costs. Start your AI Journey Industries Our Work Resources Explore Resources Blogs Events Webinars Press Releases News, Events and Thought Leadership Perspectives, events, webinars and announcements from the NewRocket crew on AI, ServiceNow and enterprise transformation. View all resources Company Go Beyond Workflows to Solve Business Problems with the Power of AI As an Anthropic and ServiceNow partner, we help enterprise leaders tackle tough business challenges and navigate change with confidence About Us Partnerships Careers Online Store Privacy Policy Talk to a human Clear Esc Popular searches Claude Agentic AI ServiceNow Case studies FlightPath Webinars Quick links Claude services Training, squads and adoption Agentic AI Agent crews orchestrated in ServiceNow AI transformation From strategy to production Case studies Outcomes from our customers Resources Articles, events and webinars Talk to a human Get in touch with our team ↑ ↓ to navigate ↵ to open ⌘ K to search from any page See all results Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. What We Do Industries Our Work Resources Company Menu What We Do Our Expertise AI Strategy and Planning Anthropic Claude ServiceNow AI Transformation What We Do AI Strategy and Planning Explore Capabilities FlightPath NewRocket Intelligence Start your AI Journey What We Do Anthropic Claude AI-Driven Solutions Training and Enablement Forward Deployed Engineers Adoption Services Explore Claude Services What We Do ServiceNow Strategic Offerings Services Solutions Products Agents Explore ServiceNow ServiceNow Services Advisory & Consulting Services UX Design & Services Implementation Services Managed Services ServiceNow Solutions Employee Customer Technology Security Risk & Resilience ServiceNow Products Codeworks.ai ServiceNow Agents Agentic AI What We Do AI Transformation Discover Our Platform Platform Optimization Operating Model and Governance AI-First User Experiences AI Transformation Start your AI Journey Menu Industries Industries We Serve Banking, Financial Services, and Insurance Technology, Media, and Telecom Private Equity Higher Education Service Providers Manufacturing Healthcare and Life Sciences Energy and Utilities Retail View all industries Menu Resources Explore Resources Blogs Events Webinars Press Releases View all resources Menu Company About Us Partnerships Careers Online Store Privacy Policy Talk to a human Join us at NewRocket Join us! Help create the best employee experiences  that improve the way the world works. Apply Now Talk to a human What We Do Employee Solutions Customer Solutions Technology Solutions Agentic AI Services Industries Company About us Careers Our Work Privacy Policy Resources Store Subscribe Get the latest NewRocket updates! By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Thank you for subscribing! Something went wrong. Please try again. Copyright © 2026 NewRocket LLC. All Rights Reserved",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -940,6 +940,31 @@
       "machine_rank": 37,
       "machine_score": 67,
       "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: Networking; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Citi",
+      "role": "Technology, Application Development, Full Time Analyst, Mississauga, Canada, 2027",
+      "category": "Other",
+      "location": "Mississauga Ontario Canada",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-citi-2-261003395?s=gh-canada-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Electrical Consultants, Inc. Substation Project Engineer Cranford, NJ Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Fairfield, OH Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Englewood, CO Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Gahanna, OH Just now Mid Level Software Engineering Apply 1827fbab Senior Technician Corpus Christi, TX +9 more Just now Senior Level Other Apply d5856577 Data Center Security Manager Childress, TX +13 more Just now Senior Level Other Apply Nvidia Senior Firmware Engineer, Networking CA Just now Senior Level Hardware Engineering Apply Nvidia Manager, Firmware CA Just now Senior Level Hardware Engineering Apply Thomson Reuters Staff Inference Engineer - AI United States of America Eagan, MN Just now Senior Level AI / Machine Learning Apply Amgen Sr. Systems Engineer - Project Delivery Lead Puerto Rico - Juncos Just now Senior Level Software Engineering Apply Electrical Consultants, Inc. Just now Substation Project Engineer Cranford, NJ Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Fairfield, OH Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Englewood, CO Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Gahanna, OH Mid Level Software Engineering Apply Now 1827fbab Just now Senior Technician Corpus Christi, TX +9 more Senior Level Other Apply Now d5856577 Just now Data Center Security Manager Childress, TX +13 more Senior Level Other Apply Now Nvidia Just now Senior Firmware Engineer, Networking CA Senior Level Hardware Engineering Apply Now Nvidia Just now Manager, Firmware CA Senior Level Hardware Engineering Apply Now Thomson Reuters Just now Staff Inference Engineer - AI United States of America Eagan, MN Senior Level AI / Machine Learning Apply Now Amgen Just now Sr. Systems Engineer - Project Delivery Lead Puerto Rico - Juncos Senior Level Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 38,
+      "machine_score": 67,
+      "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
       "company_priority": "",
       "company": "GlobalFoundries",
@@ -962,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 39,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: production LLM agents / tools; skills: C++, Linux; new-grad: confirmed",
@@ -987,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 40,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1012,7 +1037,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1037,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1062,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1087,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 44,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1112,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 45,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1137,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 46,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
@@ -1162,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 47,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1187,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 48,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1212,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling; new-grad: confirmed",
@@ -1237,7 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 50,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Compilers; $200k+ stated ceiling",
@@ -1262,7 +1287,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 51,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1282,31 +1307,6 @@
       "official_source": false,
       "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
       "jd_excerpt": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\nWe are a software engineering team applying open-source data technologies to some of the world's hardest and most important problems. We build the data processing infrastructure that underpins Palantir Foundry, supporting applications that help hospitals care for more patients, help clinical teams coordinate timely diagnoses, and keep essential supplies moving through global disruption.\n \nYou will work deep inside the systems that make this possible: how computations are represented, how query plans are optimized, how operators execute, and how data is read and written efficiently. We build on and extend Apache Spark, Apache DataFusion, and Apache Iceberg, bringing advances in open-source engines and table formats into the demanding environments our customers operate in. Our work serves many products and workloads across Foundry, including no-code pipelines, interactive analysis, and the processing that keeps the Ontology up to date.\n \nWorking alongside experienced engineers, you will take on real problems in our production systems. That could mean writing a new planning rule, adding a capability to a native execution engine, or making large tables faster to scan. You will see your work through design, code review, testing, and release. Correctness, compatibility, and predictable performance are central to everything we build, and you will learn how to deliver all three.\n \nJoin us if you want to learn how modern data systems work from the inside and apply that knowledge to consequential problems. A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more. The Role We are a software engineering team applying open-source data technologies to some of the world's hardest and most important problems. We build the data processing infrastructure that underpins Palantir Foundry, supporting applications that help hospitals care for more patients, help clinical teams coordinate timely diagnoses, and keep essential supplies moving through global disruption. You will work deep inside the systems that make this possible: how computations are represented, how query plans are optimized, how operators execute, and how data is read and written efficiently. We build on and extend Apache Spark, Apache DataFusion, and Apache Iceberg, bringing advances in open-source engines and table formats into the demanding environments our customers operate in. Our work serves many products and workloads across Foundry, including no-code pipelines, interactive analysis, and the processing that keeps the Ontology up to date. Working alongside experienced engineers, you will take on real problems in our production systems. That could mean writing a new planning rule, adding a capability to a native execution engine, or making large tables faster to scan. You will see your work through design, code review, testing, and release. Correctness, compatibility, and predictable performance are central to everything we build, and you will learn how to deliver all three. Join us if you want to learn how modern data systems work from the inside and apply that knowledge to consequential problems. Salary\n \nThe salary range for this position is estimated to be $145,000 - $155,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual's relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.\n\n\nOur benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.\n \nBenefits\n \n•  Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance\n•  Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance\n•  Commuter benefits\n•  Relocation assistance\n•  Take what you need paid time off, not accrual based\n•  2 weeks paid time off built into the end of each year (subject to team and business needs)\n•  10 paid holidays throughout the ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 51,
-      "machine_score": 65,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "2027 Early Career Supply Chain Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States",
-      "salary": "$77,000–$114,000",
-      "salary_max_annual": "114000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-19",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007",
-      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
