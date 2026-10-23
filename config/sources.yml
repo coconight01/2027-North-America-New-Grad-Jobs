@@ -67,6 +67,7 @@ github_discovery:
 extra_github_discovery:
   - {repo: speedyapply/2027-SWE-College-Jobs, ref: main, path: NEW_GRAD_USA.md, max_rows: 650, assume_2027: true}
   - {repo: speedyapply/2027-AI-College-Jobs, ref: main, path: NEW_GRAD_USA.md, max_rows: 550, assume_2027: true}
+  - {repo: Tar-ive/ML_Newgrad_2027, ref: main, path: README.md, max_rows: 700, assume_2027: true}
 
   # Broad daily feeds: only rows that explicitly mention 2027 pass the strict filter.
   - {repo: jobright-ai/2026-Software-Engineer-New-Grad, ref: master, path: README.md, max_rows: 500}

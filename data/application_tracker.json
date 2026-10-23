@@ -3,6 +3,16 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-10-23. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
   "applications": [
     {
+      "company": "AXQ Capital",
+      "role": "Machine Learning Infrastructure Engineer",
+      "status": "Interview",
+      "applied_date": null,
+      "status_date": "2026-10-22",
+      "confidence": "Exact current-stage role; relationship to the Quantitative Developer process is unconfirmed",
+      "evidence": "AXQ recruiter Tong Wang sent an exact-role interview confirmation on 2026-10-22 for Machine Learning Infrastructure Engineer. The next-round Zoom interview is scheduled for October 25, 2026, 9:00-10:00 p.m. Central with Wenyuan Li. The message does not explicitly link this title to the earlier Quantitative Developer OA, so the records remain separate.",
+      "next_action": "Prepare for and attend the October 25, 9:00-10:00 p.m. Central Zoom interview; test Zoom, network, camera and microphone beforehand."
+    },
+    {
       "company": "NVIDIA",
       "role": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 (JR2027083)",
       "status": "Applied",
@@ -1002,10 +1012,10 @@
       "role": "Master's University Grad Machine Learning Engineer 2027 (USA) (8140219)",
       "status": "OA",
       "applied_date": "2026-10-02",
-      "status_date": "2026-10-07",
+      "status_date": "2026-10-22",
       "confidence": "Exact",
-      "evidence": "Pinterest recruiting and CodeSignal sent exact-role assessment invitations on 2026-10-07 for the University Grad Machine Learning Engineer process. The fully proctored Machine Learning Engineering Core Assessment has 10 quiz/coding questions in 70 minutes and a 14-day completion window.",
-      "next_action": "Complete the CodeSignal assessment as early as practical and no later than the 14-day window ending around 2026-10-21; rolling interviews favor an earlier submission."
+      "evidence": "Pinterest recruiter Ekta Bathija confirmed on 2026-10-22 that the Machine Learning CodeSignal assessment feedback is positive and that Yuhan's candidacy has been handed to the ML engineering hiring team for review. The recruiter said this review can take up to three weeks and did not yet guarantee an interview.",
+      "next_action": "Positive assessment result; wait for the ML engineering hiring-team decision for up to three weeks. Follow up around November 12 if no update arrives, or sooner only if the recruiting timeline changes."
     },
     {
       "company": "IMC Trading",
