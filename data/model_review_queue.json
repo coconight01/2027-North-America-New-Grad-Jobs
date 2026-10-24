@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-24",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -28,13 +28,13 @@
     },
     "priority_company_candidates": 285,
     "new_job_candidates": 311,
-    "high_potential_title_candidates": 361
+    "high_potential_title_candidates": 360
   },
   "veto_counts": {
     "non-full-time program title": 9,
-    "explicit 2026-only title": 5
+    "explicit 2026-only title": 4
   },
-  "exact_tracked_jobs_removed": 19,
+  "exact_tracked_jobs_removed": 20,
   "candidates": [
     {
       "machine_rank": 1,
@@ -315,6 +315,31 @@
       "machine_rank": 12,
       "machine_score": 100,
       "machine_tier": "Top",
+      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "Tier A",
+      "company": "NVIDIA AI",
+      "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Santa Clara, CA, United States",
+      "salary": "$108K/yr - $178K/yr",
+      "salary_max_annual": "178000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-09-22",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6ab222d2d2a93d5a97ebdc26",
+      "jd_excerpt": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 @ NVIDIA AI | Jobright.ai SIGN IN JOIN NOW Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 jobs in United States Overview Company This job has closed. APPLY to similar jobs NVIDIA AI · 1 month ago Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 Santa Clara, CA Full-time Onsite New Grad $108K/yr - $178K/yr NVIDIA is a technology company advancing accelerated computing and artificial intelligence through GPU-based systems. The company is seeking a Compiler Engineer to build coding-agent systems, compiler-aware tooling, and verification environments that improve code generation, optimization, developer productivity, and system performance across GPU-centric software and hardware. The role involves collaborating with compiler, CUDA, runtime, library, and hardware teams while analyzing correctness, reliability, scalability, and performance. Computer Hardware Responsibilities Build and improve coding-agent systems for tasks such as code generation, transformation, debugging, optimization, validation, and developer assistance Develop agent workflows involving tool use, planning, memory, execution, and feedback loops for software engineering and compiler-related tasks Help create training, evaluation, and verification environments to improve agent quality, correctness, robustness, and usefulness in real-world developer workflows Work on systems that reason about source code, intermediate representations, low-level performance behavior, and optimization opportunities across GPU-centric workloads Collaborate with compiler, CUDA, runtime, library, and hardware teams to develop and productize new agentic and compiler-aware capabilities Analyze failures, investigate correctness issues, and improve system reliability, scalability, and performance in production-oriented settings Qualification Python C/C++ Compiler Engineering Coding Agents Machine Learning Systems Program Analysis LLVM/MLIR Code Generation CUDA GPU Programming Parallel Computing Performance Optimization Required Bachelor's, Master's, or PhD degree in Computer Science, Electrical Engineering, Applied Mathematics, or a related field, or equivalent experience Academic, research, or internship experience in one or more of the following areas: coding agents, AI systems, machine learning systems, developer tools, compilers, programming systems, or high-performance computing Strong Python and C/C++ programming skills, with solid software engineering fundamentals; experience with Rust is a plus Strong interest in coding agents, agent systems, compiler automation, AI-assisted software engineering, or program analysis Exposure to one or more of the following is highly desirable: compilers, LLVM/MLIR, program analysis, code generation, CUDA, GPU programming, parallel computing, or performance optimization Strong problem-solving skills and the ability to work effectively across software layers and multidisciplinary teams Preferred Internship, research, or project experience building coding assistants, software engineering agents, autonomous developer tools, or AI-assisted programming workflows Experience with compiler infrastructure such as LLVM, MLIR, Triton, PTX, or related IR/codegen frameworks Experience with evaluation, testing, verification, or feedback systems for AI or agentic workflows Hands-on experience with CUDA, GPU systems, or performance tuning for parallel workloads Publications, open-source contributions, or strong academic projects in coding agents, AI systems, compilers, programming systems, or high-performance computing Benefits NVIDIA offers ... a comprehensive benefits package. You will also be eligible for equity and benefits. Company NVIDIA AI AI developer tools, technology, and training. Santa Clara, CA, US 10001+ employees https://developer.nvidia.com/blog/ Funding Current Stage Late Stage Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Python C/C++ Compiler Engineering Coding Agents Machine Learning Systems Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach L Linda L. Technical Recruiter Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 13,
+      "machine_score": 100,
+      "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
       "company_priority": "",
       "company": "Modern Intelligence",
@@ -337,7 +362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 14,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -362,7 +387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 15,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -385,31 +410,6 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 15,
-      "machine_score": 93,
-      "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Santa Clara, CA, United States",
-      "salary": "$108K/yr - $178K/yr",
-      "salary_max_annual": "178000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-09-22",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d",
-      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 16,
@@ -788,6 +788,31 @@
     },
     {
       "machine_rank": 31,
+      "machine_score": 78,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "SimpliSafe",
+      "role": "Software Engineer I - Device Control",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "salary": "$75,100–$100,100",
+      "salary_max_annual": "100100",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "jd_excerpt": "Jobs at SimpliSafe Current openings at SimpliSafe SimpliSafe Home Security is a disruptive tech company, with big ideas and a team full of people who are chomping at the bit to make them happen. We work together to make sure our product and user experience are the best they can possibly be, from engineers to customer service representatives to graphic designers and web developers. We’re changing the way people think about home security — and we want your help! Our team is a lot like our product — smart, flexible, close-knit, and constantly expanding. We’re always looking for driven, self-directed people who love to learn on the job. If you’re looking for a fast-growing start-up environment that is helping people everyday, then SimpliSafe is the place for you. Create a Job Alert Level-up your career by having opportunities at SimpliSafe sent directly to your inbox. Create alert Search Department Select... 31 jobs Business Systems Job Sr Business System Analyst Boston, MA Customer Experience & Monitoring Job Customer Loyalty Agent - $21.50/hr + Incentives, Hybrid New Richmond, VA Inbound Sales Supervisor Richmond, VA Outdoor Security Monitoring Specialist Evening/Overnight Shifts (Starting at $21/hr, On-Site) Henrico, VA Security Monitoring Specialist (Starting at $21/hr, On-Site) Richmond, VA Engineering Job Distinguished Software Engineer Boston, MA Electrical Engineer I Boston, MA Electrical Engineer II Boston, MA Principal Software Engineer - Test Platform Boston, MA Senior Electrical Engineer Boston, MA Senior Full Stack Engineer Boston, MA Senior Software Engineer, CLV Monitoring Boston, MA Sr. Software Engineer Boston, MA Staff Embedded ML Engineer, Edge AI Boston, MA Staff Front End Software Engineer Boston, MA Staff Machine Learning Engineer, ML Infrastructure Boston, MA Staff Software Engineer Boston, MA Staff Software Engineer, ML Infrastructure Boston, MA Staff Technical Program Manager Boston, MA Enterprise Data Platform Job Sr. Manager, Data Platform Engineering Boston, MA Sr. Manager, Program Management (Enterprise Data Platform) Boston, MA Marketing Job Director, Ecommerce Product Design Boston, MA Director Performance Media, Digital Customer Acquisition Remote Director Performance Media, Offline Customer Acquisition Remote Head of Retail Boston, MA Manager, Brand Boston, MA Manager - Digital Marketing Analytics Boston, MA Manager, Integrated Marketing Boston, MA Retail Sales Forecasting & Planning Manager Boston, MA Sr. Director, Consumer Insights Boston, MA Product Job Sr. Product Manager, Competitive Intelligence Boston, MA Powered by Greenhouse",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 32,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -812,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -837,7 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 34,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -862,7 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 35,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -887,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 36,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -912,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 37,
       "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; role shape: entry-level ML role",
@@ -932,31 +957,6 @@
       "official_source": false,
       "url": "https://careers.qualcomm.com/careers/job/446721159438",
       "jd_excerpt": "#Machine Learning Engineer – Agentic AI | Qualcomm {\"themeOptions\": {\"customTheme\": {\"varTheme\": {\"primary-color\": \"#3253dc\", \"primary-color-100\": \"#3253DC\", \"primary-color-90\": \"#4664E0\", \"primary-color-80\": \"#5B75E3\", \"primary-color-70\": \"#7087E6\", \"primary-color-60\": \"#8498EA\", \"primary-color-50\": \"#98A9EE\", \"primary-color-40\": \"#ADBAF1\", \"primary-color-30\": \"#C2CBF4\", \"primary-color-20\": \"#D6DDF8\", \"primary-color-10\": \"#EAEEFC\", \"pcsx-hero-image-height\": \"315px\", \"accent-color\": \"var(--primary-color)\", \"accent-color-10\": \"var(--primary-color-10)\", \"accent-color-20\": \"var(--primary-color-20)\", \"accent-color-30\": \"var(--primary-color-30)\", \"accent-color-40\": \"var(--primary-color-40)\", \"accent-color-50\": \"var(--primary-color-50)\", \"accent-color-60\": \"var(--primary-color-60)\", \"accent-color-70\": \"var(--primary-color-70)\", \"accent-color-80\": \"var(--primary-color-80)\", \"accent-color-90\": \"var(--primary-color-90)\", \"accent-color-100\": \"var(--primary-color-100)\", \"button-default-text-color\": \"var(--primary-color)\", \"button-default-background-color\": \"#ffffff\", \"button-default-border-color\": \"var(--primary-color)\", \"button-default-hover-text-color\": \"var(--primary-color)\", \"button-default-hover-background-color\": \"#ffffff\", \"button-default-hover-border-color\": \"var(--primary-color)\", \"button-default-active-text-color\": \"var(--primary-color)\", \"button-default-active-background-color\": \"#ffffff\", \"button-default-active-border-color\": \"var(--primary-color)\", \"button-primary-text-color\": \"#ffffff\", \"button-primary-background-color\": \"#2a2aea\", \"button-primary-hover-text-color\": \"#ffffff\", \"button-primary-hover-background-color\": \"#1c38a6\", \"button-primary-hover-border-color\": \"var(--primary-color)\", \"button-secondary-text-color\": \"#2a2aea\", \"button-secondary-border-color\": \"var(--primary-color)\", \"button-secondary-background-color\": \"#ffffff\", \"button-secondary-hover-background-color\": \"#ffffff\", \"button-secondary-hover-border-color\": \"var(--primary-color)\", \"tab-pill-active-label\": \"var(--text-inverse-color)\", \"perks-and-benefits-icon-color\": \"var(--primary-color)\", \"pcsx-jobcard-title-text-color\": \"#000\", \"pcsx-jobcard-flag-text-color\": \"#69717f\", \"pcsx-main-margin-top\": \"80px\", \"font-family\": \"Source Sans Pro\", \"pcsx-hero-image-background-size\": \"cover\", \"navbar-text-color\": \"#2c2e30\", \"navbar-text-hover-color\": \"#2a2aea\", \"button-secondary-hover-text-color\": \"#1c38a6\", \"navbar-text-hover-background\": \"#ffffff\", \"pcsx-theme-linear-gradient-end\": \"#020b3f\", \"pcsx-theme-linear-gradient-start\": \"#2a2aea\", \"info-bar-background-color\": \"#ffffff\", \"info-bar-button-active-background-color\": \"#ffffff\", \"pcsx-secondary-background-color\": \"#d3defa\", \"white-color\": \"#f5f6f7\", \"text-tertiary-color\": \"#000000\", \"text-secondary-color\": \"#000000\", \"border-radius-l\": \"4px\", \"border-radius-xs\": \"4px\", \"pcsx-match-bar-border\": \"f5f6f7\", \"border-radius-xl\": \"4px\", \"tab-active-label\": \"#2a2aea\", \"tab-indicator-color\": \"#2a2aea\", \"navbar-background\": \"#ffffff\", \"header-4-font-stack-full\": \"#2a2aea\", \"info-bar-positive-background-color\": \"#f0fefa\", \"info-bar-positive-button-active-background-color\": \"#f0fefa\", \"pcsx-two-state-button-border-color\": \"#1c38a6\", \"button-two-state-hover-text-color\": \"#ffffff\", \"button-two-state-hover-background-color\": \"#3253dc\", \"button-system-ui-text-color\": \"#000000\", \"button-system-ui-background-color\": \"var(--background-color)\", \"button-two-state-background-color\": \"#2a2aea\", \"button-two-state-text-color\": \"#ffffff\", \"button-two-state-checked-background-color\": \"#1c38a6\", \"button-two-state-checked-text-color\": \"#ffffff\", \"pcsx-insights-container-border\": \"1px solid\", \"pcsx-insights-container-color\": \"#dcdee1\", \"border-radius-s\": \"4px\", \"border-radius-round\": \"0%\", \"border-radius-m\": \"4px\", \"anchor-color\": \"2A2AEA\", \"pcsx-insights-header-gradient-start\": \"#2A2AEA\", \"button-system-ui-hover-text-color\": \"#000000\", \"text-inverse-color\": \"#000000\", \"pcsx-welcome-banner-text-color\": \"#ffffff\", \"button-system-ui-active-text-color\": \"#000000\", \"button-two-state-active-text-color\": \"#000000\", \"button-two-state-active-background-color\": \"#ffffff\", \"button-two-state-default-counter-background-color\": \"#1c38a6\", \"button-two-state-default-counter-text-color\": \"#ffffff\", \"button-two-state-hover-counter-background-color\": \"#3253dc\", \"button-two-state-checked-counter-background-color\": \"#1c38a6\", \"button-two-state-focus-counter-background-color\": \"#1c38a6\", \"button-two-state-active-counter-background-color\": \"#1c38a6\", \"pcsx-dashboard-tile-title-color\": \"#2a2aea\"}, \"customFonts\": [{\"fontFamily\": \"ALFABETREG\", \"src\": \"url('https://static.vscdn.net/images/careers/demo/qualcomm-sandbox/1758028778::Alfabet-Regular.otf')format('opentype')\"}]}}, \"domain\": \"qualcomm.com\", \"configPath\": \"PCS>\", \"updatePath\": \"PCS>\"} {\"navbarData\": {\"desktop\": {\"nav_left_items\": [{\"type\": \"BRANDING\", \"id\": \"branding\", \"product_homepage_url\": \"https://careers.qualcomm.com/careers\", \"company_name\": \"Qualcomm\", \"company_logo_url\": \"https://stati",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 37,
-      "machine_score": 67,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: Networking; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Citi",
-      "role": "Technology, Application Development, Full Time Analyst, Mississauga, Canada, 2027",
-      "category": "Other",
-      "location": "Mississauga Ontario Canada",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/workday-citi-2-261003395?s=gh-canada-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Electrical Consultants, Inc. Substation Project Engineer Cranford, NJ Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Fairfield, OH Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Englewood, CO Just now Mid Level Software Engineering Apply Electrical Consultants, Inc. Substation Project Engineer Gahanna, OH Just now Mid Level Software Engineering Apply 1827fbab Senior Technician Corpus Christi, TX +9 more Just now Senior Level Other Apply d5856577 Data Center Security Manager Childress, TX +13 more Just now Senior Level Other Apply Nvidia Senior Firmware Engineer, Networking CA Just now Senior Level Hardware Engineering Apply Nvidia Manager, Firmware CA Just now Senior Level Hardware Engineering Apply Thomson Reuters Staff Inference Engineer - AI United States of America Eagan, MN Just now Senior Level AI / Machine Learning Apply Amgen Sr. Systems Engineer - Project Delivery Lead Puerto Rico - Juncos Just now Senior Level Software Engineering Apply Electrical Consultants, Inc. Just now Substation Project Engineer Cranford, NJ Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Fairfield, OH Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Englewood, CO Mid Level Software Engineering Apply Now Electrical Consultants, Inc. Just now Substation Project Engineer Gahanna, OH Mid Level Software Engineering Apply Now 1827fbab Just now Senior Technician Corpus Christi, TX +9 more Senior Level Other Apply Now d5856577 Just now Data Center Security Manager Childress, TX +13 more Senior Level Other Apply Now Nvidia Just now Senior Firmware Engineer, Networking CA Senior Level Hardware Engineering Apply Now Nvidia Just now Manager, Firmware CA Senior Level Hardware Engineering Apply Now Thomson Reuters Just now Staff Inference Engineer - AI United States of America Eagan, MN Senior Level AI / Machine Learning Apply Now Amgen Just now Sr. Systems Engineer - Project Delivery Lead Puerto Rico - Juncos Senior Level Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1240,31 +1240,6 @@
       "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: profiling / performance modeling; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027",
-      "category": "Other",
-      "location": "Santa Clara, CA, United States",
-      "salary": "$84K/yr - $144K/yr",
-      "salary_max_annual": 144000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-20",
-      "source": "GitHub:jobright-ai/2026-Product-Management-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ad6a77de4b94611ab840fff",
-      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 50,
-      "machine_score": 58,
-      "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Performance / Runtime; resume overlap: systems scheduling / planning; skills: Compilers; $200k+ stated ceiling",
       "company_priority": "Tier A",
       "company": "Google",
@@ -1287,7 +1262,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 50,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1312,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1332,6 +1307,31 @@
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
       "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 52,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier A watchlist; resume overlap: profiling / performance modeling, systems scheduling / planning; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "NVIDIA",
+      "role": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "US, CA, Santa Clara",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-19",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027742?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply University of Texas at Austin Senior Operations Manager MAIN CAMPUS, UT Just now Senior Level Supply Chain / Logistics Apply Docker Principal Product Manager San Francisco, CA Just now Senior Level Product Apply Bristol Myers Squibb Senior Therapeutic Area Specialist, Cardiovascular Community - Lafayette, IN Lafayette IN US, IN +1 more 1h ago Senior Level Healthcare Apply Snap Integrated Circuit Design Verification Engineer Vancouver, WA 1h ago Mid Level Hardware Engineering Apply Beacon Software Forward Deployed Engineer San Francisco, CA 1h ago Mid Level Software Engineering Apply Thomson Reuters Sr Partner Manager - Legal Corporate Partnerships United States of America Eagan, MN 1h ago Senior Level Sales Apply Elevance Health Legal Counsel - Technology United States +9 more 2h ago Not Specified Legal Apply Cisco Senior Software Engineer - Solution Testing & Quality San Jose California US +1 more 2h ago Senior Level Software Engineering Apply Nvidia Senior Systems Software Engineer - Accelerated Spark Applications Champaign, IL +2 more 2h ago Senior Level Software Engineering Apply KLA Product Installation Engineer - FaST 90%+ Travel required Chandler, AZ +3 more 2h ago Mid Level Hardware Engineering Apply University of Texas at Austin Just now Senior Operations Manager MAIN CAMPUS, UT Senior Level Supply Chain / Logistics Apply Now Docker Just now Principal Product Manager San Francisco, CA Senior Level Product Apply Now Bristol Myers Squibb 1h ago Senior Therapeutic Area Specialist, Cardiovascular Community - Lafayette, IN Lafayette IN US, IN +1 more Senior Level Healthcare Apply Now Snap 1h ago Integrated Circuit Design Verification Engineer Vancouver, WA Mid Level Hardware Engineering Apply Now Beacon Software 1h ago Forward Deployed Engineer San Francisco, CA Mid Level Software Engineering Apply Now Thomson Reuters 1h ago Sr Partner Manager - Legal Corporate Partnerships United States of America Eagan, MN Senior Level Sales Apply Now Elevance Health 2h ago Legal Counsel - Technology United States +9 more Not Specified Legal Apply Now Cisco 2h ago Senior Software Engineer - Solution Testing & Quality San Jose California US +1 more Senior Level Software Engineering Apply Now Nvidia 2h ago Senior Systems Software Engineer - Accelerated Spark Applications Champaign, IL +2 more Senior Level Software Engineering Apply Now KLA 2h ago Product Installation Engineer - FaST 90%+ Travel required Chandler, AZ +3 more Mid Level Hardware Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? ",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1363,31 +1363,6 @@
     },
     {
       "machine_rank": 54,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
-      "company_priority": "",
-      "company": "Aurora Innovation",
-      "role": "Software Engineer - Performance Engineering Optimization",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-13",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 55,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1412,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1437,32 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
-      "company_priority": "",
-      "company": "Groundswell",
-      "role": "Associate Applied AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "Remote - Virginia, USA +47",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-23",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 58,
+      "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1487,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1512,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1537,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python, PyTorch, JAX; role shape: entry-level ML role; new-grad: likely",
@@ -1562,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 60,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -1587,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; role shape: early-career SWE; downrank: qa/test specialization; new-grad: confirmed",
@@ -1612,7 +1562,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Associate Systems Engineer - Rolling Meadows IL",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Illinois-Rolling...",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-30",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252189?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 63,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1637,32 +1612,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 64,
       "machine_score": 58,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
       "company_priority": "",
-      "company": "SingleStore",
-      "role": "MIT-Software Engineer-New Grad -Engine",
+      "company": "Aurora Innovation",
+      "role": "Software Engineer - Performance Engineering Optimization",
       "category": "Software Engineering",
-      "location": "San Francisco, CA",
+      "location": "Mountain View, CA",
       "salary": "Not listed",
       "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-09-23",
+      "posted_date": "2026-10-13",
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1687,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1712,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1737,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1762,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 69,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1787,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1812,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 71,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1837,7 +1812,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 72,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1862,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 73,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1887,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 74,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1912,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 75,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1937,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 76,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1962,7 +1937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 77,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1987,7 +1962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 78,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -2012,7 +1987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 79,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2032,6 +2007,31 @@
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a7ed27e179e4f7b7e8d8ae6",
       "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 80,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
+      "company_priority": "",
+      "company": "Groundswell",
+      "role": "Associate Applied AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Remote - Virginia, USA +47",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-23",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
+      "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -2215,31 +2215,6 @@
       "machine_rank": 88,
       "machine_score": 61,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "SimpliSafe",
-      "role": "Software Engineer I - Device Control",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "salary": "$75,100–$100,100",
-      "salary_max_annual": "100100",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-20",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 89,
-      "machine_score": 61,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
       "company_priority": "",
       "company": "Quora",
@@ -2262,7 +2237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 89,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -2287,7 +2262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 90,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -2312,7 +2287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 91,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -2337,7 +2312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 92,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2362,7 +2337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 93,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2387,7 +2362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 94,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2412,7 +2387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2431,6 +2406,31 @@
       "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
       "official_source": false,
       "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Associate Systems Engineer / Systems Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Florida-Melbourne",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-16",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253424?s=gh-new-grad-jobs-2027",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
