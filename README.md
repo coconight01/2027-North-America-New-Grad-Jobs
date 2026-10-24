@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-24** · Open roles: **2887**
+> Last automated update: **2026-10-24** · Open roles: **2885**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,21 +18,21 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 156 |
+| **Big Tech & Frontier AI** | 155 |
 | **AI Infra / Systems** | 15 |
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 33 |
 | **ByteDance / TikTok** (separate) | 490 |
-| Other companies | 2145 |
+| Other companies | 2144 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-10-24 | **Amazon** | [Software Development Engineer 1 - AI/ML Network Infrastructure](https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) | Not listed | Cupertino, CA +3 | ❔ | ❔ Review | — |
 | 2026-10-23 | **NVIDIA** | [High-Performance LLM Training Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) | Not listed | Canada +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **Amazon** | [Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs](https://account.amazon.jobs/jobs/10584797/apply) | Not listed | Cupertino, California, USA | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **NVIDIA** | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Not listed | Santa Clara, CA / US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
+| 2026-10-23 | **Amazon** | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://account.amazon.jobs/jobs/10558915/apply) | Not listed | Austin, Texas, USA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **Google** | [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) | $550,000 – $1,100,000 | Mountain View, CA | ❔ | ❔ Review | — |
 | 2026-10-23 | **Google** | [Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions](https://www.google.com/about/careers/applications/jobs/results/91223711167718086) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-10-23 | **OpenAI** | [Research Engineer / Scientist](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
@@ -129,7 +129,7 @@ _Showing 12 of 490 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2887 active roles**. Featured groups account for **252** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2885 active roles**. Featured groups account for **251** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

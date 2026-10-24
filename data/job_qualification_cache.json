@@ -29230,7 +29230,7 @@
     "salary_max_annual": 223000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-10-10",
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a920d74d18f75674827b3af": {
@@ -74517,6 +74517,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-10-21",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604055?s=gh-new-grad-software-engineering-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604100?s=gh-new-grad-jobs-2027": {
