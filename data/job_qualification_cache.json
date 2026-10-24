@@ -28862,7 +28862,7 @@
     "salary_max_annual": 116000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-08",
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8f67e9a19886486675d79c": {
@@ -35138,18 +35138,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa39d32c5a856ac7e33a723": {
-    "ng_confidence": "Confirmed",
-    "ng_evidence": "title says New Graduate",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$105K/yr - $110K/yr",
+    "salary_min_annual": 105000,
+    "salary_max_annual": 110000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-10-24",
     "parser_version": 4
   },
@@ -41694,7 +41694,7 @@
     "salary_max_annual": 116000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-03",
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abd547ad9621c5b2838b9ce": {
@@ -42446,7 +42446,7 @@
     "salary_max_annual": 182000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-02",
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ac00f2e8ff3fb9b3bc7a6cc": {
@@ -42462,7 +42462,7 @@
     "salary_max_annual": 58240,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-02",
+    "checked_at": "2026-10-24",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ac010714ac55253f5d6758e": {
