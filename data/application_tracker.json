@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-10-25",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-10-25. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only.",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-10-25. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "AXQ Capital",
@@ -830,12 +830,12 @@
     {
       "company": "DRW",
       "role": "Software Developer",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": null,
-      "status_date": "2026-09-22",
+      "status_date": "2026-10-23",
       "confidence": "Exact",
-      "evidence": "The exact Software Developer technical Zoom interview was scheduled and acknowledged for 2026-09-22 at 11:00 AM Central Time. No subsequent outcome email was present during the 2026-09-23 reconciliation.",
-      "next_action": "Interview date has passed; wait for DRW's follow-up and do not infer an outcome from silence."
+      "evidence": "DRW Head of University Talent Acquisition Jaclyn Arend sent an official update on 2026-10-23 naming the Software Developer position and stating that the application will not move forward after interview.",
+      "next_action": "Closed after interview rejection. Suppress only this exact Software Developer process; keep distinct DRW requisitions independent."
     },
     {
       "company": "Goaly",
@@ -925,7 +925,7 @@
       "status_date": "2026-09-19",
       "confidence": "Exact",
       "evidence": "Amazon sent an application confirmation on 2026-09-19 naming SDE I, AI/ML Network Infrastructure, Annapurna Labs and Job ID 10490741; Yuhan separately confirmed submission.",
-      "next_action": "Wait for review; do not suppress other Amazon or Annapurna requisitions."
+      "next_action": "Wait for review. Suppress exact requisition 10490741 and hold materially identical reposts with the same title and duties for manual duplicate review; do not suppress unrelated Amazon or Annapurna roles."
     },
     {
       "company": "Together AI",

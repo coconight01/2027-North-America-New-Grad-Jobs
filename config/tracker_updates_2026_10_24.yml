@@ -1,0 +1,17 @@
+updates:
+  - company: DRW
+    role: Software Developer
+    status: Rejected
+    status_date: 2026-10-23
+    confidence: Exact
+    evidence: "DRW Head of University Talent Acquisition Jaclyn Arend sent an official update on 2026-10-23 naming the Software Developer position and stating that the application will not move forward after interview."
+    next_action: "Closed after interview rejection. Suppress only this exact Software Developer process; keep distinct DRW requisitions independent."
+
+  - company: Amazon Annapurna Labs
+    role: "Software Development Engineer I - AI/ML Network Infrastructure (10490741)"
+    status: Applied
+    applied_date: 2026-09-19
+    status_date: 2026-09-19
+    confidence: Exact
+    evidence: "Amazon sent an application confirmation on 2026-09-19 naming SDE I, AI/ML Network Infrastructure, Annapurna Labs and Job ID 10490741; Yuhan separately confirmed submission."
+    next_action: "Wait for review. Suppress exact requisition 10490741 and hold materially identical reposts with the same title and duties for manual duplicate review; do not suppress unrelated Amazon or Annapurna roles."

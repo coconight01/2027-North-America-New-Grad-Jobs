@@ -302,7 +302,19 @@ def test_tracker_overlay_coverage() -> str:
         item.get("company") == "DRW" and item.get("role") == "Role uncertain"
         for item in tracker.get("applications", [])
     )
-    return "email and user-confirmed tracker overlays load together; reviewed removals persist"
+    drw = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "DRW" and item.get("role") == "Software Developer"
+    )
+    assert drw.get("status") == "Rejected", drw
+    assert drw.get("status_date") == "2026-10-23", drw
+    amazon = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Amazon Annapurna Labs"
+        and "10490741" in item.get("role", "")
+    )
+    assert "materially identical reposts" in amazon.get("next_action", ""), amazon
+    return "email/user overlays persist exact outcomes and duplicate-repost guards"
 
 
 def main() -> None:

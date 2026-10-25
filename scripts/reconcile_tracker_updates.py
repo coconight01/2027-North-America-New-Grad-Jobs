@@ -105,7 +105,8 @@ def main() -> None:
     tracker["source_note"] = (
         f"Reconciled from exact Gmail and user-confirmed application/process evidence "
         f"through {date.today().isoformat()}. Company-level confirmations remain uncertain "
-        "unless the exact requisition is named; exact-role deduplication only."
+        "unless the exact requisition is named; exact-role deduplication only, with "
+        "materially identical employer reposts held for manual review."
     )
     TRACKER.write_text(json.dumps(tracker, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
