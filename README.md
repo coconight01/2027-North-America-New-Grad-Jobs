@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-24** · Open roles: **2886**
+> Last automated update: **2026-10-25** · Open roles: **2887**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -23,7 +23,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 33 |
 | **ByteDance / TikTok** (separate) | 490 |
-| Other companies | 2145 |
+| Other companies | 2146 |
 
 ### Big Tech & Frontier AI
 
@@ -117,7 +117,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-23 | **ByteDance** | [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **ByteDance** | [Research Scientist Graduate - Seed AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7673268418623293749/detail) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **ByteDance** | [Research Scientist New Grad - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668365143156721973/detail) | $153900 - $300960 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **TikTok** | [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) | $162000 - $387600 annually | San Jose, CA / San Jose, CA / San Jose, California, United States of America | ❔ | ✅ Confirmed | — |
+| 2026-10-23 | **TikTok** | [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) | $162000 - $387600 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **TikTok** | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973) | $162000 - $387600 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **ByteDance** | [Research Scientist New Grad - Computational Imaging](https://jobs.bytedance.com/en/position/7665836153219959093/detail) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **TikTok** | [Research Engineer New Grad - Multiple Teams](https://lifeattiktok.com/search/7667767820142643461) | $162000 - $316800 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
@@ -129,7 +129,7 @@ _Showing 12 of 490 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2886 active roles**. Featured groups account for **251** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2887 active roles**. Featured groups account for **251** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
