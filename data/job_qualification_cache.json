@@ -29262,7 +29262,7 @@
     "salary_max_annual": 109000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-03",
+    "checked_at": "2026-10-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a9035f27c32860d14cf8255": {
@@ -40894,7 +40894,7 @@
     "salary_max_annual": 90000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-26",
+    "checked_at": "2026-10-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab7be2981e327c4bf203923": {
@@ -46188,6 +46188,54 @@
     "salary": "$75K/yr - $85K/yr",
     "salary_min_annual": 75000,
     "salary_max_annual": 85000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-25",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ade55315dc7953215a3b10e": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$80K/yr - $80K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 80000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-10-25",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ade5a2346a8cabdc1ffb78b": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Yes",
+    "visa_evidence": "Visa sponsorship is available",
+    "phd_required": "Yes",
+    "salary": "$300K/yr - $300K/yr",
+    "salary_min_annual": 300000,
+    "salary_max_annual": 300000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-10-25",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ade5ecb9e3e874dbfba8717": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "no sponsorship",
+    "phd_required": "No",
+    "salary": "$72700-$109100/yr",
+    "salary_min_annual": 72700,
+    "salary_max_annual": 109100,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-10-25",
@@ -71959,6 +72007,22 @@
     "checked_at": "2026-10-25",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/bytedance-7670374385110599989?s=gh-new-grad-data-science-jobs-2027": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-25",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/bytedance-7670374385110599989?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -73781,6 +73845,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-11",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050513?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-10-25",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-adobe-external-experienced-R171843?s=gh-new-grad-data-science-jobs-2027": {
