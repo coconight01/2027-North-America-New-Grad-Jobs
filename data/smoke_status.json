@@ -47,7 +47,7 @@
     },
     "tracker_overlay_coverage": {
       "outcome": "success",
-      "detail": "email and user-confirmed tracker overlays load together; reviewed removals persist"
+      "detail": "email/user overlays persist exact outcomes and duplicate-repost guards"
     }
   }
 }
