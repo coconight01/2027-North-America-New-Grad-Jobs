@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-25** · Open roles: **2887**
+> Last automated update: **2026-10-25** · Open roles: **2894**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,23 +18,23 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 155 |
+| **Big Tech & Frontier AI** | 157 |
 | **AI Infra / Systems** | 15 |
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 33 |
-| **ByteDance / TikTok** (separate) | 490 |
-| Other companies | 2146 |
+| **ByteDance / TikTok** (separate) | 494 |
+| Other companies | 2147 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-25 | **NVIDIA** | [New Grad 2027: High-Performance LLM Training Engineer (Master's)](https://go.vansh.nyc/Ax) | Not listed | Santa Clara, CA / San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-10-25 | **Google** | [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-84680705375642310?s=gh-new-grad-jobs-2027) | $147000 - $210000 | United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-23 | **NVIDIA** | [High-Performance LLM Training Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) | Not listed | Canada +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **Amazon** | [Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs](https://account.amazon.jobs/jobs/10584797/apply) | Not listed | Cupertino, California, USA | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **NVIDIA** | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Not listed | Santa Clara, CA / US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **Amazon** | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://account.amazon.jobs/jobs/10558915/apply) | Not listed | Austin, Texas, USA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **Google** | [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) | $550,000 – $1,100,000 | Mountain View, CA | ❔ | ❔ Review | — |
-| 2026-10-23 | **Google** | [Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions](https://www.google.com/about/careers/applications/jobs/results/91223711167718086) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-10-23 | **OpenAI** | [Research Engineer / Scientist](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-10-21 | **Microsoft** | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) | $168k/yr | Redmond, WA | ❔ | ❔ Review | — |
 | 2026-10-21 | **Microsoft** | [Software Engineering IC2](https://apply.careers.microsoft.com/careers/job/1970393557043616) | $168k/yr | Redmond, WA | ❔ | ❔ Review | — |
@@ -106,10 +106,13 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>490 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>494 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-10-25 | **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://zapply.jobs/l/d/bytedance-7673626147481291061?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ✅ Confirmed | — |
+| 2026-10-25 | **ByteDance** | [Talent Acquisition Specialist Graduate (Data) - 2027 Start](https://zapply.jobs/l/d/bytedance-7668507242945825077?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | — |
+| 2026-10-25 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7672389696568510773?s=gh-new-grad-jobs-2027) | Not listed | Seattle, Washington | ❔ | ◐ Likely | PhD only |
 | 2026-10-24 | **ByteDance** | [Research Scientist New Grad - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7670374385110599989/detail) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-10-24 | **TikTok** | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | $108000 - $208800 annually | San Jose, California, United States of America | ❔ | ❔ Review | — |
 | 2026-10-23 | **ByteDance** | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start](https://jobright.ai/jobs/info/6ad95bd239284cd52428692f) | $218K/yr - $388K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | — |
@@ -119,17 +122,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-23 | **ByteDance** | [Research Scientist New Grad - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668365143156721973/detail) | $153900 - $300960 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **TikTok** | [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) | $162000 - $387600 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
 | 2026-10-23 | **TikTok** | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973) | $162000 - $387600 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **ByteDance** | [Research Scientist New Grad - Computational Imaging](https://jobs.bytedance.com/en/position/7665836153219959093/detail) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **TikTok** | [Research Engineer New Grad - Multiple Teams](https://lifeattiktok.com/search/7667767820142643461) | $162000 - $316800 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **TikTok** | [Research Scientist New Grad - TikTok Recommendation](https://lifeattiktok.com/search/7663389956951918853) | $128000 - $316800 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 490 active roles. Use the Job Radar for all roles._
+_Showing 12 of 494 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **2887 active roles**. Featured groups account for **251** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2894 active roles**. Featured groups account for **253** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
