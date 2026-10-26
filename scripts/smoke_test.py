@@ -288,8 +288,9 @@ def test_china_detail_fallback() -> str:
 
 
 def test_tracker_overlay_coverage() -> str:
-    from scripts import reconcile_tracker_updates
     from datetime import date
+
+    from scripts import reconcile_tracker_updates
 
     assert "tracker_email_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
     assert "tracker_updates*.yml" in reconcile_tracker_updates.CONFIG_GLOBS
@@ -314,7 +315,15 @@ def test_tracker_overlay_coverage() -> str:
         and "10490741" in item.get("role", "")
     )
     assert "materially identical reposts" in amazon.get("next_action", ""), amazon
-    return "email/user overlays persist exact outcomes and duplicate-repost guards"
+    nvidia = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "NVIDIA" and "JR2023252" in item.get("role", "")
+    )
+    assert nvidia.get("status") == "Rejected", nvidia
+    assert nvidia.get("status_date") == "2026-10-26", nvidia
+    assert "requisition closure" in nvidia.get("evidence", ""), nvidia
+    assert "Suppress only JR2023252" in nvidia.get("next_action", ""), nvidia
+    return "email/user overlays persist exact outcomes, closures, and duplicate-repost guards"
 
 
 def main() -> None:
