@@ -47,7 +47,7 @@
     },
     "tracker_overlay_coverage": {
       "outcome": "success",
-      "detail": "email/user overlays persist exact outcomes, closures, and duplicate-repost guards"
+      "detail": "email/user overlays persist exact outcomes and duplicate-repost guards"
     }
   }
 }
