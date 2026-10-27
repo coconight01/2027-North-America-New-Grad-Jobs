@@ -1036,6 +1036,36 @@
       "confidence": "Exact",
       "evidence": "DoorDash sent an official Greenhouse confirmation on 2026-10-02 naming Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US. The verified official requisition is 8163709.",
       "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237)",
+      "status": "Applied",
+      "applied_date": "2026-10-26",
+      "status_date": "2026-10-26",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-26 naming High-Performance LLM Training Engineer - New College Grad 2027 and requisition JR2028237.",
+      "next_action": "Wait for review; suppress only exact requisition JR2028237 from actionable recommendations."
+    },
+    {
+      "company": "SambaNova Systems",
+      "role": "Role uncertain (application confirmation received 2026-10-26)",
+      "status": "Applied",
+      "applied_date": "2026-10-26",
+      "status_date": "2026-10-26",
+      "confidence": "Company-only",
+      "evidence": "SambaNova sent a new application confirmation on 2026-10-26, but the message does not name a role or requisition. AI Performance Engineer - New Grad (6224936004) is a plausible match, not proven exact-role evidence.",
+      "next_action": "Check the SambaNova candidate portal before another submission. Preserve exact-role uncertainty and do not suppress unrelated SambaNova roles."
+    },
+    {
+      "company": "Jane Street",
+      "role": "Role uncertain (application confirmation received 2026-10-26)",
+      "status": "Applied",
+      "applied_date": "2026-10-26",
+      "status_date": "2026-10-26",
+      "confidence": "Company-only",
+      "evidence": "Jane Street sent a new application confirmation on 2026-10-26 stating that an application was received, but it does not identify the role or requisition.",
+      "next_action": "Check the Jane Street candidate portal before submitting another role. Do not infer whether this was Software Engineer (8594541002), Machine Learning Researcher (8576928002), or a different opening."
     }
   ]
 }
