@@ -1,16 +1,25 @@
 {
-  "updated_at": "2026-10-27",
+  "updated_at": "2026-10-28",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "CoreWeave Software Engineer, Inference is the strongest newly surfaced role: the official page explicitly says Junior IC1/IC2, 0-3 years, Python or Go, distributed/cloud services, vLLM/TensorRT-LLM exposure, and $120,000-$160,000 base. Gmail confirms an exact application to NVIDIA JR2028237 on October 26. New SambaNova and Jane Street confirmations remain company-only, so their exact requisitions stay visible but move out of actionable tiers until the candidate portals identify what was submitted. GlobalFoundries' two 2027 NCG AI roles remain live with active Apply controls.",
+  "summary": "Databricks Software Engineer - New Grad, Distributed Data Systems (2027 Start) is today's strongest new actionable role: the official page explicitly accepts Fall 2026 or Spring 2027 graduates and centers distributed query execution, scheduling, resource management, storage and performance optimization. Databricks can consider only one application in 30 days, so this specialized requisition should be chosen over its generic New Grad opening. CoreWeave Inference and GlobalFoundries' two 2027 NCG AI roles remain the strongest previously surfaced alternatives.",
   "changes_today": [
-    "NEW PRIORITY: CoreWeave Software Engineer, Inference is live for Junior IC1/IC2 candidates with 0-3 years, Python or Go, distributed/cloud services, Kubernetes and GPU-inference fundamentals; $120,000-$160,000 base.",
-    "GMAIL EXACT APPLIED: NVIDIA confirmed High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237) on October 26; suppress only this exact requisition.",
-    "GMAIL UNCERTAIN: SambaNova and Jane Street each sent a new company-level application confirmation without a role or requisition. Keep exact-role uncertainty and require portal verification before another submission.",
-    "STILL LIVE: GlobalFoundries AI/ML Systems Engineer and AI Software Engineer remain open with active official Apply controls on October 27. No AXQ outcome email has arrived."
+    "NEW PRIORITY: Databricks Software Engineer - New Grad, Distributed Data Systems (2027 Start) is live with an active official Apply control, clean May 2027 eligibility and no professional-years minimum.",
+    "APPLICATION LIMIT: Databricks can consider only one application in 30 days; prefer the Distributed Data Systems requisition over the generic 2027 New Grad role.",
+    "HARD VETO: IMC Software Engineer, Early Career requires 1-3 years of full-time post-graduation experience and is not eligible; the distinct Graduate Quantitative Researcher BS/MS role remains secondary.",
+    "STILL LIVE: CoreWeave Inference and both GlobalFoundries 2027 NCG AI roles remain open; Together AI requisition 5186628007 remains suppressed because it was already applied to exactly."
   ],
   "recommendations": [
     {
-      "rank": 1, "tier": "priority", "company": "CoreWeave", "role": "Software Engineer, Inference (4703438006)", "status": "NEW TODAY", "fit": "4.9/5 · production LLM inference / serving / performance",
+      "rank": 1, "tier": "priority", "company": "Databricks", "role": "Software Engineer - New Grad, Distributed Data Systems (2027 Start) (6865704002)", "status": "NEW TODAY", "fit": "4.8/5 · distributed execution / scheduling / storage / performance",
+      "why_screen": "The official requisition explicitly accepts Fall 2026 or Spring 2027 graduates and has no professional-years minimum. It asks for Java or C++, algorithms, data structures, OOP and end-to-end project ownership; Yuhan's UIUC MSCS, NOI Silver, AutoScout systems research and TikTok production ownership make the screen credible even though C++ is supporting rather than core evidence.",
+      "why_team": "The team builds distributed query execution and scheduling, vectorized execution, resource management, transaction coordination, storage structures and automatic physical-data optimization. AutoScout configuration research, scheduler/runtime work, Linux profiling and distributed-training diagnosis transfer directly to these cross-layer performance problems.",
+      "why_interest": "This is a technically durable distributed-systems role on the data and AI infrastructure path: real execution-engine, scheduler and storage ownership with strong relevance to future ML platforms, rather than generic product engineering.",
+      "location": "Bellevue, WA or Mountain View, CA · office policy not stated", "salary": "$145,000-$155,000 Zone 1 or $137,750-$147,450 Zone 2 base + possible bonus, equity and benefits", "new_grad": "Explicit Fall 2026 or Spring 2027 new graduate; no professional-experience minimum.",
+      "sponsorship": "Unknown. The exact posting does not promise or deny immigration sponsorship. It states that Databricks may decline to seek an export-control license if one is required.", "caveat": "Java/C++ implementation depth and database/storage internals are more central than Python/PyTorch. The export-control clause creates uncertainty but is not an explicit citizenship or no-sponsorship veto.", "urgency": "Official page and Apply Now control verified October 28. Databricks can consider only one application in 30 days; choose this specialized role over the generic 2027 New Grad requisition.",
+      "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002"
+    },
+    {
+      "rank": 2, "tier": "priority", "company": "CoreWeave", "role": "Software Engineer, Inference (4703438006)", "status": "RECENT", "fit": "4.9/5 · production LLM inference / serving / performance",
       "why_screen": "The official role is explicitly Junior IC1/IC2 and requires 0-3 years or equivalent, Python or Go, production cloud/distributed services, APIs, containers and working knowledge of Kubernetes or Slurm/Ray. Yuhan's Python, vLLM/model-loading work, distributed-systems research, Linux profiling and TikTok production engineering cover the core unusually well.",
       "why_team": "The team owns model-serving services end to end and improves latency and throughput through micro-batching, concurrency tuning, caching and observability. vLLM/TensorRT-LLM/Ray Serve and hands-on profiling are explicit nice-to-haves, directly matching Yuhan's inference cold-start and systems-performance work.",
       "why_interest": "This is the cleanest current bridge from Yuhan's research into production inference: real serving ownership, runtime/scheduler/network collaboration, on-call reliability and measurable latency/throughput work at an AI-native cloud.",
@@ -19,7 +28,7 @@
       "url": "https://coreweave.com/careers/job?4703438006=&board=coreweave&gh_jid=4703438006"
     },
     {
-      "rank": 2, "tier": "priority", "company": "GlobalFoundries", "role": "AI/ML Systems Engineer (2027 New College Graduate) (JR-2604163)", "status": "NEW TODAY", "fit": "4.7/5 · workload modeling / ML systems performance",
+      "rank": 3, "tier": "priority", "company": "GlobalFoundries", "role": "AI/ML Systems Engineer (2027 New College Graduate) (JR-2604163)", "status": "RECENT", "fit": "4.7/5 · workload modeling / ML systems performance",
       "why_screen": "The explicit 2027 NCG role accepts a graduating BS or MS, requires Python, PyTorch/TensorFlow exposure, quantitative fundamentals and computer-architecture basics, and sets no professional-years minimum. UIUC MSCS, AutoScout, PyTorch, profiling and distributed-training research make the screen credible.",
       "why_team": "The role characterizes training and inference workloads, models latency, throughput, utilization and bandwidth, and collaborates with compiler/runtime teams on scheduling, kernel optimization and data layout. Yuhan's configuration research and cross-layer multi-GPU diagnosis are unusually relevant.",
       "why_interest": "A rare new-grad role centered on performance modeling across architecture, compiler and runtime, with direct influence on ML-system design rather than routine application development.",
@@ -28,7 +37,7 @@
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163"
     },
     {
-      "rank": 3, "tier": "priority", "company": "GlobalFoundries", "role": "AI Software Engineer (2027 New College Graduate) (JR-2604055)", "status": "NEW TODAY", "fit": "4.6/5 · production inference / profiling / AI platform",
+      "rank": 4, "tier": "priority", "company": "GlobalFoundries", "role": "AI Software Engineer (2027 New College Graduate) (JR-2604055)", "status": "RECENT", "fit": "4.6/5 · production inference / profiling / AI platform",
       "why_screen": "The exact role accepts graduating BS/MS/PhD candidates with GPA 3.0+, one major ML framework, object-oriented programming and version control; it requires no professional experience. PyTorch, Python, TikTok production engineering, vLLM and research-system ownership satisfy the core.",
       "why_team": "The team integrates and deploys LLM, vision and predictive models, then profiles latency, memory, throughput and compute footprint across edge or cloud inference. Yuhan's model-loading/cold-start work and Linux performance analysis would be immediately useful.",
       "why_interest": "This is an early-career bridge from model integration into scalable inference software, with collaboration across ML, software and hardware architecture and a cleaner screen than most frontier-runtime roles.",
