@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-28** · Open roles: **2991**
+> Last automated update: **2026-10-28** · Open roles: **2988**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 159 |
 | **AI Infra / Systems** | 20 |
 | **Quant / HFT** | 48 |
-| **Other high-value tech** | 34 |
+| **Other high-value tech** | 28 |
 | **ByteDance / TikTok** (separate) | 499 |
-| Other companies | 2231 |
+| Other companies | 2234 |
 
 ### Big Tech & Frontier AI
 
@@ -33,10 +33,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-27 | **Amazon** | [Software Development Engineer I - AWS IoT Fleet Management](https://www.amazon.jobs/jobs/10571756/apply) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-10-27 | **Amazon** | [Software Development Engineer - AWS Healthcare AI](https://www.amazon.jobs/jobs/10560530/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-10-27 | **Microsoft** | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045516) | $168k/yr | Mountain View, CA | ❔ | ❔ Review | — |
-| 2026-10-26 | **NVIDIA** | [NVIDIA 2027 Internships: Systems Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023492?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
+| 2026-10-25 | **NVIDIA** | [New Grad 2027: High-Performance LLM Training Engineer (Master's)](https://go.vansh.nyc/Ax) | Not listed | Santa Clara, CA / San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-10-25 | **Google** | [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://zapply.jobs/l/d/google-84680705375642310?s=gh-new-grad-jobs-2027) | $147000 - $210000 | United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-25 | **Microsoft** | [Security Operations Engineer - Cloud Security](https://apply.careers.microsoft.com/careers/job/1970393556923390) | $168k/yr | Redmond, WA | ❔ | ❔ Review | — |
 | 2026-10-23 | **Google** | [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) | $550,000 – $1,100,000 | Mountain View, CA | ❔ | ❔ Review | — |
-| 2026-10-23 | **Google** | [Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions](https://www.google.com/about/careers/applications/jobs/results/91223711167718086) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-10-23 | **OpenAI** | [Research Engineer / Scientist](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | $242k/yr | San Francisco | ❔ | ❔ Review | — |
 | 2026-09-09 | **Waymo** | [Research Scientist - Map Scalability](https://careers.withwaymo.com/jobs?gh_jid=8180692) | $213,000—$263,000 | New York City, NY +2 | ❔ | ❔ Review | — |
@@ -130,7 +130,7 @@ _Showing 12 of 499 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **2991 active roles**. Featured groups account for **261** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **2988 active roles**. Featured groups account for **255** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
