@@ -2,6 +2,33 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: Databricks
+    role: Software Engineer - New Grad, Distributed Data Systems (2027 Start) (6865704002)
+    category: Distributed Systems / Data Infrastructure
+    location: Bellevue, WA; Mountain View, CA
+    country: United States
+    graduation: "Fall 2026 or Spring 2027"
+    start_date: "2027"
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: "Exact posting states only an export-control licensing caveat; it does not promise or deny immigration sponsorship"
+    citizenship_required: Unknown
+    salary: "$137750 - $155000 annually + bonus/equity eligibility"
+    salary_min_annual: 137750
+    salary_max_annual: 155000
+    phd_required: "No"
+    personalized_score: 98
+    priority: Top
+    personalized_reason: "Distributed query execution, scheduling, resource management, storage and performance optimization closely match AutoScout, schedulers, Linux profiling and distributed-systems research"
+    skills: "Java, C++, Algorithms, Data Structures, OOP, Distributed Systems, Databases, Storage, Scheduling, Performance Optimization"
+    url: https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002
+    source: "Manual official verification: Databricks Careers"
+    date_added: "2026-10-28"
+    last_verified: "2026-10-28"
+    status: Open
+    match: "Official 2027 new-grad role; no professional-years minimum; one Databricks application can be considered per 30 days"
+    description: "Build distributed query execution and scheduling, vectorized execution, resource management, transaction coordination, storage structures and automatic physical-data optimization. Requires Fall 2026 or Spring 2027 graduation, a general-purpose language such as Java or C++, algorithms/data structures/OOP and end-to-end project experience. Official US base range is $137,750-$155,000, plus possible bonus and equity. Apply to this specialized requisition rather than the generic Databricks new-grad role because only one application is considered in 30 days."
+
   - company: Google
     role: Software Engineer, Early Career, Campus
     category: Software Engineering
