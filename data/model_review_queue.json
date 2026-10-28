@@ -26,15 +26,12 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 297,
-    "new_job_candidates": 264,
+    "priority_company_candidates": 295,
+    "new_job_candidates": 261,
     "high_potential_title_candidates": 380
   },
-  "veto_counts": {
-    "non-full-time program title": 8,
-    "explicit 2026-only title": 4
-  },
-  "exact_tracked_jobs_removed": 22,
+  "veto_counts": {},
+  "exact_tracked_jobs_removed": 0,
   "candidates": [
     {
       "machine_rank": 1,
@@ -2065,31 +2062,6 @@
       "machine_rank": 82,
       "machine_score": 61,
       "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "186000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-03",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10526808/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 83,
-      "machine_score": 61,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
       "company_priority": "",
       "company": "PagerDuty",
@@ -2112,7 +2084,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 83,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2137,7 +2109,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 84,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2162,7 +2134,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 85,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -2187,7 +2159,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 86,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2212,7 +2184,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 87,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -2237,7 +2209,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 88,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -2262,7 +2234,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 89,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -2287,7 +2259,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 90,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2312,7 +2284,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 91,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2337,7 +2309,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 92,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2362,7 +2334,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 93,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2387,7 +2359,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 94,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2412,7 +2384,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -2431,6 +2403,31 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "DV Trading",
+      "role": "2027 Graduate Software Engineer - DV Commodities",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "salary": "$135,000–$150,000",
+      "salary_max_annual": "150000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Software",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-11",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
