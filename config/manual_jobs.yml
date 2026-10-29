@@ -2,6 +2,33 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: Headlands Technologies
+    role: C++ Software Developer - New Grad (4336806009)
+    category: Quantitative Finance / Distributed Systems
+    location: Chicago, IL; Amsterdam, Netherlands
+    country: United States; Netherlands
+    graduation: "New graduate; exact graduation window not stated"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: "Official application asks whether US applicants now or in the future require sponsorship, but states no sponsorship policy"
+    citizenship_required: "No explicit restriction"
+    salary: Unknown
+    salary_min_annual: ""
+    salary_max_annual: ""
+    phd_required: "No"
+    personalized_score: 83
+    priority: High
+    personalized_reason: "Large-scale distributed storage, Linux profiling, tracing and performance bottleneck work overlap with Yuhan's systems background, but superior C++ plus lock-free and low-level networking are central"
+    skills: "C++, Linux, Distributed Systems, Distributed Storage, Networking, Profiling, Tracing, Algorithms"
+    url: https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009
+    source: "Manual official verification: Headlands Technologies Greenhouse"
+    date_added: "2026-10-29"
+    last_verified: "2026-10-29"
+    status: Open
+    match: "Official live New Grad role with no numeric years minimum; downranked because deep C++, lock-free optimization and low-level networking are central"
+    description: "Build and optimize a 24-hour automated trading platform, including distributed storage, research infrastructure, exchange connectivity, Linux performance analysis, profiling and tracing. The role has no numeric professional-experience requirement, but asks for superior C++ or another statically typed imperative language and includes lock-free structures, compiler intrinsics and low-level network protocols. Chicago is the actionable US location; salary is not published and sponsorship is not stated."
+
   - company: Databricks
     role: Software Engineer - New Grad, Distributed Data Systems (2027 Start) (6865704002)
     category: Distributed Systems / Data Infrastructure
