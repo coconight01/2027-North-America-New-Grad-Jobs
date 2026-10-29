@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-28",
+  "updated_at": "2026-10-29",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "Databricks Software Engineer - New Grad, Distributed Data Systems (2027 Start) is today's strongest new actionable role: the official page explicitly accepts Fall 2026 or Spring 2027 graduates and centers distributed query execution, scheduling, resource management, storage and performance optimization. Databricks can consider only one application in 30 days, so this specialized requisition should be chosen over its generic New Grad opening. CoreWeave Inference and GlobalFoundries' two 2027 NCG AI roles remain the strongest previously surfaced alternatives.",
+  "summary": "No brand-new role today beats the existing Databricks Distributed Data Systems or CoreWeave Inference priorities. Headlands Technologies C++ Software Developer - New Grad is newly surfaced and officially live, but is secondary because deep C++, lock-free optimization and low-level networking are central. Databricks, CoreWeave, GlobalFoundries and iManage remain the strongest active unapplied choices.",
   "changes_today": [
-    "NEW PRIORITY: Databricks Software Engineer - New Grad, Distributed Data Systems (2027 Start) is live with an active official Apply control, clean May 2027 eligibility and no professional-years minimum.",
-    "APPLICATION LIMIT: Databricks can consider only one application in 30 days; prefer the Distributed Data Systems requisition over the generic 2027 New Grad role.",
-    "HARD VETO: IMC Software Engineer, Early Career requires 1-3 years of full-time post-graduation experience and is not eligible; the distinct Graduate Quantitative Researcher BS/MS role remains secondary.",
-    "STILL LIVE: CoreWeave Inference and both GlobalFoundries 2027 NCG AI roles remain open; Together AI requisition 5186628007 remains suppressed because it was already applied to exactly."
+    "NEW SECONDARY: Headlands Technologies C++ Software Developer - New Grad is officially live in Chicago, with distributed storage, Linux profiling and performance work, but deep C++/lock-free/networking requirements keep it below closer MLSys roles.",
+    "HARD VETO: Atlassian Machine Learning Engineer, 2027 Graduate U.S. explicitly excludes F-1/J-1 candidates and all sponsorship, despite otherwise good ML and agent fit.",
+    "STILL LIVE: Databricks Distributed Data Systems, CoreWeave Inference, both GlobalFoundries 2027 NCG AI roles and iManage Applied AI remain the strongest active unapplied priorities.",
+    "SOURCE REVIEW: aplyr/New-Grad-2027 is current and useful for discovery but routes through an intermediary and adds little unique MLSys coverage beyond existing sources, so it was not integrated."
   ],
   "recommendations": [
     {
@@ -90,6 +90,15 @@
       "location": "Santa Clara, CA · full-time", "salary": "$108,000-$178,250 base at Level 1 or $124,000-$195,500 at Level 2 + equity and benefits", "new_grad": "Pursuing or recently completed BS/MS in EE, CS, CE or related field; no professional-years minimum.",
       "sponsorship": "Unknown. The exact posting does not state a sponsorship policy.", "caveat": "Strong C/C++, low-level systems, firmware/device drivers and ARM architecture are central; this is materially more hardware-facing than Yuhan's preferred MLSys path.", "urgency": "Official Apply control re-verified live October 18, one day after the stated minimum acceptance date. Apply promptly only if Yuhan wants a low-level systems hedge; otherwise preserve application bandwidth for closer MLSys roles.",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744"
+    },
+    {
+      "rank": 21, "tier": "secondary", "company": "Headlands Technologies", "role": "C++ Software Developer - New Grad (4336806009)", "status": "NEWLY SURFACED · OFFICIAL LIVE", "fit": "3.8/5 · distributed storage / Linux performance / quant systems",
+      "why_screen": "The official New Grad role has no numeric professional-years requirement and prefers a computing degree, software-engineering fundamentals and C++ or another statically typed imperative language. UIUC/Tsinghua CS, NOI Silver, Linux profiling, distributed-systems research and supporting C++ evidence make an application credible, though not a clean match.",
+      "why_team": "The team builds distributed storage, research infrastructure, exchange connectivity, monitoring and performance tooling for a 24-hour trading platform. AutoScout's profiling and bottleneck diagnosis, scheduler/runtime work and production debugging transfer well.",
+      "why_interest": "It offers genuine distributed-systems and performance ownership in Chicago with strong compensation upside typical of quantitative trading, making it a worthwhile systems hedge rather than a title-only new-grad role.",
+      "location": "Chicago, IL or Amsterdam · full-time; office policy not stated", "salary": "Unknown", "new_grad": "Official New Grad title; no numeric professional-years minimum or exact graduation window stated.",
+      "sponsorship": "Unknown. The official application asks whether US applicants require current or future sponsorship but states no policy.", "caveat": "Superior C++, lock-free data structures, compiler intrinsics, low-level networking and latency optimization are central. This is exactly the specialization Yuhan should not over-rank relative to Python/PyTorch/NCCL/vLLM roles.", "urgency": "Official Greenhouse page and active Submit Application form verified October 29; no public deadline.",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009"
     },
     {
       "rank": 1, "tier": "secondary", "company": "StepFun", "role": "Mid-train Algorithm Researcher / Engineer", "status": "RECENT", "fit": "4.4/5 · model training / reasoning / agents",
