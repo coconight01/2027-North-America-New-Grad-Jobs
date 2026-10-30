@@ -2,6 +2,33 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: SambaNova Systems
+    role: ML Infrastructure Engineer - New Grad (6224938004)
+    category: ML Systems / Inference Infrastructure
+    location: Austin, TX; San Jose, CA
+    country: United States
+    graduation: "New Grad"
+    start_date: Unknown
+    degree: BS/MS/PhD
+    sponsorship: Unknown
+    visa_evidence: "The exact application asks whether the candidate now or in the future needs immigration assistance; the posting does not promise or deny sponsorship"
+    citizenship_required: "No"
+    salary: "$131200 - $196800 annually + equity and benefits"
+    salary_min_annual: 131200
+    salary_max_annual: 196800
+    phd_required: "No"
+    personalized_score: 100
+    priority: Top
+    personalized_reason: "Production Python, vLLM integration, request scheduling, prompt/KV caching, decoding, public APIs, PyTorch and inference latency/throughput work are an unusually exact match to Yuhan's vLLM cold-start, distributed-systems and production AI-agent background"
+    skills: "Python, vLLM, SGLang, TensorRT-LLM, PyTorch, Distributed Systems, Algorithms, Concurrency, Systems Design, Speculative Decoding, KV Cache, Continuous Batching, APIs"
+    url: https://sambanova.ai/company/careers/job-openings?gh_jid=6224938004
+    source: "Manual official verification: SambaNova Systems Careers / embedded Greenhouse application"
+    date_added: "2026-10-30"
+    last_verified: "2026-10-30"
+    status: Open
+    match: "Official New Grad role; no professional-years minimum; exact application live; prior SambaNova confirmation is company-only and does not prove this requisition was submitted"
+    description: "Build SambaNova's production LLM inference stack on RDU accelerators: vLLM integration, speculative and constrained decoding, tool calling, prompt caching, long-context inference, public APIs, accuracy/regression tests and production latency/throughput/reliability debugging. Requires a related BS, strong Python, algorithms/data structures/concurrency/systems design, coursework or projects in distributed systems or ML, LLM-serving framework experience, inference techniques such as KV caching or continuous batching, and PyTorch. MS/PhD, ML-systems research or internship experience and prefill/decode disaggregation are preferred. The application asks whether candidates can work onsite 3-5 days per week."
+
   - company: Headlands Technologies
     role: C++ Software Developer - New Grad (4336806009)
     category: Quantitative Finance / Distributed Systems
