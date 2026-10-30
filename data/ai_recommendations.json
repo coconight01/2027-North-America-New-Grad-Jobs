@@ -6,6 +6,7 @@
     "NEW TOP PRIORITY: SambaNova ML Infrastructure Engineer - New Grad (6224938004) is officially live with production Python, vLLM, request scheduling, decoding, caching, public APIs, PyTorch and inference performance work.",
     "APPLICATION UNCERTAINTY PRESERVED: Gmail has a SambaNova company-level confirmation from October 26 but no role or requisition; 6224938004 remains actionable only after checking the candidate portal for an existing exact application.",
     "GMAIL: No new application confirmation, assessment, rejection or offer since the previous review; AXQ remains at Interview from the already-confirmed next round.",
+    "CLOSED: Anthropic Performance Engineer, Inference Engine (5418323008) now redirects to the general job board and no longer exposes an exact application; removed from Stretch.",
     "STILL LIVE: Databricks Distributed Data Systems, iManage Applied AI, Headlands C++ New Grad, IMC Graduate Quantitative Researcher and Amazon Robotics Early Career all retained live official application controls on October 30."
   ],
   "recommendations": [
@@ -330,14 +331,6 @@
       "why_screen": "PyTorch, distributed training, profiling and fault-tolerance research map directly.", "why_team": "AutoScout/NCCL evidence is relevant to training efficiency, scaling and resilience.", "why_interest": "Frontier pre-training systems with unusually high MLSys upside.",
       "location": "SF / Seattle / New York · remote-friendly, at least 25% office", "salary": "$350,000-$850,000", "new_grad": "Advanced degree and significant engineering depth; no fixed numeric years minimum.", "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale production ownership and significant engineering experience are screen risks.", "urgency": "Official Greenhouse requisition remains live.",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
-    },
-    {
-      "rank": 9, "tier": "stretch", "company": "Anthropic", "role": "Performance Engineer, Inference Engine (5418323008)", "status": "MISSED-OLDER-ACTIVE · UNLABELED EARLY-CAREER", "fit": "4.9/5 technical · 3.0/5 screening",
-      "why_screen": "The official minimum has no fixed numeric professional-years threshold; it asks for an LLM-inference mental model, strong systems programming in Rust/C++ or similar, fast learning and rigorous performance profiling. vLLM/model-loading and cold-start work, NCCL/multi-GPU systems, distributed training and Linux profiling match the inference and measurement core, while systems-language depth is the uncertainty.",
-      "why_team": "The engine owns batching, model placement, weight/activation memory, prefill/decode execution and model state across accelerator platforms. Yuhan's serving-runtime, collectives, scheduler and performance evidence maps directly to token-path efficiency, caching and interconnect diagnosis.",
-      "why_interest": "This is unusually pure inference-systems work between kernels and routing: high-leverage runtime architecture, observability, scheduling and distributed performance rather than application-layer AI.",
-      "location": "San Francisco or New York City · hybrid, at least 25% in office", "salary": "$350,000-$850,000 annual compensation", "new_grad": "Bachelor's/equivalent; experience level maps to internal leveling, but no fixed numeric years minimum is published.", "sponsorship": "Explicit: Anthropic says it sponsors visas and will make reasonable efforts for offered candidates.", "caveat": "Strong Rust/C++ systems programming is a minimum, and GPU/accelerator programming plus OS internals are preferred. This is a high-value reach, not a safe early-career screen. It is distinct from the already-applied Performance Engineer, Inference Systems requisition.", "urgency": "Official Greenhouse page and Apply form verified live October 12; no public deadline.",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008"
     }
   ],
   "review_only": [
@@ -363,6 +356,7 @@
     {"company":"NVIDIA","role":"Software Engineer, Deep Learning Libraries - New College Graduate 2026 (JR2023252)","status":"Closed October 26: NVIDIA HR named exact requisition JR2023252 and stated that NVIDIA is no longer recruiting for the role. The tracker uses Rejected for terminal processes but records explicitly that this is a requisition closure, not a merit-based candidate rejection. Suppress only JR2023252."},
     {"company":"Applied Intuition","role":"Research Engineer - New Grad (2027)","status":"Applied Aug 19; exact tracker record. The official Ashby requisition remains live and is a strong distributed-training/research match, but do not submit a duplicate application."},
     {"company":"Anthropic","role":"Performance Engineer, Inference Systems (5224564008)","status":"Applied Sep 4; exact tracker record. The official Greenhouse requisition remains live and strongly matches Python profiling, inference, collective communication and observability, but do not submit a duplicate application."},
+    {"company":"Anthropic","role":"Performance Engineer, Inference Engine (5418323008)","status":"Closed October 30: the exact Greenhouse URL redirects to Anthropic's general job board and no longer exposes this requisition or an application form. Removed from Stretch; do not use stale copies."},
     {"company":"StepFun","role":"Agent Infrastructure Engineer","status":"Closed Oct 17: the exact official Moka page explicitly says the job has stopped recruiting and the requisition no longer exists."},
     {"company":"StepFun","role":"Agentic Infrastructure Development Engineer","status":"Hold Oct 17: the exact official detail page still renders but exposes no Apply control. Do not recommend until it reopens."},
     {"company":"StepFun","role":"Large-Model Algorithm Framework Researcher / Engineer","status":"Hold Oct 17: the exact official detail page still renders but exposes no Apply control. Do not recommend until it reopens."},
