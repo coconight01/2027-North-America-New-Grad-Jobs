@@ -26,15 +26,12 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 301,
+    "priority_company_candidates": 299,
     "new_job_candidates": 150,
     "high_potential_title_candidates": 383
   },
-  "veto_counts": {
-    "non-full-time program title": 5,
-    "explicit 2026-only title": 4
-  },
-  "exact_tracked_jobs_removed": 21,
+  "veto_counts": {},
+  "exact_tracked_jobs_removed": 0,
   "candidates": [
     {
       "machine_rank": 1,
@@ -2415,14 +2412,14 @@
       "machine_rank": 96,
       "machine_score": 59,
       "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
+      "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Twitch",
       "role": "Software Engineer I - Memberships",
       "category": "Software Engineering",
       "location": "San Francisco, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "186000",
+      "salary": "$110,500–$160,000",
+      "salary_max_annual": "160000",
       "ng_confidence": "Confirmed",
       "ng_evidence": "title says Software Engineer I",
       "sponsorship": "Unknown",
@@ -2430,7 +2427,7 @@
       "posted_date": "2026-08-28",
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10515912/apply",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
