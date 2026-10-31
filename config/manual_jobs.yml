@@ -2,6 +2,33 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: CLEAR
+    role: Forward Deployed AI Engineer I (8259786)
+    category: Applied LLM / Agents
+    location: New York, NY
+    country: United States
+    graduation: "2027 eligible (0-2 years; exact graduation window not stated)"
+    start_date: Unknown
+    degree: Unknown
+    sponsorship: Unknown
+    visa_evidence: "The exact posting and application do not promise or deny sponsorship"
+    citizenship_required: "No"
+    salary: "$129500 - $150500 annually + bonus and equity"
+    salary_min_annual: 129500
+    salary_max_annual: 150500
+    phd_required: "No"
+    personalized_score: 94
+    priority: High
+    personalized_reason: "Production LLM agents, RAG, tool use, evaluations, guardrails, monitoring and Python backend ownership directly match Yuhan's TikTok AI-agent engineering and research-to-production systems experience"
+    skills: "Python, LLM Agents, RAG, APIs, Cloud Infrastructure, Evaluation, Monitoring, Guardrails, Backend Systems"
+    url: https://job-boards.greenhouse.io/clear/jobs/8259786
+    source: "Manual official verification: CLEAR Greenhouse"
+    date_added: "2026-10-31"
+    last_verified: "2026-10-31"
+    status: Open
+    match: "Official Engineer I role requiring 0-2 years; live exact application; no fixed degree or graduation-date requirement stated"
+    description: "Own AI use cases from discovery through production launch and monitoring. Build AI agents, LLM applications, RAG workflows, reusable prompt/retrieval/tool/evaluation patterns, guardrails and human-in-the-loop systems. Requires 0-2 years in software, AI, ML or data engineering; hands-on LLM or agent experience; Python or another backend language; and production APIs, cloud infrastructure, logging, monitoring and testing. New York onsite. Sponsorship is not stated."
+
   - company: SambaNova Systems
     role: ML Infrastructure Engineer - New Grad (6224938004)
     category: ML Systems / Inference Infrastructure
