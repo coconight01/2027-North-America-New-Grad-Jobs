@@ -27,12 +27,12 @@
       "fill": 0
     },
     "priority_company_candidates": 309,
-    "new_job_candidates": 162,
-    "high_potential_title_candidates": 390
+    "new_job_candidates": 160,
+    "high_potential_title_candidates": 389
   },
   "veto_counts": {
     "explicit 2026-only title": 7,
-    "non-full-time program title": 5
+    "non-full-time program title": 10
   },
   "exact_tracked_jobs_removed": 20,
   "candidates": [
@@ -63,14 +63,14 @@
     },
     {
       "machine_rank": 2,
-      "machine_score": 97,
+      "machine_score": 99,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
       "company_priority": "",
       "company": "CLEAR",
-      "role": "Forward Deployed AI Engineer I",
-      "category": "AI / Machine Learning",
-      "location": "New York City, NY",
+      "role": "Forward Deployed AI Engineer I (8259786)",
+      "category": "Applied LLM / Agents",
+      "location": "New York, NY",
       "salary": "$129,500 – $150,500",
       "salary_max_annual": 150500,
       "ng_confidence": "Confirmed",
@@ -78,8 +78,8 @@
       "sponsorship": "Unknown",
       "phd_required": "No",
       "posted_date": "2026-10-30",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
+      "source": "Manual official verification: CLEAR Greenhouse",
+      "official_source": true,
       "url": "https://job-boards.greenhouse.io/clear/jobs/8259786",
       "jd_excerpt": "Job Application for Forward Deployed AI Engineer I at CLEAR - Corporate Back to jobs Forward Deployed AI Engineer I New York, NY, United States Apply CLEAR is building THE secure identity company of the future. Our mission is to make experiences safer and easier—physically and digitally. With more than 43 million Members and a growing network of partners across the world, CLEAR's secure identity platform is transforming the way people live, work, and travel. Whether it’s at the airport, stadium, or throughout your everyday life, CLEAR unlocks the magic of frictionless experiences. In this role, you will design, build, and deploy AI-powered systems that accelerate AI adoption across CLEAR’s internal workflows and customer-facing product experiences. This role will partner directly with Product, Engineering, Data, Security, Legal, Compliance, Operations, and business teams to identify high-impact AI opportunities, rapidly prototype solutions, and productionize reliable, secure, and measurable AI systems. You will own use cases end-to-end, from discovery and evaluation through launch, monitoring, and iteration. What you'll do: Discover, prioritize, and build AI use cases across internal tools, employee workflows, and customer-facing product features Partner with Product, Engineering, Data, Security, Legal, Compliance, and Operations to translate business needs into AI-driven solutions Rapidly prototype AI agents, LLM applications, RAG workflows, automation tools, and product experiences Productionize validated AI use cases with strong evaluation, monitoring, logging, fallback paths, and operational ownership Build reusable patterns for prompt management, retrieval, tool use, evals, guardrails, and human-in-the-loop workflows Implement responsible AI best practices, including privacy, security, model governance, risk review, and customer impact assessment Measure and communicate AI impact across adoption, quality, cost reduction, productivity, customer experience, and business outcomes How you’ll measure success: Number of high-impact internal and customer-facing AI use cases launched Adoption and measurable business impact of AI-powered tools and features Quality, reliability, latency, and safety of deployed AI systems Reduction in manual work, operational cost, or customer support volume Improvement in customer experience, containment, accuracy, or workflow efficiency Percentage of AI use cases with clear owners, evals, monitoring, and governance controls Speed from AI opportunity identification to prototype, pilot, and production launch What you’re great at: 0-2 years of experience in software engineering, AI engineering, machine learning engineering, data engineering, or related technical roles Some hands-on experience building with LLMs, AI agents, RAG, model APIs, prompt engineering, or AI application frameworks Strong programming skills in Python and/or another modern backend language Some experience building and deploying production systems with APIs, data platforms, cloud infrastructure, logging, monitoring, and testing Ability to work directly with business teams to understand ambiguous workflows and turn them into usable AI products Good product judgment and ability to identify practical, high-ROI AI use cases Knowledge of responsible AI concepts, including evals, guardrails, data privacy, security, human oversight, and model governance Ability to communicate complex technical concepts to technical, non-technical, and executive stakeholders Comfort operating in fast-paced, ambiguous environments with strong ownership from idea to impact Passion for building AI systems that are practical, secure, measurable, and user-centric How You’ll be Rewarded: At CLEAR, we help YOU move forward - because when you’re at your best, we’re at our best. You’ll work with talented team members motivated by our mission of making experiences safer and easier. Our offices are bright and energetic with an open concept and plenty of conference rooms and casual co-working spaces. We also offer catered lunches every day and have fully stocked kitchens. Outside of the office, we invest in your well-being and learning & development with stipends and reimbursement programs. We offer holistic total rewards, including comprehensive healthcare plans, family-building benefits (fertility and adoption/surrogacy support), flexible time off, annual wellness stipend, free OneMedical memberships for you and your dependents, a CLEAR Plus membership, and a 401(k) retirement plan with employer match. The base compensation range for this role is $129,500 – $150,500 , depending on levels of skills and experience. Total compensation includes the combined base salary, annual bonus incentive, and new hire equity package (in Restricted Stock Units) for this position at CLEAR. Additionally, this role will be eligible for refresh equity grants as part of our ongoing compensation program. Actual compensation will vary based on factors including, but n",
       "application_match": "None",
@@ -638,31 +638,6 @@
     },
     {
       "machine_rank": 25,
-      "machine_score": 79,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Headlands Technologies",
-      "role": "New Grad: Quantitative Researcher",
-      "category": "Other",
-      "location": "Chicago, IL / New York, NY",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-27",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/Uv",
-      "jd_excerpt": "Job Application for Quantitative Researcher – New Grad  at Headlands Technologies LLC Back to jobs Quantitative Researcher – New Grad Amsterdam; Chicago; London; New York Apply Quantitative Researcher New Grad Job Description for Headlands Tech Locations: Amsterdam; Chicago; London; New York Scope : As a Quantitative Researcher at Headlands Tech, you'll join a team of quantitative researchers responsible for the firm's portfolio of automated electronic trading strategies. You'll research and develop predictive signals and trading models, iterating to drive measurable improvements in strategy PnL. Working closely with colleagues, you'll own ideas from hypothesis through production and be responsible for the results they generate. Qualifications : Low ego; effective both collaboratively and autonomously Highly motivated and ambitious, focused on real-world results Demonstrable interest in systematic trading; internship experience preferred Degree in a highly technical field (computer science, engineering, statistics, mathematics or physics) required Strong knowledge of statistics and machine learning with practical experience applying them to noisy real-world data Solid software development skills, with practical experience in Java, C++, or Python A drive to turn research into profitable, scalable, and maintainable strategies We are proud to be an equal opportunity workplace and to provide employees with a work environment free of discrimination and harassment.  All employment decisions at Headlands Tech are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.  Headlands Tech will not tolerate discrimination or harassment based on any of these characteristics. By completing this application you agree to our GDPR and Privacy Policies . Apply for this job * indicates a required field First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Resume/CV * Attach Attach Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Education School * Select... Degree * Select... Discipline * Select... Start date month Select... Start date year * End date month Select... End date year * Add another Are you willing to relocate? * Select... Location Preference - Please mark  each location you are open to relocating to. * Chicago Amsterdam NYC London Any/all Sponsorship * Select... If you selected a US location: Will you now, or will you in the future, require sponsorship for employment visa status to legally work for our company in the US? Available Start Date * Desired Employment * Select... Education + GPA Attach Attach Accepted file types: pdf, doc, docx, txt, rtf If still in school, please provide your transcript(s) What prompted you to apply to Headlands Tech? What are your career goals? Why do you think you would be a good fit at Headlands Tech? What are your strengths?\n\nWhat are your weaknesses, or things you are not interested in doing professionally? Interest in Finance * Not interested Open to the idea Interested but considering all opportunities Interested and only considering Finance opportunities Other Processes/Offers/Timelines * Do you have any offer deadlines that you’d like us to be aware of? If so, we will do our best to accommodate. Employment Obligations * Do you have a Notice Period and/or Non-Compete? Top 3 programming languages * Please rate each language: 0 = No Experience 1 = Used it before 2 = Confident User 3 = Expert User LinkedIn Profile Transcript * Attach Attach Accepted file types: pdf, doc, docx, txt, rtf Please provide your most recent transcript(s) Your Current Location * Current job title * If currently a student, please list “Student” and under Current Company, please list the school name. Current Company * Submit application Powered by Greenhouse",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 26,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
@@ -687,7 +662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++; role shape: early-career SWE; new-grad: confirmed",
@@ -712,7 +687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -737,7 +712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -762,7 +737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -787,7 +762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -812,7 +787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 31,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -837,7 +812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -862,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 33,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -887,7 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 34,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -912,7 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 35,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: GPU communication / performance; skills: Python; role shape: entry-level ML role",
@@ -937,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 36,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -962,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 37,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Kubernetes; $200k+ stated ceiling",
@@ -987,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 38,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; $200k+ stated ceiling",
@@ -1012,7 +987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 39,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -1037,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 40,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1062,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; new-grad: likely",
@@ -1087,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1110,6 +1085,31 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 43,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Headlands Technologies",
+      "role": "New Grad: Quantitative Researcher",
+      "category": "Other",
+      "location": "Chicago, IL / New York, NY",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-27",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://go.vansh.nyc/Uv",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 44,
