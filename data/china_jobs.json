@@ -1,5 +1,21 @@
 [
   {
+    "posted_date": "2026-10-31",
+    "company": "StepFun (阶跃星辰)",
+    "role": "安卓稳定性工程师",
+    "track": "Software Engineering",
+    "location": "广东 · 南山区 / 上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/070e5aeb-543f-4762-af06-d8a38e21854f",
+    "job_id": "070e5aeb-543f-4762-af06-d8a38e21854f",
+    "status": "Open",
+    "date_added": "2026-10-31",
+    "qualification_excerpt": "1、负责Android平台系统稳定性，解决系统死机、重启、系统故障引发的应用稳定性问题，包括不限于JE，NE，Watchdog,ANR，冻屏卡死等故障解决。 2、Android上层稳定性指标建设（Crash 率、ANR 率、重启率、开机成功率、老化故障率），迁移各团队质量达标 3、负责崩溃、无响应、异常重启、黑屏冻屏、关键服务异常及故障恢复等事件的埋点设计与落地，支撑DFR远程诊断闭环 4、稳定性feature开发或工具建设，包括android上次技术栈开发以及稳定性各类自动化工具建设 5、跨团队协作，疑难问题联合攻关 6、探索并落地AI Coding/AI Agent在稳定性领域的应用 任职要求： 1. 本科及以上，计算机/软件/电子相关专业，3 年以上 Android 开发经验，稳定性方向 2 年以上； 2. 深入理解Android 系统架构：Zygote、init、SystemServer、AMS、WMS、PMS、Binder、SELinux、LMKD； 3. 熟悉ANR全链路机制，JE crash问题流程，具备一定的内存问题排查能力 4. 熟悉使用各类稳定性分析工具crash，GDB，tombstone、addr2line、systrace/Perfetto、dumpsys 【加分项】 1. 有手机开发经验者优先 2. 有稳定性AI Coding/Agent创新经验者优先，包括智能诊断分析，日志聚类、智能归因、自动 RCA或故障工具链的落地经验 3、 熟悉AI模型或智能体整体架构原理或优化经验者优先 4、 熟悉DFR开发经验者优先"
+  },
+  {
     "posted_date": "2026-10-29",
     "company": "Lingjun Investment (灵均)",
     "role": "SRE工程师",
@@ -1502,22 +1518,6 @@
     "status": "Open",
     "date_added": "2026-10-31",
     "qualification_excerpt": "SurfaceFlinger  hwc开发和维护"
-  },
-  {
-    "posted_date": "2026-07-11",
-    "company": "StepFun (阶跃星辰)",
-    "role": "RTOS系统嵌入式开发工程师",
-    "track": "Software Engineering",
-    "location": "上海市 · 徐汇区",
-    "employment_type": "全职",
-    "eligibility": "Review eligibility",
-    "salary": "Not published",
-    "source": "Official MokaHR",
-    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/78ee4f4c-ba65-49ed-a3a7-94ed88a94b24",
-    "job_id": "78ee4f4c-ba65-49ed-a3a7-94ed88a94b24",
-    "status": "Open",
-    "date_added": "2026-10-31",
-    "qualification_excerpt": "岗位职责 1、负责各类MCU平台RTOS系统移植、适配、开发与性能优化，保障系统实时性、稳定性，支撑产品量产。 2、负责RTOS内核模块裁剪、调试与迭代，熟练运用任务调度、中断处理、内存管理、消息队列、信号量等核心机制。 3、负责GPIO、UART、SPI、I2C、CAN等各类外设驱动开发、调试与适配工作，配合团队完成软硬件联调。 4、基于RTOS搭建软件任务架构，开发业务功能，规范代码，提升项目可维护性。 5、负责项目研发与量产问题排查，解决内存泄漏、任务死锁、实时性不足等系统问题。 6、参与技术预研、方案评审，编写技术文档，跟进前沿技术。 任职要求 1、本科及以上学历，电子、计算机、自动化等相关专业，3年以上RTOS嵌入式开发经验。 2、精通C语言，具备扎实的嵌入式编程与调试能力，熟悉编码规范。 3、熟练使用FreeRTOS、RT-Thread、LiteOS等主流实时操作系统，有中断处理、线程同步通信，具备系统裁  剪、移植及实时性调优经验。 4、熟悉Cortex-M架构，熟练使用主流MCU，熟悉各类常用外设通信协议，具备软硬件联调开发经验。 5、熟悉嵌入式低功耗开发、多任务架构优化，能独立排查死机、死锁、内存异常等各类嵌入式系统问题。 6、工作严谨负责，具备良好的团队协作与执行力，有穿戴设备、智能硬件项目量产经验优先；"
   },
   {
     "posted_date": "2026-07-10",

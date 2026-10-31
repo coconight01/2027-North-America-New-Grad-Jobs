@@ -8,6 +8,7 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | **StepFun (阶跃星辰)** | [安卓稳定性工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/070e5aeb-543f-4762-af06-d8a38e21854f) | Software Engineering | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-29 | **Lingjun Investment (灵均)** | [SRE工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/5072d580-b6eb-416b-86d9-ef2a0f9e68fe) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-10-27 | **StepFun (阶跃星辰)** | [StepCode （AI Coding）全栈开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/8c934c15-6777-4c42-b546-f3a4acdf6d9a) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-22 | **StepFun (阶跃星辰)** | [全栈工程师（企业 IT +安全 + AI 方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/22ab1696-8bf5-4823-bf58-e1832c3ec475) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
@@ -102,7 +103,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-07-14 | **NVIDIA China** | [【2027校园招聘】机器人工程师 - 具身智能方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/71bb2b5a-b73f-4162-9b3b-38938d8b8fe5) | AI / ML | 上海市 · 浦东新区 | 全职 | Confirmed campus |
 | 2026-07-14 | **NVIDIA China** | [【2027校园招聘】机器人软件工程师 -  部署与人形机器人方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/60dbc324-d19e-44c5-b1c7-c986a441f8ba) | AI / ML | 上海市 · 浦东新区 | 全职 | Confirmed campus |
 | 2026-07-14 | **StepFun (阶跃星辰)** | [Surface Flinger开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/32da9cd6-f1a2-47ce-88a0-d99c12a72b81) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
-| 2026-07-11 | **StepFun (阶跃星辰)** | [RTOS系统嵌入式开发工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/78ee4f4c-ba65-49ed-a3a7-94ed88a94b24) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】AI基础设施工程师](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/b6dea061-c1c0-474b-91e0-7456d13abacd) | AI Infrastructure / Systems | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】C++软件开发工程师](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/a1905201-116c-4039-a967-55f4ae364215) | AI Infrastructure / Systems | 上海市 · 浦东新区 / 广东 · 南山区 / 北京市 · 朝阳区 | 全职 | Confirmed campus |
 | 2026-07-10 | **NVIDIA China** | [【2027校园招聘】机器人软件工程师 - 仿真方向](https://app.mokahr.com/campus-recruitment/nvidia/47111#/job/32d048e9-2a58-43b1-96a4-24c515b0405e) | AI / ML | 上海市 · 浦东新区 | 全职 | Confirmed campus |
