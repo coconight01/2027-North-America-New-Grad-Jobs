@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-10-31",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,15 +26,15 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 303,
-    "new_job_candidates": 167,
-    "high_potential_title_candidates": 387
+    "priority_company_candidates": 306,
+    "new_job_candidates": 155,
+    "high_potential_title_candidates": 389
   },
   "veto_counts": {
-    "explicit 2026-only title": 5,
-    "non-full-time program title": 5
+    "non-full-time program title": 11,
+    "explicit 2026-only title": 6
   },
-  "exact_tracked_jobs_removed": 21,
+  "exact_tracked_jobs_removed": 20,
   "candidates": [
     {
       "machine_rank": 1,
@@ -988,6 +988,31 @@
     },
     {
       "machine_rank": 39,
+      "machine_score": 60,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Network Bio",
+      "role": "AI Scientist",
+      "category": "Other",
+      "location": "Palo Alto, CA / Seattle, WA",
+      "salary": "$180,000 - $215,000",
+      "salary_max_annual": 215000,
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-31",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/networkbio/jobs/5445891008",
+      "jd_excerpt": "Job Application for AI Scientist at Network Bio Back to jobs AI Scientist Seattle, WA or Palo Alto, CA Apply About Our Company We are an innovative biomedical data company dedicated to helping healthcare institutions realize the full value of their biobanks. Through trusted, long-term partnerships, we are building a secure, de-identified repository of clinical and molecular data designed to accelerate precision medicine research. Our platform integrates streamlined biobanking with advanced data analytics, enabling faster diagnostics and the development of breakthrough therapies.  Founded in 2022, we are supported by leading investors including S32, Breyer Capital, Founders Fund, and JSL Health Capital. Role Overview We are in search of an AI Scientist to join our computational team, where our core work spans three domains: Artificial Intelligence , Bioinformatics and Software Engineering . If you’re looking to join a core group of highly motivated, versatile professionals with demonstrated expertise in applications of artificial intelligence for biomedical discovery, please read on. The Domains We Navigate 1. Machine Learning: Design, optimize, and validate deep-learning models for high-dimensional biological data including histopathological slides, spatial transcriptomics, and structured clinical datasets. Translate biological insights into modeling strategies. Support model interpretability, robustness, and validation in regulated or translational research contexts. 2. Agentic AI : Architect and build agentic AI systems that reason over multiple steps, plan autonomously, and orchestrate external tools. Develop LLM-driven agents that retrieve, prioritize, and synthesize evidence with memory and feedback loops that let them revise hypotheses and adapt as new data emerges. Engineer production-grade infrastructure that unifies structured and unstructured biomedical data at scale, and rigorously assess the robustness, reliability, and interpretability of autonomous systems operating in high-stakes clinical contexts. 3. Software Engineering : Apply software engineering best practices to ensure reproducible and efficient scientific discovery. Develop tools and services that support experiment tracking, reproducibility and quality control. Perform software validation and documentation in research or regulated diagnostic contexts. How We Work We believe a small team can operate with speed, precision and efficiency by leveraging modern productivity tools. We expect you to: Broaden Knowledge Base: Harness new biological concepts and technical skills outside your primary expertise rapidly. Accelerate with Logic: Leverage AI coding agents for implementation and testing. You focus on architectural rigor and system logic. Think Critically: Act as the ultimate auditor to identify subtle AI-generated hallucinations in code or scientific reasoning before they reach our systems. Who You Are First-author contribution to state of the art AI model publications in competitive journals or conferences. Proven ability to drive end-to-end development on major projects. Ph.D. in Machine Learning, Bioinformatics, or a related field. Open to recent Ph.D. graduates, postdocs, and early-career candidates with up to 5 years of post-Ph.D. experience. More About Us At Network Bio, you’ll thrive in a dynamic, fast-paced startup environment where innovation and impact happen daily. Our hybrid work model blends the flexibility of remote work with the energy of in-person collaboration. We foster an inclusive, team-driven culture where every voice matters, ideas are valued, and opportunities for growth and advancement are built into our DNA. Join us and be rewarded with a competitive compensation package that includes salary and equity, giving you a stake in our shared success. Beyond the numbers, you’ll have the rare opportunity to make a direct, visible impact in a mission-driven organization at the forefront of life sciences innovation, where your work contributes to breakthroughs that can transform patient care and advance the future of precision medicine. The salary range for this position is $145,000 - $175,000 for the Scientist level and $180,000 - $215,000 for Senior Scientist. This represents a good-faith estimate of what we reasonably expect to pay for this role; actual compensation will depend on factors including experience, qualifications, and location. This range does not include bonus, equity, or benefits. This role is eligible for company benefits, including medical, vision, dental, and 401(k). Create a Job Alert Interested in building your career at Network Bio? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country Phone Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox G",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 40,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -1012,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
+      "machine_rank": 41,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1037,7 +1062,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 42,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; new-grad: likely",
+      "company_priority": "",
+      "company": "AbbVie",
+      "role": "Associate Data Scientist I",
+      "category": "AI / Machine Learning",
+      "location": "North Chicago, IL +3",
+      "salary": "USD 58656 - USD 103500",
+      "salary_max_annual": 103500,
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016070676",
+      "jd_excerpt": "AbbVie Associate Data Scientist I | SmartRecruiters Google Chrome Microsoft Edge Apple Safari Mozilla Firefox Associate Data Scientist I Full-time Salary Min: 58656 Salary Max: 103500 Workday Global Grade: 12 Travel: No Compensation: USD 58656 - USD 103500 - yearly Company Description About AbbVie AbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com . Follow @abbvie on LinkedIn, Facebook , Instagram , X and YouTube. Job Description The Global Research, Informatics & Platform Solutions team within the Information Research (IR) Division works with internal clients to provide data management and decision support tools to optimize the efficiency and efficacy of research and development at AbbVie. Under leadership guidance, this role supports multiple areas within Research & Discovery to build visualizations, transform data, capture data, and support end users. The role also participates in data flow documentation and general requirement gathering. This is a cross-functional role, working directly with discovery scientists and technology stakeholders to optimize data capture, visualization, and decision-making. Responsibilities: Communicate – Ability to communicate with scientific individuals. from Discovery teams to understand existing workflows and data flow & gather requirements. Build – Design and implement technology solutions that integrate, visualize, and analyze complex multi-platform data, including omics, biomarkers, & preclinical safety. Integrate – Understand the value in capturing data properly and integrating data sets. Support – Work directly with scientists to support their dashboarding or technical needs. Technical Proficiency – Demonstrate high proficiency in python, SQL, & other technologies for data storage, transfer, integration, visualization, and analytics. Adaptability – Ability to work on multiple, sometimes very different, projects at one time. Qualifications Bachelor’s Degree. Background in life sciences, biology, or equivalent required. Dedicated team player who can interface with discovery scientists and IT partners. Strong programming proficiency in Python (and possibly other modern languages) and strong familiarity with data visualization and pipelining tools such as Spotfire, or equivalent Understanding of software development process and familiarity with CI/CD tools. Excellent communication skills for cross-functional collaboration & training, including documenting and presenting technical solutions to non-technical stakeholders: outstanding interpersonal, verbal, and written communication skills. Familiarity with modern data science and AI techniques & interest in further developing technical skills and scientific knowledge. Ability to work independently, multitask, and work within timelines. A self-motivated learner and thinker with a hands-on approach. Additional Information ​Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of  any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​ AbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community.  Equal Opportunity Employer/Veterans/Disabled. US & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html US & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more: https://www.abbvie.com/join-us/reasonable-accommodations.html By clicking the",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 43,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1056,13 +1106,13 @@
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
       "url": "https://sambanova.ai/sambanova-available-positions?gh_jid=6224936004",
-      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI Developers & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI Developers & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
+      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 44,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1087,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 45,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1112,7 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 46,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1137,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 47,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1162,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 48,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1187,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 49,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
@@ -1212,32 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Qualus",
-      "role": "Power Systems Engineer I - Arc Flash Boot Camp Winter 2027",
-      "category": "Infrastructure / Systems",
-      "location": "West Chester, OH, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6adaa756e4b94611ab85e7ed",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 49,
+      "machine_rank": 50,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1262,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 51,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1287,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 52,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1312,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 53,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1337,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 54,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1362,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 55,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1387,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 56,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1412,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 57,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: C++, Python, Linux; role shape: entry-level ML role",
@@ -1437,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 58,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1462,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1487,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 60,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1512,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 61,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -1531,31 +1556,6 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 61,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Northrop Grumman",
-      "role": "2027 Associate Systems Engineer - Rolling Meadows IL",
-      "category": "Infrastructure / Systems",
-      "location": "United States-Illinois-Rolling...",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-30",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252189?s=gh-new-grad-jobs-2027",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1638,6 +1638,31 @@
     },
     {
       "machine_rank": 65,
+      "machine_score": 71,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Networking",
+      "company_priority": "",
+      "company": "Sonar",
+      "role": "Cloud Platform Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-09",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://jobs.lever.co/sonarsource/2af7d7de-0c0d-4178-a538-8989e24f37c8",
+      "jd_excerpt": "Who is Sonar?\nSonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure, and maintainable.\nIntegrating seamlessly with Claude Code, Codex, Cursor, GitHub Copilot, Gemini, and Devin, we help over 75% of the Fortune 100 build trusted, reliable, compliant software. Customers who use Sonar are 44% less likely to report an outage due to AI-generated code.\nWe believe code verification is the critical missing link in the Agent-Centric Development Cycle (AC/DC). Industry giants like Nvidia, ServiceNow,Booking.com, Goldman Sachs, AstraZeneca, and Ford Motor Company.count on us to provide independent, explainable, consistent review and governance of their AI-generated code via products like:\nSonarQube: The world’s leading AI code review and verification platform.\nSonarQube Foundation Agent: Currently topping the leaderboards for agentic software repair.\nSonarSweep & Sonar Context Augmentation: Providing the enterprise-grade context and constraints agents need to be truly effective.\nOur team operates across global hubs in Austin, Bochum, Dubai, Geneva, London, Singapore, Tokyo, and Washington D.C. We move with a mindset we call CODE:\nCommitted to our customers and community.\nObsessed with quality.\nDeliberate in our decisions.\nEffective as one team.\nWith over $400M in revenue and profitable, fast-paced growth, we are building the backbone of the AI software revolution. If you’re hungry to have an impact, want to build at a fast pace, and ready to work at the forefront of AI, we want to hear from you.\nPosition description\nAs a member of one of our platform engineering squads, you will leverage your experience and expertise to design and develop cloud-based solutions. This means implementing massively scalable services, automating all system operations, measuring and continuously improving service quality, and making the lives of other developers easier. \n\nYou will play a key role in helping our product reach its next stage of evolution and delight our users and customers. Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure, and maintainable. Integrating seamlessly with Claude Code, Codex, Cursor, GitHub Copilot, Gemini, and Devin, we help over 75% of the Fortune 100 build trusted, reliable, compliant software. Customers who use Sonar are 44% less likely to report an outage due to AI-generated code. We believe code verification is the critical missing link in the Agent-Centric Development Cycle (AC/DC). Industry giants like Nvidia, ServiceNow, Booking.com, Goldman Sachs, AstraZeneca, and Ford Motor Company.count on us to provide independent, explainable, consistent review and governance of their AI-generated code via products like: SonarQube: The world’s leading AI code review and verification platform. SonarQube Foundation Agent: Currently topping the leaderboards for agentic software repair. SonarSweep & Sonar Context Augmentation: Providing the enterprise-grade context and constraints agents need to be truly effective. Our team operates across global hubs in Austin, Bochum, Dubai, Geneva, London, Singapore, Tokyo, and Washington D.C. We move with a mindset we call CODE: Committed to our customers and community. Obsessed with quality. Deliberate in our decisions. Effective as one team. With over $400M in revenue and profitable, fast-paced growth, we are building the backbone of the AI software revolution. If you’re hungry to have an impact, want to build at a fast pace, and ready to work at the forefront of AI, we want to hear from you. Position description As a member of one of our platform engineering squads, you will leverage your experience and expertise to design and develop cloud-based solutions. This means implementing massively scalable services, automating all system operations, measuring and continuously improving service quality, and making the lives of other developers easier. You will play a key role in helping our product reach its next stage of evolution and delight our users and customers. We value diversity, equity, and inclusion\nAt Sonar, we believe that our diversity is our strength. We are a global company that values and respects different backgrounds, perspectives, and cultures. We are committed to fostering a diverse and inclusive work environment where everyone feels valued and empowered to contribute their best. We are proud to be an equal opportunity employer and welcome all qualified applicants, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\nIf you need any accommodation, please reach out to us",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 66,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1662,7 +1687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 67,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1687,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 68,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1712,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 69,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1737,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 70,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1762,7 +1787,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 71,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1787,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 72,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1812,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 73,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1837,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 74,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1862,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 75,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1887,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 76,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1912,7 +1937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 77,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1937,7 +1962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 78,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1962,7 +1987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 79,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1987,7 +2012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 80,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2012,7 +2037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 81,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -2037,7 +2062,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 82,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2062,7 +2087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 83,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2087,7 +2112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 84,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2112,7 +2137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 85,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -2137,7 +2162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 86,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2162,7 +2187,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 87,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, Networking; role shape: early-career SWE; downrank: security specialization; new-grad: confirmed",
+      "company_priority": "",
+      "company": "LPL Financial",
+      "role": "New Grad - 2027 - Cybersecurity",
+      "category": "Quantitative Finance",
+      "location": "United States",
+      "salary": "$61,485–$102,482/year",
+      "salary_max_annual": "102482",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-18",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://bebee.com/us/jobs/new-grad-2027-cybersecurity-lpl-financial-charlotte--ss-us-1vj3tqp",
+      "jd_excerpt": "New Grad 2027 - Cybersecurity Analyst - LPL Financial | BeBee Skip to main content Jobs People Radar Services Academy Resume Builder Blog Radar United States Jobs Security Engineer New Grad 2027 - Cybersecurity Analyst Back New Grad 2027 - Cybersecurity Analyst Technology LPL Financial Charlotte , United States $61,485 - $102,482 /year 1 month ago Until 11/8/2026 Full time Save Apply now Adapt my CV to this job Job description Where Ambition Meets Innovation Build a career that matches all your initiative with an impressive dose of innovation. From cutting-edge resources and a collaborative environment to the freedom to make an impact and more, you’ll find the ingredients you need at LPL Financial to shape your success while helping clients pursue their financial goals. Job Overview: The Cybersecurity New Grad role at LPL offers hands-on experience across a broad range of cybersecurity domains, including cloud security, network security, identity and access management (IAM), application security, and cyber risk management. Interns will support key cybersecurity operations such as threat monitoring, incident response, vulnerability management, and security compliance while developing practical experience with enterprise-grade security tools, technologies, and processes. This role provides a unique opportunity to build foundational cybersecurity skills while contributing to the protection of critical business systems and data. Responsibilities: Monitor security tools, dashboards, and alerts to identify potential threats, vulnerabilities, or suspicious activity Support incident response efforts by analyzing security events, documenting findings, and escalating issues when appropriate Assist with vulnerability assessments, review scan results, and help track remediation efforts Participate in cybersecurity engineering projects, including the implementation, configuration, and optimization of security technologies Support identity and access management processes, security reviews, and access governance activities Contribute to cloud security, application security, or network security initiatives as assigned Assist with cyber risk assessments, compliance activities, and security documentation Collaborate with cross-functional teams to improve the organization's security posture Research emerging cybersecurity threats, technologies, and industry best practices What are we looking for? We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates pursue greatness, act with integrity, and are driven to help our clients succeed. We value those who embrace creativity, continuous improvement, and contribute to a culture where we win together and create and share joy in our work. Requirements: Currently pursuing a bachelor’s or master’s degree in Cybersecurity, Computer Science, Information Systems, or related Information Technology, Computer Engineering, or a related field Graduation timeframe between May 2026 – June 2027 Ability to work on-site in an LPL primary office location Core Competencies: Curiosity for emerging technologies, cybersecurity trends, and evolving threat landscapes Foundational knowledge of cybersecurity principles, including authentication, encryption, access control, and network security Strong analytical, problem-solving, and communication skills Ability to learn quickly and collaborate effectively in a team environment Demonstrated interest in cybersecurity through coursework, projects, certifications, clubs, research, competitions, or prior internships Preferences: Previous internship experience within a large-scale enterprise environment Familiarity with Generative AI technologies and solutions Exposure to cybersecurity concepts and tools, such as Security Information and Event Management (SIEM), vulnerability management, Identity and Access Management (IAM), endpoint security, and cloud security Experience with scripting or automation (Python, PowerShell, Bash, etc.) Participation in cybersecurity clubs, Capture the Flag (CTF) competitions, or home lab projects Foundational knowledge of cloud platforms (AWS, Azure, or Google Cloud) Coursework in cybersecurity, networking, cloud computing, risk management, or secure software development Demonstrated interest in one or more cybersecurity domains, including security engineering, threat detection, incident response, penetration testing, cloud security, application security, IAM, or cyber risk management Priority Application Date: September 21 at 11:59 PM PST PLEASE NOTE: This role follows a priority application approach. Candidates who apply by this date will receive priority consideration, and we anticipate that most hiring decisions will be made following the priority application date. Candidates are encouraged to apply early, as applications will be reviewed on a rolling basis. Disclaimer for international students: At this time, for our early caree",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 88,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2187,7 +2237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 89,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -2212,7 +2262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 90,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2237,7 +2287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 91,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python, PyTorch, JAX; role shape: entry-level ML role; new-grad: likely",
@@ -2262,7 +2312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 92,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -2287,7 +2337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 93,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -2312,7 +2362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 94,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -2337,7 +2387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 95,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2362,7 +2412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 96,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2381,56 +2431,6 @@
       "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.amazon.jobs/jobs/10487557/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 95,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - AWS OpenSearch Service",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10477971/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 96,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Northrop Grumman",
-      "role": "2027 Systems Engineer - Pathways Program - Baltimore MD",
-      "category": "Infrastructure / Systems",
-      "location": "United States-Maryland-Baltimore",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says Entry-Level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-21",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
