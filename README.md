@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-10-31** · Open roles: **3083**
+> Last automated update: **2026-11-01** · Open roles: **3093**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 166 |
+| **Big Tech & Frontier AI** | 170 |
 | **AI Infra / Systems** | 21 |
 | **Quant / HFT** | 49 |
-| **Other high-value tech** | 33 |
+| **Other high-value tech** | 34 |
 | **ByteDance / TikTok** (separate) | 504 |
-| Other companies | 2310 |
+| Other companies | 2315 |
 
 ### Big Tech & Frontier AI
 
@@ -116,8 +116,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-10-30 | **TikTok** | [Research Scientist Graduate (Ads Creative) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a706e53419cf50d04e41829) | $128K/yr - $256K/yr | San Jose | ❔ | ✅ Confirmed | PhD only |
 | 2026-10-29 | **TikTok** | [Product Strategist Graduate (TikTok - Product - Business Analytics) - 2027 Start](https://jobright.ai/jobs/info/6ae2781e829a3bada160552b) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | — |
 | 2026-10-29 | **ByteDance** | [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7671160649137588485?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
-| 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video](https://go.vansh.nyc/KU) | $128000 - $316800 annually | San Jose, CA / Seattle, WA | ❔ | ✅ Confirmed | — |
-| 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, Conversational AI](https://go.vansh.nyc/HY) | $121600 - $243200 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video](https://go.vansh.nyc/KU) | $128000 - $316800 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
+| 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, Conversational AI](https://go.vansh.nyc/HY) | $121600 - $243200 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph](https://go.vansh.nyc/HR) | $121600 - $243200 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-10-26 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce User Growth](https://go.vansh.nyc/HT) | $121600 - $243200 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-10-26 | **ByteDance** | [Research Scientist Computational Imaging Graduate (Pico) - 2027 Start (PhD) - Graduate (PICO Lab) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6adf1fbe0a4cc7090f97d558) | $128K/yr - $317K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
@@ -130,7 +130,7 @@ _Showing 12 of 504 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **3083 active roles**. Featured groups account for **269** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3093 active roles**. Featured groups account for **274** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
