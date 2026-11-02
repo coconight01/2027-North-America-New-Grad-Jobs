@@ -3,14 +3,24 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-02. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
+      "company": "Ubiquant / 九坤投资",
+      "role": "Wutong Program - AI Algorithm Researcher / 【梧桐计划】AI算法研究员",
+      "status": "OA/Assessment",
+      "applied_date": null,
+      "status_date": "2026-11-02",
+      "confidence": "Exact role and exact assessment stage",
+      "evidence": "An official Ubiquant/Moka email on 2026-11-02 states that Yuhan advanced to the written assessment for 【梧桐计划】AI算法研究员. The assessment is valid for 14 days after the email, lasts 180 minutes once started, and covers programming, algorithms, mathematics and statistics.",
+      "next_action": "Reserve an uninterrupted three-hour block and complete the proctored assessment before the 14-day window expires; target November 15 Central to avoid deadline ambiguity. Use a camera-equipped computer and current Chrome."
+    },
+    {
       "company": "AXQ Capital",
       "role": "Machine Learning Infrastructure Engineer",
       "status": "Interview",
       "applied_date": null,
-      "status_date": "2026-10-22",
-      "confidence": "Exact current-stage role; relationship to the Quantitative Developer process is unconfirmed",
-      "evidence": "AXQ recruiter Tong Wang sent an exact-role interview confirmation on 2026-10-22 for Machine Learning Infrastructure Engineer. The next-round Zoom interview is scheduled for October 25, 2026, 9:00-10:00 p.m. Central with Wenyuan Li. The message does not explicitly link this title to the earlier Quantitative Developer OA, so the records remain separate.",
-      "next_action": "Prepare for and attend the October 25, 9:00-10:00 p.m. Central Zoom interview; test Zoom, network, camera and microphone beforehand."
+      "status_date": "2026-10-28",
+      "confidence": "Exact role and exact next-round stage",
+      "evidence": "AXQ sent an exact-role confirmation on 2026-10-28 stating that the Machine Learning Infrastructure Engineer candidacy advanced to another interview round on November 3, 2026, 7:30-9:30 p.m. Central.",
+      "next_action": "Prepare for and attend the November 3, 2026, 7:30-9:30 p.m. Central interview. Prioritize distributed-training bottleneck diagnosis, NCCL/collectives, vLLM cold start, scheduler/resource allocation, and AutoScout experimental results."
     },
     {
       "company": "NVIDIA",

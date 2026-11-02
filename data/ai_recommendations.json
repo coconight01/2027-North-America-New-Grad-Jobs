@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-31",
+  "updated_at": "2026-11-02",
   "reviewer": "ChatGPT semantic JD review",
-  "summary": "NEW SECONDARY OPTION: CLEAR Forward Deployed AI Engineer I (8259786) is officially live, requires 0-2 years and directly matches Yuhan's production AI-agent, Python, LLM application, evaluation and monitoring experience. It remains below the MLSys-focused Priority roles because it is product-facing applied AI rather than distributed training or inference infrastructure. Gmail contains no new exact application, assessment, rejection, interview or offer evidence since the previous review.",
+  "summary": "PROCESS UPDATE: Ubiquant / 九坤投资 advanced Yuhan to the exact Wutong Program AI Algorithm Researcher written assessment. The proctored exam lasts 180 minutes, covers programming, algorithms, mathematics and statistics, and remains valid for 14 days after the November 2 email. NEW SECONDARY: Amazon Software Development Engineer, Early Career - 2027 (US) (10583340) is officially live and is a useful generic distributed/backend hedge, though team placement is broad and not guaranteed to be ML infrastructure.",
   "changes_today": [
-    "NEW SECONDARY: CLEAR Forward Deployed AI Engineer I (8259786) is officially live with a 0-2 year screen, Python/backend requirements and production LLM-agent, RAG, evaluation, monitoring and guardrail ownership.",
-    "GMAIL: No new exact application confirmation, assessment, rejection, interview or offer since the previous review; AXQ remains at Interview for the November 3 next round.",
-    "OPENAI HOLD: AI Infrastructure Engineer, pAGI is officially live and is an exceptional training, evaluation, inference, scheduling and GPU-efficiency match, but remains non-actionable while the user-reported five-application cap is full.",
-    "PIPELINE: October 31 deterministic discovery and qualification completed successfully with no critical failures or warnings."
+    "OA/ASSESSMENT: Ubiquant / 九坤投资 advanced Yuhan to the exact 【梧桐计划】AI算法研究员 written assessment. The 180-minute exam covers programming, algorithms, mathematics and statistics and is valid for 14 days after the November 2 email.",
+    "NEW SECONDARY: Amazon Software Development Engineer, Early Career - 2027 (US) (10583340) is officially live with no professional-years minimum, rolling applications, broad US locations and $128,700-$148,100 starting pay.",
+    "AXQ: Machine Learning Infrastructure Engineer remains at Interview; the exact next round is November 3, 7:30-9:30 p.m. Central.",
+    "PIPELINE: November 2 deterministic discovery and qualification completed successfully with no critical failures or warnings."
   ],
   "recommendations": [
     {
@@ -53,15 +53,6 @@
       "location": "Santa Clara, CA or Richardson, TX · full-time; office policy not stated", "salary": "$72,000-$141,700 base", "new_grad": "Explicit 2027 New College Graduate; graduating BS/MS/PhD; GPA 3.0+; no professional-years minimum.",
       "sponsorship": "Unknown on the exact requisition.", "caveat": "The salary floor is below $100K, and low-level/kernel or accelerator familiarity is preferred. It is more integration and inference-lifecycle work than distributed-training research.", "urgency": "Official Workday page and active Apply control verified October 26; posted five days ago.",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055"
-    },
-    {
-      "rank": 7, "tier": "priority", "company": "Ubiquant", "role": "Wutong Program - AI Algorithm Researcher", "status": "MISSED-OLDER-ACTIVE", "fit": "4.5/5 · ML research / large-scale systems tuning / quant",
-      "why_screen": "The official 2027 campus role requires a quantitative STEM background, one of C++/Python/Go, a machine-learning specialty and a deep-learning framework, with no professional-years minimum. Python/PyTorch, AutoScout, production Agent engineering and distributed-training work match the core screen; NOI is an explicit preferred qualification.",
-      "why_team": "The team turns ML ideas into live systematic-investment models and explicitly values medium/large-scale ML-system tuning plus experience across pre-training, post-training or Agents. Yuhan offers unusually concrete evidence on both model infrastructure and agent systems.",
-      "why_interest": "This is a research-heavy quant path with substantial compute and engineering depth, not a low-latency C++-only developer screen. It provides a credible alternative if Yuhan wants to apply ML systems and experimentation to financial data for several years.",
-      "location": "Beijing or Shanghai · full-time campus hire", "salary": "Unknown", "new_grad": "2027 Wutong campus program; no numeric professional-years minimum; finance background explicitly not required.",
-      "sponsorship": "Mainland China; US sponsorship not applicable.", "caveat": "The day-to-day center is financial prediction, feature research and portfolio optimization rather than LLM serving. The official salary is unpublished. Ubiquant permits two applications in the current 2027 campus cycle, so choose this role ahead of the Quant Developer hedge.", "urgency": "Official Moka page and active Apply button re-verified October 18. The page states the two-application window runs from July 28, 2026 through July 28, 2027.",
-      "url": "https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/job/f607c4bc-bee9-4830-834a-4ca52e103288"
     },
     {
       "rank": 5, "tier": "priority", "company": "StepFun", "role": "Pre-train Algorithm Researcher (Model Training)", "status": "RECENT", "fit": "4.8/5 · distributed training / optimization research",
@@ -339,6 +330,15 @@
       "why_screen": "PyTorch, distributed training, profiling and fault-tolerance research map directly.", "why_team": "AutoScout/NCCL evidence is relevant to training efficiency, scaling and resilience.", "why_interest": "Frontier pre-training systems with unusually high MLSys upside.",
       "location": "SF / Seattle / New York · remote-friendly, at least 25% office", "salary": "$350,000-$850,000", "new_grad": "Advanced degree and significant engineering depth; no fixed numeric years minimum.", "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale production ownership and significant engineering experience are screen risks.", "urgency": "Official Greenhouse requisition remains live.",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
+    },
+    {
+      "rank": 5, "tier": "secondary", "company": "Amazon", "role": "Software Development Engineer, Early Career - 2027 (US) (10583340)", "status": "RECENT", "fit": "3.9/5 · broad distributed/backend early-career hedge",
+      "why_screen": "The exact official role accepts a current or in-progress bachelor's or master's in a related STEM field, one general-purpose language, data structures, algorithms or OOP, and AI-assisted development experience, with no professional-years minimum. Yuhan's UIUC MSCS, Python, NOI Silver, TikTok production engineering, AutoScout and distributed-systems work comfortably clear the baseline.",
+      "why_team": "Amazon teams need engineers who can break down ambiguous problems, build scalable reliable services, debug production failures, use CI/CD and participate in on-call. Yuhan's production AI-agent ownership, Linux profiling and systems experimentation transfer well, even though the exact team is not fixed.",
+      "why_interest": "This is a useful high-quality generic SWE hedge with broad team mobility and possible distributed-systems scope. It should remain below direct MLSys, inference and distributed-training roles because placement may be product or backend work unrelated to ML infrastructure.",
+      "location": "Arlington, Austin, Boston, Denver, Detroit, Madison, Minneapolis, Santa Clara, or Seattle · onsite/hybrid policy not stated", "salary": "$128,700 starting pay in listed locations; $148,100 in Santa Clara", "new_grad": "Explicit Early Career - 2027; bachelor's or master's in progress or completed; no numeric professional-years minimum; exact graduation window not stated.",
+      "sponsorship": "Unknown. The exact official requisition does not promise or deny sponsorship.", "caveat": "Team assignment is broad and distributed-systems scope explicitly varies by team; there is no guarantee of ML infrastructure, training or inference work. AWS/cloud exposure is preferred but not required.", "urgency": "Official Amazon page and Apply control verified live November 2. Applications are accepted on an ongoing basis; no fixed deadline.",
+      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
     }
   ],
   "review_only": [
@@ -360,6 +360,7 @@
     {"company": "Google", "role": "Software Engineer, Early Career, Campus", "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750", "reason": "The tracker has a likely matching application whose confirmation omitted the requisition ID; verify the Google portal before a duplicate application."}
   ],
   "watch_hold": [
+    {"company":"Ubiquant / 九坤投资","role":"Wutong Program - AI Algorithm Researcher / 【梧桐计划】AI算法研究员","status":"OA/Assessment November 2: the exact official Moka email advances Yuhan to a 180-minute proctored assessment covering programming, algorithms, mathematics and statistics. The link is valid for 14 days after the email. Target completion by November 15 Central to avoid deadline ambiguity; suppress this exact role from actionable recommendations."},
     {"company":"NVIDIA","role":"High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237)","status":"Applied October 26; exact NVIDIA Workday confirmation names the title and JR2028237. Suppress only this requisition and wait for review."},
     {"company":"NVIDIA","role":"Software Engineer, Deep Learning Libraries - New College Graduate 2026 (JR2023252)","status":"Closed October 26: NVIDIA HR named exact requisition JR2023252 and stated that NVIDIA is no longer recruiting for the role. The tracker uses Rejected for terminal processes but records explicitly that this is a requisition closure, not a merit-based candidate rejection. Suppress only JR2023252."},
     {"company":"Applied Intuition","role":"Research Engineer - New Grad (2027)","status":"Applied Aug 19; exact tracker record. The official Ashby requisition remains live and is a strong distributed-training/research match, but do not submit a duplicate application."},
@@ -408,7 +409,7 @@
     {"company": "Gimlet Labs", "role": "Member of Technical Staff - ML Systems & Inference", "status": "Rejected Oct 7; exact official update; suppress this requisition. Do not conflate it with the separate Distributed Systems role."},
     {"company": "AppLovin / Anthropic Inference / Together / Baseten / Luma / Amazon 10558915 / Replit / LiteLLM", "role": "Previously confirmed exact roles", "status": "Applied; suppress exact-role repeats."},
     {"company": "IMC", "role": "Quant Performance Engineer (4823836101)", "status": "Applied exact role; keep separate from Graduate Deep Learning Researcher and Graduate Quantitative Researcher."},
-    {"company": "AXQ Capital", "role": "Machine Learning Infrastructure Engineer", "status": "Interview pending outcome: the October 25, 9:00-10:00 p.m. Central interview with Wenyuan Li has passed, and Gmail contains no result email as of October 26. The title is exact from the confirmation email; its relationship to the older Quantitative Developer OA is unconfirmed, so keep the two records separate."},
+    {"company": "AXQ Capital", "role": "Machine Learning Infrastructure Engineer", "status": "Interview: exact next round is November 3, 2026, 7:30-9:30 p.m. Central. Prepare distributed-training bottleneck analysis, NCCL/collectives, vLLM cold start, scheduler/resource allocation and AutoScout experimental design/results."},
     {"company": "DRW", "role": "Software Developer", "status": "Rejected after interview October 23; exact official email. Suppress only this Software Developer process and keep distinct requisitions independent."},
     {"company": "NVIDIA China / Goaly / DeepSeek", "role": "Existing assessments or interview processes", "status": "No new exact official result email found October 26; preserve existing exact or uncertain status without inference."}
   ]
