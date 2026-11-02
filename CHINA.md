@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-11-02** · Open roles: **184**
+> Last automated update: **2026-11-02** · Open roles: **187**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -9,6 +9,8 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | Posted | Company | Role | Track | Location | Type | Eligibility |
 |---|---|---|---|---|---|---|
 | 2026-11-02 | **Alpha2 (平方和)** | [校招-AI研究员](https://app.mokahr.com/campus-recruitment/alpha2fund/151124#/job/0ad4d02e-03d3-41b3-bd39-71767369f8eb) | AI / ML | China | 全职 | Likely campus |
+| 2026-11-02 | **StepFun (阶跃星辰)** | [基础安全工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/23041318-9361-46b4-8872-44e222f06e09) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-11-02 | **StepFun (阶跃星辰)** | [数据隐私安全工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/638440b1-5f63-4a78-898b-d6175457f7b9) | Software Engineering | 北京市 · 海淀区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-31 | **StepFun (阶跃星辰)** | [安卓稳定性工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/070e5aeb-543f-4762-af06-d8a38e21854f) | Software Engineering | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-29 | **Lingjun Investment (灵均)** | [SRE工程师](https://app.mokahr.com/social-recruitment/lingjuninvest/46355#/job/5072d580-b6eb-416b-86d9-ef2a0f9e68fe) | Software Engineering | 北京市 · 海淀区 | 全职 | Review eligibility |
 | 2026-10-27 | **StepFun (阶跃星辰)** | [Agent 开发与数据工程](https://app.mokahr.com/social-recruitment/step/94904#/job/ea5e2c38-eba0-47c4-8895-c651ceb0a4eb) | AI / ML | 上海市 · 徐汇区 | 全职 | Review eligibility |
@@ -25,8 +27,9 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-10-14 | **StepFun (阶跃星辰)** | [底软/驱动开发工程师（BSP)](https://app.mokahr.com/social-recruitment/step/94904#/job/7d39db55-7da3-49e0-a1a8-2e31e6f5f75d) | Software Engineering | 上海市 · 徐汇区 / 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-10-13 | **StepFun (阶跃星辰)** | [测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/c1d695b9-4263-4239-b74a-f462ce21c2ec) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-10-12 | **StepFun (阶跃星辰)** | [AI 安全研究员 / Research Scientist, AI Safety](https://app.mokahr.com/social-recruitment/step/94904#/job/8a05c70c-d9c1-4a70-a08c-dc07fc3fc597) | AI / ML | 北京市 · 海淀区 | 全职 | Review eligibility |
-| 2026-09-30 | **StepFun (阶跃星辰)** | [影像测试工程师(AI功能)](https://app.mokahr.com/social-recruitment/step/94904#/job/d0c8c8bb-4951-4d72-ac8d-5b51a7a42a83) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-09-30 | **StepFun (阶跃星辰)** | [影像 AI 新特性测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/d0c8c8bb-4951-4d72-ac8d-5b51a7a42a83) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-28 | **StepFun (阶跃星辰)** | [开放平台风控产品工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/9db3488b-605d-464e-8194-564e1ffadc73) | Quantitative Finance | 上海市 · 徐汇区 | 全职 | Review eligibility |
+| 2026-09-27 | **StepFun (阶跃星辰)** | [多媒体测试工程师（音视频）](https://app.mokahr.com/social-recruitment/step/94904#/job/3f7dd71d-45a4-4a22-9357-b43929e08be2) | Software Engineering | 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [IOT软件平台类-研发管理部专项](https://app.mokahr.com/social-recruitment/step/94904#/job/f55c752f-4027-4fea-b9fa-2ca9c0deff97) | Software Engineering | 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [影像应用软件工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/0044db65-7aa7-4fe8-bacb-4164ad57e690) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-23 | **StepFun (阶跃星辰)** | [显示电子工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/e6eafb84-a45c-444d-bcb8-531d41249382) | Software Engineering | 上海市 · 徐汇区 | 全职 | Review eligibility |
