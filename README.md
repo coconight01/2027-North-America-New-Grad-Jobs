@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-01** · Open roles: **3131**
+> Last automated update: **2026-11-02** · Open roles: **3131**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 170 |
 | **AI Infra / Systems** | 21 |
 | **Quant / HFT** | 49 |
-| **Other high-value tech** | 33 |
+| **Other high-value tech** | 32 |
 | **ByteDance / TikTok** (separate) | 542 |
-| Other companies | 2316 |
+| Other companies | 2317 |
 
 ### Big Tech & Frontier AI
 
@@ -112,17 +112,17 @@ The README is intentionally company-diverse: at most two active roles per compan
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-11-01 | **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live](https://go.vansh.nyc/16x) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)](https://go.vansh.nyc/170) | $121600 - $243200 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: LLM Post-training Engineer (Research & Product)](https://go.vansh.nyc/16Y) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)](https://go.vansh.nyc/171) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o) | $128000 - $316800 annually | San Jose, CA / Seattle, WA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o) | $128000 - $316800 annually | San Jose, CA +2 | ❔ | ✅ Confirmed | — |
 
 _Showing 12 of 542 active roles. Use the Job Radar for all roles._
 
@@ -130,7 +130,7 @@ _Showing 12 of 542 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **3131 active roles**. Featured groups account for **273** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3131 active roles**. Featured groups account for **272** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

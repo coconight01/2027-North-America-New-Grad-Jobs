@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-02",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,7 +27,7 @@
       "fill": 0
     },
     "priority_company_candidates": 310,
-    "new_job_candidates": 157,
+    "new_job_candidates": 119,
     "high_potential_title_candidates": 390
   },
   "veto_counts": {
@@ -115,31 +115,6 @@
       "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, CUDA, Distributed Systems; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "",
-      "company": "Pangle",
-      "role": "AI Compute Systems Engineer (PhD Grad) 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "San Jose, CA",
-      "salary": "$162,000–$317,000",
-      "salary_max_annual": "317000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says recent graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-10-02",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.jobleads.com/us/job/ai-compute-systems-engineer-phd-grad-2027-start--san-jose--ef81ed3a88c06248032535ec56e66c80b",
-      "jd_excerpt": "AI Compute Systems Engineer (PhD Grad) 2027 Start | San Jose | JobLeads.com Save this job Log in I’m interested AI Compute Systems Engineer (PhD Grad) 2027 Start ByteDance San Jose (CA) Hybrid USD 162,000 - 317,000 Full time 14 days+ Get a reply from this employer Your resume and cover letter, tailored to exactly what they’re hiring for. Get past ATS filters Generate application Job summary ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Qualifications PhD in Software Development, Computer Science, Computer Engineering, or related technical discipline. Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking. Hands-on experience building cloud or ML infrastructure including resource management, scheduling, monitoring, or orchestration. Solid knowledge of container and orchestration technologies (Docker, Kubernetes). Proficiency in Go, Rust, Python, or C++. Responsibilities Design and build large-scale, container-based cluster management and orchestration systems with extreme performance and scalability. Architect next-generation cloud-native GPU and AI accelerator infrastructure for cost-efficient ML platforms. Collaborate across teams to deliver inference solutions using various LLM engines. Stay current with open source, AI/ML and LLM infrastructure, and integrate best practices into production systems. Write high-quality, production-ready code that is maintainable and testable. Skills Large model inference Distributed systems High-performance networking Container orchestration Go Rust Python C++ Education PhD in Software Development / CS / CE Tools Docker Kubernetes Job description Software Engineer Graduate (AI Compute) - 2027 Start (PhD) Location: San Jose Team: Technology Employment Type: Regular Job Code: A215790A Share this listing: Responsibilities About the TeamThe Inference Infrastructure team is the creator and open-source maintainer of AIBrix, a Kubernetes-native control plane for large-scale LLM inference. We are part of ByteDance’s Core Compute Infrastructure organization, responsible for designing and operating the platforms that power microservices, big data, distributed storage, machine learning training and inference, and edge computing across multi-cloud and global datacenters.With ByteDance's rapidly growing businesses and a global fleet of machines running hundreds of millions of containers daily, we are building the next generation of cloud-native, GPU-optimized orchestration systems. Our mission is to deliver infrastructure that is highly performant, massively scalable, cost-efficient, and easy to use—enabling both internal and external developers to bring AI workloads from research to production at scale.We are expanding our focus on LLM inference infrastructure to support new AI workloads, and are looking for engineers passionate about cloud-native systems, scheduling, and GPU acceleration. You'll work in a hyper-scale environment, collaborate with world-class engineers, contribute to the open-source community, and help shape the future of AI inference infrastructure globally.We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.Responsibilities- Design and build large-scale, container-based cluster management and orchestration systems with extreme performance, scalability, and resilience.- Architect next-generation cloud-native GPU and AI accelerator infrastructure to deliver cost-efficient and secure ML platforms.- Collaborate across teams to deliver world-class inference solutions using vLLM, SGLang, TensorRT-LLM, and other LLM engines.- Stay current with the latest advances in open source (Kubernetes, Ray, etc.), AI/ML and LLM infrastructure, and systems research; integrate best practices into production systems.- Write high-quality, production-ready code that is maintainable, testable, and scalable. Qualifications Minimum Qualifications:- Individuals who are completing or have recently completed a PhD degree in Software Development, Computer Science, Computer Engineering, or a related technical discipline.- Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking systems.- Hands-on experience building cloud or ML infrastructure in areas such ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 5,
-      "machine_score": 100,
-      "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, Linux, Networking, Kubernetes; role shape: systems/performance role",
       "company_priority": "",
       "company": "Hive",
@@ -162,7 +137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 99,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -187,7 +162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -212,7 +187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -237,7 +212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
@@ -262,7 +237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -287,7 +262,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -310,6 +285,31 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 11,
+      "machine_score": 100,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, CUDA, Distributed Systems; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "",
+      "company": "Pangle",
+      "role": "AI Compute Systems Engineer (PhD Grad) 2027 Start",
+      "category": "AI / Machine Learning",
+      "location": "San Jose, CA",
+      "salary": "$162,000–$317,000",
+      "salary_max_annual": "317000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says recent graduate",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-10-02",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.jobleads.com/us/job/ai-compute-systems-engineer-phd-grad-2027-start--san-jose--ef81ed3a88c06248032535ec56e66c80b",
+      "jd_excerpt": "AI Compute Systems Engineer (PhD Grad) 2027 Start | San Jose | JobLeads.com Save this job Log in I’m interested AI Compute Systems Engineer (PhD Grad) 2027 Start ByteDance San Jose (CA) Hybrid USD 162,000 - 317,000 Full time 14 days+ Get a reply from this employer Your resume and cover letter, tailored to exactly what they’re hiring for. Get past ATS filters Generate application Job summary ByteDance’s Inference Infrastructure team is hiring a Software Engineer Graduate (AI Compute) in San Jose to join the Kubernetes-native control plane for large-scale LLM inference. You will work on cloud-native GPU and AI accelerator infrastructure, contributing to open-source and production-grade systems. As a PhD candidate or recent graduate, you will collaborate across teams to push performance, scalability, and cost-efficiency in AI workloads, with opportunities to influence next-gen Qualifications PhD in Software Development, Computer Science, Computer Engineering, or related technical discipline. Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking. Hands-on experience building cloud or ML infrastructure including resource management, scheduling, monitoring, or orchestration. Solid knowledge of container and orchestration technologies (Docker, Kubernetes). Proficiency in Go, Rust, Python, or C++. Responsibilities Design and build large-scale, container-based cluster management and orchestration systems with extreme performance and scalability. Architect next-generation cloud-native GPU and AI accelerator infrastructure for cost-efficient ML platforms. Collaborate across teams to deliver inference solutions using various LLM engines. Stay current with open source, AI/ML and LLM infrastructure, and integrate best practices into production systems. Write high-quality, production-ready code that is maintainable and testable. Skills Large model inference Distributed systems High-performance networking Container orchestration Go Rust Python C++ Education PhD in Software Development / CS / CE Tools Docker Kubernetes Job description Software Engineer Graduate (AI Compute) - 2027 Start (PhD) Location: San Jose Team: Technology Employment Type: Regular Job Code: A215790A Share this listing: Responsibilities About the TeamThe Inference Infrastructure team is the creator and open-source maintainer of AIBrix, a Kubernetes-native control plane for large-scale LLM inference. We are part of ByteDance’s Core Compute Infrastructure organization, responsible for designing and operating the platforms that power microservices, big data, distributed storage, machine learning training and inference, and edge computing across multi-cloud and global datacenters.With ByteDance's rapidly growing businesses and a global fleet of machines running hundreds of millions of containers daily, we are building the next generation of cloud-native, GPU-optimized orchestration systems. Our mission is to deliver infrastructure that is highly performant, massively scalable, cost-efficient, and easy to use—enabling both internal and external developers to bring AI workloads from research to production at scale.We are expanding our focus on LLM inference infrastructure to support new AI workloads, and are looking for engineers passionate about cloud-native systems, scheduling, and GPU acceleration. You'll work in a hyper-scale environment, collaborate with world-class engineers, contribute to the open-source community, and help shape the future of AI inference infrastructure globally.We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.Responsibilities- Design and build large-scale, container-based cluster management and orchestration systems with extreme performance, scalability, and resilience.- Architect next-generation cloud-native GPU and AI accelerator infrastructure to deliver cost-efficient and secure ML platforms.- Collaborate across teams to deliver world-class inference solutions using vLLM, SGLang, TensorRT-LLM, and other LLM engines.- Stay current with the latest advances in open source (Kubernetes, Ray, etc.), AI/ML and LLM infrastructure, and systems research; integrate best practices into production systems.- Write high-quality, production-ready code that is maintainable, testable, and scalable. Qualifications Minimum Qualifications:- Individuals who are completing or have recently completed a PhD degree in Software Development, Computer Science, Computer Engineering, or a related technical discipline.- Strong understanding of large model inference, distributed and parallel systems, and/or high-performance networking systems.- Hands-on experience building cloud or ML infrastructure in areas such ",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 12,
@@ -581,7 +581,7 @@
       "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
       "official_source": false,
       "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply S&P Global Global Head of Technology, Private Markets New York, NY Just now Senior Level Software Engineering Apply S&P Global Index Design R&D Team Manager, Director New York, NY +1 more Just now Senior Level Finance Apply S&P Global Zero Trust & Microsegmentation Engineer Princeton, NJ +1 more Just now Mid Level Software Engineering Apply S&P Global Associate, Bonds Data New York, NY Just now Not Specified Finance Apply CVS Health Pharmacy Intern - Grad Lyman, SC Just now Internship Healthcare Apply AbbVie Director, Immunology Public Affairs- Dermatology Mettawa, IL 1h ago Senior Level Operations Apply brex Director, Performance Marketing Salt Lake City, UT 1h ago Senior Level Marketing Apply brex Director, Performance Marketing Seattle, WA 1h ago Senior Level Marketing Apply brex Director, Performance Marketing New York, NY 1h ago Senior Level Marketing Apply brex Director, Performance Marketing San Francisco, CA 1h ago Senior Level Marketing Apply S&P Global Just now Global Head of Technology, Private Markets New York, NY Senior Level Software Engineering Apply Now S&P Global Just now Index Design R&D Team Manager, Director New York, NY +1 more Senior Level Finance Apply Now S&P Global Just now Zero Trust & Microsegmentation Engineer Princeton, NJ +1 more Mid Level Software Engineering Apply Now S&P Global Just now Associate, Bonds Data New York, NY Not Specified Finance Apply Now CVS Health Just now Pharmacy Intern - Grad Lyman, SC Internship Healthcare Apply Now AbbVie 1h ago Director, Immunology Public Affairs- Dermatology Mettawa, IL Senior Level Operations Apply Now brex 1h ago Director, Performance Marketing Salt Lake City, UT Senior Level Marketing Apply Now brex 1h ago Director, Performance Marketing Seattle, WA Senior Level Marketing Apply Now brex 1h ago Director, Performance Marketing New York, NY Senior Level Marketing Apply Now brex 1h ago Director, Performance Marketing San Francisco, CA Senior Level Marketing Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply Bristol Myers Squibb Senior Electrical Engineer Devens - MA - US Just now Senior Level Hardware Engineering Apply Northrop Grumman Associate Software Configuration Analyst/Software Configuration Analyst Melbourne, FL Just now Mid Level Software Engineering Apply Eurofins Senior Software Engineer (.NET core full stack - Angular) Bengaluru, IN Just now Senior Level Software Engineering Apply Blue Origin MK1-Avionics Harness Design Engineer II Greater Seattle Area +1 more Just now Mid Level Hardware Engineering Apply Blue Origin Senior Mission Operations Engineer Reston, VA +1 more Just now Senior Level Hardware Engineering Apply Blue Origin Senior Manager, Embedded Software - Engines Greater Seattle Area +1 more Just now Senior Level Software Engineering Apply Blue Origin Launch Operations Engineer (All levels) Space Coast, FL Just now Mid Level Hardware Engineering Apply Crowdstrike Detection Engineer, Falcon Complete (Remote) Remote USA Just now Mid Level Software Engineering Apply Plaid Data Scientist - Credit (Retros) New York City Office Just now Mid Level Data Science Apply Plaid Machine Learning Engineer - Lendscore New York City Office Just now Mid Level Data Science Apply Bristol Myers Squibb Just now Senior Electrical Engineer Devens - MA - US Senior Level Hardware Engineering Apply Now Northrop Grumman Just now Associate Software Configuration Analyst/Software Configuration Analyst Melbourne, FL Mid Level Software Engineering Apply Now Eurofins Just now Senior Software Engineer (.NET core full stack - Angular) Bengaluru, IN Senior Level Software Engineering Apply Now Blue Origin Just now MK1-Avionics Harness Design Engineer II Greater Seattle Area +1 more Mid Level Hardware Engineering Apply Now Blue Origin Just now Senior Mission Operations Engineer Reston, VA +1 more Senior Level Hardware Engineering Apply Now Blue Origin Just now Senior Manager, Embedded Software - Engines Greater Seattle Area +1 more Senior Level Software Engineering Apply Now Blue Origin Just now Launch Operations Engineer (All levels) Space Coast, FL Mid Level Hardware Engineering Apply Now Crowdstrike Just now Detection Engineer, Falcon Complete (Remote) USA Mid Level Software Engineering Remote Apply Now Plaid Just now Data Scientist - Credit (Retros) New York City Office Mid Level Data Science Apply Now Plaid Just now Machine Learning Engineer - Lendscore New York City Office Mid Level Data Science Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Career Tips Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company nam",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -888,31 +888,6 @@
     },
     {
       "machine_rank": 35,
-      "machine_score": 67,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Sambanovasystems",
-      "role": "ML Infrastructure Engineer - New Grad",
-      "category": "Infrastructure / Systems",
-      "location": "Austin, Texas, United States / San Jose, California, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-29",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://sambanova.ai/sambanova-available-positions?gh_jid=6224938004",
-      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 36,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed",
@@ -932,6 +907,31 @@
       "official_source": false,
       "url": "https://www.amazon.jobs/jobs/10593902/apply",
       "jd_excerpt": "Software Development Engineer (Database) Early Career- 2027 (US) - Job ID: 10593902 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ Software Development Engineer (Database) Early Career- 2027 (US) Job ID: 10593902 | Amazon.com Services LLC Apply now Description There’s a universe of opportunity at Amazon. At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you’re part of something big: building products or services that reach millions and shaping how people live, work, and connect every day. This is where your ideas turn into real impact. You’ll work with world class tools, global platforms, and systems built to operate at an extraordinary scale. You’ll move fast, experiment and launch solutions that matter. With endless opportunities to explore across teams and roles, you’ll learn quickly, apply what you know and discover skills you didn’t know existed. This is an environment designed for builders who want to see the impact of their work in the world. Ready to start your adventure? What’s in it for you? With teams across the Amazon universe, you don’t have to choose one path too early. You’ll take ownership, build new skills, and shape a career that evolves as you do Key job responsibilities Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward. Break down complex, ambiguous problems into well-defined, solvable components before implementation. Contribute to the design and development of scalable, reliable services, with distributed-systems scope varying by team. Conduct code reviews as a core engineering practice, providing constructive feedback and validating correctness. Contribute to clear and accurate technical documentation. Use GenAI and AI-powered tools to enhance development productivity, and critically validate, verify, and integrate AI-generated code, exercising sound judgement about when to trust AI output. Write clean, maintainable code following best practices and design patterns. Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties. Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues. Basic Qualifications - Are 18 years of age or older - Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript - Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles - Experience using AI-assisted development tools in academic or professional settings - Currently has, or is in the process of obtaining a bachelor's or master’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields Preferred Qualifications - Experience from previous technical internship(s) or demonstrated project experience - Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems - Demonstrated ability to learn and adapt to new technologies quickly - Basic understanding of software development lifecycle (SDLC) - Strong problem-solving and analytical skills - Excellent written and verbal communication skills Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our incl",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Sambanovasystems",
+      "role": "ML Infrastructure Engineer - New Grad",
+      "category": "Infrastructure / Systems",
+      "location": "Austin, Texas, United States / San Jose, California, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-29",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://sambanova.ai/sambanova-available-positions?gh_jid=6224938004",
+      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaCloud SambaStack Technology SambaRack RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises Government & Public Sector Developers Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1038,31 +1038,6 @@
     },
     {
       "machine_rank": 41,
-      "machine_score": 62,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
-      "company_priority": "",
-      "company": "Guidewire",
-      "role": "Junior AI Engineer- Applied AI",
-      "category": "AI / Machine Learning",
-      "location": "Remote - USA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-22",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1087,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1112,7 +1087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Kubernetes; $200k+ stated ceiling",
@@ -1137,7 +1112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1162,7 +1137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1187,32 +1162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Twitch",
-      "role": "Software Engineer I",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "salary": "$110,500–$160,000",
-      "salary_max_annual": "160000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Software Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-22",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 48,
+      "machine_rank": 46,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1237,7 +1187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 47,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1262,7 +1212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 48,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1287,7 +1237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 49,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1312,57 +1262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
-      "machine_score": 67,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "iManage",
-      "role": "Applied AI Engineer - New or Recent Grad",
-      "category": "AI / Machine Learning",
-      "location": "Chicago, IL",
-      "salary": "$100,000–$130,000 per year",
-      "salary_max_annual": "130000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Recent Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-02",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 53,
-      "machine_score": 66,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Adobe",
-      "role": "2027 University Graduate - Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "Seattle, WA (+6 others)",
-      "salary": "$102,400–$202,250/year",
-      "salary_max_annual": "202250",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Graduate",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-02",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 54,
+      "machine_rank": 50,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: C++, Python, Linux; role shape: entry-level ML role",
@@ -1387,7 +1287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -1412,7 +1312,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 52,
+      "machine_score": 62,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
+      "company_priority": "",
+      "company": "Guidewire",
+      "role": "Junior AI Engineer- Applied AI",
+      "category": "AI / Machine Learning",
+      "location": "Remote - USA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 53,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1437,32 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Pinterest",
-      "role": "PhD University Grad Machine Learning Engineer - USA",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA +2",
-      "salary": "$191k/yr",
-      "salary_max_annual": "191000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-02",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 58,
+      "machine_rank": 54,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
@@ -1487,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 55,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
@@ -1512,7 +1412,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 56,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Twitch",
+      "role": "Software Engineer I",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "salary": "$110,500–$160,000",
+      "salary_max_annual": "160000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Software Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-22",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 57,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role; new-grad: likely",
@@ -1537,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 58,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1562,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 59,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -1587,7 +1512,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 60,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "iManage",
+      "role": "Applied AI Engineer - New or Recent Grad",
+      "category": "AI / Machine Learning",
+      "location": "Chicago, IL",
+      "salary": "$100,000–$130,000 per year",
+      "salary_max_annual": "130000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Recent Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 61,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1612,7 +1562,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1587,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
+      "machine_score": 66,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Adobe",
+      "role": "2027 University Graduate - Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Seattle, WA (+6 others)",
+      "salary": "$102,400–$202,250/year",
+      "salary_max_annual": "202250",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Graduate",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 64,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1662,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1687,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1712,7 +1687,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1737,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1762,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 69,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1787,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1812,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 71,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1837,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 72,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1862,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 73,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1887,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 74,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1912,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 75,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1937,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 76,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1962,7 +1937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 77,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1985,6 +1960,31 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 78,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "PhD University Grad Machine Learning Engineer - USA",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA +2",
+      "salary": "$191k/yr",
+      "salary_max_annual": "191000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 79,
