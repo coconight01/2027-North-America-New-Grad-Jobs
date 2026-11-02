@@ -2,6 +2,33 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: Amazon
+    role: Software Development Engineer, Early Career - 2027 (US) (10583340)
+    category: Distributed / Backend Software Engineering
+    location: Arlington, Austin, Boston, Denver, Detroit, Madison, Minneapolis, Santa Clara, or Seattle
+    country: United States
+    graduation: "2027 early career; exact graduation window not stated"
+    start_date: Unknown
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: "The exact posting does not promise or deny sponsorship"
+    citizenship_required: "No"
+    salary: "$128700 annually; $148100 in Santa Clara"
+    salary_min_annual: 128700
+    salary_max_annual: 148100
+    phd_required: "No"
+    personalized_score: 82
+    priority: Medium
+    personalized_reason: "A strong generic early-career hedge: Python, algorithms, distributed-systems research, production engineering and complex-system debugging all transfer, though team placement is broad and not guaranteed to be ML infrastructure"
+    skills: "Python, Algorithms, Data Structures, Distributed Systems, Cloud, CI/CD, Monitoring, Debugging"
+    url: https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us
+    source: "Manual official verification: Amazon Jobs"
+    date_added: "2026-11-02"
+    last_verified: "2026-11-02"
+    status: Open
+    match: "Official full-time Early Career 2027 role; live Apply control; no professional-years minimum"
+    description: "Design, build and operate scalable reliable services across Amazon teams. The exact role accepts a bachelor's or master's in a related STEM field, one general-purpose language, data structures, algorithms or OOP, and AI-assisted development experience. Distributed-systems scope varies by team; applications are accepted on an ongoing basis."
+
   - company: CLEAR
     role: Forward Deployed AI Engineer I (8259786)
     category: Applied LLM / Agents
