@@ -1,8 +1,8 @@
 {
   "configured": true,
-  "validation_outcome": "success",
-  "discovery_outcome": "success",
-  "postprocess_outcome": "success",
-  "checked_at_utc": "2026-11-02T18:51:29+00:00",
+  "validation_outcome": "failure",
+  "discovery_outcome": "skipped",
+  "postprocess_outcome": "skipped",
+  "checked_at_utc": "2026-11-03T16:36:31+00:00",
   "note": "Google/SerpAPI is an optional discovery source; its failure does not fail the main job pipeline."
 }
