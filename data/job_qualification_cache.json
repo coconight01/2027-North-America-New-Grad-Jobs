@@ -21349,6 +21349,22 @@
     "checked_at": "2026-09-17",
     "parser_version": 4
   },
+  "https://job-boards.greenhouse.io/verkada/jobs/5280545007": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says University Graduate",
+    "experience_requirement": "",
+    "citizenship_required": "No",
+    "sponsorship": "Yes",
+    "visa_evidence": "The exact official posting states that Verkada sponsors and takes over sponsorship of employment visas and will make every reasonable effort to obtain a visa after an offer",
+    "phd_required": "No",
+    "salary": "$120,000\u2013$140,000",
+    "salary_min_annual": "120000",
+    "salary_max_annual": "140000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-03",
+    "parser_version": 4
+  },
   "https://job-boards.greenhouse.io/vestmark/jobs/8009953": {
     "ng_confidence": "Not NG",
     "ng_evidence": "requires 2+ years professional/work experience",
@@ -25679,6 +25695,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-10-28",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6a71f1fa02d93145bf891776": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "outside target technical roles: Workplace Health and Safety",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "outside target technical roles: Workplace Health and Safety",
+    "source_fetched": true,
+    "checked_at": "2026-11-03",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a71fa5071acd469eeda52ad": {
@@ -32802,8 +32834,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a96fc6bf5337b2cf731f13a": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -32813,7 +32845,7 @@
     "salary_min_annual": "210000",
     "salary_max_annual": "210000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-03",
     "parser_version": 4
   },
@@ -40990,7 +41022,7 @@
     "salary_max_annual": 86000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-13",
+    "checked_at": "2026-11-03",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab190bc23005eee3545b30e": {

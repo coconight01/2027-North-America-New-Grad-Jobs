@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-03** · Open roles: **3138**
+> Last automated update: **2026-11-03** · Open roles: **3136**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,7 +18,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 170 |
+| **Big Tech & Frontier AI** | 168 |
 | **AI Infra / Systems** | 21 |
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 32 |
@@ -111,12 +111,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America | ❔ | ❔ Review | — |
+| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America +2 | ❔ | ❔ Review | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live](https://go.vansh.nyc/16x) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)](https://go.vansh.nyc/170) | $121600 - $243200 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
@@ -130,7 +130,7 @@ _Showing 12 of 541 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **3138 active roles**. Featured groups account for **271** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3136 active roles**. Featured groups account for **269** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
