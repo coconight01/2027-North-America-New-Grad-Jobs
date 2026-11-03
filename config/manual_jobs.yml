@@ -2,6 +2,60 @@
 # Add entries under `jobs:` using the same fields as data/jobs.csv.
 
 jobs:
+  - company: Verkada
+    role: Backend Software Engineer - University Graduate 2027 (5280545007)
+    category: Distributed / Backend Software Engineering
+    location: San Mateo, CA
+    country: United States
+    graduation: "University Graduate 2027"
+    start_date: "2027"
+    degree: BS/MS
+    sponsorship: "Yes"
+    visa_evidence: "The exact official posting states that Verkada sponsors and takes over sponsorship of employment visas and will make every reasonable effort to obtain a visa after an offer"
+    citizenship_required: "No"
+    salary: "$120000 - $140000 annually + possible bonus/equity"
+    salary_min_annual: 120000
+    salary_max_annual: 140000
+    phd_required: "No"
+    personalized_score: 91
+    priority: High
+    personalized_reason: "Explicit 2027 graduate backend role with Python/Go, high-concurrency distributed systems, Kafka, Redis/DynamoDB, Kubernetes and production ownership; TikTok and AutoScout provide a credible screen and sponsorship is explicit"
+    skills: "Python, Go, Distributed Systems, Redis, DynamoDB, Kafka, SQS, Postgres, Kubernetes, Terraform, REST APIs"
+    url: https://job-boards.greenhouse.io/verkada/jobs/5280545007
+    source: "Manual official verification: Verkada Greenhouse"
+    date_added: "2026-11-03"
+    last_verified: "2026-11-03"
+    status: Open
+    match: "Official University Graduate 2027 role; internship experience is accepted; explicit visa sponsorship; live application"
+    description: "Build high-concurrency distributed backend services for hundreds of thousands of devices using Python or Go, Redis/DynamoDB, Postgres, Kafka/SQS, Terraform and Kubernetes. Requires a related BS/MS, product-launch internship experience, Python or Go, REST familiarity and five days per week onsite in San Mateo."
+
+  - company: Amazon
+    role: Software Development Engineer (Database) Early Career - 2027 (US) (10593902)
+    category: Distributed Systems / Database Infrastructure
+    location: Austin, Boston, East Palo Alto, Redmond, or Seattle
+    country: United States
+    graduation: "2027 early career; exact graduation window not stated"
+    start_date: "2027"
+    degree: BS/MS
+    sponsorship: Unknown
+    visa_evidence: "The exact posting does not promise or deny sponsorship"
+    citizenship_required: "No"
+    salary: "$129000 annually; $148400 in East Palo Alto"
+    salary_min_annual: 129000
+    salary_max_annual: 148400
+    phd_required: "No"
+    personalized_score: 87
+    priority: High
+    personalized_reason: "A stronger systems hedge than Amazon's generic pool because the exact title targets database engineering; Python, algorithms, distributed-systems research, profiling and production debugging clear the early-career baseline"
+    skills: "Python, Algorithms, Data Structures, Distributed Systems, Databases, Cloud, CI/CD, Monitoring, Debugging"
+    url: https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us
+    source: "Manual official verification: Amazon Jobs"
+    date_added: "2026-11-03"
+    last_verified: "2026-11-03"
+    status: Open
+    match: "Official full-time Database Early Career 2027 role; live Apply control; no professional-years minimum"
+    description: "Design, build and operate scalable reliable services with distributed-systems scope, CI/CD, monitoring, troubleshooting and on-call responsibilities. The exact role accepts a related bachelor's or master's, one general-purpose language, data structures, algorithms or OOP, and AI-assisted development experience. Database exposure is preferred."
+
   - company: Amazon
     role: Software Development Engineer, Early Career - 2027 (US) (10583340)
     category: Distributed / Backend Software Engineering
