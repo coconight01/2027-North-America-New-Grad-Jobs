@@ -329,14 +329,21 @@ def test_tracker_overlay_coverage() -> str:
     )
     assert nvidia_llm.get("status") == "Applied", nvidia_llm
     assert nvidia_llm.get("confidence") == "Exact", nvidia_llm
-    for company in ("SambaNova Systems", "Jane Street"):
-        uncertain = next(
-            item for item in tracker.get("applications", [])
-            if item.get("company") == company
-            and item.get("role") == "Role uncertain (application confirmation received 2026-10-26)"
-        )
-        assert uncertain.get("status") == "Applied", uncertain
-        assert uncertain.get("confidence") == "Company-only", uncertain
+    samba = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "SambaNova Systems"
+        and item.get("role") == "Role uncertain (application confirmation received 2026-10-26)"
+    )
+    assert samba.get("status") == "Applied", samba
+    assert samba.get("confidence") == "Company-only", samba
+    jane = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Jane Street"
+        and item.get("role") == "Role uncertain (application confirmation received 2026-10-26)"
+    )
+    assert jane.get("status") == "Rejected", jane
+    assert jane.get("status_date") == "2026-11-02", jane
+    assert jane.get("confidence") == "Company-only", jane
     return "email/user overlays persist exact outcomes, company-only uncertainty, closures, and duplicate-repost guards"
 
 
