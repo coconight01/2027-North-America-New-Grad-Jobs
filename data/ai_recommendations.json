@@ -7,7 +7,8 @@
     "GMAIL: No new exact-role application confirmation, OA, interview, rejection or offer evidence arrived after November 3. AXQ remains Interview / awaiting outcome after the November 3 round; do not infer a result.",
     "TRACKER REPAIR: Restored Jane Street's November 2 company-level rejection and SambaNova's Portal Check / Hold instruction after a stale scheduled checkout overwrote those reviewed records.",
     "PIPELINE FIX: Both scheduled publishing workflows now preserve origin/main's human-reviewed application_tracker.json, matching the existing protection for ai_recommendations.json. This prevents concurrent discovery runs from rolling back evidence-backed statuses.",
-    "SOURCE REVIEW: Evaluated several actively maintained 2027 repositories, including WonOfAKind, ApplyGuy, HeadcountLabs, Ricsign, grind-fyi and ML/quant-focused feeds. No source was integrated today because the existing pipeline already overlaps heavily and the failed run prevented a clean unique-coverage measurement."
+    "SOURCE REVIEW: Evaluated several actively maintained 2027 repositories, including WonOfAKind, ApplyGuy, HeadcountLabs, Ricsign, grind-fyi and ML/quant-focused feeds. No source was integrated today because the existing pipeline already overlaps heavily and the failed run prevented a clean unique-coverage measurement.",
+    "FRONTIER REFRESH: Anthropic's old Pre-training requisition 4616971008 now redirects to the general board. A new exact Research Engineer / Scientist, Pre-training requisition (5468947008) is live with an Apply form; the Stretch record now points only to the current requisition."
   ],
   "recommendations": [
     {
@@ -311,10 +312,10 @@
       "url": "https://jobs.ashbyhq.com/gimlet/5e313d06-240e-44ef-87d2-318edf246f1f"
     },
     {
-      "rank": 8, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Research Scientist, Pre-training (4616971008)", "status": "MISSED-OLDER-ACTIVE", "fit": "4.8/5 technical · 2.8/5 screening",
+      "rank": 8, "tier": "stretch", "company": "Anthropic", "role": "Research Engineer / Scientist, Pre-training (5468947008)", "status": "NEW TODAY · UNLABELED EARLY-CAREER", "fit": "4.8/5 technical · 2.8/5 screening",
       "why_screen": "PyTorch, distributed training, profiling and fault-tolerance research map directly.", "why_team": "AutoScout/NCCL evidence is relevant to training efficiency, scaling and resilience.", "why_interest": "Frontier pre-training systems with unusually high MLSys upside.",
-      "location": "SF / Seattle / New York · remote-friendly, at least 25% office", "salary": "$350,000-$850,000", "new_grad": "Advanced degree and significant engineering depth; no fixed numeric years minimum.", "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale production ownership and significant engineering experience are screen risks.", "urgency": "Official Greenhouse requisition remains live.",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
+      "location": "SF / Seattle / New York · remote-friendly with travel; at least 25% office", "salary": "$500,000-$850,000", "new_grad": "Advanced degree (MS or PhD) and significant engineering experience; no fixed numeric years minimum.", "sponsorship": "Explicit reasonable efforts to sponsor visas.", "caveat": "Frontier-scale production ownership and significant engineering experience are screen risks. The published compensation floor also exceeds the normal unlabeled-role threshold, so treat this as a visible frontier exception, not a routine application.", "urgency": "New official Greenhouse requisition and active Apply form verified November 4; old requisition 4616971008 is closed/redirected.",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
     },
     {
       "rank": 5, "tier": "secondary", "company": "Amazon", "role": "Software Development Engineer, Early Career - 2027 (US) (10583340)", "status": "RECENT", "fit": "3.9/5 · broad distributed/backend early-career hedge",
