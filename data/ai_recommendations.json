@@ -8,7 +8,8 @@
     "TRACKER REPAIR: Restored Jane Street's November 2 company-level rejection and SambaNova's Portal Check / Hold instruction after a stale scheduled checkout overwrote those reviewed records.",
     "PIPELINE FIX: Both scheduled publishing workflows now preserve origin/main's human-reviewed application_tracker.json, matching the existing protection for ai_recommendations.json. This prevents concurrent discovery runs from rolling back evidence-backed statuses.",
     "SOURCE REVIEW: Evaluated several actively maintained 2027 repositories, including WonOfAKind, ApplyGuy, HeadcountLabs, Ricsign, grind-fyi and ML/quant-focused feeds. No source was integrated today because the existing pipeline already overlaps heavily and the failed run prevented a clean unique-coverage measurement.",
-    "FRONTIER REFRESH: Anthropic's old Pre-training requisition 4616971008 now redirects to the general board. A new exact Research Engineer / Scientist, Pre-training requisition (5468947008) is live with an Apply form; the Stretch record now points only to the current requisition."
+    "FRONTIER REFRESH: Anthropic's old Pre-training requisition 4616971008 now redirects to the general board. A new exact Research Engineer / Scientist, Pre-training requisition (5468947008) is live with an Apply form; the Stretch record now points only to the current requisition.",
+    "CLOSED: Cerebras Member of Technical Staff (Software Engineer) now returns 404 on its exact official Ashby URL. Removed from Secondary and moved to Watch / Hold; this does not affect the separate applied Cerebras AI Inference Core role."
   ],
   "recommendations": [
     {
@@ -253,16 +254,6 @@
       "url": "https://jobs.apple.com/en-us/details/200685805-0157/network-engineer-infrastructure-services-is-t-early-career"
     },
     {
-      "rank": 19, "tier": "secondary", "company": "Cerebras", "role": "Member of Technical Staff (Software Engineer)", "status": "MISSED-OLDER-ACTIVE · VERIFIED OCT 13", "fit": "4.2/5 · inference infrastructure / reliability / orchestration",
-      "why_screen": "The exact minimum is a master's degree plus one year of software-development experience, explicitly allowing full-time or equivalent part-time work gained before, during or after graduate study as a student, intern, MTS or software engineer. UIUC MSCS, TikTok production engineering, Python/Linux, vLLM cold-start work and performance profiling provide a credible path through that experience screen.",
-      "why_team": "The role operates low-latency inference infrastructure and Kubernetes services, diagnoses distributed traces and networking, finds performance regressions and improves model-loading and serving reliability. Yuhan's inference, Linux, multi-GPU and cross-layer debugging evidence maps directly.",
-      "why_interest": "This is production inference-platform engineering at a model-systems company, with concrete ownership of autoscaling, observability, reliability and performance rather than a pure kernel or hardware role.",
-      "location": "Sunnyvale, CA · onsite · full-time", "salary": "Unknown", "new_grad": "Master's degree plus one year; the posting explicitly permits student/intern and equivalent part-time experience, including experience gained during graduate study.",
-      "sponsorship": "Unknown; the exact posting does not promise or deny sponsorship.", "caveat": "The requirements span Docker/Kubernetes, Java or C++, ActiveMQ/Kafka, Python/Groovy, JavaScript/TypeScript, Linux, SQL/OracleDB/Redis and Git. Yuhan's inference/Python/Linux evidence is strong, but the middleware, database and production-Kubernetes breadth is not equally established.", "urgency": "Official Ashby application verified live October 13; no public deadline. Apply promptly because the title is unlabeled even though the experience wording is unusually early-career-compatible.",
-      "url": "https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e"
-    },
-
-    {
       "rank": 20, "tier": "secondary", "company": "SirenOpt", "role": "Software Engineer (Early Career) - C++ & Systems (4452002009)", "status": "RECENT", "fit": "3.6/5 · Linux systems / performance / real-time data pipelines",
       "why_screen": "The exact posting welcomes recent BS/MS graduates and asks for 0-2 years of professional experience while explicitly counting internships, co-ops, research and substantial projects. Linux, Python, algorithms, OS/concurrency, profiling and supporting C++ provide a plausible path.",
       "why_team": "The role builds a modern C++17/20 real-time sensor-data pipeline and Python automation around a physical-AI process platform. Yuhan's Linux performance diagnosis, systems research and Python tooling would help with throughput, latency, debugging and reliability.",
@@ -346,6 +337,7 @@
     {"company": "Google", "role": "Software Engineer, Early Career, Campus", "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750", "reason": "The tracker has a likely matching application whose confirmation omitted the requisition ID; verify the Google portal before a duplicate application."}
   ],
   "watch_hold": [
+    {"company":"Cerebras","role":"Member of Technical Staff (Software Engineer)","status":"Closed November 4: the exact official Ashby requisition 24e42002-7f6d-4769-9ce0-0d844757cc0e returns 404. Removed from Secondary; do not use cached copies. This is separate from the already-applied AI Inference Core role."},
     {"company":"Databricks","role":"Software Engineer - New Grad, Distributed Data Systems (2027 Start) (6865704002)","status":"Applied November 2: the official Databricks confirmation names the exact title and requisition. Suppress this requisition and the generic Databricks new-grad role during the 30-day application window."},
     {"company":"SambaNova Systems","role":"ML Infrastructure Engineer - New Grad (6224938004)","status":"Portal Check / Hold November 3: Gmail contains SambaNova company-level confirmations but neither identifies a title or requisition. Because the user recalls applying to the previously recommended role, do not submit 6224938004 unless the candidate portal proves it is a distinct, unapplied requisition."},
     {"company":"Jane Street","role":"October 26 application process — exact requisition unknown","status":"Rejected November 2: Jane Street's official email says it could not find a good match, but neither the earlier confirmation nor the rejection names a role or requisition. Close only the company-level process and do not infer an outcome for a distinct exact role."},
