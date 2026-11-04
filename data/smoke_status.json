@@ -1,5 +1,5 @@
 {
-  "overall": "failure",
+  "overall": "success",
   "tests": {
     "legacy_runtime": {
       "outcome": "success",
@@ -46,10 +46,8 @@
       "detail": "China Moka rows missing concrete locations trigger exact-job detail lookup"
     },
     "tracker_overlay_coverage": {
-      "outcome": "failure",
-      "error_type": "AssertionError",
-      "error": "{'company': 'Jane Street', 'role': 'Role uncertain (application confirmation received 2026-10-26)', 'status': 'Applied', 'applied_date': '2026-10-26', 'status_date': '2026-10-26', 'confidence': 'Company-only', 'evidence': 'Jane Street sent a new application confirmation on 2026-10-26 stating that an application was received, but it does not identify the role or requisition.', 'next_action': 'Check the Jane Street candidate portal before submitting another role. Do not infer whether this was Software Engineer (8594541002), Machine Learning Researcher (8576928002), or a different opening.'}",
-      "traceback": "Traceback (most recent call last):\n  File \"/home/runner/work/2027-North-America-New-Grad-Jobs/2027-North-America-New-Grad-Jobs/scripts/smoke_test.py\", line 368, in main\n    detail = fn()\n             ^^^^\n  File \"/home/runner/work/2027-North-America-New-Grad-Jobs/2027-North-America-New-Grad-Jobs/scripts/smoke_test.py\", line 344, in test_tracker_overlay_coverage\n    assert jane.get(\"status\") == \"Rejected\", jane\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: {'company': 'Jane Street', 'role': 'Role uncertain (application confirmation received 2026-10-26)', 'status': 'Applied', 'applied_date': '2026-10-26', 'status_date': '2026-10-26', 'confidence': 'Company-only', 'evidence': 'Jane Street sent a new application confirmation on 2026-10-26 stating that an application was received, but it does not identify the role or requisition.', 'next_action': 'Check the Jane Street candidate portal before submitting another role. Do not infer whether this was Software Engineer (8594541002), Machine Learning Researcher (8576928002), or a different opening.'}\n"
+      "outcome": "success",
+      "detail": "email/user overlays persist exact outcomes, company-only uncertainty, closures, and duplicate-repost guards"
     }
   }
 }
