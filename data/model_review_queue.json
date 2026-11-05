@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,15 +26,15 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 311,
-    "new_job_candidates": 113,
-    "high_potential_title_candidates": 394
+    "priority_company_candidates": 312,
+    "new_job_candidates": 101,
+    "high_potential_title_candidates": 395
   },
   "veto_counts": {
-    "explicit 2026-only title": 6,
-    "non-full-time program title": 9
+    "explicit 2026-only title": 5,
+    "non-full-time program title": 7
   },
-  "exact_tracked_jobs_removed": 20,
+  "exact_tracked_jobs_removed": 21,
   "candidates": [
     {
       "machine_rank": 1,
@@ -163,31 +163,6 @@
     },
     {
       "machine_rank": 6,
-      "machine_score": 97,
-      "machine_tier": "Top",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: LLM inference / serving, profiling / performance modeling; skills: C++, Python, Linux; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "Hive",
-      "role": "Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA",
-      "salary": "$120,000–$180,000",
-      "salary_max_annual": "180000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-15",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/hive/b60b0f85-8aed-4751-9f2c-5b92060c64a2",
-      "jd_excerpt": "About Deploy\n \nDeploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs, Deploy operates an optimized model inference engine that keeps costs and latency low while maintaining high throughput. Deploy also offers a set of proprietary AI models that address challenges in content safety, AI & deepfake detection, sponsorship intelligence, and IP & publicity protection. Trusted by the world's largest and most innovative organizations, Deploy's solutions unlock high-performance AI model inference at production scale.\n\nDeploy has raised more than $200M from leading investors, including Tomales Bay Capital, General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. The company has more than 250 employees across offices in San Francisco, Seattle, New York, and Delhi.\n \nMachine Learning Role\n \nIn order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines. About Deploy Deploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs, Deploy operates an optimized model inference engine that keeps costs and latency low while maintaining high throughput. Deploy also offers a set of proprietary AI models that address challenges in content safety, AI & deepfake detection, sponsorship intelligence, and IP & publicity protection. Trusted by the world's largest and most innovative organizations, Deploy's solutions unlock high-performance AI model inference at production scale. Deploy has raised more than $200M from leading investors, including Tomales Bay Capital, General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. The company has more than 250 employees across offices in San Francisco, Seattle, New York, and Delhi. Machine Learning Role In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines. Who We Are\n \nWe are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Deploy, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.\n \nThank you for your interest in Deploy and we hope to meet you soon!\n \nThe current expected base salary for this position ranges from $120,000 - $180,000. Actual compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the total compensation package that is provided to compensate and recognize employees for their work; stock options may be offered in addition to the range provided here. Who We Are We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Deploy, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company. Thank you for your interest in Deploy and we hope to meet you soon! The current expected base salary for this position ranges from $120,000 - $180,000. Actual compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the total compensation package that is provided to compensate ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 7,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -212,7 +187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -237,7 +212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -262,7 +237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
@@ -287,7 +262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
@@ -312,7 +287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 11,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -337,7 +312,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 12,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -362,7 +337,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 13,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -387,7 +362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 14,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -412,7 +387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 15,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -437,7 +412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 16,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -456,13 +431,13 @@
       "source": "Google Jobs via SerpAPI",
       "official_source": false,
       "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
-      "jd_excerpt": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google — Mountain View, CA | LinkedIn Jobs Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Des Moines, IA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 3 weeks ago 34 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a ",
+      "jd_excerpt": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google — Mountain View, CA | LinkedIn Jobs Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Des Moines, IA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 1 week ago 39 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a PhD graduate, your research expertise is invaluable to us. Explore a variety of projects, collaborate with various teams, and contribute to products that are changing the world, across many product areas, including AI & Infrastructure , Cloud , YouTube , Search , Ads and more! Our Engineering teams include thousands of PhDs who bring their d",
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 17,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -487,7 +462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 18,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -512,7 +487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -537,32 +512,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Belvedere Trading",
-      "role": "Quantitative Researcher - Entry Level 2027",
-      "category": "Quantitative Finance",
-      "location": "Chicago, IL / Chicago, Illinois",
-      "salary": "Not listed",
-      "salary_max_annual": "",
+      "machine_rank": 20,
+      "machine_score": 87,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Networking; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer, Generative Media AI, Apparel ML",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA",
+      "salary": "$147000 - $210000",
+      "salary_max_annual": 210000,
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Entry Level",
+      "ng_evidence": "posting says Early Career",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-10-05",
+      "posted_date": "2026-11-05",
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
-      "url": "https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68",
-      "jd_excerpt": "Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. Our traders provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. Traders partner with our technologists to continually engineer and optimize our trading systems to stay on top of the industry. Belvedere is searching for a Quantitative Researcher to join our Quant Research & Development team. The Quant R&D team works closely with both traders and developers to build algorithmic solutions from idea generation to roll out to increase the firm’s profitability. As a Quantitative Researcher, you will contribute directly to research, development, and implementation of models and tools that help drive automated decision‑making throughout the firm. Through your quant research, you will be an integral participant in Belvedere’s long-term growth by improving and expanding the firm’s existing trading strategies. Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.\nWe encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. \nWe welcome your application.\n \nCore Values \nThe secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day.\n \nCompliance\nFor our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications. \n \nOur Stance \nBelvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. \n \nPlease note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. \n \nWork Schedule: Regular and reliable attendance during business hours with the ability to be on-site prior to the start of business on occasion \nPhysical: Ability to remain at a desk and concentrate for long periods ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
+      "url": "https://google.com/about/careers/applications/jobs/results/101544438928417478",
+      "jd_excerpt": "Software Engineer, Generative Media AI, Apparel ML — Google Careers Careers Careers Skip navigation links home home Home Home work_outline work_outline Jobs Jobs noogler_hat noogler_hat Students Students google google How we work How we work handyman handyman How we hire How we hire person_outline person_outline Your career Your career help_outline Help link feedback Send feedback more_vert Help Send Feedback Sign in Careers Careers home Home work_outline Jobs expand_more noogler_hat Students expand_more google How we work expand_more handyman How we hire expand_more person_outline Your career expand_more job details arrow_back Back to jobs search Jobs search results 3,240 jobs matched Communications Manager, Technical Infrastructure, EMEA London, UK ; Helsinki, Finland ; +2 more ; +1 more Manager, AI and Infrastructure Strategic Initiatives (Mandarin, English) Taipei, Taiwan Business Development Manager, New Business Sales, Export (Mandarin, English) Shanghai, China ; Beijing, China Senior Accountant, Google Payments Chicago, IL, USA Customer Engineer III, Platform, South, Google Cloud Austin, TX, USA ; Atlanta, GA, USA ; +6 more ; +5 more | Remote eligible Senior Technical Program Manager, Ads Privacy and Regulations, Google Ads Mountain View, CA, USA Software Developer II, Early Career Waterloo, ON, Canada ; Montreal, QC, Canada Engineer Manager, Looker Sunnyvale, CA, USA ; San Francisco, CA, USA Quản lý ngành hàng chiến lược, Ngành Trò chơi và Ứng dụng, Khối Khách hàng chiến lược (tiếng Anh, tiếng Việt) Ho Chi Minh City, Ho Chi Minh, Vietnam Senior Account Manager, Retail Seattle, WA, USA Staff Software Engineer, Customer Services Edge, Google Global Infrastructure Sunnyvale, CA, USA Research Engineer, Responsibility, DeepMind Mountain View, CA, USA Staff Mechanical Engineer, Debug Singapore Product Support Manager, Google Workspace Editors and AI New York, NY, USA ; Sunnyvale, CA, USA Electrical Manufacturing Engineer III, PIE AOE Sunnyvale, CA, USA Product Strategy and Operations Lead, GPay Singapore Firmware Software Engineer Manager, Pixel London, UK Software Engineering Manager, Cloud DNS Authoritative Name Serving New York, NY, USA Staff Research Scientist, Foundational Audio Mountain View, CA, USA ; San Francisco, CA, USA Account Strategist, Mid-Market Sales, Google Customer Solutions Los Angeles, CA, USA Showing 1 to 20 of 3240 rows 1‑20 of 3240 navigate_next Go to next page Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press open_in_new Related Information Investor relations open_in_new Blog open_in_new Equal Opportunity Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . More about us expand_more Related information expand_more Equal opportunity expand_more Privacy open_in_new Applicant & Candidate Privacy open_in_new Terms open_in_new Manage cookies help Help open_in_new arrow_back Back to jobs search Software Engineer, Generative Media AI, Apparel ML share Share Software Engineer, Generative Media AI, Apparel ML link Copy link email Email a friend corporate_fare Google place Mountain View, CA, USA ; Seattle, WA, USA ; +2 more ; +1 more bar_chart Mid Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Apply share Share Software Engineer, Generative Media AI, Apparel ML link Copy link email Email a friend info_outline X In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain V",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -582,6 +557,31 @@
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a42c12aa5e15b106837a129",
       "jd_excerpt": "Quantitative Researcher – Master's: 2027 @ Susquehanna International Group | Jobright.ai SIGN IN JOIN NOW Quantitative Researcher – Master's: 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW Susquehanna International Group · 2 weeks ago Quantitative Researcher – Master's: 2027 New York, NY +1 more Full-time Onsite New Grad $300K/yr - $300K/yr 0+ years exp Susquehanna International Group is a global quantitative trading firm. The Quantitative Researcher develops, tests, and implements statistical and machine learning models, researches alpha signals, and improves strategy performance using market data and large-scale computing resources. Finance FinTech Venture Capital Financial Services Comp. & Benefits H1B Sponsored Responsibilities Modelling: Apply probability theory, statistical analysis, and machine learning techniques to build robust models and generate alphas Execution: Propose improvements to existing strategies and optimize how they perform in production Evaluation: Backtest ideas using historical market data and large-scale research clusters Education: Participate in a comprehensive education program and receive personalized mentorship from senior professionals to accelerate your growth Collaboration: Work in an open environment where you’ll collaborate with systematic traders and technologists to push strategies into production Qualification Probability Theory Statistics Optimization Numerical Methods Quantitative Modeling Python Large-Scale Data Analysis Machine Learning Required A master's degree, graduating by Summer 2027, in computer science, economics, electrical engineering, mathematics, operations research, physics, statistics, or another highly quantitative discipline A strong foundation in probability, statistics, optimization, numerical methods, or quantitative modeling Experience developing research code in Python and working with large datasets Excellent problem-solving skills and an interest in using quantitative models to better understand complex systems Strong communication skills and an interest in collaborating with researchers, engineers, and traders to refine ideas through discussion and experimentation A track record of intellectual curiosity demonstrated through coursework, independent projects, research, competitions, strategic games, or other analytical pursuits The ability to thrive in an environment that values creativity, evidence-based thinking, and continuous learning Preferred experience with C++, scientific computing, or high-performance computing is a plus Benefits Access to Susquehanna’s extensive proprietary datasets and large-scale computing infrastructure, including a rapidly growing cluster of thousands of high-end GPUs Participation in a comprehensive education program Personalized mentorship from senior professionals Company Susquehanna International Group Glassdoor 3.8 Global quantitative trading firm for financial markets. Founded in 1987 Bala Cynwyd, Pennsylvania, USA 1001-5000 employees https://www.sig.com H1B Sponsorship Susquehanna International Group has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 95 % Represents job field similar to this job Engineering and Development Accounting and Finance Management and Executive Customer Service and Support Marketing Trends of Total Sponsorships *2026 ( 89 ) 2025 ( 76 ) 2024 ( 59 ) 2023 ( 49 ) 2022 ( 49 ) 2021 ( 40 ) 2020 ( 36 ) Funding Current Stage Late Stage Leadership Team Michael Doherty CCO Recent News Bloomberg.com Susquehanna Insider Trading Case Called Into Doubt by Judge 2026-09-15 MarketScreener Crypto data firm Kaiko secures $110 million funding round led by S&P Global 2026-09-14 Tech Times Morgan Stanley Upgrades Robinhood: Prediction Markets Tapped by Just 7% of Its Base 2026-09-04 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Probability Theory Statistics Optimization Numerical Methods Quantitative Modeling Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach D David P. Quantitative Researcher N Nicholas P. Quantitative Researcher Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 22,
+      "machine_score": 83,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Belvedere Trading",
+      "role": "Quantitative Researcher - Entry Level 2027",
+      "category": "Quantitative Finance",
+      "location": "Chicago, IL / Chicago, Illinois",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Entry Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-05",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68",
+      "jd_excerpt": "Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. \n \nHigh-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance proprietary trading and development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. Our traders provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. Traders partner with our technologists to continually engineer and optimize our trading systems to stay on top of the industry. Belvedere is searching for a Quantitative Researcher to join our Quant Research & Development team. The Quant R&D team works closely with both traders and developers to build algorithmic solutions from idea generation to roll out to increase the firm’s profitability. As a Quantitative Researcher, you will contribute directly to research, development, and implementation of models and tools that help drive automated decision‑making throughout the firm. Through your quant research, you will be an integral participant in Belvedere’s long-term growth by improving and expanding the firm’s existing trading strategies. Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.\nWe encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. \nWe welcome your application.\n \nCore Values \nThe secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day.\n \nCompliance\nFor our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications. \n \nOur Stance \nBelvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. \n \nPlease note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. \n \nWork Schedule: Regular and reliable attendance during business hours with the ability to be on-site prior to the start of business on occasion \nPhysical: Ability to remain at a desk and concentrate for long periods ",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -963,31 +963,6 @@
     },
     {
       "machine_rank": 38,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: Kubernetes; $200k+ stated ceiling",
-      "company_priority": "Tier A",
-      "company": "Anthropic",
-      "role": "Anthropic Research Resident",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA | New York City, NY",
-      "salary": "$350,000–$500,000/year",
-      "salary_max_annual": "500000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-28",
-      "source": "Greenhouse:anthropic",
-      "official_source": true,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jd_excerpt": "Job Application for Anthropic Research Resident at Anthropic Back to jobs New Anthropic Research Resident San Francisco, CA | New York City, NY Apply About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role The Anthropic Residency is our paid, fixed-term research program, with placements lasting between six weeks and six months. We are looking for people who have led ambitious work in a variety of technical fields and want to transition to full-time work focused on making sure AI systems are safe and beneficial for all of humanity. If you are a professor in a quantitative discipline, a technical founder or a staff-level engineer and want to transition to work on transformative AI, we want to hear from you. Background in machine learning is not required. What to expect A concrete, scoped project matched to your background, with direct mentorship from Anthropic researchers Access to Claude models and GPU compute Connection to the broader AI safety and security research community Interview process The interview process will include an initial application, recruiter screen, technical assessment, research discussion and a reference check. Applications for this round close on November 22, 2026 (11:59 PM PT). We expect to make offers in January 2027. You may be a good fit if you Are motivated by making sure AI is safe and beneficial for society as a whole Are excited to transition into working on empirical AI research full-time Have led ambitious work in a variety of technical fields (professor in a quantitative discipline, a technical founder or a staff-level engineer) Thrive in fast-paced, collaborative environments Can implement ideas quickly and communicate clearly Strong candidates may also Have experience authoring research papers in machine learning, NLP, or AI safety Have experience with LLMs, reinforcement learning or Kubernetes clusters and complex shared codebases Mentors and research areas Potential Anthropic mentors include: Sara Price : leads the Alignment Training team; background in data science Ethan Perez : leads the Alignment Science team; background in machine learning Evan Hubinger : leads the Alignment Stress-Testing team; formerly at The Machine Intelligence Research Institute (MIRI) Samuel Marks : leads the Scalable Oversight team; background in mathematics Elana Simon : researches the interpretability of language models and biological models; background in biomedical informatics Belinda Li : researches how language models represent the world, users, and themselves; background in natural language processing (PhD, MIT) Jack Lindsey : leads the Model Psychology team; background in theoretical neuroscience Nicholas Carlini : researches adversarial machine learning and AI security; previously at DeepMind and Google Brain Jascha Sohl-Dickstein : works at the intersection of safety and pretraining; background in physics and neuroscience, formerly Principal Scientist at Google Brain Residents will work on empirical research questions in collaboration with Anthropic's research teams. Areas we are particularly interested in include: AI safety & alignment Scalable Oversight: Developing techniques to keep highly capable models helpful and honest, even as they surpass human-level intelligence in various domains. Adversarial Robustness and AI Control: Creating methods to ensure advanced AI systems remain safe and harmless in unfamiliar or adversarial scenarios. Model Organisms: Creating model organisms of misalignment to improve our empirical understanding of how alignment failures might arise. Model Internals and Interpretability: Advancing our understanding of the internal workings of large language models to enable more targeted interventions and safety measures. Safeguards Research: Developing robust defenses against adversarial attacks, comprehensive evaluation frameworks for model safety, and automated systems to detect and mitigate potential risks before deployment. AI Welfare: Improving our understanding of potential AI welfare and developing related evaluations and mitigations. AI security & frontier red-teaming Stress-testing frontier models to understand the full extent of their current capabilities in fields such as cybersecurity, robotics or cryptography. ML systems & reinforcement learning Improving how frontier models are trained and building the infrastructure behind that research, from model architecture, optimizers and training data to accelerator simulators, hardware backends and RL environment pipelines. For a fuller picture of the questions we care about, see our Recommendations for Technical AI Safety Research Directions and recent publications from our Alignment , Interpretability and Front",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 39,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -1012,8 +987,8 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 40,
-      "machine_score": 68,
+      "machine_rank": 39,
+      "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
       "company_priority": "Tier B",
@@ -1037,7 +1012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 40,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1062,7 +1037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1087,7 +1062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1110,6 +1085,31 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 43,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; skills: C++, Python, Linux; role shape: entry-level ML role",
+      "company_priority": "",
+      "company": "Hive",
+      "role": "Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA",
+      "salary": "$120,000–$180,000",
+      "salary_max_annual": "180000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-15",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://jobs.lever.co/hive/b60b0f85-8aed-4751-9f2c-5b92060c64a2",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 44,
@@ -1290,31 +1290,6 @@
       "machine_rank": 51,
       "machine_score": 60,
       "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: C++, Python; role shape: early-career SWE; downrank: qa/test specialization; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "Applied Intuition",
-      "role": "UX Test Engineer (New Grad, December 2027)",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "salary": "$275K to 322K",
-      "salary_max_annual": "322000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-10",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.welcometothejungle.com/en/companies/applied-intuition/jobs/ux-test-engineer-new-grad-december-2026_sunnyvale_dwxd2fas",
-      "jd_excerpt": "Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Welcome to the jungle symbol Find your next job Explore companies AI Candidate Coach Need help? Have an account? Log in Hire the right talent Welcome Hiring Suite Employer branding Pricing Clients' testimonials Resources Need help? Have an account? Log in About us Our concept and story We're hiring Press US Français English (US) English (UK) Legal notice Terms of service Legal center Manage cookies © 2026 Welcome to the Jungle UX Test Engineer (New Grad, December 2027) - Applied Intuition - Permanent in Sunnyvale Back 2 months ago UX Test Engineer (New Grad, December 2027) Applied Intuition Software for autonomous vehicle infrastructure. Save Apply Permanent Sunnyvale No remote 90K to 115K $ a year > 1 year 2 months ago Skills we're looking for Attention to detail Technical aptitude Programming languages UX design Automation tools + 9 You'll be part of 1200 employees Software Artificial Intelligence / Machine Learning Big Data Our take Autonomous vehicles present a lot of challenging problems to engineers, particularly in terms of safety and reliability, and testing and development can be infamously slow. Applied Intuition provides software to run simulations and tests for autonomous vehicles more quickly and effectively, speeding up the development and launch of AVs for multiple industries.\n \n\nWith big companies such as Tesla and Google focused on developing automation, Applied Intuition has the scope to provide the software that makes it a reality. The company’s suite of simulation, validation, and drive log management software aids in the more efficient deployment of autonomous vehicles, with companies such as Toyota, Nissan, and General Motors relying on its solutions.\n \n\nAs the autonomous vehicles market accelerates, Applied Intuition is well set for growth, especially as it continues to expand its capabilities. Notable developments include the acquisitions of CarSim, Scenebox and Embark Trucks, as well as partnerships with AMBA and Valeo. All these efforts seek to bolster the company's offering towards supporting the faster and safer deployment of AVs, whilst a $600 million Series F round awarded in 2025 will go towards its next phase of product development, alongside key hires across its product team. You'll be working on Applied is seeking a high-energy, detail-oriented New Graduate UX Test Engineer to join our specialized Validation team. This role is pivotal in ensuring that our software applications provide an exceptional user experience while maintaining technical integrity. As a member of the Validation group, you will bridge the gap between design and engineering, executing rigorous testing strategies to validate usability, accessibility, and interface performance At Applied, we believe that quality is not just a metric, but a core component of our user experience. As a new graduate, you will have the opportunity to work on industry-leading products while receiving mentorship from senior validation engineers. We offer a collaborative environment where your technical curiosity and passion for user-centric design will directly impact our product success Test Plan Development: Design and implement comprehensive validation scripts focused on user journeys, edge cases, and visual consistency Automation Engineering: Develop and maintain automated UI test suites using tools like Selenium or Appium to increase validation throughput Cross-Functional Collaboration: Partner with UX Designers and Product Managers to refine requirements and provide feedback on design prototypes Defect Management: Identify, reproduce, and track UI/UX defects through their entire lifecycle using Jira or similar tracking systems We're looking for 1+ year of experience in any field, or equivalent combination of education and experience Education: Bachelor’s or Master’s degree in Computer Science, HMI, UX Design, or a related field and is graduating by December 2026 Programming: Basic proficiency in at least one scripting language such as C / C++, Python, JavaScript, or Java Soft Skills: Strong analytical thinking, obsessive attention to detail, and excellent verbal/written communication Technical Proficiency: Foundational knowledge of software testing methodologies (Manual & Automated) UX Fundamentals: Understanding of design principles, typography, and responsive layout validation Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway The workplace Sunnyvale, California, United States Explore the company Save Apply",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 52,
-      "machine_score": 60,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
       "company_priority": "",
       "company": "American Express",
@@ -1337,7 +1312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 52,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1362,7 +1337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 53,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
@@ -1387,7 +1362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 54,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1412,7 +1387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 55,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role; new-grad: likely",
@@ -1437,7 +1412,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 56,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
@@ -1462,7 +1437,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 57,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1487,7 +1462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 58,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1512,7 +1487,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 59,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; resume overlap: systems scheduling / planning; role shape: systems/performance role",
@@ -1537,7 +1512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 60,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1562,7 +1537,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 61,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1587,7 +1562,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 62,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -1612,7 +1587,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 63,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -1637,7 +1612,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 64,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1662,7 +1637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1687,7 +1662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1712,7 +1687,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -1737,7 +1712,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -1762,7 +1737,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 69,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -1787,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; PhD requirement penalty; $200k+ stated ceiling",
@@ -1812,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 71,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1837,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 72,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1862,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 73,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1887,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 74,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1912,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 75,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1937,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 76,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1962,7 +1937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 77,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1987,7 +1962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 78,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -2012,7 +1987,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 79,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2037,7 +2012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 80,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2062,7 +2037,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 81,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2087,7 +2062,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 82,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2112,7 +2087,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 83,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
@@ -2137,7 +2112,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 84,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2162,7 +2137,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 85,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2187,7 +2162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 86,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -2212,7 +2187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 87,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2237,7 +2212,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 88,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python, PyTorch, JAX; role shape: entry-level ML role; new-grad: likely",
@@ -2262,7 +2237,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 89,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python; new-grad: likely",
@@ -2287,7 +2262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 90,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Python, Linux, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -2312,7 +2287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 91,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python; new-grad: likely; $200k+ stated ceiling",
@@ -2337,7 +2312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 92,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2362,7 +2337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 93,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2387,7 +2362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 94,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Distributed Systems",
@@ -2412,7 +2387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2431,6 +2406,31 @@
       "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
       "official_source": false,
       "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252189?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Northrop Grumman",
+      "role": "2027 Systems Engineer - Pathways Program - Baltimore MD",
+      "category": "Infrastructure / Systems",
+      "location": "United States-Maryland-Baltimore",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-21",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251794?s=gh-new-grad-jobs-2027",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
