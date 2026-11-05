@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-03. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-05",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-05. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "Ubiquant / 九坤投资",
@@ -780,12 +780,12 @@
     {
       "company": "Anthropic",
       "role": "Performance Engineer, Inference Systems (5224564008)",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-09-04",
-      "status_date": "2026-09-04",
+      "status_date": "2026-11-04",
       "confidence": "Exact",
-      "evidence": "Official Anthropic confirmation received 2026-09-04 explicitly names the Performance Engineer, Inference Systems position; exact requisition 5224564008 is preserved from the official posting.",
-      "next_action": "Wait for review; remove only exact requisition 5224564008 from High-Value Stretch."
+      "evidence": "Official Anthropic follow-up received 2026-11-04 Central explicitly names Performance Engineer, Inference Systems and says Anthropic will not move forward. The message states that the update applies only to this role and that other Anthropic applications remain independent; exact requisition 5224564008 is preserved from the official posting.",
+      "next_action": "Close only exact requisition 5224564008. Do not infer an outcome for any other Anthropic application."
     },
     {
       "company": "Amazon / Annapurna Labs",
