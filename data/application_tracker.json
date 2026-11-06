@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-05. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-06",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-06. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "Ubiquant / 九坤投资",
@@ -15,12 +15,52 @@
     {
       "company": "AXQ Capital",
       "role": "Machine Learning Infrastructure Engineer",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": null,
-      "status_date": "2026-10-28",
-      "confidence": "Exact role and exact next-round stage",
-      "evidence": "AXQ sent an exact-role confirmation on 2026-10-28 stating that the Machine Learning Infrastructure Engineer candidacy advanced to another interview round on November 3, 2026, 7:30-9:30 p.m. Central.",
-      "next_action": "Prepare for and attend the November 3, 2026, 7:30-9:30 p.m. Central interview. Prioritize distributed-training bottleneck diagnosis, NCCL/collectives, vLLM cold start, scheduler/resource allocation, and AutoScout experimental results."
+      "status_date": "2026-11-05",
+      "confidence": "Exact",
+      "evidence": "AXQ sent an exact-role rejection on 2026-11-05 Central naming Machine Learning Infrastructure Engineer and stating that the candidacy would not advance to the next stage after the interview process.",
+      "next_action": "Closed for this exact ML Infrastructure requisition. Preserve the separate Quantitative Developer OA process; this rejection is not evidence about that role."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Deep Learning Performance Architect - New College Grad 2027 (JR2028177)",
+      "status": "Applied",
+      "applied_date": "2026-11-05",
+      "status_date": "2026-11-05",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-11-05 naming JR2028177 Deep Learning Performance Architect - New College Grad 2027.",
+      "next_action": "Wait for review; suppress only exact requisition JR2028177 from actionable recommendations."
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Compute System Arch Engineer, AI Infra - New College Grad 2027 (JR2028578)",
+      "status": "Applied",
+      "applied_date": "2026-11-05",
+      "status_date": "2026-11-05",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-11-05 naming JR2028578 Compute System Arch Engineer, AI Infra - New College Grad 2027.",
+      "next_action": "Wait for review; suppress only exact requisition JR2028578 from actionable recommendations."
+    },
+    {
+      "company": "iManage",
+      "role": "Applied AI Engineer (New or Recent Grad)",
+      "status": "Applied",
+      "applied_date": "2026-11-05",
+      "status_date": "2026-11-05",
+      "confidence": "Exact",
+      "evidence": "iManage sent an exact application confirmation on 2026-11-05 naming Applied AI Engineer (New or Recent Grad).",
+      "next_action": "Wait for review; suppress this exact role from actionable recommendations."
+    },
+    {
+      "company": "Google",
+      "role": "Role uncertain (new application confirmation received 2026-11-05)",
+      "status": "Applied",
+      "applied_date": "2026-11-05",
+      "status_date": "2026-11-05",
+      "confidence": "Company-only",
+      "evidence": "Google sent a new company-level application confirmation on 2026-11-05, but the message contains no role title, requisition ID, location or application URL. It cannot prove whether the application was Software Engineer II, Early Career (109116638069957318), the now-closed Software Engineer, Early Career, Campus role (78703249065943750), or another requisition.",
+      "next_action": "Check the Google Careers portal before applying to another Google early-career role. Do not merge this with the separate August 10 company-level confirmation or suppress unrelated exact Google roles without portal evidence."
     },
     {
       "company": "Databricks",
