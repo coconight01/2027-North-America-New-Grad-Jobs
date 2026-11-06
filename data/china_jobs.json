@@ -160,6 +160,22 @@
     "qualification_excerpt": "1、负责Android平台系统稳定性，解决系统死机、重启、系统故障引发的应用稳定性问题，包括不限于JE，NE，Watchdog,ANR，冻屏卡死等故障解决。 2、Android上层稳定性指标建设（Crash 率、ANR 率、重启率、开机成功率、老化故障率），迁移各团队质量达标 3、负责崩溃、无响应、异常重启、黑屏冻屏、关键服务异常及故障恢复等事件的埋点设计与落地，支撑DFR远程诊断闭环 4、稳定性feature开发或工具建设，包括android上次技术栈开发以及稳定性各类自动化工具建设 5、跨团队协作，疑难问题联合攻关 6、探索并落地AI Coding/AI Agent在稳定性领域的应用 任职要求： 1. 本科及以上，计算机/软件/电子相关专业，3 年以上 Android 开发经验，稳定性方向 2 年以上； 2. 深入理解Android 系统架构：Zygote、init、SystemServer、AMS、WMS、PMS、Binder、SELinux、LMKD； 3. 熟悉ANR全链路机制，JE crash问题流程，具备一定的内存问题排查能力 4. 熟悉使用各类稳定性分析工具crash，GDB，tombstone、addr2line、systrace/Perfetto、dumpsys 【加分项】 1. 有手机开发经验者优先 2. 有稳定性AI Coding/Agent创新经验者优先，包括智能诊断分析，日志聚类、智能归因、自动 RCA或故障工具链的落地经验 3、 熟悉AI模型或智能体整体架构原理或优化经验者优先 4、 熟悉DFR开发经验者优先"
   },
   {
+    "posted_date": "2026-10-30",
+    "company": "StepFun (阶跃星辰)",
+    "role": "端侧 AI 功耗优化工程师",
+    "track": "AI / ML",
+    "location": "广东 · 南山区 / 上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/f0e47ab1-15ea-4deb-9d22-9102d49d0105",
+    "job_id": "f0e47ab1-15ea-4deb-9d22-9102d49d0105",
+    "status": "Open",
+    "date_added": "2026-11-06",
+    "qualification_excerpt": "岗位定位：负责AI相关模型，端侧AI交互等场景功耗设计、验证与优化，从全局维度降低整机功耗、保障体验。 岗位职责： 负责 Android 平台端侧 AI 模型推理场景的功耗分析与优化，降低 AI 功能能耗与发热，提升运行能效； 建立大模型、多模态及语音场景的功耗评测方法，分析模型推理各阶段的计算、访存及系统资源使用特征，定位能耗瓶颈； 结合 AI 推理负载特征，优化 CPU/GPU/NPU 资源调度、频率策略及电源管理策略，在响应时延、吞吐和模型效果约束下提升能效； 分析持续推理及实时语音交互场景中的温升、热降频与能效变化，协同优化温控和推理执行策略； 与算法、推理框架及芯片平台团队协作，评估模型量化、计算后端选择、硬件加速及算子执行方案的能耗收益，推动优化落地； 建立功耗回归验证机制，以单次任务能耗、单位 Token 能耗、实时语音处理能耗及温升等指标跟踪优化效果。 任职要求： 计算机、电子信息或相关专业本科及以上学历，具备 Android/Linux 平台功耗分析与优化经验； 熟悉移动平台电源管理机制，具备资源调度、DVFS、系统唤醒或温控策略相关的优化实践； 熟练使用功耗仪及 Perfetto、simpleperf、ftrace 等分析工具，能够结合功耗曲线与系统 Trace 完成问题定位、能耗归因和优化验证； 理解 LLM 及 MoE 等典型模型架构与推理原理，熟悉 Attention、KV Cache、专家路由及稀疏激活等机制，能够分析 Prefill、Decode 等阶段的计算、访存特征及其对功耗的影响； 理解 Omni 多模态模型及 TTS、ASR 等语音模型的工作原理，熟悉流式推理、跨模态交互及实时处理中的负载特征，能够结合业务场景识别能耗瓶颈并制定优化方案； 熟悉 C/C++，具备 Android Native、HAL 或 Linux Kernel 相关模块的开发与调试经验； 具备数据驱动的问题分析能力，能够独立推进功耗问题的定位、方案实施及效果验证，并与算法、系统和芯片平台团队有效协作。 加分项： 有端侧大模型、多模态模型或实时语音交互场景的功耗优化经验； 有 Qualcomm、MediaTek 等移动芯片平台的 AI 能效调优经验； 熟悉 QNN、LiteRT、MNN、llama.cpp 等推理框架或 SDK； 有模型量化、算子融合、KV Cache 管理或异构计算相关优化实践； 有量产产品中的 AI 能耗、温升或续航优化成果。"
+  },
+  {
     "posted_date": "2026-10-29",
     "company": "Lingjun Investment (灵均)",
     "role": "SRE工程师",
@@ -190,6 +206,22 @@
     "status": "Open",
     "date_added": "2026-11-06",
     "qualification_excerpt": "工作内容： 负责 StepCode 的客户端和 Web 端开发，参与 Agent Harness 的设计和实现，和算法团队一起把模型能力做成开发者每天会用的产品。 岗位职责 负责 StepCode 桌面客户端（Electron）、Web 端和 CLI 的全栈开发，包括 Agent 交互界面、任务执行过程展示、开放平台配置接入等，持续迭代优化开发者使用体验。 参与 Agent Harness 核心模块的设计和实现，包括任务调度、Skills / Tools 管理、MCP 接入、Memory 与上下文管理、权限与安全沙箱、状态持久化与异常恢复、端云协同链路。 和算法团队紧密协作，参与 bad case 分析，参与评测体系建设和Harness 效果调优。从开发者体验出发，提升 Coding 任务的完成质量和协作效率。 理解并分析用户反馈，参与 StepCode 开发者社群的运营和交流。 探索 AI 驱动的下一代软件研发方式和工程工作流。 任职要求 本科及以上学历，计算机相关专业，2 年以上软件开发经验，有完整产品从 0 到 1 或持续迭代的经验。 熟练掌握 JavaScript / TypeScript 和主流前端框架（React / Vue 等） 熟悉 Electron 桌面应用开发，深入理解主进程 / 渲染进程、进程间通信、窗口管理、应用生命周期、自动更新和安全机制。 熟悉主流 Agent / Harness 的架构和原理（如 Claude Code、Codex、Pi、LangGraph 等），理解 ReAct、Plan & Execute、Tool Use、Memory、MCP 等关键机制。 是 Agent 产品的重度用户：深度使用过代码类和通用类 Agent 产品，并且已经把它们用进自己的日常工作和生活；对模型行为有判断力和品味，对开发者体验敏感。 了解用户体验、交互设计和需求分析，有一定的产品意识。 加分项 有个人开源作品，或者是活跃的开源社区贡献者；持续贡献过主流 Agent / Harness 开源框架的优先。 了解沙箱、容器等隔离技术，或者做过云端 Agent 运行环境。 有桌面端产品或者终端工具（TUI / CLI）开发经验。"
+  },
+  {
+    "posted_date": "2026-10-26",
+    "company": "StepFun (阶跃星辰)",
+    "role": "推理引擎研发工程师-ToB业务",
+    "track": "AI Infrastructure / Systems",
+    "location": "上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/27f7d32e-e11f-4358-8619-85032d03dc24",
+    "job_id": "27f7d32e-e11f-4358-8619-85032d03dc24",
+    "status": "Open",
+    "date_added": "2026-11-06",
+    "qualification_excerpt": "岗位描述 1. 负责 ToB 场景下大模型推理服务平台（模型 Infra）的平台建设：基于 SGLang / vLLM / TensorRT-LLM 等框架进行二次开发与深度定制，打造高可用、可扩展、多租户的企业级推理服务底座； 2. 参与分布式推理引擎核心模块研发与优化：包括 PD 分离（Prefill/Decode Disaggregation）、Continuous Batching、KV Cache 管理与多卡/多机并行推理（TP / PP / EP），持续优化 TTFT / TPOT、吞吐与单卡服务成本； 3. 针对 ToB 业务中多样化的 LLM 请求特征（长短文本混合、MoE、多模态、流式/非流式、优先级与限流），优化 GPU 计算流程与请求调度策略，打造业内领先的高效 LLM 推理引擎； 任职要求 1. 计算机、电子、自动化、软件等相关专业本科及以上学历； 2. 具备扎实的操作系统、计算机体系结构、编译原理与网络基础，对底层性能优化有浓厚兴趣，具备系统级性能分析与调优能力； 3. 熟练掌握 C++ / CUDA（或 Python 编写性能敏感模块），工程能力扎实，有良好的代码质量与工程质量意识； 4. 熟悉 SGLang、vLLM、Megatron(-LM)、TensorRT-LLM 等框架至少一种，理解其核心机制（调度策略、显存管理、并行切分、算子融合）； 5. 熟悉 CUDA 编程与 GPU 性能优化，有 Triton、CUTLASS、FlashAttention 等开发经验者优先； 6. 有大模型推理部署 / 线上服务经验，或有开源项目贡献（如 vLLM、SGLang PR）者优先； 7. 具备良好的沟通能力、团队协作精神与 Owner 意识，能跨团队推动落地。"
   },
   {
     "posted_date": "2026-10-22",
@@ -1202,22 +1234,6 @@
   {
     "posted_date": "2026-08-14",
     "company": "StepFun (阶跃星辰)",
-    "role": "AI数据分析工程师",
-    "track": "AI / ML",
-    "location": "上海市 · 徐汇区",
-    "employment_type": "全职",
-    "eligibility": "Review eligibility",
-    "salary": "Not published",
-    "source": "Official MokaHR",
-    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/cc447774-4457-4260-b165-6ffac7c63e83",
-    "job_id": "cc447774-4457-4260-b165-6ffac7c63e83",
-    "status": "Open",
-    "date_added": "2026-11-06",
-    "qualification_excerpt": "岗位职责： 1. 搭建和完善数据仓库，设计数据模型与分层架构，沉淀公司数据资产，为算法训练和业务分析提供可靠的数据基座 2. 建设和维护数据平台产品（数据分析平台、数据集管理平台、DataAgent 等），推动数据治理，提升数据使用效率 3. 与算法团队深度合作，负责各类回流数据处理分析，持续提供高质量 SFT/评测/Agent 训练数据 4. 与产运团队深度合作，建立指标体系，搭建数据分析链路，辅助业务决策 任职要求： 1. 3 年以上数据平台或数仓建设经验，有扎实的数据建模、ETL、数据治理、数据质量、数据安全合规等相关经验 2. 扎实的工程能力，精通SQL和Python,熟悉至少一门后端语言（Java/Scala/Go） 3. 熟悉分布式计算框架（Spark/Flink 等），有 TB 级数据处理实战经验 4. 熟悉数据湖相关技术（Delta/Iceberg/Hudi 等）；有主流数据治理平台（如Apache Atlas、DataHub）使用或开发经验 5. 具备系统架构设计与工程落地能力，良好的沟通协调能力及团队合作精神，具备独立驱动项目的能力 6. 熟悉大模型训练数据，有AI算法、数据相关公司工作经历优先；有创业公司工作经历优先"
-  },
-  {
-    "posted_date": "2026-08-14",
-    "company": "StepFun (阶跃星辰)",
     "role": "功耗工程师",
     "track": "Software Engineering",
     "location": "广东 · 南山区 / 上海市 · 徐汇区",
@@ -1230,6 +1246,22 @@
     "status": "Open",
     "date_added": "2026-11-06",
     "qualification_excerpt": "岗位定位：负责屏幕、相机、音频、传感器、充电、射频等核心器件的功耗设计、验证与优化，从器件维度降低整机功耗、保障体验。 工作内容： 负责整机器件级功耗方案设计与优化，覆盖显示屏、摄像头、音频、传感器、充电 / 电源管理（PMIC/Charger）、射频（RF/Modem）、连接（WiFi/BT/GNSS）等模块； 负责器件上下电时序、复位、时钟、供电网络（LDO/DC-DC）与负载开关的设计与审查，确保功能安全与功耗指标达成； 负责器件驱动程序开发与调试，优化器件工作模式 / 休眠唤醒配置、寄存器默认值与动态调参，确保器件达到低功耗目标； 负责器件功耗分解、静态电流验证，以及亮灭屏、拍照、录像、通话、游戏等动态场景的功耗验证； 搭建器件功耗度量与数据分析体系（功耗板 / 电流波形 / 总线抓包），定位器件级异常功耗与漏电问题，输出软硬件协同优化方案； 与器件原厂 / FAE 协同，评估器件低功耗特性与 datasheet 指标，参与器件选型与替代评估，推动器件维度功耗优化落地； 编写功耗相关设计文档、调优手册、测试规范，支撑产品迭代与量产功耗指标达标。 任职要求： 电子工程、计算机科学、自动化或相关专业本科及以上学历； 3 年以上功耗底层软件开发经验，有整机或器件级功耗项目经验； 熟悉 ARM 体系结构、Linux 低功耗框架，有时钟、电源域控制等优化经验； 熟悉手机核心器件（显示、摄像、音频、传感器、充电、射频等）的工作原理与低功耗机制，至少精通其中 1-2 类器件的驱动与功耗调优； 熟悉示波器、逻辑分析仪、功耗分析仪等硬件调试工具，能独立完成器件级设计和开发； 熟悉器件 datasheet 解读、寄存器配置、上下电时序与静态 / 动态功耗验证方法； 良好的问题解决能力，强大的团队合作精神和沟通能力，可协调跨团队资源推进器件功耗目标达成。 加分项： 有器件原厂 FAE 协同或供应商管理经验； 熟悉 DVFS/AVS/Thermal/PMIC 等模块。 有端侧大模型、多模态模型或实时语音交互场景的功耗优化经验； 有 Qualcomm、MediaTek 等移动芯片平台的 AI 能效调优经验； 有NPU器件功耗拆解和优化经验。"
+  },
+  {
+    "posted_date": "2026-08-14",
+    "company": "StepFun (阶跃星辰)",
+    "role": "数据平台研发（数仓）",
+    "track": "Software Engineering",
+    "location": "上海市 · 徐汇区",
+    "employment_type": "全职",
+    "eligibility": "Review eligibility",
+    "salary": "Not published",
+    "source": "Official MokaHR",
+    "url": "https://app.mokahr.com/social-recruitment/step/94904#/job/cc447774-4457-4260-b165-6ffac7c63e83",
+    "job_id": "cc447774-4457-4260-b165-6ffac7c63e83",
+    "status": "Open",
+    "date_added": "2026-11-06",
+    "qualification_excerpt": "岗位职责： 1. 搭建和完善数据仓库，设计数据模型与分层架构，沉淀公司数据资产，为算法训练和业务分析提供可靠的数据基座 2. 建设和维护数据平台产品（数据分析平台、数据集管理平台、DataAgent 等），推动数据治理，提升数据使用效率 3. 与算法团队深度合作，负责各类回流数据处理分析，持续提供高质量 SFT/评测/Agent 训练数据 4. 与产运团队深度合作，建立指标体系，搭建数据分析链路，辅助业务决策 任职要求： 1. 3 年以上数据平台或数仓建设经验，有扎实的数据建模、ETL、数据治理、数据质量、数据安全合规等相关经验 2. 扎实的工程能力，精通SQL和Python,熟悉至少一门后端语言（Java/Scala/Go） 3. 熟悉分布式计算框架（Spark/Flink 等），有 TB 级数据处理实战经验 4. 熟悉数据湖相关技术（Delta/Iceberg/Hudi 等）；有主流数据治理平台（如Apache Atlas、DataHub）使用或开发经验 5. 具备系统架构设计与工程落地能力，良好的沟通协调能力及团队合作精神，具备独立驱动项目的能力 6. 熟悉大模型训练数据，有AI算法、数据相关公司工作经历优先；有创业公司工作经历优先"
   },
   {
     "posted_date": "2026-08-14",
