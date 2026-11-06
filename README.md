@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-05** · Open roles: **3189**
+> Last automated update: **2026-11-06** · Open roles: **3205**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,18 +18,18 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 172 |
+| **Big Tech & Frontier AI** | 173 |
 | **AI Infra / Systems** | 20 |
 | **Quant / HFT** | 48 |
-| **Other high-value tech** | 33 |
-| **ByteDance / TikTok** (separate) | 531 |
-| Other companies | 2385 |
+| **Other high-value tech** | 34 |
+| **ByteDance / TikTok** (separate) | 536 |
+| Other companies | 2394 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-11-05 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 | ❔ | ✅ Confirmed | — |
+| 2026-11-05 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-05 | **Amazon** | [Software Dev Engineer I - Security Platform](https://www.amazon.jobs/jobs/10597112/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-04 | **Amazon** | [Software Development Engineer - Embedded Systems Early Career - 2027 - US](https://www.amazon.jobs/jobs/10595839/apply) | Not listed | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-11-02 | **Google** | [Software Engineer, AI/ML, Ads Quality](https://www.google.com/about/careers/applications/jobs/results/125520823275397830) | $147000 - $210000 | New York, NY, USA | ❔ | ✅ Confirmed | — |
@@ -104,34 +104,35 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-09-23 | **Figma** | [Early Career, Product Designer (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180053004?s=gh-new-grad-jobs-2027) | Not listed | San Francisco, CA • New York, NY | ❔ | ✅ Confirmed | — |
 | 2026-09-20 | **Stripe** | [Software Engineer - Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-09-01 | **Stripe** | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | $122,100–$134,400 | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-08-05 | **Roblox** | [[[2027] Software Engineer, Early Career](https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94?utm_campaign=Software%20Engineering&utm_source=1103)](https://corp.roblox.com) | Not listed | San Mateo, CA, United States | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Discord** | [Software Engineer - Developer Success](https://job-boards.greenhouse.io/discord/jobs/8609250002) | $160,000–$180,000 | San Francisco, CA | ❔ | ❔ Review | — |
 
 ## ByteDance / TikTok
 
-<details><summary><b>531 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>536 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-06 | **ByteDance** | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aed3eaec3da5933b813640c) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | PhD only |
 | 2026-11-05 | **TikTok** | [Machine Learning Engineer Graduate - TikTok-Data-Search-Search Quality - 2027 Start](https://lifeattiktok.com/search/7665797203155896581) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-11-04 | **ByteDance** | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | $128000 - $316800 annually | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-11-04 | **ByteDance** | [Video/Image AI/ML Software Engineer - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7704089625815468293?s=gh-new-grad-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
-| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 | ❔ | ❔ Review | — |
+| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 | ❔ | ❔ Review | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live](https://go.vansh.nyc/16x) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA / San Jose, CA | ❔ | ✅ Confirmed | — |
+| 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)](https://go.vansh.nyc/170) | $121600 - $243200 annually | Seattle, WA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-01 | **TikTok** | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 531 active roles. Use the Job Radar for all roles._
+_Showing 12 of 536 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3189 active roles**. Featured groups account for **273** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3205 active roles**. Featured groups account for **275** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
