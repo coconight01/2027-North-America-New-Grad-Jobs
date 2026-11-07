@@ -34388,7 +34388,7 @@
   "https://jobright.ai/jobs/info/6a987039af954907d6573604": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
-    "experience_requirement": "",
+    "experience_requirement": "1+ year of experience in",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
@@ -34398,7 +34398,7 @@
     "salary_max_annual": 158000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-09-02",
+    "checked_at": "2026-11-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a987847c8ed473c5c7643e9": {
@@ -38041,12 +38041,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$77K/yr - $77K/yr",
-    "salary_min_annual": 77000,
-    "salary_max_annual": 77000,
+    "salary": "$85K/yr - $85K/yr",
+    "salary_min_annual": 85000,
+    "salary_max_annual": 85000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-06",
+    "checked_at": "2026-11-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa1c6b93272060a8e3f2155": {
@@ -40750,7 +40750,7 @@
     "salary_max_annual": "",
     "reject_reason": "requires 2+ years professional/work experience",
     "source_fetched": true,
-    "checked_at": "2026-10-20",
+    "checked_at": "2026-11-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aad4bb52e757fcb5c8b786f": {
@@ -41582,7 +41582,7 @@
     "salary_max_annual": 158000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-11-07",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab14f33f9692ca98b048a76": {
@@ -45042,18 +45042,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abd52040e027c0f3b394ff8": {
-    "ng_confidence": "Confirmed",
-    "ng_evidence": "title says Entry Level",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
-    "sponsorship": "Unknown",
-    "visa_evidence": "",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$77K/yr - $116K/yr",
+    "salary_min_annual": 77000,
+    "salary_max_annual": 116000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
     "checked_at": "2026-11-07",
     "parser_version": 4
   },
@@ -82405,6 +82405,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-05",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-bmo-external-R260001648?s=gh-canada-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-07",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-bmo-external-R260021188?s=gh-canada-jobs-2027": {
