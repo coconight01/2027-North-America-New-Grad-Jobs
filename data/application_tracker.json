@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-06. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-07",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-07. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "Ubiquant / 九坤投资",
@@ -508,12 +508,12 @@
     {
       "company": "IMC Trading",
       "role": "Graduate Software Engineer",
-      "status": "OA Completed",
+      "status": "Rejected",
       "applied_date": "2026-08-08",
-      "status_date": "2026-08-29",
+      "status_date": "2026-11-06",
       "confidence": "Exact",
-      "evidence": "The exact-role IMC assessment invitation is already tracked; HackerRank confirmed submission of the 2026-2027 Chicago SWE Assessment on 2026-08-29.",
-      "next_action": "Assessment submitted; wait for IMC review."
+      "evidence": "IMC University Recruiting sent an exact-role update on 2026-11-06 naming the Graduate Software Engineer role in Chicago. The email states that business needs for the position have been met and IMC is no longer considering additional applicants.",
+      "next_action": "Closed for this exact Graduate Software Engineer process. Keep Graduate Performance Engineer, Quant Performance Engineer, Graduate Deep Learning Researcher, and any distinct future IMC requisitions independent."
     },
     {
       "company": "Citadel / Citadel Securities",
