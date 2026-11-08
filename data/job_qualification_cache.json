@@ -14143,6 +14143,22 @@
     "checked_at": "2026-11-01",
     "parser_version": 4
   },
+  "https://go.vansh.nyc/14S": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$218400 - $387600 annually",
+    "salary_min_annual": 218400,
+    "salary_max_annual": 387600,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-08",
+    "parser_version": 4
+  },
   "https://go.vansh.nyc/14V": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -28674,8 +28690,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7c2ec5a346cb6c8d5ed29e": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -28685,7 +28701,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
@@ -28722,8 +28738,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7c2fcbd77e8156a8e3155d": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -28733,7 +28749,7 @@
     "salary_min_annual": "122000",
     "salary_max_annual": "243000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
@@ -28754,8 +28770,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a7c2fdcd77e8156a8e31563": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -28765,7 +28781,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
@@ -30482,8 +30498,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a866742e459fa3baa86751d": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -30493,7 +30509,7 @@
     "salary_min_annual": "122000",
     "salary_max_annual": "243000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
@@ -43678,7 +43694,7 @@
     "salary_max_annual": 74000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-17",
+    "checked_at": "2026-11-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab6665e634ec6aa7c0d280e": {
@@ -43694,7 +43710,7 @@
     "salary_max_annual": 74000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-31",
+    "checked_at": "2026-11-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab666a2634ec6aa7c0d2812": {
@@ -43790,7 +43806,7 @@
     "salary_max_annual": 74000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-17",
+    "checked_at": "2026-11-08",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab6824cd85922de20ce50f6": {
@@ -52061,6 +52077,38 @@
     "salary_min_annual": 81000,
     "salary_max_annual": 90000,
     "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-11-08",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6af039ef8022f8ddd31a0c6f": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "1+ year of experience with",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$80K/yr - $90K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 90000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-11-08",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6af03a030fe787d00ed1d877": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "1+ year of experience with",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$80K/yr - $90K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 90000,
+    "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-11-08",
     "parser_version": 4
