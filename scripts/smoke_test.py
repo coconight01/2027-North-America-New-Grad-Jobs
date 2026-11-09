@@ -327,7 +327,9 @@ def test_tracker_overlay_coverage() -> str:
         item for item in tracker.get("applications", [])
         if item.get("company") == "NVIDIA" and "JR2028237" in item.get("role", "")
     )
-    assert nvidia_llm.get("status") == "Applied", nvidia_llm
+    assert nvidia_llm.get("status") == "Interview", nvidia_llm
+    assert nvidia_llm.get("status_date") == "2026-11-08", nvidia_llm
+    assert "45-60 minute virtual interview" in nvidia_llm.get("evidence", ""), nvidia_llm
     assert nvidia_llm.get("confidence") == "Exact", nvidia_llm
     samba = next(
         item for item in tracker.get("applications", [])
