@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-07. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-09",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-09. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "Ubiquant / 九坤投资",
@@ -1100,12 +1100,12 @@
     {
       "company": "NVIDIA",
       "role": "High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237)",
-      "status": "Applied",
+      "status": "Interview",
       "applied_date": "2026-10-26",
-      "status_date": "2026-10-26",
+      "status_date": "2026-11-08",
       "confidence": "Exact",
-      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-26 naming High-Performance LLM Training Engineer - New College Grad 2027 and requisition JR2028237.",
-      "next_action": "Wait for review; suppress only exact requisition JR2028237 from actionable recommendations."
+      "evidence": "NVIDIA HR sent an exact-role email on 2026-11-08 Central naming High-Performance LLM Training Engineer - New College Grad 2027 and requisition JR2028237. The team requested a 45-60 minute virtual interview and asked for weekday availability November 13-19 between 9:00 AM and 5:00 PM Pacific.",
+      "next_action": "Submit or verify the availability questionnaire in Candidate Home. NVIDIA says the interview confirmation should arrive within 48 hours after scheduling; then prepare distributed training, NCCL, multi-GPU performance, vLLM/model-loading and systems-debugging stories."
     },
     {
       "company": "SambaNova Systems",
