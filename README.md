@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-09** · Open roles: **3251**
+> Last automated update: **2026-11-10** · Open roles: **3254**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 172 |
-| **AI Infra / Systems** | 20 |
+| **Big Tech & Frontier AI** | 171 |
+| **AI Infra / Systems** | 19 |
 | **Quant / HFT** | 48 |
 | **Other high-value tech** | 34 |
-| **ByteDance / TikTok** (separate) | 534 |
-| Other companies | 2443 |
+| **ByteDance / TikTok** (separate) | 530 |
+| Other companies | 2452 |
 
 ### Big Tech & Frontier AI
 
@@ -31,9 +31,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---|---|---|---|---|---|---|
 | 2026-11-09 | **Apple** | [Tools & Automation Engineer — Early Career](https://jobs.apple.com/en-us/details/200692689-3956/tools-automation-engineer-early-career?team=SFTWR) | Not listed | Sunnyvale | ❔ | ✅ Confirmed | — |
 | 2026-11-08 | **Amazon** | [Software Development Engineer - Amazon Connect Team](https://www.amazon.jobs/jobs/10583348/apply) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
-| 2026-11-05 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | ❔ | ✅ Confirmed | — |
+| 2026-11-05 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-05 | **Amazon** | [Software Dev Engineer I - Security Platform](https://www.amazon.jobs/jobs/10597112/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-02 | **Google** | [Software Engineer, AI/ML, Ads Quality](https://www.google.com/about/careers/applications/jobs/results/125520823275397830) | $147000 - $210000 | New York, NY, USA | ❔ | ✅ Confirmed | — |
+| 2026-11-02 | **Google** | [Software Engineer, AI/ML, Ads Quality](https://www.google.com/about/careers/applications/jobs/results/125520823275397830) | $147000 - $210000 | New York, NY, USA | ❔ | ❔ Review | — |
 | 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Not listed | Seattle, WA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Not listed | Canada +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-28 | **Anthropic** | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | $350,000–$500,000/year | San Francisco, CA / New York City, NY | ❔ | ❔ Review | — |
@@ -52,14 +52,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
-| 2026-10-28 | **Databricks** | [Software Engineer - New Grad, Distributed Data Systems (2027 Start)](https://jobright.ai/jobs/info/6ae1082567c31ab34899fca3) | Not listed | Bellevue, WA, United States | ❔ | ✅ Confirmed | — |
 | 2026-10-28 | **Databricks** | [Software Engineer - New Grad, Distributed Data Systems (2027 Start) (6865704002)](https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002) | $145,000–$155,000 | Bellevue, WA; Mountain View, CA | ❔ | ✅ Confirmed | — |
+| 2026-10-27 | **Databricks** | [Software Engineer - New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | $145,000 — $155,000 | **4 locations** Bellevue, WA Mountain View, CA San Francisco, CA Vancouver, BC | ❔ | ✅ Confirmed | — |
 | 2026-10-27 | **CoreWeave** | [Software Engineer - Inference](https://coreweave.com/careers/job?4703438006=&board=coreweave&gh_jid=4703438006) | Not listed | Bellevue, WA +2 | ❔ | ❔ Review | — |
 | 2026-10-23 | **Scale AI** | [Machine Learning Research Scientist, ...](https://job-boards.greenhouse.io/scaleai/jobs/4728014005) | $165,600 - $207,000 | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-10-23 | **CoreWeave** | [Software and AI Engineer](https://coreweave.com/careers/job?4720302006=&board=coreweave&gh_jid=4720302006) | Not listed | Sunnyvale, CA / Bellevue, WA / Dallas, TX | ❔ | ❔ Review | — |
 | 2026-10-03 | **Cerebras** | [AI Inference Core - Software Integration Engineer](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Unknown | Sunnyvale, CA; Toronto, ON | ❔ | ❔ Review | — |
 | 2026-09-23 | **Scale AI** | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | $124,000–$162,000 | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ✅ Confirmed | — |
+| 2026-08-30 | **Together AI** | [GTM Data Analytics Engineer](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | $ 120K - $150K | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-08-20 | **Crusoe** | [Software Engineer I - Network](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | Not listed | San Francisco, CA +1 | ❔ | ✅ Confirmed | — |
 | 2026-08-07 | **Crusoe** | [Software Engineer I - DCIE](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
 | 2026-07-31 | **Baseten** | [Applied AI Inference Engineer](https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa) | Not listed | Remote - San Francisco, CA +1 | ❔ | ❔ Review | — |
@@ -109,7 +109,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>534 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>530 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -119,20 +119,20 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-05 | **TikTok** | [Machine Learning Engineer Graduate - TikTok-Data-Search-Search Quality - 2027 Start](https://lifeattiktok.com/search/7665797203155896581) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-11-04 | **ByteDance** | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | $128000 - $316800 annually | San Jose, CA | ❔ | ◐ Likely | — |
 | 2026-11-04 | **ByteDance** | [Video/Image AI/ML Software Engineer - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7704089625815468293?s=gh-new-grad-software-engineering-jobs-2027) | Not listed | San Jose, California | ❔ | ◐ Likely | PhD only |
-| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | ❔ | ❔ Review | — |
+| 2026-11-03 | **TikTok** | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | $153900 - $300960 annually | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | ❔ | ❔ Review | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live](https://go.vansh.nyc/16x) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I) | $207480 - $368220 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | $128000 - $316800 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-01 | **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154) | $121600 - $243200 annually | Seattle, WA +2 | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 534 active roles. Use the Job Radar for all roles._
+_Showing 12 of 530 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3251 active roles**. Featured groups account for **274** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3254 active roles**. Featured groups account for **272** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
