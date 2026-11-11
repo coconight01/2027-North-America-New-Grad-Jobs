@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,8 +26,8 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 318,
-    "new_job_candidates": 119,
+    "priority_company_candidates": 322,
+    "new_job_candidates": 104,
     "high_potential_title_candidates": 403
   },
   "veto_counts": {
@@ -65,31 +65,6 @@
       "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Santa Clara, CA, United States",
-      "salary": "$108K/yr - $178K/yr",
-      "salary_max_annual": "178000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-10",
-      "source": "GitHub:jobright-ai/2026-Software-Engineer-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ac97e09fe8f33a85d50413c",
-      "jd_excerpt": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027 @ NVIDIA | Jobright.ai SIGN IN JOIN NOW C++ Software Engineer, Infrastructure Tools - New College Grad 2027 jobs in United States Overview Company This job has closed. APPLY to similar jobs NVIDIA · 3 weeks ago C++ Software Engineer, Infrastructure Tools - New College Grad 2027 Santa Clara, CA Full-time Hybrid New Grad $108K/yr - $178K/yr NVIDIA is a technology company advancing GPU computing, graphics, and artificial intelligence. The company is seeking a new college graduate C++ Software Engineer to develop and maintain scalable build, regression, and release infrastructure, user-facing workflow services, and internal tools for chip designers. Artificial Intelligence (AI) Transportation Cloud Computing Embedded Software Gaming Hardware Quantum Computing Semiconductor AI Infrastructure Autonomous Vehicles Embedded Systems Foundational AI Growth Opportunities H1B Sponsor Likely Responsibilities Research, develop and maintain high quality tooling for scalable build/regression/release infrastructure that our chip designers rely on every day Develop user facing services that enable them to quickly schedule, track and triage their flows Develop internal tools to collect, analyze, monitor and visualize key metrics of the build and deployment systems Research and adapt the latest CI/CD practices to constantly evolve the tools & meet industry standards Qualification C++ Golang Python Perl Tcl Data Structures Algorithms Computer Architecture Git Perforce CMake Bazel Required Bachelor's degree or higher in Computer Science or Computer Engineering (or equivalent experience) Experienced in a compiled language(C++/Golang) & scripting(Python/Perl/Tcl) Experience in writing good production quality code Solid understanding of data structure, algorithms, computer architecture and computer science theory Flexibility/adaptability for working in a global and wide-ranging environment with different frameworks and requirements Preferred Interest or experience in AI/ML & developing agentic workflows Proficiency in SCM (e.g. Git, Perforce) and build systems (e.g. Make, CMake, makepp, Bazel) Experienced with full stack development Proficiency in C++ linter, memory check, performance profiling, and code coverage tools Experienced with distributed computing systems such as LSF Benefits Eligible for equity Eligible for benefits Hybrid work arrangement Company NVIDIA Glassdoor 4.6 Accelerated computing platforms for AI and compute-intensive workloads. Founded in 1993 Santa Clara, California, USA 10001+ employees https://www.nvidia.com H1B Sponsorship NVIDIA has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 89 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Marketing Sales Accounting and Finance Customer Service and Support Creatives and Design Human Resources Arts and Entertainment Legal and Compliance Trends of Total Sponsorships *2026 ( 2427 ) 2025 ( 1865 ) 2024 ( 1352 ) 2023 ( 975 ) 2022 ( 835 ) 2021 ( 601 ) 2020 ( 529 ) Funding Current Stage Public Company Total Funding $29.09B Key Investors ARPA-E ARK Investment Management SoftBank Vision Fund 2026-06-15 Post Ipo Debt· $25B 2023-05-09 Grant· $5M 2022-08-09 Post Ipo Equity· $65M Leadership Team Jensen Huang Founder and CEO Michael Kagan Chief Technology Officer Recent News The Next Web Meta built a humanoid robot with China’s Fourier, The Information reports 2026-11-02 Korea Herald KB Kookmin to lead record W10.7tr loan for Naver AI project 2026-11-02 CBC North American stocks sink, Wall Street suffers worst day since June amid tech sell-off 2026-11-01 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role C++ Golang Python Perl Tcl Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Response via Email Outreach S Sarah C. Senior Developer Operation Engineer R Ran D. Senior Developer Operations Engineer Draft Message to Connect Apply Faster with Autofill Plugin FREE Apply With Autofill",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 3,
-      "machine_score": 100,
-      "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
       "company_priority": "Tier A",
       "company": "NVIDIA",
@@ -112,7 +87,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 3,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -137,7 +112,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -162,7 +137,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -187,7 +162,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -212,32 +187,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 8,
-      "machine_score": 99,
-      "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
-      "company_priority": "Tier A",
-      "company": "Applied Intuition",
-      "role": "Research Engineer (New Grad 2027)",
-      "category": "Infrastructure / Systems",
-      "location": "Sunnyvale, CA",
-      "salary": "$140K to 200K",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-10",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.welcometothejungle.com/en/companies/applied-intuition/jobs/research-engineer-new-grad-2027_sunnyvale_kc44v4hr",
-      "jd_excerpt": "Research Engineer (New Grad 2027) – Applied Intuition – Permanent contract in Sunnyvale Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Back Applied Intuition Research Engineer (New Grad 2027) Job summary Permanent contract Sunnyvale No remote work Salary: $140K to 200K Experience: > 1 year Skills & expertise Foundation Pytorch Python Apply Save 3 months ago Share Copy link Share on Facebook Share on X Share on LinkedIn Applied Intuition Interested in this job? Apply Save Questions and answers about the job Does this position allow remote work? This position does not offer a remote work option. What type of contract is offered for this position? Type of contract for this position: Permanent contract The position Job description We are looking for passionate early-career Research Engineers to join the Research Group at Applied Intuition The mission of the group is to create cutting-edge technology enabling next-generation physical AI, with emphasis on the two most challenging applications reshaping our everyday life: end-to-end autonomous driving and robotic generalist We have a group composed of leading experts from top institutions and companies, recognized for their exceptional academic and industry contributions, including eight Best Paper awards at premier conferences and journals such as CVPR and ICRA Learn more at appliedintuition Com/research Supported by industry-leading tools and infra, researchers can access millions of miles of data from large fleets, and deploy methods they develop into various autonomous and robotic systems including self-driving cars/trucks, autonomous mining/construction machines, humanoid robots, and dexterous hands In addition to your research contributions, you will contribute to and learn from best practices in the autonomy and robotics industries within our fast-paced and customer-focused culture Improvements deployed to our system immediately help our customers with their programs and deliver value to our business This role is designed for recent PhD or MS graduates ready to translate strong academic research into shipped autonomy systems Collaborate with our ADAS stack engineering team to test and deploy end-to-end algorithms for mass production vehicles Collaborate with our simulation team to deploy data-driven generation algorithms for highly efficient and automated tools Conduct research on architecture design, robustness, safety, and language modality incorporation for our differentiable stack Work closely with Research Scientists and interns on high-quality research publications to submit to top-tier conferences Preferred experience VLA post-training, reinforcement learning World-action foundation model, video/Gaussian generation, diffusion policy, multi-modal robot learning Strong engineering and research skills and the ability to work both independently and collaboratively on projects Hands-on experience in at least one of the following fields: 1+ year of experience in any field, or equivalent combination of education and experience Physics-aware reconstruction, deformable simulation Passion for next-generation, scalable autonomy and robotics for real-world systems MSc or PhD in machine learning and computer vision with autonomy and robotics applications or closely related field, graduating by December 2026 or Summer 2027 Technical experience in: Python, Pytorch, computer vision, robotics systems, and distributed machine learning model training Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles Industry experience on relevant topics (self-driving application preferred) Passion for building and shipping customer-focused software frameworks or tools Discover the company Explore the company’s profile or follow them to find out if they’re the right fit! Explore the company Follow them! The company Applied Intuition Software, Artificial Intelligence / Machine Learning, Big Data 1200 employees View website View all jobs 170 Who are they? Software infrastructure for autonomous vehicles The workplace Sunnyvale, California, United States Need more info? Company life, atmosphere, achievements... We still have a lot more to tell you! Discover These job openings might interest you! These companies are also recruiting for the position of “Engineering R&D”. Research Engineer, Model Inference & Serving - Paris H Company Permanent contract Paris A few days at home Software, Artificial Intelligence / Machine Learning 75 employees 2 months ago Apply Save Welcome to the jungle symbol Find your next job Explore companies AI Candidate Coach Need help? Have an account? Log in Hire the right talent Welcome Hiring Suite Employer branding Pri",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 9,
+      "machine_rank": 7,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -256,13 +206,13 @@
       "source": "Google Jobs via SerpAPI",
       "official_source": true,
       "url": "https://www.welcometothejungle.com/en/companies/applied-intuition/jobs/forward-deployed-engineer-new-grad-december-2026_sunnyvale_wnwbluth",
-      "jd_excerpt": "Forward Deployed Engineer (New Grad, 2027) – Applied Intuition – Permanent contract in Sunnyvale Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Back Applied Intuition Forward Deployed Engineer (New Grad, 2027) Job summary Permanent contract Sunnyvale No remote work Salary: $130K to 158K Experience: > 1 year Skills & expertise Technical aptitude Communication skills Collaboration and teamwork Mechanical skills C++ +6 Apply Save last month Share Copy link Share on Facebook Share on X Share on LinkedIn Applied Intuition Interested in this job? Apply Save Questions and answers about the job Does this position allow remote work? This position does not offer a remote work option. What type of contract is offered for this position? Type of contract for this position: Permanent contract The position Job description Applied Intuition is redefining vehicle intelligence across commercial and defense sectors As a Forward Deployed Engineer, you’ll work in small teams and own end-to-end execution of high-impact projects. You’ll be the technical bridge between Applied Intuition’s technology and our customers’ real-world operational environments This role demands both technical depth and operational excellence. You’ll work directly with customers to deploy and integrate Applied Intuition’s products, while tackling a variety of software engineering, infrastructure, robotics, and systems challenges You’ll have significant ownership over technical and product decisions and work closely with both customers and internal teams to solve difficult problems and deliver impactful solutions Work directly with customers to deploy and integrate Applied Intuition’s products and tools into real-world environments Work across our entire stack to develop new products, features, and tools for our customers’ autonomy development workflows Tackle a variety of software engineering, infrastructure, robotics, and systems challenges Have an unparalleled opportunity to work with domain experts across a variety of fields, as well as startup veterans Take ownership over technical and product decisions and drive projects from development through deployment Collaborate closely with customers, engineers, and product teams to understand problems and deliver effective solutions Carve out your own area of expertise and quickly become comfortable with new technical tools and environments Preferred experience Experience taking initiative in a fast-paced environment Strong programming skills, with proficiency in languages such as C++ or Python Strong communication skills and an interest in working directly with customers to solve technical problems Proven ability as a self-starter and can quickly become comfortable with new technical tools BS/MS degree (completed or in progress) in Computer Science, Computer Engineering, Electrical Engineering, or a related field, graduating December 2026 Designed efficient and effective solutions to a wide range of engineering challenges 1+ year of experience in any field, or equivalent combination of education and experience Experience working with simulation tools, modeling physical problems, or using robotics middleware (such as ROS) Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles Working knowledge of frontend, API layer, database ORM, containerization, or cluster orchestration frameworks (such as React, GraphQL, SQLAlchemy, Docker, or Kubernetes) Experience working with complex software systems, infrastructure, robotics, or hardware Experience in defense, automotive, robotics, or adjacent industries Discover the company Explore the company’s profile or follow them to find out if they’re the right fit! Explore the company Follow them! The company Applied Intuition Software, Artificial Intelligence / Machine Learning, Big Data 1200 employees View website View all jobs 170 Who are they? Software infrastructure for autonomous vehicles The workplace Sunnyvale, California, United States Need more info? Company life, atmosphere, achievements... We still have a lot more to tell you! Discover These job openings might interest you! These companies are also recruiting for the position of “Software & Web Development”. Senior Software Engineer, Foundry Redgate Software Permanent contract Cambridge A few days at home Salary: £55K to 80K Software 42 minutes ago Senior Fullstack Engineer Orasio Permanent contract Paris A few days at home Software, Artificial Intelligence / Machine Learning 25 employees 42 minutes ago Forward Deployed Software Engineer Liberis Ltd Permanent contract London No remote work Software, FinTech / InsurTech 300 employees 43 minutes ago Website Manager DiliTrust ",
+      "jd_excerpt": "Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Welcome to the jungle symbol Find your next job Explore companies AI Candidate Coach Need help? Have an account? Log in Hire the right talent Welcome Hiring Suite Employer branding Pricing Clients' testimonials Resources Need help? Have an account? Log in About us Our concept and story We're hiring Press US Français English (US) English (UK) Legal notice Terms of service Legal center Manage cookies © 2026 Welcome to the Jungle Forward Deployed Engineer (New Grad, 2027) - Applied Intuition - Permanent in Sunnyvale Back about 1 month ago Forward Deployed Engineer (New Grad, 2027) Applied Intuition Software for autonomous vehicle infrastructure. Save Apply Permanent Sunnyvale No remote 130K to 158K $ a year > 1 year about 1 month ago Skills we're looking for Technical aptitude Communication skills Collaboration and teamwork Mechanical skills C++ + 6 You'll be part of 1200 employees Software Artificial Intelligence / Machine Learning Big Data Our take Autonomous vehicles present a lot of challenging problems to engineers, particularly in terms of safety and reliability, and testing and development can be infamously slow. Applied Intuition provides software to run simulations and tests for autonomous vehicles more quickly and effectively, speeding up the development and launch of AVs for multiple industries.\n \n\nWith big companies such as Tesla and Google focused on developing automation, Applied Intuition has the scope to provide the software that makes it a reality. The company’s suite of simulation, validation, and drive log management software aids in the more efficient deployment of autonomous vehicles, with companies such as Toyota, Nissan, and General Motors relying on its solutions.\n \n\nAs the autonomous vehicles market accelerates, Applied Intuition is well set for growth, especially as it continues to expand its capabilities. Notable developments include the acquisitions of CarSim, Scenebox and Embark Trucks, as well as partnerships with AMBA and Valeo. All these efforts seek to bolster the company's offering towards supporting the faster and safer deployment of AVs, whilst a $600 million Series F round awarded in 2025 will go towards its next phase of product development, alongside key hires across its product team. You'll be working on Applied Intuition is redefining vehicle intelligence across commercial and defense sectors As a Forward Deployed Engineer, you’ll work in small teams and own end-to-end execution of high-impact projects. You’ll be the technical bridge between Applied Intuition’s technology and our customers’ real-world operational environments This role demands both technical depth and operational excellence. You’ll work directly with customers to deploy and integrate Applied Intuition’s products, while tackling a variety of software engineering, infrastructure, robotics, and systems challenges You’ll have significant ownership over technical and product decisions and work closely with both customers and internal teams to solve difficult problems and deliver impactful solutions Work directly with customers to deploy and integrate Applied Intuition’s products and tools into real-world environments Work across our entire stack to develop new products, features, and tools for our customers’ autonomy development workflows Tackle a variety of software engineering, infrastructure, robotics, and systems challenges Have an unparalleled opportunity to work with domain experts across a variety of fields, as well as startup veterans Take ownership over technical and product decisions and drive projects from development through deployment Collaborate closely with customers, engineers, and product teams to understand problems and deliver effective solutions Carve out your own area of expertise and quickly become comfortable with new technical tools and environments We're looking for Experience taking initiative in a fast-paced environment Strong programming skills, with proficiency in languages such as C++ or Python Strong communication skills and an interest in working directly with customers to solve technical problems Proven ability as a self-starter and can quickly become comfortable with new technical tools BS/MS degree (completed or in progress) in Computer Science, Computer Engineering, Electrical Engineering, or a related field, graduating December 2026 Designed efficient and effective solutions to a wide range of engineering challenges 1+ year of experience in any field, or equivalent combination of education and experience Experience working with simulation tools, modeling physical problems, or using robotics middleware (such as ROS) Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we enco",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 8,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -287,7 +237,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 9,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -312,7 +262,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 10,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -337,7 +287,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 11,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -362,7 +312,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 12,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -387,7 +337,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 13,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -412,7 +362,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 14,
       "machine_score": 90,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -437,7 +387,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 15,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -462,7 +412,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 16,
+      "machine_score": 87,
+      "machine_tier": "Top",
+      "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "Tier A",
+      "company": "Applied Intuition",
+      "role": "Research Engineer (New Grad 2027)",
+      "category": "Infrastructure / Systems",
+      "location": "Sunnyvale, CA",
+      "salary": "$140K to 200K",
+      "salary_max_annual": "200000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-10",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.welcometothejungle.com/en/companies/applied-intuition/jobs/research-engineer-new-grad-2027_sunnyvale_kc44v4hr",
+      "jd_excerpt": "Welcome to the jungle logo Find a job Explore companies Resources Candidate resources Recruiter resources AI Candidate Coach I'm a recruiter Sign in US Français English (US) English (UK) Welcome to the jungle symbol Find your next job Explore companies AI Candidate Coach Need help? Have an account? Log in Hire the right talent Welcome Hiring Suite Employer branding Pricing Clients' testimonials Resources Need help? Have an account? Log in About us Our concept and story We're hiring Press US Français English (US) English (UK) Legal notice Terms of service Legal center Manage cookies © 2026 Welcome to the Jungle Research Engineer (New Grad 2027) - Applied Intuition - Permanent in Sunnyvale Back 3 months ago Research Engineer (New Grad 2027) Applied Intuition Software for autonomous vehicle infrastructure. Save Apply Permanent Sunnyvale No remote 140K to 200K $ a year > 1 year 3 months ago Skills we're looking for Foundation Pytorch Python You'll be part of 1200 employees Software Artificial Intelligence / Machine Learning Big Data Our take Autonomous vehicles present a lot of challenging problems to engineers, particularly in terms of safety and reliability, and testing and development can be infamously slow. Applied Intuition provides software to run simulations and tests for autonomous vehicles more quickly and effectively, speeding up the development and launch of AVs for multiple industries.\n \n\nWith big companies such as Tesla and Google focused on developing automation, Applied Intuition has the scope to provide the software that makes it a reality. The company’s suite of simulation, validation, and drive log management software aids in the more efficient deployment of autonomous vehicles, with companies such as Toyota, Nissan, and General Motors relying on its solutions.\n \n\nAs the autonomous vehicles market accelerates, Applied Intuition is well set for growth, especially as it continues to expand its capabilities. Notable developments include the acquisitions of CarSim, Scenebox and Embark Trucks, as well as partnerships with AMBA and Valeo. All these efforts seek to bolster the company's offering towards supporting the faster and safer deployment of AVs, whilst a $600 million Series F round awarded in 2025 will go towards its next phase of product development, alongside key hires across its product team. You'll be working on We are looking for passionate early-career Research Engineers to join the Research Group at Applied Intuition The mission of the group is to create cutting-edge technology enabling next-generation physical AI, with emphasis on the two most challenging applications reshaping our everyday life: end-to-end autonomous driving and robotic generalist We have a group composed of leading experts from top institutions and companies, recognized for their exceptional academic and industry contributions, including eight Best Paper awards at premier conferences and journals such as CVPR and ICRA Learn more at appliedintuition Com/research Supported by industry-leading tools and infra, researchers can access millions of miles of data from large fleets, and deploy methods they develop into various autonomous and robotic systems including self-driving cars/trucks, autonomous mining/construction machines, humanoid robots, and dexterous hands In addition to your research contributions, you will contribute to and learn from best practices in the autonomy and robotics industries within our fast-paced and customer-focused culture Improvements deployed to our system immediately help our customers with their programs and deliver value to our business This role is designed for recent PhD or MS graduates ready to translate strong academic research into shipped autonomy systems Collaborate with our ADAS stack engineering team to test and deploy end-to-end algorithms for mass production vehicles Collaborate with our simulation team to deploy data-driven generation algorithms for highly efficient and automated tools Conduct research on architecture design, robustness, safety, and language modality incorporation for our differentiable stack Work closely with Research Scientists and interns on high-quality research publications to submit to top-tier conferences We're looking for VLA post-training, reinforcement learning World-action foundation model, video/Gaussian generation, diffusion policy, multi-modal robot learning Strong engineering and research skills and the ability to work both independently and collaboratively on projects Hands-on experience in at least one of the following fields: 1+ year of experience in any field, or equivalent combination of education and experience Physics-aware reconstruction, deformable simulation Passion for next-generation, scalable autonomy and robotics for real-world systems MSc or PhD in machine learning and computer vision with autonomy and robotics applications or closely related field, graduating by December 2026 or Summer 2027 Technical experience in: Python, Pytorch",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 17,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -487,7 +462,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 18,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: distributed training / parallelism, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -512,7 +487,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -537,7 +512,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 20,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -557,6 +532,31 @@
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8036541?gh_jid=8036541",
       "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations OMM Explained Work With Us Experienced Early Careers Internships Life at Akuna Options 101 Talent Community All Rights Reserved © 2011-2026 Akuna Technologies LLC - Terms and\n      Conditions - Privacy Policy Media Inquiries",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 21,
+      "machine_score": 78,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: PyTorch; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Techstra Solutions",
+      "role": "AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Pittsburgh, PA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Entry-Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-11",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://techstrasolutions.applytojob.com/apply/h0W1v7gpzI/AI-Engineer",
+      "jd_excerpt": "AI Engineer - Techstra Solutions - Career Page Skip To Job Description View All Jobs View Our Website Thanks for visiting our Open Jobs Page. At Techstra Solutions, we welcome the disruptive, innovative, creative and analytical to be a part of our team and help us build our company.  We value and encourage input beyond the role which you are hired.  We believe in treating people with respect and are committed to demonstrating integrity in all that we do – internally, as well as externally with our clients, vendors, partners, and the world around us. This commitment is what makes Techstra Solutions a great place to work. Please review our open positions and apply to the positions that match your qualifications. AI Engineer Pittsburgh, PA Full Time Experienced Share AI Engineer Location: Hybrid / Onsite (Preferred) Position Type: Full-Time / Entry-Level Role Summary We are seeking an AI Engineer who is passionate about artificial intelligence and eager to launch their career building innovative AI solutions. This is an excellent opportunity for a recent master's graduate who has a strong technical foundation, enjoys solving complex problems, and is excited to learn from experienced engineers in a collaborative environment. The ideal candidate is intellectually curious, highly motivated, and thrives as part of a team. In this role, you will work alongside data scientists, software engineers, and business stakeholders to develop, test, and deploy AI-powered applications that solve real-world business challenges. Key Responsibilities Model & Solution Development: Assist in the design, development, testing, and deployment of AI and machine learning solutions, building and evaluating models using both structured and unstructured data. GenAI & LLM Integration: Develop applications leveraging Large Language Models (LLMs) and Generative AI technologies, creating effective prompts, evaluating model outputs, and continuously improving AI application performance. RAG & Agent Support: Support the engineering architectures and emerging AI agent framework solutions. Data Preparation & Engineering: Prepare, clean, format, and analyze complex datasets required for model training, validation, and evaluation. Cross-Functional Collaboration: Partner closely with senior engineers to integrate AI capabilities into enterprise applications and participate in standard Agile ceremonies (sprint planning, daily standups, retrospectives, and peer code reviews). Required Qualifications Education: Master's degree in Artificial Intelligence, Computer Science, Data Science, Machine Learning, Software Engineering, or a related quantitative technical discipline. Core Technical Foundation: Strong understanding of foundational machine learning concepts and core AI principles. Framework Knowledge: Familiarity with libraries and frameworks such as PyTorch, TensorFlow, Scikit-learn, LangChain, or similar tooling. GenAI & LLM Familiarity: Conceptual and practical understanding of Large Language Models, prompt engineering, and Generative AI paradigms. Software Engineering Principles: Knowledge of REST APIs, modular code design, and version control systems ( Git ). Preferred Qualifications Academic thesis work, capstone projects, or personal repositories involving LLMs, AI agents, RAG, or Generative AI. Exposure to cloud platforms such as Microsoft Azure, AWS, or Google Cloud. Hands-on experience using vector databases (e.g., Azure AI Search, Pinecone, pgvector) or embedding models. Working knowledge of SQL and foundational data engineering concepts. Knowledge / working experience with Claude, Microsoft Enterprise Ai Stack About Techstra Solutions Techstra Solutions is a certified woman-owned (WBENC) management consulting firm specializing in strategy, technology, and implementation services for large organizations undergoing digital and talent transformation. Our experienced team partners with clients to co-create innovative solutions in applications, data, AI, and automation that accelerate measurable, sustainable change. From advisory consulting through technical execution, we are dedicated to driving world-class business solutions that fit your strategic requirements and deliver results. For more information: www.techstrasolutions.com Equal Employment Opportunity Statement Techstra Solutions is an equal opportunity employer. The Company makes its decisions on merit, and its policy of equal opportunity prohibits discrimination in all phases of the employment process, including, but not limited to, recruitment, hiring, promotion, selection, transfer, demotion, layoff, termination, compensation, benefits, and other terms and conditions of employment. The policy of equal opportunity applies without regard to race, color, creed, religion, gender, sexual orientation, gender identification, pregnancy, marital status, national origin, ancestry, age, disability that can reasonably be accommodated without undue hardship, military status, veteran status, ge",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -588,6 +588,31 @@
     },
     {
       "machine_rank": 23,
+      "machine_score": 81,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "NVIDIA",
+      "role": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "US, CA, Santa Clara",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-10",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027431?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply d5856577 Critical Facilities Lead Engineer Cheyenne, WY +2 more Just now Senior Level Other Apply Nvidia Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Just now Senior Level AI / Machine Learning Apply Rover Brand Creator Manager Seattle 1h ago Senior Level Marketing Apply Boeing Program Chief Engineer (Principle or Senior) USA - El Segundo, CA 1h ago Senior Level Other Apply Perplexity Go-To-Market Compensation Lead San Francisco +2 more 1h ago Senior Level Sales Apply Anduril Senior Manager of Digital Quality Systems Costa Mesa, CA 1h ago Senior Level Software Engineering Apply Perplexity Deal Desk Lead San Francisco +2 more 1h ago Senior Level Sales Apply Workday Inc Software Development Engineer - US Federal USA.VA.Reston 1h ago Mid Level Software Engineering Apply Aptiv Executive Administrative Assistant Troy, MI 1h ago Senior Level Other Apply Aptiv Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON 1h ago Senior Level Software Engineering Apply d5856577 Just now Critical Facilities Lead Engineer Cheyenne, WY +2 more Senior Level Other Apply Now Nvidia Just now Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Senior Level AI / Machine Learning Apply Now Rover 1h ago Brand Creator Manager Seattle Senior Level Marketing Apply Now Boeing 1h ago Program Chief Engineer (Principle or Senior) USA - El Segundo, CA Senior Level Other Apply Now Perplexity 1h ago Go-To-Market Compensation Lead San Francisco +2 more Senior Level Sales Apply Now Anduril 1h ago Senior Manager of Digital Quality Systems Costa Mesa, CA Senior Level Software Engineering Apply Now Perplexity 1h ago Deal Desk Lead San Francisco +2 more Senior Level Sales Apply Now Workday Inc 1h ago Software Development Engineer - US Federal USA.VA.Reston Mid Level Software Engineering Apply Now Aptiv 1h ago Executive Administrative Assistant Troy, MI Senior Level Other Apply Now Aptiv 1h ago Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON Senior Level Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 24,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -612,7 +637,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 25,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -637,7 +662,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 26,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -662,7 +687,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 27,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
@@ -687,7 +712,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 28,
+      "machine_score": 75,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "Tier A",
+      "company": "Databricks",
+      "role": "Product Design New Grad (2027 Start)",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, California",
+      "salary": "$128,000–$140,000",
+      "salary_max_annual": "140000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-10",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/greenhouse-databricks-8843577002?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply d5856577 Critical Facilities Lead Engineer Cheyenne, WY +2 more Just now Senior Level Other Apply Nvidia Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Just now Senior Level AI / Machine Learning Apply Rover Brand Creator Manager Seattle 1h ago Senior Level Marketing Apply Boeing Program Chief Engineer (Principle or Senior) USA - El Segundo, CA 1h ago Senior Level Other Apply Perplexity Go-To-Market Compensation Lead San Francisco +2 more 1h ago Senior Level Sales Apply Anduril Senior Manager of Digital Quality Systems Costa Mesa, CA 1h ago Senior Level Software Engineering Apply Perplexity Deal Desk Lead San Francisco +2 more 1h ago Senior Level Sales Apply Workday Inc Software Development Engineer - US Federal USA.VA.Reston 1h ago Mid Level Software Engineering Apply Aptiv Executive Administrative Assistant Troy, MI 1h ago Senior Level Other Apply Aptiv Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON 1h ago Senior Level Software Engineering Apply d5856577 Just now Critical Facilities Lead Engineer Cheyenne, WY +2 more Senior Level Other Apply Now Nvidia Just now Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Senior Level AI / Machine Learning Apply Now Rover 1h ago Brand Creator Manager Seattle Senior Level Marketing Apply Now Boeing 1h ago Program Chief Engineer (Principle or Senior) USA - El Segundo, CA Senior Level Other Apply Now Perplexity 1h ago Go-To-Market Compensation Lead San Francisco +2 more Senior Level Sales Apply Now Anduril 1h ago Senior Manager of Digital Quality Systems Costa Mesa, CA Senior Level Software Engineering Apply Now Perplexity 1h ago Deal Desk Lead San Francisco +2 more Senior Level Sales Apply Now Workday Inc 1h ago Software Development Engineer - US Federal USA.VA.Reston Mid Level Software Engineering Apply Now Aptiv 1h ago Executive Administrative Assistant Troy, MI Senior Level Other Apply Now Aptiv 1h ago Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON Senior Level Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 29,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -712,7 +762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 30,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -737,7 +787,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 31,
+      "machine_score": 70,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Python, Linux, Networking; role shape: early-career SWE; downrank: security specialization; new-grad: confirmed",
+      "company_priority": "Tier B",
+      "company": "Anduril",
+      "role": "2027 New Grad Information Security Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Costa Mesa, California, United States",
+      "salary": "$88,000–$117,000",
+      "salary_max_annual": "117000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-11",
+      "source": "Greenhouse:andurilindustries",
+      "official_source": true,
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007",
+      "jd_excerpt": "Job Application for 2027 New Grad Information Security Engineer at Anduril Industries New 2027 New Grad Information Security Engineer Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Our Space Classified IT and Cyber Team builds and secures the IT systems. We're hiring an entry-level Information System Security Engineer (ISSE) who wants hands-on experience. You'll harden, scan, and automate real systems in our unclassified environment, both on premises and in AWS and Azure, working alongside the system administrators, network engineers, and security staff who run them. WHAT YOU’LL DO Harden Windows and Red Hat Enterprise Linux (RHEL) systems to DISA Security Technical Implementation Guides (STIGs), check your work with SCAP tools, and document the results Secure AWS and Azure environments: identity and access, logging, encryption, and compliance checks with tools like AWS Security Hub and Microsoft Defender for Cloud Write Ansible playbooks and scripts that apply and verify security settings Build and test hardened images, patches, and configuration changes before production rollout Help run ACAS (Tenable) scans and work findings to closure with system and network engineers Configure and tune security tools such as Splunk and Trellix Write authorization documentation: security plan sections, diagrams, and assessment evidence Follow change control and document what you build WHAT YOU’LL LEARN VMware vSphere, Active Directory, and enterprise storage, and how to secure them DoD cloud security: impact levels and the Cloud Computing Security Requirements Guide DoD security tooling, including ACAS, the SCAP Compliance Checker, Evaluate-STIG, and Splunk How systems earn an authorization to operate (ATO) under RMF and JSIG REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Cybersecurity, Computer Science, Information Technology, Computer Engineering, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. PREFERRED QUALIFICATIONS Comfort on the Linux and Windows command line Networking fundamentals: TCP/IP, subnetting, DNS, VLANs Scripting in at least one of Python, Bash, Yaml, or PowerShell Clear written communication AWS or Azure experience, such as AWS Certified Cloud Practitioner, AZ-900, or a free-tier project A home lab on any hypervisor (Proxmox, Hyper-V, KVM, VirtualBox, or ESXi) Hands-on with STIG Viewer, SCAP Compliance Checker, OpenSCAP, or Nessus (Essentials counts) Windows Server, Active Directory, or Group Policy experience Ansible, Terraform, or other infrastructure-as-code tools Familiarity with RMF, NIST SP 800-53, or NIST SP 800-171 Storage basics: RAID, iSCSI and NFS, and snapshots versus backups US Salary Range $88,000 - $117,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Benefits At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits . Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind: No Financial Requests: Anduril will never solicit paymen",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 32,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -762,7 +837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 33,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -787,32 +862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: likely",
-      "company_priority": "",
-      "company": "Precisely",
-      "role": "Associate Software Developer - AI",
-      "category": "Software Engineering",
-      "location": "USA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-10",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005",
-      "jd_excerpt": "Precisely US jobs - Want to join our team? See job openings Search For: Close Precisely Advances Agentic-Ready Data with a New AI Agent, Data Product Marketplace, and MCP-Enabled APIs Read press release Build solutions faster with Precisely APIs, pre-linked data, and MCP Start free trial × Privacy Notice Updates: We’ve updated our Privacy Notices to reflect changes to our services, new legal requirements, and the types of personal data we collect. Learn more × Open Search Popup English Solutions & Products FEATURED SOLUTIONS Data Access & Integration Data Validation & Enrichment Data Governance Location Data & Analytics Customer Communications Explore all solutions FEATURED PRODUCTS The Precisely Platform Where enterprise AI gets its data right Learn more EngageOne™ RapidCX AI-powered customer communications at scale Learn more Explore all products Precisely AI Studio Ready-made apps, agents, and skills to quickly solve your toughest data challenges. Try it now Learn more < Industries & Ecosystems Trusted AI for every industry From financial services to utilities, Precisely delivers AI-ready data tailored to your sector. Explore customer stories INDUSTRY SOLUTIONS Financial Services Government Healthcare Insurance Manufacturing Retail Telecommunications Utilities & Energy View all industries ECOSYSTEMS Keep the IBM systems AI depends on fast, available, and secure. Learn more Build clean, governed data with every SAP process. Learn more Partners TECHNOLOGY PARTNERS Amazon Web Services (AWS) Databricks Google Cloud - Microsoft Azure ServiceNow® Snowflake Global partner ecosystem Extend the value of your data through our global ecosystem of technology and channel partners. Explore partners Resources RESOURCE CENTER Blog Resource Center Events Demo Center Analyst Reports Glossary FEATURED CUSTOMER STORIES OCBC Generali Helvetia Fender Citizens Bank Dräger See more stories FEATURED Precisely Named a Leader in Data Intelligence IDC MarketScape: Worldwide Data Intelligence Platform Software 2026 Read the report Support Precisely Support Get the support and resources you need with help from our expert team. Support Portal SUPPORT & SERVICES Customer Support Plans Precisely Global Services Precisely Support Portal Open Search Popup Try AI Studio Get in touch US Openings Trusted AI starts with trusted data. Get in touch Solutions Data Access & Integration Data Validation & Enrichment Data Governance Location Data & Analytics Customer Communications Solutions Data Access & Integration Data Validation & Enrichment Data Governance Location Data & Analytics Customer Communications Products Precisely Platform EngageOne™ RapidCX Products Precisely Platform EngageOne™ RapidCX Company About us Careers and Culture Partners Global offices Leadership Newsroom Company About us Careers and Culture Partners Global offices Leadership Newsroom Support Support portal Professional Services Precisely Help Center Product Support User forums Support Support portal Professional Services Precisely Help Center Product Support User forums Governance EthicsPoint Codes of Conduct Anti-Modern Slavery UK Tax Strategy Trust Center Governance EthicsPoint Codes of Conduct Anti-Modern Slavery UK Tax Strategy Trust Center Privacy Privacy Notices California Privacy Notices Your Privacy Choices Privacy Privacy Notices California Privacy Notices Your Privacy Choices Cookies Cookie Notices Cookie Settings Cookies Cookie Notices Cookie Settings Legal Terms of Use Trademarks Legal Entities Legal Agreements Legal Terms of Use Trademarks Legal Entities Legal Agreements 2026 © Precisely Sitemap Accessibility Statement Sitemap Accessibility Statement Facebook X-twitter-square Instagram Linkedin Youtube",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 32,
+      "machine_rank": 34,
       "machine_score": 70,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -837,32 +887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
-      "machine_score": 69,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon.com Services LLC",
-      "role": "Software Development Engineer (Database) Early Career- 2027 (US)",
-      "category": "Infrastructure / Systems",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-31",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/amazon-5ff0199f-83f5-4139-be12-3dc4f8b52bf8?s=gh-new-grad-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply CVS Health In-Home Nurse Practitioner or Physician Assistant Per Diem - Lamar Lamar, CO Just now Senior Level Healthcare Apply Salesforce Senior Manager, Forecasting & Strategy Illinois Chicago +8 more Just now Senior Level Software Engineering Apply ð¢ TikTok Senior Finance Manager - US (E-commerce) Seattle Just now Senior Level Finance Apply State Street Stamford or Boston - Transfer Agency and Intermediary Oversight, AVP - State Street Investment Management Boston, MA Just now Senior Level Finance Apply Pinterest Sr. Qualitative Product Researcher, Search & Home Personalization Remote San Francisco, CA +1 more 1h ago Senior Level Other Apply Proofpoint Account Manager Pittsburgh, PA 1h ago Not Specified Sales Apply Fresenius Medical Care Clinic Administrative Assistant Waianae, HI 1h ago Entry Level Finance Apply Wolters Kluwer Fulfillment Associate - Document Management USA - Wilmington, DE 1h ago Entry Level Operations Apply Thomson Reuters Privacy Operations Director, Senior Counsel United States of America Eagan, MN 1h ago Senior Level Legal Apply Thomson Reuters Assistant General Counsel, Litigation United States of America Eagan, MN 1h ago Senior Level Legal Apply CVS Health Just now In-Home Nurse Practitioner or Physician Assistant Per Diem - Lamar Lamar, CO Senior Level Healthcare Apply Now Salesforce Just now Senior Manager, Forecasting & Strategy Illinois Chicago +8 more Senior Level Software Engineering Apply Now ð¢ TikTok Just now Senior Finance Manager - US (E-commerce) Seattle Senior Level Finance Apply Now State Street Just now Stamford or Boston - Transfer Agency and Intermediary Oversight, AVP - State Street Investment Management Boston, MA Senior Level Finance Apply Now Pinterest 1h ago Sr. Qualitative Product Researcher, Search & Home Personalization San Francisco, CA +1 more Senior Level Other Remote Apply Now Proofpoint 1h ago Account Manager Pittsburgh, PA Not Specified Sales Apply Now Fresenius Medical Care 1h ago Clinic Administrative Assistant Waianae, HI Entry Level Finance Apply Now Wolters Kluwer 1h ago Fulfillment Associate - Document Management USA - Wilmington, DE Entry Level Operations Apply Now Thomson Reuters 1h ago Privacy Operations Director, Senior Counsel United States of America Eagan, MN Senior Level Legal Apply Now Thomson Reuters 1h ago Assistant General Counsel, Litigation United States of America Eagan, MN Senior Level Legal Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos s",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 34,
+      "machine_rank": 35,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -887,7 +912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 36,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -912,7 +937,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 37,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -937,7 +962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 38,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -956,31 +981,6 @@
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 38,
-      "machine_score": 65,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Anduril",
-      "role": "2027 New Grad Low Observables Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "Costa Mesa, California, United States",
-      "salary": "$88,000–$117,000",
-      "salary_max_annual": "117000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "Greenhouse:andurilindustries",
-      "official_source": true,
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1740,31 +1740,6 @@
       "machine_rank": 69,
       "machine_score": 63,
       "machine_tier": "Consider",
-      "machine_reason": "Tier A watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "Tier A",
-      "company": "Databricks",
-      "role": "Product Design New Grad (2027 Start)",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, California",
-      "salary": "$128,000–$140,000",
-      "salary_max_annual": "140000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-10",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/greenhouse-databricks-8843577002?s=gh-new-grad-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply 2cc1abe5 ACCOUNTANT Baton Rouge, LA Just now Mid Level Finance Apply d5856577 Critical Facility Engineer I (CFE I) Dallas, TX +1 more Just now Entry Level Other Apply d5856577 Critical Facility Engineer II Dallas, TX +1 more Just now Mid Level Other Apply d5856577 Data Center Electrical Subject Matter Expert Kansas City, MO Just now Mid Level Operations Apply d5856577 Critical Facility Engineer III (Shift Lead) Dallas, TX +1 more Just now Mid Level Operations Apply 16ed56fa Water Treatment Construction Technician for Data Centers Charleston, SC Just now Mid Level Operations Apply 76e8db77 Forklift Operator â Deep Reach Experience Required Austin, TX Just now Not Specified Supply Chain / Logistics Apply LSEG Lead DevOps Engineer St. Louis, USA St. Loui, MO Just now Senior Level Software Engineering Apply LSEG DevOps & Application Services Manager St. Louis, MO Just now Not Specified Software Engineering Apply Nvidia Math Libraries Intern, cuEST - Summer 2027 CA Just now Internship Software Engineering Apply 2cc1abe5 Just now ACCOUNTANT Baton Rouge, LA Mid Level Finance Apply Now d5856577 Just now Critical Facility Engineer I (CFE I) Dallas, TX +1 more Entry Level Other Apply Now d5856577 Just now Critical Facility Engineer II Dallas, TX +1 more Mid Level Other Apply Now d5856577 Just now Data Center Electrical Subject Matter Expert Kansas City, MO Mid Level Operations Apply Now d5856577 Just now Critical Facility Engineer III (Shift Lead) Dallas, TX +1 more Mid Level Operations Apply Now 16ed56fa Just now Water Treatment Construction Technician for Data Centers Charleston, SC Mid Level Operations Apply Now 76e8db77 Just now Forklift Operator â Deep Reach Experience Required Austin, TX Not Specified Supply Chain / Logistics Apply Now LSEG Just now Lead DevOps Engineer St. Louis, USA St. Loui, MO Senior Level Software Engineering Apply Now LSEG Just now DevOps & Application Services Manager St. Louis, MO Not Specified Software Engineering Apply Now Nvidia Just now Math Libraries Intern, cuEST - Summer 2027 CA Internship Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 70,
-      "machine_score": 63,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
       "company_priority": "",
       "company": "Schonfeld",
@@ -1787,7 +1762,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 70,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1812,7 +1787,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 71,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -1837,7 +1812,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 72,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1862,7 +1837,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 73,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -1887,7 +1862,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 74,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1912,7 +1887,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 75,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1937,7 +1912,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 76,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -1962,7 +1937,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 77,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1987,7 +1962,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 78,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2012,7 +1987,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 79,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2037,7 +2012,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 80,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2057,6 +2032,31 @@
       "official_source": false,
       "url": "https://zapply.jobs/l/d/workday-aig-aig-JR2603744?s=gh-new-grad-data-science-jobs-2027",
       "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 81,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Belvedere Trading",
+      "role": "Quantitative Trader - Entry Level 2027",
+      "category": "Quantitative Finance",
+      "location": "Chicago, Illinois",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Entry Level",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-11",
+      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/lever-belvederetrading-34369a5c-55c0-4e9f-9d2e-4f21b9418bee?s=gh-new-grad-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Company Role Location Posted Level Category Apply d5856577 Critical Facilities Lead Engineer Cheyenne, WY +2 more Just now Senior Level Other Apply Nvidia Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Just now Senior Level AI / Machine Learning Apply Rover Brand Creator Manager Seattle 1h ago Senior Level Marketing Apply Boeing Program Chief Engineer (Principle or Senior) USA - El Segundo, CA 1h ago Senior Level Other Apply Perplexity Go-To-Market Compensation Lead San Francisco +2 more 1h ago Senior Level Sales Apply Anduril Senior Manager of Digital Quality Systems Costa Mesa, CA 1h ago Senior Level Software Engineering Apply Perplexity Deal Desk Lead San Francisco +2 more 1h ago Senior Level Sales Apply Workday Inc Software Development Engineer - US Federal USA.VA.Reston 1h ago Mid Level Software Engineering Apply Aptiv Executive Administrative Assistant Troy, MI 1h ago Senior Level Other Apply Aptiv Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON 1h ago Senior Level Software Engineering Apply d5856577 Just now Critical Facilities Lead Engineer Cheyenne, WY +2 more Senior Level Other Apply Now Nvidia Just now Senior High Performance AI Engineer, Agentic AI Santa Clara, CA +5 more Senior Level AI / Machine Learning Apply Now Rover 1h ago Brand Creator Manager Seattle Senior Level Marketing Apply Now Boeing 1h ago Program Chief Engineer (Principle or Senior) USA - El Segundo, CA Senior Level Other Apply Now Perplexity 1h ago Go-To-Market Compensation Lead San Francisco +2 more Senior Level Sales Apply Now Anduril 1h ago Senior Manager of Digital Quality Systems Costa Mesa, CA Senior Level Software Engineering Apply Now Perplexity 1h ago Deal Desk Lead San Francisco +2 more Senior Level Sales Apply Now Workday Inc 1h ago Software Development Engineer - US Federal USA.VA.Reston Mid Level Software Engineering Apply Now Aptiv 1h ago Executive Administrative Assistant Troy, MI Senior Level Other Apply Now Aptiv 1h ago Senior Member of Technical Staff â Software Development in Test CAN Kanata (2), ON Senior Level Software Engineering Apply Now Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
