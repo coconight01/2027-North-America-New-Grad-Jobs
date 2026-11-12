@@ -1,6 +1,6 @@
 # China High-Value New-Grad & Early-Career Jobs
 
-> Last automated update: **2026-11-11** · Open roles: **195**
+> Last automated update: **2026-11-12** · Open roles: **194**
 
 This list is kept separate from the North America list: U.S. sponsorship and the $100k hard floor do not apply to China roles. Most official China boards do not publish compensation, so missing salary is never treated as low salary.
 
@@ -50,7 +50,6 @@ Pure hardware, non-technical, and internship-only roles are filtered. Official s
 | 2026-09-22 | **StepFun (阶跃星辰)** | [Agent开发工程师（端侧）](https://app.mokahr.com/social-recruitment/step/94904#/job/ba610d0e-27cd-4006-9b2c-e73403d6fd5b) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-22 | **StepFun (阶跃星辰)** | [Agent类业务测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/03f0c00b-b4ca-4f10-a549-909f182d9cff) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-22 | **StepFun (阶跃星辰)** | [AI模型&Harness测试工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/9a5737f8-b2db-416d-bfc9-e8b363849fa4) | AI / ML | 广东 · 南山区 | 全职 | Review eligibility |
-| 2026-09-22 | **StepFun (阶跃星辰)** | [AI记忆与 Agent 工程师（端侧 Agent 方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/f33937a4-0e94-4e8d-a648-065761372b10) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-22 | **StepFun (阶跃星辰)** | [Flutter 开发工程师（IoT / AI 应用方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/ec5cc09a-7d24-4332-becb-9a8afade654b) | AI / ML | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
 | 2026-09-22 | **StepFun (阶跃星辰)** | [运动控制算法工程师](https://app.mokahr.com/social-recruitment/step/94904#/job/3e2c2e05-a287-4d39-a44e-f045a4e0a9b3) | AI / ML | 广东 · 南山区 | 全职 | Review eligibility |
 | 2026-09-22 | **StepFun (阶跃星辰)** | [IoT 云平台开发工程师（设备平台方向）](https://app.mokahr.com/social-recruitment/step/94904#/job/4d3f6f9d-2565-458d-82cc-88312569c582) | Software Engineering | 广东 · 南山区 / 上海市 · 徐汇区 | 全职 | Review eligibility |
