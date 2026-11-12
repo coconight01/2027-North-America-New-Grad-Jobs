@@ -65,12 +65,12 @@
     },
 
     {
-      "rank": 8, "tier": "priority", "company": "Chalk", "role": "Software Engineer - New Grad", "status": "RECENT", "fit": "4.5/5 · distributed data systems / ML platform runtime",
+      "rank": 8, "tier": "review", "company": "Chalk", "role": "Software Engineer - New Grad", "status": "QUALIFICATION UNCLEAR · OFFICIAL LIVE", "fit": "4.5/5 technical · degree-window mismatch",
       "why_screen": "The exact posting targets Fall 2026 or Spring 2027 graduates with a relevant bachelor's degree or equivalent and sets no professional-years minimum. UIUC/Tsinghua CS, distributed-systems research, Python, Linux, performance profiling and production engineering provide a credible screen.",
       "why_team": "Chalk builds the data platform behind production ML applications and explicitly values distributed systems, data infrastructure, compilers and query planners. AutoScout configuration research, multi-GPU/runtime work and TikTok production-agent engineering map to systems optimization, orchestration and reliable delivery.",
       "why_interest": "The role owns meaningful components of a query-planning and execution engine, Python program analysis and infrastructure orchestration. It is a strong systems path directly supporting ML workloads rather than generic web development.",
       "location": "San Francisco or New York · full-time · onsite five days/week; explicitly not hybrid", "salary": "$170,000-$180,000 base + equity", "new_grad": "Fall 2026 or Spring 2027 graduation with a bachelor's degree or equivalent in CS/EECS; no numeric professional-years minimum.",
-      "sponsorship": "Unknown. The exact official posting does not state a sponsorship policy.", "caveat": "The stack includes C++, Python and Rust; query engines and compilers are central, so Yuhan should present C++ as supporting evidence and emphasize systems ownership rather than claim deep modern-C++ expertise. This is ML data/runtime infrastructure, not LLM training or serving.", "urgency": "Exact Ashby page and active Apply control verified October 21. The posting is newly surfaced and has no public deadline; apply promptly while new-grad headcount is fresh.",
+      "sponsorship": "Unknown. The exact official posting does not state a sponsorship policy.", "caveat": "The exact qualification says a Fall 2026 or Spring 2027 graduate with a bachelor's degree. Yuhan graduates with an MS in May 2027 but completed her BS earlier, so degree-window eligibility needs recruiter confirmation. The stack also includes C++, Python and Rust; query engines and compilers are central.", "urgency": "Official Ashby page remains active; review degree eligibility before applying.",
       "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
     },
     {
