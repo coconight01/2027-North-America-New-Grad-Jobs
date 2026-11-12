@@ -1763,6 +1763,22 @@
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
+  "https://app.joinhandshake.com/public/jobs/11339947": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Early Career",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://app.joinhandshake.com/public/jobs/11339948": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says Early Career",
@@ -1793,6 +1809,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-11-11",
+    "parser_version": 4
+  },
+  "https://app.joinhandshake.com/public/jobs/11397182": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://apply.careers.microsoft.com/careers/job/1970393556857973": {
@@ -4399,6 +4431,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-09",
+    "parser_version": 4
+  },
+  "https://bebee.com/ca/jobs/business-development-representative-2027-new-grad-exacare-ai--techmap_ca_exacare-inc_2a47fc46-5964-4d41-b794-93c7fc071583": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://bebee.com/ca/jobs/nvidia-spring-2027-internships-developer-and-performance-technology-nvidia--techmap_ca_80812843": {
@@ -8529,6 +8577,22 @@
     "checked_at": "2026-11-09",
     "parser_version": 4
   },
+  "https://career.fitchburgstate.edu/jobs/leonardo-drs-test-engineer-2027-new-grad-opportunity": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://career.virginia.edu/jobs/tiktok-inc-3d-graphics-innovation-engineer-graduate-pico-foundation-developer-technology-2027-start": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -8542,7 +8606,7 @@
     "salary_max_annual": 316800,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-10",
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://career.virginia.edu/jobs/tiktok-inc-ai-infra-engineer-graduate-recommendation-llm-2027-start": {
@@ -44626,18 +44690,18 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab5e05eb3db59402d0ff34b": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
-    "reject_reason": "",
-    "source_fetched": false,
+    "salary": "$18/hr - $32/hr",
+    "salary_min_annual": 37440,
+    "salary_max_annual": 66560,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
     "checked_at": "2026-11-12",
     "parser_version": 4
   },
@@ -54695,12 +54759,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$140K to 200K",
+    "salary_min_annual": "140000",
+    "salary_max_annual": "200000",
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-09-08",
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true": {
@@ -69773,6 +69837,22 @@
     "checked_at": "2026-11-12",
     "parser_version": 4
   },
+  "https://prosple.com/graduate-employers/old-mission/jobs-internships/quantitative-trader-2027-graduate-program-february-start": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says entry level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -78199,6 +78279,22 @@
     "checked_at": "2026-11-11",
     "parser_version": 4
   },
+  "https://www.efinancialcareers.com/jobs-United_States-IL-Chicago-Graduate_Quantitative_Researcher_PhD.id24572504": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Graduate Quantitative",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://www.equipmentshare.com/careers/openings?gh_jid=8091776": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -80815,6 +80911,38 @@
     "checked_at": "2026-08-12",
     "parser_version": 4
   },
+  "https://www.jobleads.com/us/job/new-grad-software-engineer-2027-build-fast-reliable-systems--united-states--e0877277e1d2ade665497616259ba39e7": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
+  "https://www.jobleads.com/us/job/phd-quantitative-researcher-market-ml-impact--austin--chicago--new-york--ed831445a7863da3cf686eab3e8d46879": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://www.jobleads.com/us/job/research-scientist-ai-compute-dpu-global-frontier-tech-recruitment-program-2027-start-phd--seattle--e2febd25cf50341e06857f45e810bc8ea": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -81271,6 +81399,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-05",
+    "parser_version": 4
+  },
+  "https://www.monster.com/job-openings/graduate-quantitative-research-phd-expression-of-interest-us-chicago-il--aa94d111-2139-465b-a16b-58ae819358d6": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Graduate Quantitative",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://www.monster.com/job-openings/returning-new-grad-engineer-i-winter-summer-2027-northeast-division-for-current-former-hntb-interns-only-south-portland-me--035fa7b9-c4e1-4457-bae2-ea52a4d8d164": {
@@ -81927,6 +82071,22 @@
     "checked_at": "2026-11-05",
     "parser_version": 4
   },
+  "https://www.selbyjennings.com/en-us/job/quantitative-researcher-phd-2027-graduates-nyc-hedge-fund-pr590576_1793380818": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "Yes",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://www.simplyhired.com/job/hTN5b8qknBKJpkKTQtz9WTNMbeDkBIPue6qeHNrDeLFamUFWwCjWzw": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
@@ -82021,6 +82181,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-09-24",
+    "parser_version": 4
+  },
+  "https://www.speedyapply.com/jobs/at/dv-trading/2027-quantitative-trader-graduate-dv-equities": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$80,000\u2013$100,000",
+    "salary_min_annual": "80000",
+    "salary_max_annual": "100000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=8089821&gh_jid=8089821": {
@@ -82119,6 +82295,22 @@
     "checked_at": "2026-08-15",
     "parser_version": 4
   },
+  "https://www.tealhq.com/job/software-engineer_7ea1af555d2c51c24ad67f0d58020f81a9e8b": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$137,750\u2013$155,000",
+    "salary_min_annual": "137750",
+    "salary_max_annual": "155000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-12",
+    "parser_version": 4
+  },
   "https://www.tealhq.com/job/ux-test-engineer-new-grad_7ea1a8a275d1697bb472142182d2670f3da8b": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -82181,6 +82373,22 @@
     "reject_reason": "appears to require 5+ years prior work experience",
     "source_fetched": true,
     "checked_at": "2026-08-15",
+    "parser_version": 4
+  },
+  "https://www.theladders.com/job/ux-test-engineer-new-grad-december-2026-appliedintuition-sunnyvale-ca_88520439": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-12",
     "parser_version": 4
   },
   "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730": {
