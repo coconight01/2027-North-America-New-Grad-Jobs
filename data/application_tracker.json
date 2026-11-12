@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-09",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-09. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-12",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-12. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer, Early Career - 2027 (US) (10583340)",
+      "status": "Applied",
+      "applied_date": "2026-11-11",
+      "status_date": "2026-11-11",
+      "confidence": "Exact",
+      "evidence": "Amazon sent an exact application confirmation on 2026-11-11 naming Software Development Engineer, Early Career - 2027 (US) and Job ID 10583340; a separate Amazon application-tracking message names the same requisition.",
+      "next_action": "Wait for review; suppress only exact requisition 10583340 from actionable recommendations."
+    },
+    {
+      "company": "SambaNova Systems",
+      "role": "Two applications submitted 2026-11-11 - exact requisitions unresolved",
+      "status": "Applied",
+      "applied_date": "2026-11-11",
+      "status_date": "2026-11-11",
+      "confidence": "Company-only; two distinct confirmations",
+      "evidence": "SambaNova sent two official Greenhouse confirmations four minutes apart on 2026-11-11, but neither message includes a title, requisition ID, location, or application URL. The timing is consistent with the two roles reviewed that day, ML Infrastructure Engineer - New Grad (6224938004) and Machine Learning Engineer - New Grad (6240725004), but that mapping is not exact-role proof.",
+      "next_action": "Hold both 6224938004 and 6240725004 from recommendations until the SambaNova candidate portal confirms which requisitions were submitted; do not collapse the evidence into a guessed exact match."
+    },
+    {
+      "company": "Jane Street",
+      "role": "Worldwide application - exact role unresolved (confirmation received 2026-11-11)",
+      "status": "Applied",
+      "applied_date": "2026-11-11",
+      "status_date": "2026-11-11",
+      "confidence": "Company-only",
+      "evidence": "Jane Street sent a new company-level application confirmation on 2026-11-11. The message does not name a role or office. This is a new process after the October 26 company-level application was rejected on November 2.",
+      "next_action": "Do not submit another Jane Street application. Jane Street reviews one application across worldwide offices; wait for this process and preserve exact-role uncertainty."
+    },
     {
       "company": "Ubiquant / 九坤投资",
       "role": "Wutong Program - AI Algorithm Researcher / 【梧桐计划】AI算法研究员",
