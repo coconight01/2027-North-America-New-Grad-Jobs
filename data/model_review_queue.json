@@ -26,16 +26,12 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 420,
-    "new_job_candidates": 306,
-    "high_potential_title_candidates": 475
+    "priority_company_candidates": 414,
+    "new_job_candidates": 303,
+    "high_potential_title_candidates": 473
   },
-  "veto_counts": {
-    "non-full-time program title": 18,
-    "pure hardware role": 1,
-    "explicit 2026-only title": 3
-  },
-  "exact_tracked_jobs_removed": 24,
+  "veto_counts": {},
+  "exact_tracked_jobs_removed": 0,
   "candidates": [
     {
       "machine_rank": 1,
@@ -639,31 +635,6 @@
     },
     {
       "machine_rank": 25,
-      "machine_score": 79,
-      "machine_tier": "Strong",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "Google",
-      "role": "Software Engineer - Infrastructure - PhD - Early Career - 2027 Start",
-      "category": "Infrastructure / Systems",
-      "location": "Sunnyvale, CA +11",
-      "salary": "$147000 - $210000",
-      "salary_max_annual": 210000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-11-11",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310",
-      "jd_excerpt": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start — Google Careers Careers Careers Skip navigation links home home Home Home work_outline work_outline Jobs Jobs noogler_hat noogler_hat Students Students google google How we work How we work handyman handyman How we hire How we hire person_outline person_outline Your career Your career help_outline Help link feedback Send feedback more_vert Help Send Feedback Sign in Careers Careers home Home work_outline Jobs expand_more noogler_hat Students expand_more google How we work expand_more handyman How we hire expand_more person_outline Your career expand_more job details arrow_back Back to jobs search Jobs search results 3,196 jobs matched Senior Staff Software Engineer, Generative AI, Search Intelligence Mountain View, CA, USA Staff Software Engineer, Infrastructure, Google Cloud Runtimes Kirkland, WA, USA ; Sunnyvale, CA, USA Group Product Manager, Gemini for Google Cloud Operations Sunnyvale, CA, USA ; San Francisco, CA, USA Content Specialist, Brands as Creators, YouTube Los Angeles, CA, USA ; San Bruno, CA, USA Product Deployment Engineer, gTech Ads, Search, Shopping New York, NY, USA ; Atlanta, GA, USA ; +5 more ; +4 more Manager, YouTube Business Public Policy Washington D.C., DC, USA CPU RTL Design Lead Austin, TX, USA Strategic Negotiator, Data Center Site Acquisition and Development New York, NY, USA Logistics Operations Manager New Albany, OH, USA Program Manager, Commercial Governance, Analytics and Invoicing Texas, USA | Remote eligible Business Data Scientist, AI Foundations San Jose, CA, USA Group Connected Marketing and Sales Strategy and Operations Manager Sunnyvale, CA, USA ; San Francisco, CA, USA Data Center Operations Manager, Global Server Operations Lincoln, NE, USA Viewer Growth Team Lead, Product Strategy and Operations San Bruno, CA, USA Manager, AI and Infrastructure Strategic Initiatives (Mandarin, English) Taipei, Taiwan Communications Manager, Technical Infrastructure, EMEA London, UK ; Helsinki, Finland ; +2 more ; +1 more AI Customer Engineer, Google Cloud Singapore Business Development Manager, New Business Sales, Export (Mandarin, English) Shanghai, China ; Beijing, China Customer Engineer III, Platform, South, Google Cloud Austin, TX, USA ; Atlanta, GA, USA ; +6 more ; +5 more | Remote eligible Senior Technical Program Manager, Ads Privacy and Regulations, Google Ads Mountain View, CA, USA Showing 1 to 20 of 3196 rows 1‑20 of 3196 navigate_next Go to next page Follow Life at Google on More about us About us open_in_new Contact us open_in_new Press open_in_new Related Information Investor relations open_in_new Blog open_in_new Equal Opportunity Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . More about us expand_more Related information expand_more Equal opportunity expand_more Privacy open_in_new Applicant & Candidate Privacy open_in_new Terms open_in_new Manage cookies help Help open_in_new arrow_back Back to jobs search Software Engineer, Infrastructure, PhD, Early Career, 2027 Start share Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start link Copy link email Email a friend corporate_fare Google place Sunnyvale, CA, USA ; Atlanta, GA, USA ; +11 more ; +10 more bar_chart Mid Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Apply share Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start link Copy link email Email a friend info_outline X Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 26,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -688,7 +659,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
@@ -713,7 +684,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -738,7 +709,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -763,7 +734,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -788,7 +759,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -808,6 +779,31 @@
       "official_source": true,
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007",
       "jd_excerpt": "Job Application for Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus at Anduril Industries Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus Costa Mesa, California, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are looking for a Modeling, Simulation and Analysis Engineer to join our team. As part of the team you will have the opportunity to develop, implement and maintain sufficient fidelity virtual representations of the myriad of different vehicles Anduril works on. In this role you will be required to develop and coordinate deployment and maintenance of vehicle models and simulation instantiations for various programs ongoing at Anduril. A critical aspect of this role involves owning and operating Hardware-In-The-Loop (HITL) simulation environments that enable safe, rapid iteration of flight control and autonomy software with real avionics hardware before live flight tests. The ideal candidate has experience working on aerospace systems and understands the right fidelity of sub-system and system level modeling required to integrate with the broader flight control and mission autonomy software to support development. In addition the candidate should be versed in coding and software integration practices. Experience with HITL operations, including real-time simulation, avionics integration, and closed-loop testing with physical hardware is highly valued. If you have a passion for flight and like the idea of building a physics based digital representation of a flying vehicle and testing it with real hardware, this is the role for you! WHAT YOU'LL DO Work on challenging problems in a fast-paced environment from across our portfolio of programs and products: Simulation solutions for Guidance, Navigation and Control algorithm development Software-In-The-Loop (SITL) solutions Hardware-In-The-Loop (HITL) solutions Customer product training solutions Monte-Carlo simulation analysis Simulation and Test data analysis tools and processes Design, develop, deploy, and maintain HITL simulation infrastructure for complex aerospace systems, including real-time vehicle models, avionics emulation, and sensor simulation environments Own the end-to-end configuration and operation of SITL and HITL environments for test vehicles, ensuring safe and efficient flight test execution Coordinate and execute HITL test campaigns, working closely with flight test teams to validate GNC algorithms, mission autonomy software, and vehicle performance prior to live flights Develop and maintain emulated interfaces for on-board avionics systems to enable closed-loop hardware testing in simulation environments Troubleshoot and resolve real-time simulation issues during HITL operations, including timing constraints, hardware interface problems, and model fidelity discrepancies Work with multi-disciplinary subject matter experts to understand and adequately model pertinent sub-system, system and system of system dynamics Work with internal and external customers to understand simulation requirements and develop efficient modeling and simulation solutions Support flight test operations with pre-flight simulation validation and post-flight data correlation analysis to continuously improve model fidelity REQUIRED QUALIFICATIONS Bachelor's Degree or higher in engineering, computer science, mathematics, physics, chemistry, or related technical discipline Senior Modeling Simulation Engineer: 8 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Modeling Simulation Engineer: 3 or more years of experience in Modeling, Simulation, and Analysis engineering or related technical experience Experience with aerospace/aeronautical systems (including rotorcraft/VTOL) and/or Subsea vehicles Experience in flight dynamics/platform physics and control Nominal proficiency with C/C++ Advanced proficiency with scientific computing systems (Mathworks products (e.g., MATLAB, SIMULINK etc.), scientific Python (e.g., numpy, scipy) Flight test data processing/sim correlation experience Experience with developing sub-system and system level models (Air vehicle, ground vehicles, ground based sensors and other types of complex systems) Experience with model development to support Guidance, Navigat",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 31,
+      "machine_score": 76,
+      "machine_tier": "Strong",
+      "machine_reason": "Tier A watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, PyTorch, JAX; $200k+ stated ceiling",
+      "company_priority": "Tier A",
+      "company": "Waymo",
+      "role": "Research Scientist - Map Scalability",
+      "category": "Other",
+      "location": "New York City, NY +2",
+      "salary": "$213,000—$263,000",
+      "salary_max_annual": "263000",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-09",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8180692",
+      "jd_excerpt": "Research Scientist, Map Scalability - Mountain View, California, United States - New York City, New York, United States - San Francisco, California, United States Why Waymo Working at Waymo Working at Waymo Culture Benefits Belonging Community Engagement Locations Teams Teams Software Engineering Ops & Supply Chain AI Foundations Hardware Engineering Product & Design G & A Early careers How we hire Open roles Visit Waymo.com My settings Why Waymo Working at Waymo Culture Benefits Belonging Community Engagement Locations Teams Software Engineering Ops & Supply Chain AI Foundations Hardware Engineering Product & Design G & A Early careers How we hire Open roles Visit Waymo.com My settings Kiosk mode Research Scientist, Map Scalability Mountain View, California, United States. San Francisco, California, United States. New York City, New York, United States Full-Time AI Foundations 5368 Apply now Research Scientist, Map Scalability 5368 On Site Mountain View, California San Francisco, California New York City, New York AI Foundations Full-Time Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states. The mission of the Waymo AI Foundations team is to develop machine learning solutions addressing open problems in autonomous driving, towards the goal of safely operating Waymo vehicles in dozens of cities and under all driving conditions. As part of our work, we also initiate and foster collaborations with other research teams in Alphabet. AI Foundations areas that we are currently focusing on include reinforcement learning, learning from demonstration, generative modeling, Bayesian inference, hierarchical learning, and robust evaluation. You will: Solve fundamental and applied research problems related to world understanding using VLMs, generative modeling and 3D reconstruction at large scale. Prototype and iterate on various research ideas using Waymo's internal driving data Scale and productionize world understanding solutions in collaboration with engineering teams across Waymo Present research findings to a wide audience within Waymo and Alphabet, with the possibility of publishing results to the research community You have: Master’s or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, Deep Learning, or in a similar discipline. 1-3+ years of experience in a related field. Expert in either Foundational VLMs, Computer Vision or learning-based 3D reconstruction methods (3DGS, NeRF). Strong ML software engineering skills in Python/C++ with an ability to rapidly prototype solutions. Familiarity with major ML Frameworks (JAX, Tensorflow, Pytorch). We prefer: Publications at top-tier conferences like CVPR/ICCV/ECCV/ICLR/ICML/NeurIPS/IROS/CoRL etc. Hands-on experience productionizing and scaling ML solutions beyond the research stage. Fundamentals in 3D vision and/or computer graphics. Domain experience in the autonomous vehicle or simulation space. The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process. Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements. Salary Range $213,000—$263,000 USD We appreciate your interest in Waymo. Waymo is proud to be an equal opportunity employer, committed to creating a culture of belonging and maintaining a supportive workplace for all employees. We welcome applicants of all backgrounds, and employment decisions are based on a candidate’s qualifications, experience, and alignment with job requirements and business needs. Waymo does not discriminate against, and prohibits harassment of, any applicant or employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age, disability, military status, family status, pregnancy, genetic information or any other basis protected by applicable law. Waymo will also consider for employment qualified applicants with criminal",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1014,31 +1010,6 @@
     },
     {
       "machine_rank": 40,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: C++, Python, Networking",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Platform Engineering & Emerging Technology",
-      "category": "Infrastructure / Systems",
-      "location": "Seattle, WA",
-      "salary": "Not listed",
-      "salary_max_annual": "186000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-11",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10597677/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++; role shape: early-career SWE; new-grad: confirmed",
@@ -1063,7 +1034,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 41,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1088,7 +1059,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
+      "machine_rank": 42,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1113,7 +1084,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 44,
+      "machine_rank": 43,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1138,7 +1109,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 44,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1163,7 +1134,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 45,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1188,7 +1159,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 46,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1213,7 +1184,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1232,6 +1203,31 @@
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
       "url": "https://boards.greenhouse.io/flowcode/jobs/4753182005",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 48,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: C++, Python, Networking",
+      "company_priority": "Tier B",
+      "company": "Amazon",
+      "role": "Software Development Engineer - Platform Engineering & Emerging Technology",
+      "category": "Infrastructure / Systems",
+      "location": "Seattle, WA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-11",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.amazon.jobs/jobs/10597677/apply",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -2366,31 +2362,6 @@
       "machine_rank": 94,
       "machine_score": 61,
       "machine_tier": "Consider",
-      "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Linux; new-grad: confirmed",
-      "company_priority": "Tier B",
-      "company": "Amazon",
-      "role": "Software Dev Engineer I - Graviton Software - Annapurna Labs",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "186000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Engineer I",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-03",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://www.amazon.jobs/jobs/10526808/apply",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 95,
-      "machine_score": 61,
-      "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Linux, Networking, Kubernetes; new-grad: confirmed",
       "company_priority": "",
       "company": "PagerDuty",
@@ -2413,7 +2384,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2432,6 +2403,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Kyndryl",
+      "role": "Early Career Consult Program - Associate AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Dallas, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-14",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/kyndrylprofessionalcareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
