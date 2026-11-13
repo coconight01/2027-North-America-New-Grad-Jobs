@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-12. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-13",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-13. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "Amazon",
@@ -929,13 +929,13 @@
     },
     {
       "company": "Goaly",
-      "role": "Member of Technical Staff, New Grad",
-      "status": "OA",
+      "role": "Applied AI Engineer — Early Career",
+      "status": "Interview",
       "applied_date": "2026-09-16",
-      "status_date": "2026-09-25",
+      "status_date": "2026-11-12",
       "confidence": "Exact",
-      "evidence": "The Goaly take-home archive shows the assessment was submitted on 2026-09-25; the later archive entry is treated as the final submitted attempt.",
-      "next_action": "Assessment submitted; wait for Goaly's review."
+      "evidence": "Goaly recruiting confirmed the exact Applied AI Engineer — Early Career coding interview on 2026-11-12. The interview is Monday, 2026-11-16 from 12:00-1:00 PM Pacific / 2:00-3:00 PM Central and consists of one approximately 60-minute live LeetCode-style coding round emphasizing reasoning, trade-offs and testing.",
+      "next_action": "Prepare algorithms, communication, trade-offs and test-case walkthroughs for the confirmed November 16 coding interview; suppress this exact role from application recommendations."
     },
     {
       "company": "Domino Data Lab",
@@ -1132,10 +1132,10 @@
       "role": "High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237)",
       "status": "Interview",
       "applied_date": "2026-10-26",
-      "status_date": "2026-11-08",
+      "status_date": "2026-11-12",
       "confidence": "Exact",
-      "evidence": "NVIDIA HR sent an exact-role email on 2026-11-08 Central naming High-Performance LLM Training Engineer - New College Grad 2027 and requisition JR2028237. The team requested a 45-60 minute virtual interview and asked for weekday availability November 13-19 between 9:00 AM and 5:00 PM Pacific.",
-      "next_action": "Submit or verify the availability questionnaire in Candidate Home. NVIDIA says the interview confirmation should arrive within 48 hours after scheduling; then prepare distributed training, NCCL, multi-GPU performance, vLLM/model-loading and systems-debugging stories."
+      "evidence": "NVIDIA HR first advanced the exact High-Performance LLM Training Engineer - New College Grad 2027 requisition JR2028237 on 2026-11-08. A later official confirmation received 2026-11-12 fixes the interview for Friday, 2026-11-13 at 9:15 AM Pacific / 11:15 AM Central.",
+      "next_action": "Attend the confirmed November 13 interview and prepare distributed training, NCCL, multi-GPU performance, vLLM/model-loading and systems-debugging stories; preserve Interview until an exact outcome arrives."
     },
     {
       "company": "SambaNova Systems",
