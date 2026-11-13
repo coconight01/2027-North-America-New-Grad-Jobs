@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-13** · Open roles: **3408**
+> Last automated update: **2026-11-13** · Open roles: **3524**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -20,10 +20,10 @@ The README is intentionally company-diverse: at most two active roles per compan
 |---|---:|
 | **Big Tech & Frontier AI** | 214 |
 | **AI Infra / Systems** | 22 |
-| **Quant / HFT** | 48 |
+| **Quant / HFT** | 111 |
 | **Other high-value tech** | 35 |
-| **ByteDance / TikTok** (separate) | 543 |
-| Other companies | 2546 |
+| **ByteDance / TikTok** (separate) | 544 |
+| Other companies | 2598 |
 
 ### Big Tech & Frontier AI
 
@@ -73,25 +73,30 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-13 | **Jump Trading** | [Campus Quantitative Researcher / Trading Team PhD/Postdoc (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8209424) | Not listed | New York | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Jump Trading** | [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008112) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (Houston)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018) | Not listed | Houston | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | Not listed | New York | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **DRW** | [Quantitative Researcher](https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214) | $250,000 to $300,000 | Chicago, New York | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Jane Street** | [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8621552002) | Not listed | New York | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Five Rings** | [Recent Graduate - Trading Assistant (NYC)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) | $100,000 - $100,000 | New York | ❔ | ✅ Confirmed | — |
+| 2026-11-13 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) | $200,000 — $200,000 | New York | ❔ | ✅ Confirmed | PhD only |
+| 2026-11-13 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/graduate-quantitative-researcher-phd-2027-start) | $200,000 — $200,000 | Chicago | ❔ | ✅ Confirmed | PhD only |
+| 2026-11-13 | **Akuna Capital** | [Junior Trader](https://www.akunacapital.com/careers/job/7773141?gh_jid=7773141) | Not listed | Chicago | ❔ | ◐ Likely | — |
+| 2026-11-13 | **Citadel** | [Equities - Citadel Associate Program - Full Time Program 2027 (US)](https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2027-us) | Not listed | New York | ❔ | ◐ Likely | — |
+| 2026-11-13 | **Akuna Capital** | [Junior Quantitative Developer & Strategist - 2027 / University of Chicago](https://jobright.ai/jobs/info/6af6d7b3d0eefb7d11b87d4f) | Not listed | Chicago, IL, United States | ❔ | ◐ Likely | — |
+| 2026-11-13 | **Citadel** | [Citadel Associate Program](https://www.citadel.com/careers/investing/citadel-associate-program) | Not listed | New York | ❔ | ◐ Likely | — |
+| 2026-11-13 | **D. E. Shaw** | [Cove MBA Associate- Summer 2027](https://www.deshaw.com/careers/Cove-MBA-Associate-Summer-2027-6283) | Not listed | New York | ❔ | ◐ Likely | — |
+| 2026-11-13 | **D. E. Shaw** | [Strategy and Business Development MBA Summer Associate (New York) - Summer 2027](https://www.deshaw.com/careers/Strategy-and-Business-Development-MBA-Summer-Associate-New-York-Summer-2027-6088) | Not listed | New York | ❔ | ◐ Likely | — |
+| 2026-11-13 | **Five Rings** | [Campus Full Time 2027 - Trading Operations Engineer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008) | $250,000 - $300,000 | New York | ❔ | ❔ Review | — |
+| 2026-11-13 | **Citadel Securities** | [Ignite Women's Trading Program](https://www.citadelsecurities.com/careers/programs-and-events/ignite-womens-trading-program) | Not listed | New York | ❔ | ❔ Review | — |
+| 2026-11-13 | **DRW** | [Floor Trader](https://www.drw.com/work-at-drw/listings/floor-trader-3552394) | Not listed | Chicago | ❔ | ❔ Review | — |
+| 2026-11-13 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) - 2027 PhDs](https://www.hudsonrivertrading.com/careers/job?gh_jid=8059845) | Not listed | London, New York +1 | ❔ | ❔ Review | — |
+| 2026-11-13 | **Jane Street** | [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8617344002) | Not listed | New York | ❔ | ❔ Review | — |
+| 2026-11-13 | **Hudson River Trading** | [Software Engineer (C++ or Python) - 2027 Grads](https://www.hudsonrivertrading.com/careers/job?gh_jid=8052122) | Not listed | Austin, Chicago +3 | ❔ | ❔ Review | — |
+| 2026-11-13 | **Citadel Securities** | [Citadel Securities Spark](https://www.citadelsecurities.com/careers/programs-and-events/citadel-securities-spark) | Not listed | New York, Miami +1 | ❔ | ❔ Review | — |
 | 2026-10-30 | **IMC Trading** | [Quantitative Researcher](https://job-boards.greenhouse.io/imc/jobs/4987748101) | $175,000 - $275,000 | Chicago, United States | ❔ | ❔ Review | — |
-| 2026-10-23 | **Two Sigma** | [AI Research Scientist - New Grad (Campus Full-Time)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | Not listed | New York, NY | ❔ | ✅ Confirmed | — |
-| 2026-10-23 | **Jane Street** | [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/6302325002) | Not listed | New York, NY / New York City, NY | ❔ | ❔ Review | — |
-| 2026-09-29 | **Five Rings** | [Campus Full Time 2027 - Trading Operations Engineer](https://jobright.ai/jobs/info/6a50fe8bbf63b66c79977e7f) | $250K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
-| 2026-09-24 | **Optiver** | [Graduate Quantitative Researcher - PhD - 2027 Start](https://www.optiver.com/join-us/jobs/8451764002?gh_jid=8451764002) | $201k/yr | Austin, TX +2 | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-24 | **Five Rings LLC** | [Campus Full Time 2027 - Quantitative Trader - London](https://www.jobilize.com/job/us-campus-full-time-2027-quantitative-trader-london-united-states) | Not listed | United States | ❔ | ❔ Review | — |
-| 2026-09-23 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6ab3f7b3d2f5fbd604be0860) | $200K/yr - $200K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-20 | **DRW** | [Data Analyst - Exploration](https://job-boards.greenhouse.io/drweng/jobs/8189760) | $100,000 to $120,000 | Chicago, IL | ❔ | ❔ Review | — |
 | 2026-09-11 | **IMC Trading** | [2027 US Chess Academy Interest Form](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | Not listed | Chicago, United States | ❔ | ❔ Review | — |
-| 2026-09-09 | **Two Sigma** | [Software Engineering Full-Time Campus Hire - NYC 2027](https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df) | $225K/yr - $225K/yr | New York, NY, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-09-03 | **Akuna Capital** | [Expression of Interest: 2027 Trading Sneak Peek Weeks · 2027](https://www.akunacapital.com/careers/job/7986086?gh_jid=7986086) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
-| 2026-08-15 | **Akuna Capital** | [Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7846695?gh_jid=7846695) | $191k/yr | Chicago, IL | ❔ | ❔ Review | — |
-| 2026-07-20 | **Jane Street** | [Quantitative Researcher Full-Time: New Grad](https://www.janestreet.com/join-jane-street/position/8573726002) | $398k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate - US](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - Miami](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami) | $338k/yr | Miami, FL | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Citadel Securities** | [Quantitative Trader - University Graduate - US - New York](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york) | $338k/yr | New York City, NY | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Hudson River Trading** | [Algorithm Developer (Quant Research & Trading) – 2027 Grads](https://jobright.ai/jobs/info/6a55087ef2c46727285ef45a) | $300K/yr - $300K/yr | New York, NY, United States | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Citadel** | [Software Engineer - University Graduate - US](https://www.citadel.com/careers/details/software-engineer-university-graduate-us) | $338k/yr | Houston, TX +2 | ❔ | ✅ Confirmed | — |
-| 2026-07-20 | **Hudson River Trading** | [Junior Treasury Quant Researcher](https://www.hudsonrivertrading.com/careers/job?gh_jid=7364943) | $412k/yr | New York City, NY | ❔ | ◐ Likely | — |
 
 ### Other high-value tech
 
@@ -112,13 +117,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>543 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>544 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
 | 2026-11-13 | **TikTok** | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J) | $128000 - $256000 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **ByteDance** | [Research Scientist - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6af65cc179862a378dcf3207) | $218K/yr - $480K/yr | San Jose, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-11-13 | **TikTok** | [Machine Learning Engineer Graduate - Data-Global E-Commerce-Search - 2027 Start](https://lifeattiktok.com/search/7668390999147776309) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | — |
+| 2026-11-13 | **ByteDance** | [Software Engineer Graduate (Data-Speech-Product RD-Engineering-US) - 2027 Start](https://jobright.ai/jobs/info/6ae3774ed45dc30fb7d29a82) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | — |
 | 2026-11-13 | **TikTok** | [Machine Learning Engineer Graduate - Data-Global E-Commerce-Search - 2027 Start - PhD](https://lifeattiktok.com/search/7668389759463393589) | $202k/yr | Seattle, WA | ❔ | ◐ Likely | PhD only |
 | 2026-11-13 | **TikTok** | [Research Scientist Graduate - TikTok - Data - Search - Search Quality - 2027 Start - PhD](https://lifeattiktok.com/search/7665793152026740997) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | PhD only |
 | 2026-11-13 | **TikTok** | [Research Scientist Graduate - TikTok - Data - Search - Visual Search - 2027 Start - PhD](https://lifeattiktok.com/search/7667346535273007413) | $202k/yr | San Jose, CA | ❔ | ◐ Likely | PhD only |
@@ -127,15 +133,14 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-11 | **TikTok USDS JV** | [Machine Learning Engineer Graduate (Recommendations and Search) - 2027 Start](https://www.indeed.com/viewjob?jk=72ffe608ee1e3d00) | Not listed | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-11-11 | **TikTok USDS JV** | [Machine Learning Engineer Graduate (Recommendations and Search) - 2027 Start](https://www.indeed.com/viewjob?jk=8e3ac1463b6fa231) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-11-08 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-06 | **ByteDance** | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aed3eaec3da5933b813640c) | Not listed | San Jose, CA, United States | ❔ | ◐ Likely | PhD only |
 
-_Showing 12 of 543 active roles. Use the Job Radar for all roles._
+_Showing 12 of 544 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3408 active roles**. Featured groups account for **319** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3524 active roles**. Featured groups account for **382** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
