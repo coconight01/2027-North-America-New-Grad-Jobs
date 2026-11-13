@@ -328,9 +328,19 @@ def test_tracker_overlay_coverage() -> str:
         if item.get("company") == "NVIDIA" and "JR2028237" in item.get("role", "")
     )
     assert nvidia_llm.get("status") == "Interview", nvidia_llm
-    assert nvidia_llm.get("status_date") == "2026-11-08", nvidia_llm
-    assert "45-60 minute virtual interview" in nvidia_llm.get("evidence", ""), nvidia_llm
+    assert nvidia_llm.get("status_date") == "2026-11-12", nvidia_llm
+    assert "High-Performance LLM Training Engineer" in nvidia_llm.get("evidence", ""), nvidia_llm
+    assert "2026-11-13 at 9:15 AM Pacific" in nvidia_llm.get("evidence", ""), nvidia_llm
     assert nvidia_llm.get("confidence") == "Exact", nvidia_llm
+    goaly = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Goaly"
+        and item.get("role") == "Applied AI Engineer — Early Career"
+    )
+    assert goaly.get("status") == "Interview", goaly
+    assert goaly.get("status_date") == "2026-11-12", goaly
+    assert "LeetCode-style" in goaly.get("evidence", ""), goaly
+    assert goaly.get("confidence") == "Exact", goaly
     samba = next(
         item for item in tracker.get("applications", [])
         if item.get("company") == "SambaNova Systems"
