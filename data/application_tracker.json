@@ -3,6 +3,26 @@
   "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-13. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
+      "company": "River AI",
+      "role": "Software Engineer, Inference Systems (4402451009)",
+      "status": "Applied",
+      "applied_date": "2026-11-13",
+      "status_date": "2026-11-13",
+      "confidence": "Exact; user-confirmed",
+      "evidence": "Yuhan explicitly confirmed on 2026-11-13 that she submitted the River AI Inference Systems role, exact requisition 4402451009.",
+      "next_action": "Wait for confirmation/assessment; suppress exact requisition 4402451009 from actionable recommendations."
+    },
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer I, Inference Models Optimization, AWS Neuron Inference (10598223)",
+      "status": "Applied",
+      "applied_date": "2026-11-13",
+      "status_date": "2026-11-13",
+      "confidence": "Exact; user-confirmed",
+      "evidence": "Yuhan explicitly confirmed on 2026-11-13 that she submitted the Amazon role discussed immediately before, exact requisition 10598223.",
+      "next_action": "Wait for confirmation/assessment; suppress exact requisition 10598223 from actionable recommendations."
+    },
+    {
       "company": "Amazon",
       "role": "Software Development Engineer, Early Career - 2027 (US) (10583340)",
       "status": "Applied",
