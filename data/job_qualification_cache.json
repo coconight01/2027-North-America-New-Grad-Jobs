@@ -32326,8 +32326,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a84142985e0d023aaea27d2": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -32337,7 +32337,7 @@
     "salary_min_annual": "254000",
     "salary_max_annual": "480000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-14",
     "parser_version": 4
   },
@@ -40690,7 +40690,7 @@
     "salary_max_annual": 110000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-24",
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3a15b959a10d7230d2d9c": {
@@ -40738,7 +40738,7 @@
     "salary_max_annual": 130000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-23",
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3ac44c5a856ac7e33adac": {
@@ -40802,7 +40802,7 @@
     "salary_max_annual": 130000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-23",
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa3bcebc5a856ac7e33b530": {
@@ -43666,7 +43666,7 @@
     "salary_max_annual": 86000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-10-31",
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aadd48c3d96632d741afeb3": {
@@ -46930,7 +46930,7 @@
     "salary_max_annual": 78000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-08",
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abc0bc7a9a644f965689e5c": {
@@ -48803,6 +48803,22 @@
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-10-28",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6ac540d9064da25272e15b28": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$128K/yr - $256K/yr",
+    "salary_min_annual": 128000,
+    "salary_max_annual": 256000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ac59b6c0e027c0f3b3afb26": {
@@ -55075,6 +55091,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-11-13",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6af692be79862a378dcf413a": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "Yes",
+    "salary": "$125K/yr - $188K/yr",
+    "salary_min_annual": 125000,
+    "salary_max_annual": 188000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6af6d7b08242286400640aea": {
@@ -81017,6 +81049,22 @@
     "reject_reason": "non-entry title/level:  Engineer II",
     "source_fetched": true,
     "checked_at": "2026-09-13",
+    "parser_version": 4
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/101544438928417478": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "2 years of experience with",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$147000 - $210000",
+    "salary_min_annual": 147000,
+    "salary_max_annual": 210000,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-14",
     "parser_version": 4
   },
   "https://www.google.com/about/careers/applications/jobs/results/106684387621249734": {
