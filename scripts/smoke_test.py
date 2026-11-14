@@ -337,10 +337,18 @@ def test_tracker_overlay_coverage() -> str:
         if item.get("company") == "Goaly"
         and item.get("role") == "Applied AI Engineer — Early Career"
     )
-    assert goaly.get("status") == "Interview", goaly
-    assert goaly.get("status_date") == "2026-11-12", goaly
-    assert "LeetCode-style" in goaly.get("evidence", ""), goaly
+    assert goaly.get("status") == "Rejected", goaly
+    assert goaly.get("status_date") == "2026-11-13", goaly
+    assert "timing mismatch" in goaly.get("evidence", ""), goaly
     assert goaly.get("confidence") == "Exact", goaly
+    nuro = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Nuro"
+        and item.get("role") == "Role uncertain (company-level application confirmation received 2026-11-13)"
+    )
+    assert nuro.get("status") == "Applied", nuro
+    assert nuro.get("confidence") == "Company-only; exact requisition uncertain", nuro
+    assert "Do not infer" in nuro.get("evidence", ""), nuro
     samba = next(
         item for item in tracker.get("applications", [])
         if item.get("company") == "SambaNova Systems"

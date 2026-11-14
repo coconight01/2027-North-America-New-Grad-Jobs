@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-13. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-14",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-14. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "River AI",
@@ -18,9 +18,19 @@
       "status": "Applied",
       "applied_date": "2026-11-13",
       "status_date": "2026-11-13",
-      "confidence": "Exact; user-confirmed",
-      "evidence": "Yuhan explicitly confirmed on 2026-11-13 that she submitted the Amazon role discussed immediately before, exact requisition 10598223.",
+      "confidence": "Exact; Gmail-confirmed and user-confirmed",
+      "evidence": "Yuhan explicitly confirmed submission on 2026-11-13, and Amazon sent an exact application confirmation naming Software Development Engineer I, Inference Models Optimization, AWS Neuron Inference and Job ID 10598223.",
       "next_action": "Wait for confirmation/assessment; suppress exact requisition 10598223 from actionable recommendations."
+    },
+    {
+      "company": "Nuro",
+      "role": "Role uncertain (company-level application confirmation received 2026-11-13)",
+      "status": "Applied",
+      "applied_date": "2026-11-13",
+      "status_date": "2026-11-13",
+      "confidence": "Company-only; exact requisition uncertain",
+      "evidence": "Nuro sent an official 'Thank you for applying to Nuro' message on 2026-11-13, but the message contains no role title or requisition ID. Do not infer that it maps to AI Platform - New Grad (7351066).",
+      "next_action": "Check the Nuro candidate portal for the exact requisition before submitting another Nuro application; preserve company-level uncertainty."
     },
     {
       "company": "Amazon",
@@ -950,12 +960,12 @@
     {
       "company": "Goaly",
       "role": "Applied AI Engineer — Early Career",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": "2026-09-16",
-      "status_date": "2026-11-12",
+      "status_date": "2026-11-13",
       "confidence": "Exact",
-      "evidence": "Goaly recruiting confirmed the exact Applied AI Engineer — Early Career coding interview on 2026-11-12. The interview is Monday, 2026-11-16 from 12:00-1:00 PM Pacific / 2:00-3:00 PM Central and consists of one approximately 60-minute live LeetCode-style coding round emphasizing reasoning, trade-offs and testing.",
-      "next_action": "Prepare algorithms, communication, trade-offs and test-case walkthroughs for the confirmed November 16 coding interview; suppress this exact role from application recommendations."
+      "evidence": "Goaly recruiting cancelled the scheduled November 16 interview on 2026-11-13 after confirming that a May 2027 start is too late for current hiring and that earlier-start candidates are being prioritized. This is a timing mismatch, not a merit-based interview rejection.",
+      "next_action": "Closed for start-date timing. Reconnect closer to May 2027 if Goaly opens a compatible requisition; suppress this exact current process."
     },
     {
       "company": "Domino Data Lab",
@@ -1154,8 +1164,8 @@
       "applied_date": "2026-10-26",
       "status_date": "2026-11-12",
       "confidence": "Exact",
-      "evidence": "NVIDIA HR first advanced the exact High-Performance LLM Training Engineer - New College Grad 2027 requisition JR2028237 on 2026-11-08. A later official confirmation received 2026-11-12 fixes the interview for Friday, 2026-11-13 at 9:15 AM Pacific / 11:15 AM Central.",
-      "next_action": "Attend the confirmed November 13 interview and prepare distributed training, NCCL, multi-GPU performance, vLLM/model-loading and systems-debugging stories; preserve Interview until an exact outcome arrives."
+      "evidence": "NVIDIA HR advanced the exact High-Performance LLM Training Engineer - New College Grad 2027 requisition JR2028237 and scheduled the interview for 2026-11-13 at 9:15 AM Pacific / 11:15 AM Central. The interview date has passed, and no exact outcome email was found through November 14.",
+      "next_action": "Wait for an exact NVIDIA outcome; preserve Interview until evidence supports Interview, Rejected or Offer status change."
     },
     {
       "company": "SambaNova Systems",
