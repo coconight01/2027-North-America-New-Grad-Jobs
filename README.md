@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-14** · Open roles: **3570**
+> Last automated update: **2026-11-15** · Open roles: **3569**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -21,9 +21,9 @@ The README is intentionally company-diverse: at most two active roles per compan
 | **Big Tech & Frontier AI** | 225 |
 | **AI Infra / Systems** | 22 |
 | **Quant / HFT** | 111 |
-| **Other high-value tech** | 35 |
-| **ByteDance / TikTok** (separate) | 530 |
-| Other companies | 2647 |
+| **Other high-value tech** | 34 |
+| **ByteDance / TikTok** (separate) | 526 |
+| Other companies | 2651 |
 
 ### Big Tech & Frontier AI
 
@@ -32,7 +32,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-14 | **NVIDIA** | [NVIDIA 2027 Summer Internships: Ph.D. Engineering](https://jobright.ai/jobs/info/6af89c6b42ae65e2c8f3dba3) | $38/hr - $94/hr | Santa Clara, CA, United States | ❔ | ✅ Confirmed | PhD only |
 | 2026-11-14 | **Amazon** | [Software Dev Engineer III - AMZ10563967](https://www.amazon.jobs/jobs/10603658/apply) | $168,100/year to $227,400/year | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-11-14 | **NVIDIA** | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://jobright.ai/jobs/info/6af76b06c7349029d70957a8) | Not listed | Santa Clara, CA, United States | ❔ | ❔ Review | — |
-| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
+| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Google** | [Software Engineer, Geo, Computer Vision](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Amazon** | [Software Development Engineer, Amazon Optics](https://www.amazon.jobs/en/jobs/10601968/software-development-engineer-amazon-optics) | Not listed | Arlington, Virginia, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Apple** | [Software Engineer - Apple Ads](https://jobs.apple.com/en-us/details/200694842-0836) | $153k/yr | Cupertino, CA | ❔ | ❔ Review | — |
@@ -116,7 +116,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>530 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>526 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -133,13 +133,13 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-11 | **TikTok USDS JV** | [Machine Learning Engineer Graduate (Recommendations and Search) - 2027 Start](https://www.indeed.com/viewjob?jk=8e3ac1463b6fa231) | Not listed | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-11-08 | **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S) | $218400 - $387600 annually | San Jose, CA | ❔ | ✅ Confirmed | — |
 
-_Showing 12 of 530 active roles. Use the Job Radar for all roles._
+_Showing 12 of 526 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3570 active roles**. Featured groups account for **393** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3569 active roles**. Featured groups account for **392** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
