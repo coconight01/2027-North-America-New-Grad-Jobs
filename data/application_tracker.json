@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-14. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-15",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-15. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "River AI",
@@ -15,12 +15,12 @@
     {
       "company": "Amazon",
       "role": "Software Development Engineer I, Inference Models Optimization, AWS Neuron Inference (10598223)",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-11-13",
-      "status_date": "2026-11-13",
-      "confidence": "Exact; Gmail-confirmed and user-confirmed",
-      "evidence": "Yuhan explicitly confirmed submission on 2026-11-13, and Amazon sent an exact application confirmation naming Software Development Engineer I, Inference Models Optimization, AWS Neuron Inference and Job ID 10598223.",
-      "next_action": "Wait for confirmation/assessment; suppress exact requisition 10598223 from actionable recommendations."
+      "status_date": "2026-11-15",
+      "confidence": "Exact; Gmail-confirmed",
+      "evidence": "Yuhan confirmed submission on 2026-11-13 and Amazon confirmed exact title and Job ID 10598223. On 2026-11-15 Amazon sent an exact-role status update declining the application because the candidate did not meet the criteria for its experienced-professional opportunities and directing her to student opportunities.",
+      "next_action": "Closed after exact-role rejection. Do not recommend requisition 10598223 again; treat the wording as a level/classification signal, not a company-wide Amazon rejection, and keep true early-career requisitions independent."
     },
     {
       "company": "Nuro",
