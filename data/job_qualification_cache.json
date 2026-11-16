@@ -25364,8 +25364,8 @@
     "parser_version": 3
   },
   "https://jobright.ai/jobs/info/6a50fe8bbf63b66c79977e7f": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -25375,7 +25375,7 @@
     "salary_min_annual": "250000",
     "salary_max_annual": "300000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-16",
     "parser_version": 4
   },
@@ -33174,8 +33174,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a86a1e3cc81eb647e9f318b": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -33185,7 +33185,7 @@
     "salary_min_annual": "122000",
     "salary_max_annual": "243000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-16",
     "parser_version": 4
   },
