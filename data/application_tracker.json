@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-15. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-17",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-17. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "River AI",
@@ -95,12 +95,12 @@
     {
       "company": "NVIDIA",
       "role": "Compute System Arch Engineer, AI Infra - New College Grad 2027 (JR2028578)",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-11-05",
-      "status_date": "2026-11-05",
+      "status_date": "2026-11-17",
       "confidence": "Exact",
-      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-11-05 naming JR2028578 Compute System Arch Engineer, AI Infra - New College Grad 2027.",
-      "next_action": "Wait for review; suppress only exact requisition JR2028578 from actionable recommendations."
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-11-05 and an exact rejection on 2026-11-17 naming JR2028578 Compute System Arch Engineer, AI Infra - New College Grad 2027. The rejection explicitly states that it applies only to JR2028578 and does not represent the status of other NVIDIA applications or interviews.",
+      "next_action": "Closed after exact-role rejection; suppress only JR2028578 and preserve every other NVIDIA requisition independently."
     },
     {
       "company": "iManage",
