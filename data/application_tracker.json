@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-17. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-19",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-19. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
       "company": "River AI",
@@ -55,12 +55,12 @@
     {
       "company": "Jane Street",
       "role": "Worldwide application - exact role unresolved (confirmation received 2026-11-11)",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-11-11",
-      "status_date": "2026-11-11",
+      "status_date": "2026-11-18",
       "confidence": "Company-only",
-      "evidence": "Jane Street sent a new company-level application confirmation on 2026-11-11. The message does not name a role or office. This is a new process after the October 26 company-level application was rejected on November 2.",
-      "next_action": "Do not submit another Jane Street application. Jane Street reviews one application across worldwide offices; wait for this process and preserve exact-role uncertainty."
+      "evidence": "Jane Street sent a company-level application confirmation on 2026-11-11 and a company-level rejection on the evening of 2026-11-18 Central. Neither message names a role, requisition, or office, so the outcome applies only to this unresolved worldwide process and cannot be assigned to a specific Hong Kong, Singapore, New York, or London role.",
+      "next_action": "Do not infer an exact rejected requisition and do not immediately submit a redundant worldwide application. Preserve exact-role uncertainty and review Jane Street's reapplication policy before any future submission."
     },
     {
       "company": "Ubiquant / 九坤投资",
