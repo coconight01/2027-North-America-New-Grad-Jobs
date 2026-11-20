@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-19** · Open roles: **3702**
+> Last automated update: **2026-11-20** · Open roles: **3709**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,23 +18,23 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 235 |
+| **Big Tech & Frontier AI** | 239 |
 | **AI Infra / Systems** | 22 |
-| **Quant / HFT** | 116 |
+| **Quant / HFT** | 119 |
 | **Other high-value tech** | 35 |
-| **ByteDance / TikTok** (separate) | 529 |
-| Other companies | 2765 |
+| **ByteDance / TikTok** (separate) | 525 |
+| Other companies | 2769 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-20 | **Amazon** | [Research Scientist II](https://account.amazon.jobs/jobs/10604692/apply) | Not listed | Pasadena, California, USA | ❔ | ❔ Review | — |
 | 2026-11-19 | **Amazon** | [Software Engineer I](https://www.amazon.jobs/jobs/10608848/apply) | Not listed | San Francisco, CA | ❔ | ✅ Confirmed | — |
-| 2026-11-19 | **Amazon** | [Amazon Dedicated Cloud Engineer - Region Reliability Engineering](https://www.amazon.jobs/jobs/10608155/apply) | Not listed | Bellevue, WA | ❔ | ❔ Review | — |
 | 2026-11-19 | **Apple** | [AIML - LLM Inference Quality Engineer](https://jobs.apple.com/en-us/details/200695825-3337) | $153k/yr | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-11-16 | **Apple** | [CAD Automation and ML Engineer](https://jobs.apple.com/en-us/details/200694953-0157) | Not listed | Austin, Texas, 78727, United States | ❔ | ❔ Review | — |
 | 2026-11-16 | **Microsoft** | [Applied Sciences](https://go.vansh.nyc/1A4) | Not listed | Remote | ❔ | ❔ Review | — |
-| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
+| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Google** | [Software Engineer, Geo, Computer Vision](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Not listed | Seattle, WA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Not listed | Canada +3 | ❔ | ✅ Confirmed | — |
@@ -74,6 +74,8 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-20 | **Akuna Capital** | [Trading Sneak Peek Program: August 2027](https://www.akunacapital.com/careers/job/8011610?gh_jid=8011610) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
+| 2026-11-20 | **Akuna Capital** | [Trading Sneak Peek Program: January 2027](https://www.akunacapital.com/careers/job/8011500?gh_jid=8011500) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
 | 2026-11-18 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://talents.vaia.com/companies/optiver/austin/graduate-quantitative-researcher-phd-2027-start-137378563) | Not listed | Austin, AR | ❔ | ✅ Confirmed | PhD only |
 | 2026-11-17 | **D. E. Shaw** | [Campus Programs Specialist](https://www.deshaw.com/careers/Campus-Programs-Specialist-6240) | $130,000 to $180,000 | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-17 | **Citadel** | [Sector Data Scientist, Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team) | Not listed | New York | ❔ | ❔ Review | — |
@@ -87,8 +89,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-13 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Jane Street** | [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8621552002) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Optiver** | [Graduate Quantitative Researcher, PhD (2027 Start)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) | $200,000 — $200,000 | New York | ❔ | ✅ Confirmed | PhD only |
-| 2026-11-13 | **Akuna Capital** | [Junior Quantitative Researcher, 2027 / Carnegie Mellon University](https://jobright.ai/jobs/info/6af6d7b1c7349029d7091266) | Not listed | Chicago, IL, United States | ❔ | ✅ Confirmed | PhD only |
-| 2026-11-13 | **Akuna Capital** | [Junior Trader](https://www.akunacapital.com/careers/job/7773141?gh_jid=7773141) | Not listed | Chicago | ❔ | ◐ Likely | — |
 | 2026-11-13 | **Citadel** | [Equities - Citadel Associate Program - Full Time Program 2027 (US)](https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2027-us) | Not listed | New York | ❔ | ◐ Likely | — |
 | 2026-11-13 | **D. E. Shaw** | [Cove MBA Associate- Summer 2027](https://www.deshaw.com/careers/Cove-MBA-Associate-Summer-2027-6283) | Not listed | New York | ❔ | ◐ Likely | — |
 | 2026-11-13 | **Citadel Securities** | [Ignite Women's Trading Program](https://www.citadelsecurities.com/careers/programs-and-events/ignite-womens-trading-program) | Not listed | New York | ❔ | ❔ Review | — |
@@ -118,7 +118,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>529 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>525 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -135,13 +135,13 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-12 | **TikTok Inc.** | [AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start / TikTok Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11397182) | Not listed | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-11-11 | **TikTok** | [Backend Software Engineer - Offense & Defense - PDPO](https://lifeattiktok.com/search/7670384219637664053) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
 
-_Showing 12 of 529 active roles. Use the Job Radar for all roles._
+_Showing 12 of 525 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3702 active roles**. Featured groups account for **408** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3709 active roles**. Featured groups account for **415** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
