@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,44 +26,19 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 462,
-    "new_job_candidates": 176,
-    "high_potential_title_candidates": 504
+    "priority_company_candidates": 467,
+    "new_job_candidates": 183,
+    "high_potential_title_candidates": 506
   },
   "veto_counts": {
-    "non-full-time program title": 19,
+    "non-full-time program title": 20,
     "pure hardware role": 1,
     "explicit 2026-only title": 3
   },
-  "exact_tracked_jobs_removed": 22,
+  "exact_tracked_jobs_removed": 23,
   "candidates": [
     {
       "machine_rank": 1,
-      "machine_score": 100,
-      "machine_tier": "Top",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Distributed Systems, Networking; role shape: entry-level ML role; new-grad: likely",
-      "company_priority": "",
-      "company": "Bitdeer",
-      "role": "2027 US AI Engineering - New College Graduate",
-      "category": "Other",
-      "location": "San Jose, CA +1",
-      "salary": "$70,000 – $150,000",
-      "salary_max_annual": 150000,
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-18",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate",
-      "jd_excerpt": "2027 US AI Engineering – New College Graduate at Bitdeer Technologies Group %HEADER_COMPANY_WEBSITE% %HEADER_EMPLOYEES% 2027 US AI Engineering – New College Graduate %LABEL_POSITION_TYPE_FULL_TIME% AI Cloud $70,000 – $150,000 / %LABEL_SALARY_PER_YEAR% San Jose, CA / Austin, TX - %LABEL_POSITION_TYPE_REMOTE_ANY% %BREADCRUMB_JOB_OPENINGS% 2027 US AI Engineering – New College Graduate %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_INDEED% %BUTTON_APPLY_USING_LINKED_IN% About Bitdeer AI: Bitdeer AI, a full-stack AI cloud provider (AI Data Center, IaaS, PaaS, MaaS) under Bitdeer Technologies Group and a preferred NVIDIA Cloud Partner, is engineered to power the AI of tomorrow. With the group’s 3 Gigawatts of power capacity deployed and under development globally, Bitdeer holds a decisive advantage in the AI era: the massive energy, physical infrastructure, and compute foundation required to run intelligence at global scale. Operating across strategic international hubs, including the United States, Singapore, and Europe, we build on one core promise: One Cloud, Infinite Possibilities. Our Two Core Missions : Transforming Hyperscale Power into Useful AI: We take the extreme complexity of gigawatt-scale energy grids, liquid-cooled data center topologies, and low-latency networking fabrics, and turn that raw physical power into accessible, high-performance AI Cloud that directly drives real-world intelligence. Building an Integrated Full-Stack Cloud Platform: We engineer the complete software layer, spanning bare-metal provisioning, managed Kubernetes, distributed training pipelines, high-throughput AI Inference engines, and Model-as-a-Service (MaaS) with serverless APIs, empowering enterprises to seamlessly train, fine-tune, deploy, and serve next-generation AI intelligence. We are seeking 2027 New College Graduates: Why Start Your Career at Bitdeer AI? We don’t just look at the infrastructure layer, we build across the entire value chain for our full-stack cloud. At Bitdeer AI, you will architect the actual backbone of global artificial intelligence. From foundation-level hardware orchestration and low-latency Inference systems to upper-layer MaaS platforms and AI Agents environments, you will solve high-scale systems challenges that few companies on Earth have the power capacity to attempt. Your work will directly power the global AI ecosystem, from ambitious startups and elite research institutions to global enterprises. Artificial intelligence is reshaping human potential, but the future of AI relies on real-world compute, reliable infrastructure and engineering, and massive power. Don’t just witness the AI revolution. Power it. Join Bitdeer AI, and build the intelligence for infinite possibilities. What you will be responsible for We are looking for key talents to develop in the following areas: Cloud Service Platform: Development of large-scale, highly available AI cloud services, including GPU virtual machines, bare-metal services, container services, cloud networking, storage, billing, monitoring, security, and multi-region resource management. Kubernetes Service Platform: Development of managed Kubernetes services with GPU-native orchestration, intelligent scheduling, distributed workload management, cluster lifecycle management, observability, resource isolation, and support for large-scale AI training and inference workloads. AI Model Training and Inference Platform: Development of distributed training, model fine-tuning, model deployment, inference acceleration, serverless inference, model APIs, model evaluation, and production-grade LLM and multimodal model-serving capabilities. AI Agent Platform: Development of enterprise AI Agent platforms, including Agent building, workflow orchestration, tool integration, retrieval-augmented generation, memory systems, sandbox execution, multi-Agent collaboration, evaluation, observability, security, and large-scale Agent runtime infrastructure. Advanced AI Systems: Development of GPU resource scheduling, distributed systems, high-performance networking, cloud-native infrastructure, MLOps and LLMOps platforms, AI application marketplaces, and automated operation systems for large-scale AI infrastructure. Career Opportunities within the Program: Cloud Platform Engineering AI Operations, MLOps & Site Reliability Engineering MaaS, Model Serving & AI Training Infrastructure AI Agent & Application Engineering AI & Cloud Security Engineering AI Research Successful candidates will start in one of the above areas based on the interview assessment and business needs. Opportunities to rotate across different roles will also be provided as part of career development. How you will stand out Fresh graduates (Bachelors, Masters, PhD) from all disciplines and/or candidates with up to 2 years of related work experience. Strong programming ability in one or more languages, including Go, Python, C++, Java, Rust, or related technologies. Experience with Kubernetes, Docker, Helm, Ter",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -88,7 +63,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 3,
+      "machine_rank": 2,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: GPU communication / performance, profiling / performance modeling; skills: C++, Python, Linux, CUDA; new-grad: confirmed",
@@ -107,13 +82,13 @@
       "source": "GitHub:jobright-ai/2026-Product-Management-New-Grad:README.md",
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6ad6a77de4b94611ab840fff",
-      "jd_excerpt": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 @ NVIDIA | Jobright.ai SIGN IN JOIN NOW Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 jobs in United States Overview Company This job has closed. APPLY to similar jobs NVIDIA · 3 weeks ago Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 Santa Clara, CA Full-time Onsite New Grad $84K/yr - $144K/yr 0+ years exp NVIDIA is hiring a Technical Product Marketing Engineer to build robotics simulation workflows and demonstrate how AI models can solve robotics tasks. The role develops and evaluates working examples, reusable code, demos, and technical resources that help developers understand and adopt NVIDIA robotics technologies, in collaboration with engineering, product management, and product marketing teams. Artificial Intelligence (AI) Transportation Cloud Computing Embedded Software Gaming Hardware Quantum Computing Semiconductor AI Infrastructure Autonomous Vehicles Embedded Systems Foundational AI Growth Opportunities H1B Sponsor Likely Responsibilities Develop and test robotics simulation w/ agentic workflows using NVIDIA platforms Isaac Sim and Isaac Lab, including configuring robot models, environments, sensors, and task scenarios Integrate AI models and robot policies into simulation workflows, connecting simulation inputs, model inference, and robot behavior Build reusable Python code and sample applications that demonstrate practical robotics use cases Evaluate task success, runtime performance, and failure cases through repeatable experiments; document configurations, results, and limitations Create demos, tutorials, technical blogs, and workflow guides that explain what you built, how it works, and how developers can reproduce the results Collaborate with engineering and product teams to troubleshoot integration issues, validate technical claims, and surface opportunities to improve the developer experience Present your work and contribute to technical demonstrations and educational materials for developers, partners, and customer-facing teams Qualification Python Robotics Simulation Robotics Linear Algebra Coordinate Transformations Kinematics Control Systems Machine Learning PyTorch NVIDIA Isaac Sim NVIDIA Isaac Lab ROS 2 Required Pursuing or recently completed a BS or MS degree in Computer Science, Robotics, Electrical Engineering, Mechanical Engineering, or a related technical field, or equivalent experience Strong Python programming fundamentals, including experience debugging, testing, and organizing code Hands-on academic, research, internship, or personal project experience with robotics or simulation Foundational understanding of linear algebra, coordinate transformations, and robotics concepts such as sensors, kinematics, or control Familiarity with machine learning fundamentals and practical experience running or evaluating models using a framework such as PyTorch Ability to investigate technical problems systematically and communicate results through clear writing and presentations Initiative in learning new tools, incorporating feedback, and following through on defined technical deliverables Relevant experience may come from coursework, capstone projects, research, internships, open-source contributions, or personal projects Preferred Experience with NVIDIA Isaac Sim, Isaac Lab, or other robotics simulators A project applying learned policies or pre-trained AI models to robotics tasks, such as perception, manipulation, or navigation Exposure to reinforcement learning, imitation learning, synthetic data generation, or simulation-to-real evaluation Familiarity with Linux, Git, ROS 2, C++, or GPU-accelerated computing Examples of reusable code, demonstrations, tutorials, or technical presentations that make a complex topic understandable and help others reproduce your work Benefits Eligible for equity Company NVIDIA Glassdoor 4.6 Accelerated computing platforms for AI and compute-intensive workloads. Founded in 1993 Santa Clara, California, USA 10001+ employees https://www.nvidia.com H1B Sponsorship NVIDIA has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 3 % Represents job field similar to this job Product Management Engineering and Development Management and Executive Marketing Sales Accounting and Finance Customer Service and Support Creatives and Design Human Resources Arts and Entertainment Legal and Compliance Trends of Total Sponsorships *2026 ( 2427 ) 2025 ( 1865 ) 2024 ( 1352 ) 2023 ( 975 ) 2022 ( 835 ) 2021 ( 601 ) 2020 ( 529 ) Funding Current Stage Public Company Total Funding $29.09B Key Investors ARPA-E ARK Investment Management SoftBank Vision Fund 2026-06-15 Post Ipo Debt· ",
+      "jd_excerpt": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 @ NVIDIA | Jobright.ai SIGN IN JOIN NOW Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 jobs in United States Overview Company This job has closed. APPLY to similar jobs NVIDIA · 1 month ago Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 Santa Clara, CA Full-time Onsite New Grad $84K/yr - $144K/yr 0+ years exp NVIDIA is hiring a Technical Product Marketing Engineer to build robotics simulation workflows and demonstrate how AI models can solve robotics tasks. The role develops and evaluates working examples, reusable code, demos, and technical resources that help developers understand and adopt NVIDIA robotics technologies, in collaboration with engineering, product management, and product marketing teams. Artificial Intelligence (AI) Transportation Cloud Computing Embedded Software Gaming Hardware Quantum Computing Semiconductor AI Infrastructure Autonomous Vehicles Embedded Systems Foundational AI Growth Opportunities H1B Sponsor Likely Responsibilities Develop and test robotics simulation w/ agentic workflows using NVIDIA platforms Isaac Sim and Isaac Lab, including configuring robot models, environments, sensors, and task scenarios Integrate AI models and robot policies into simulation workflows, connecting simulation inputs, model inference, and robot behavior Build reusable Python code and sample applications that demonstrate practical robotics use cases Evaluate task success, runtime performance, and failure cases through repeatable experiments; document configurations, results, and limitations Create demos, tutorials, technical blogs, and workflow guides that explain what you built, how it works, and how developers can reproduce the results Collaborate with engineering and product teams to troubleshoot integration issues, validate technical claims, and surface opportunities to improve the developer experience Present your work and contribute to technical demonstrations and educational materials for developers, partners, and customer-facing teams Qualification Python Robotics Simulation Robotics Linear Algebra Coordinate Transformations Kinematics Control Systems Machine Learning PyTorch NVIDIA Isaac Sim NVIDIA Isaac Lab ROS 2 Required Pursuing or recently completed a BS or MS degree in Computer Science, Robotics, Electrical Engineering, Mechanical Engineering, or a related technical field, or equivalent experience Strong Python programming fundamentals, including experience debugging, testing, and organizing code Hands-on academic, research, internship, or personal project experience with robotics or simulation Foundational understanding of linear algebra, coordinate transformations, and robotics concepts such as sensors, kinematics, or control Familiarity with machine learning fundamentals and practical experience running or evaluating models using a framework such as PyTorch Ability to investigate technical problems systematically and communicate results through clear writing and presentations Initiative in learning new tools, incorporating feedback, and following through on defined technical deliverables Relevant experience may come from coursework, capstone projects, research, internships, open-source contributions, or personal projects Preferred Experience with NVIDIA Isaac Sim, Isaac Lab, or other robotics simulators A project applying learned policies or pre-trained AI models to robotics tasks, such as perception, manipulation, or navigation Exposure to reinforcement learning, imitation learning, synthetic data generation, or simulation-to-real evaluation Familiarity with Linux, Git, ROS 2, C++, or GPU-accelerated computing Examples of reusable code, demonstrations, tutorials, or technical presentations that make a complex topic understandable and help others reproduce your work Benefits Eligible for equity Company NVIDIA Glassdoor 4.6 Accelerated computing platforms for AI and compute-intensive workloads. Founded in 1993 Santa Clara, California, USA 10001+ employees https://www.nvidia.com H1B Sponsorship NVIDIA has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 3 % Represents job field similar to this job Product Management Engineering and Development Management and Executive Marketing Sales Accounting and Finance Customer Service and Support Creatives and Design Human Resources Arts and Entertainment Legal and Compliance Trends of Total Sponsorships *2026 ( 2427 ) 2025 ( 1865 ) 2024 ( 1352 ) 2023 ( 975 ) 2022 ( 835 ) 2021 ( 601 ) 2020 ( 529 ) Funding Current Stage Public Company Total Funding $29.09B Key Investors ARPA-E ARK Investment Management SoftBank Vision Fund 2026-06-15 Post Ipo Debt· ",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 4,
+      "machine_rank": 3,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -138,7 +113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 5,
+      "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
@@ -163,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
@@ -188,7 +163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -213,7 +188,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -238,7 +213,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -263,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -288,7 +263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, Linux, Networking, Kubernetes; role shape: systems/performance role",
@@ -313,7 +288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 11,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -336,6 +311,31 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 12,
+      "machine_score": 96,
+      "machine_tier": "Top",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "Tier A",
+      "company": "Google",
+      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "category": "AI / Machine Learning",
+      "location": "Mountain View, CA",
+      "salary": "$175,000.00–$210,000.00",
+      "salary_max_annual": "210000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-08-25",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": false,
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
+      "jd_excerpt": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google — Mountain View, CA | LinkedIn Jobs Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Moses Lake, WA Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 1 day ago 44 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a PhD graduate, your research expertise is invaluable to us. Explore a variety of projects, collaborate with various teams, and contribute to products that are changing the world, across many product areas",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 13,
@@ -364,31 +364,6 @@
     },
     {
       "machine_rank": 14,
-      "machine_score": 95,
-      "machine_tier": "Top",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "Google",
-      "role": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "category": "AI / Machine Learning",
-      "location": "Mountain View, CA",
-      "salary": "$175,000.00–$210,000.00",
-      "salary_max_annual": "210000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Early Career",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-08-25",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": false,
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-phd-early-career-2027-start-at-google-4456873381",
-      "jd_excerpt": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google — Mountain View, CA | LinkedIn Jobs Skip to main content LinkedIn Software Engineer, Infrastructure, PhD, Early Career, 2027 Start in Phoenix, AZ Expand search This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection. Jobs People Learning Clear text Clear text Clear text Clear text Clear text Sign in Join now Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer, Infrastructure, PhD, Early Career, 2027 Start Google Mountain View, CA 2 weeks ago 41 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Infrastructure, PhD, Early Career, 2027 Start role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer, Infrastructure, PhD, Early Career, 2027 Start at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. In most instances, this position requires in-person interviews as part of the hiring process. In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401(k) with company match Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks Baby Bonding Leave: 18 weeks Holidays: 13 paid days per year Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA . Minimum qualifications: PhD degree in Computer Science, a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Experience coding in Rust. Availability to start in a full-time role in 2027. About The Job Google's software engineers develop the",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 15,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -413,7 +388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 15,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -438,7 +413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
+      "machine_rank": 16,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -463,7 +438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 17,
       "machine_score": 85,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -473,7 +448,7 @@
       "category": "Other",
       "location": "Chicago, New York",
       "salary": "$250,000 to $300,000",
-      "salary_max_annual": 300000,
+      "salary_max_annual": "300000",
       "ng_confidence": "Confirmed",
       "ng_evidence": "posting says graduating between",
       "sponsorship": "Unknown",
@@ -482,13 +457,13 @@
       "source": "GitHub:quant-scraper/Quant-Internships-New-Grad-2027:README.md",
       "official_source": false,
       "url": "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214",
-      "jd_excerpt": "Quantitative Researcher | DRW Open menu Menu Open Region Selection Work at DRW Quantitative Researcher Apply now ← All Categories Quantitative Researcher Jobs Locations Chicago , New York City Employment type Regular Department Campus Targeted Start Date Summer 2027 Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Researcher , you will develop mathematical models using advanced statistical learning methods to build automated trading strategies across multiple asset classes. Our research team collaborates on idea generation and strategy development, while encouraging independent exploration and original approaches. You will have access to clean data integrated with compute resources and the support of experienced researchers, traders and dedicated software developers. You will conduct quantitative analysis of market data to uncover relationships and identify historical trends. We do not require familiarity with or prior experience in financial markets for this role. We will give you the training you need to be successful. How you will make an impact Extract predictive signals from financial data through both traditional statistical analysis methods and cutting edge machine learning techniques Assist software developers to translate research strategies into production software Optimize the order execution and risk management of our trading system Create robust solutions to problems presented in the trading environment Formulate and apply mathematical modeling techniques to enhance existing trading strategies and perform innovative new research with the goal of identifying and capturing trading opportunities Automate human-decision based trading strategies; prototype algorithmic trades from trading ideas You will be right at home if you have… A degree in a technical discipline with a focus on statistics, machine learning, signal processing, optimization and control graduating between December 2026 and August 2027 (Bachelor’s, Master’s, PhD) A curiosity for model development and experience handling large data sets Expertise in programming using Python, R, MATLAB, or C++ for conducting research Can advocate for your beliefs in a concise and effective way with the team Significant hands-on experience applying machine learning algorithms to real world problems Strong problem-solving and statistics skills The proactive ability to take the lead on assignments and deliver practical research results in a timely manner DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world.  We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk. Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets. We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it.  DRW is a place of high expectations, integrity, innovation and a willingness to challenge consensus. The annual base salary range for this position is $250,000 to $300,000 depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual discretionary bonus.  In addition, DRW offers a comprehensive suite of employee benefits including group medical, pharmacy, dental and vision insurance, 401k (with discretionary employer match), short and long-term disability, life and AD&D insurance, health savings accounts, and flexible spending accounts. For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at https://drw.com/privacy-notice . California residents, please review the California Privacy Notice for information about certain legal rights at https://drw.com/california-privacy-notice . #LI-SB1 Apply now Who we are Work at DRW Access Our Liquidity Community Investment News & Insights Our Offices Terms of use Privacy Notice California Privacy Notice Facebook Instagram Twitter Linked In Youtube Glassdoor Regulatory and Fraud DRW Canada FR EN © 2026 DRW Holdings, LLC. All Rights Reserved.",
+      "jd_excerpt": "Quantitative Researcher | DRW Open menu Menu Open Region Selection Work at DRW Quantitative Researcher Apply now ← All Categories Quantitative Researcher Jobs Locations Chicago , New York City Employment type Regular Department Campus Targeted Start Date Summer 2027 Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Researcher , you will develop mathematical models using advanced statistical learning methods to build automated trading strategies across multiple asset classes. Our research team collaborates on idea generation and strategy development, while encouraging independent exploration and original approaches. You will have access to clean data integrated with compute resources and the support of experienced researchers, traders and dedicated software developers. You will conduct quantitative analysis of market data to uncover relationships and identify historical trends. We do not require familiarity with or prior experience in financial markets for this role. We will give you the training you need to be successful. How you will make an impact Extract predictive signals from financial data through both traditional statistical analysis methods and cutting edge machine learning techniques Assist software developers to translate research strategies into production software Optimize the order execution and risk management of our trading system Create robust solutions to problems presented in the trading environment Formulate and apply mathematical modeling techniques to enhance existing trading strategies and perform innovative new research with the goal of identifying and capturing trading opportunities Automate human-decision based trading strategies; prototype algorithmic trades from trading ideas You will be right at home if you have… A degree in a technical discipline with a focus on statistics, machine learning, signal processing, optimization and control graduating between December 2026 and August 2027 (Bachelor’s, Master’s, PhD) A curiosity for model development and experience handling large data sets Expertise in programming using Python, R, MATLAB, or C++ for conducting research Can advocate for your beliefs in a concise and effective way with the team Significant hands-on experience applying machine learning algorithms to real world problems Strong problem-solving and statistics skills The proactive ability to take the lead on assignments and deliver practical research results in a timely manner DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world.  We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk. Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets. We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it.  DRW is a place of high expectations, integrity, innovation and a willingness to challenge consensus. The annual base salary range for this position is $250,000 to $300,000 depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual discretionary bonus.  In addition, DRW offers a comprehensive suite of employee benefits including group medical, pharmacy, dental and vision insurance, 401k (with discretionary employer match), short and long-term disability, life and AD&D insurance, health savings accounts, and flexible spending accounts. For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at https://drw.com/privacy-notice . California residents, please review the California Privacy Notice for information about certain legal rights at https://drw.com/california-privacy-notice . #LI-SB1 Apply now Who we are Work at DRW Access Our Liquidity Community Investment News & Insights Our Offices Terms of use Privacy Notice California Privacy Notice Facebook Instagram Twitter Linked In Youtube Glassdoor Regulatory and Fraud EU/UK Regulatory Notice DRW Canada FR EN © 2026 DRW Holdings, LLC. All Rights Reserved.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 18,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -513,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 19,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -538,7 +513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 20,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -557,13 +532,13 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8036541?gh_jid=8036541",
-      "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations OMM Explained Work With Us Experienced Early Careers Internships Life at Akuna Options 101 Talent Community All Rights Reserved © 2011-2026 Akuna Technologies LLC - Terms and\n      Conditions - Privacy Policy Media Inquiries",
+      "jd_excerpt": "Akuna Capital Analytics cookies We use analytics cookies to improve the site and a security cookie to protect it. Change your analytics choice anytime in Cookie Preferences. About cookies Accept Accept once Decline About cookies We use analytics cookies to improve the site. We never use them for advertising. A security cookie protects the site and runs whatever you choose. Accept Analytics on. We remember your choice for six months. Accept once Analytics for this visit only. We'll ask again next time. Decline No analytics for six months. The security cookie still runs. Change your choice anytime in Cookie Preferences. See our Privacy Policy . Back WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Tradin",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Linux, Kubernetes; new-grad: confirmed; $200k+ stated ceiling",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Networking; role shape: systems/performance role",
@@ -663,7 +638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 26,
+      "machine_rank": 25,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -688,7 +663,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 27,
+      "machine_rank": 26,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
@@ -713,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 27,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -732,13 +707,13 @@
       "source": "GitHub:jobright-ai/2026-Data-Analysis-New-Grad:README.md",
       "official_source": false,
       "url": "https://jobright.ai/jobs/info/6a42c1296c326942b4e8409f",
-      "jd_excerpt": "Quantitative Systematic Trader – Master's: 2027 @ Susquehanna International Group | Jobright.ai SIGN IN JOIN NOW Quantitative Systematic Trader – Master's: 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW Susquehanna International Group · 3 weeks ago Quantitative Systematic Trader – Master's: 2027 New York, NY +1 more Full-time Onsite New Grad $300K/yr - $300K/yr 0+ years exp Susquehanna International Group hires a Quantitative Systematic Trader to build and refine data-driven, automated trading strategies. The role focuses on quantitative research, alpha monetization, execution efficiency, risk management, and monitoring live trading performance. Finance FinTech Venture Capital Financial Services Comp. & Benefits H1B Sponsored Responsibilities As a Quantitative Systematic Trader, you’ll combine quantitative research expertise with deep trading intuition to build and refine data-driven, fully automated trading strategies You’ll actively monitor real-time strategy performance and use market behavior and feedback to improve and optimize profitability Modelling: Apply probability theory, statistical analysis, and machine learning techniques to analyze and interpret market behavior Alpha Monetization: Blend quantitative signals with trading intuition and live market insights to optimize existing strategies or build new ones from the ground up Risk Management: Oversee the deployment and real-time operation of trading strategies, fine-tune parameters, and respond to anomalies as needed Education: Participate in a comprehensive education program and receive personalized mentorship from senior professionals to accelerate your growth Collaboration: Work in an open environment where you’ll collaborate with researchers and technologists to build parts of the execution engine Qualification Probability Statistics Optimization Numerical Methods Quantitative Modeling Python Large-Scale Data Analysis C++ Scientific Computing High-Performance Computing Market Microstructure Required A master's degree, graduating by Summer 2027, in computer science, economics, electrical engineering, mathematics, operations research, physics, statistics, or another highly quantitative discipline A strong foundation in probability, statistics, optimization, numerical methods, or quantitative modeling Experience developing research code in Python and working with large datasets Excellent problem-solving skills and an interest in using quantitative models that inform real trading decisions Strong communication skills and an interest in collaborating with traders, researchers, and engineers to refine ideas through discussion and experimentation A track record of intellectual curiosity and competitive drive demonstrated through coursework, independent projects, research, competitions, strategic games, or other analytical pursuits A strong interest in trading and the drive to develop a deep mental model of market microstructure and market intuition The ability to thrive in an environment that values creativity, evidence-based thinking, and continuous learning Preferred experience with C++, scientific computing, or high-performance computing is a plus Benefits Access to Susquehanna’s extensive proprietary datasets and large-scale computing infrastructure, including a rapidly growing cluster of thousands of high-end GPUs Participate in a comprehensive education program and receive personalized mentorship from senior professionals to accelerate your growth Company Susquehanna International Group Glassdoor 3.8 Global quantitative trading firm for financial markets. Founded in 1987 Bala Cynwyd, Pennsylvania, USA 1001-5000 employees https://www.sig.com H1B Sponsorship Susquehanna International Group has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 3 % Represents job field similar to this job Accounting and Finance Engineering and Development Management and Executive Customer Service and Support Marketing Trends of Total Sponsorships *2026 ( 89 ) 2025 ( 76 ) 2024 ( 59 ) 2023 ( 49 ) 2022 ( 49 ) 2021 ( 40 ) 2020 ( 36 ) Funding Current Stage Late Stage Leadership Team Michael Doherty CCO Recent News Bloomberg.com Susquehanna Insider Trading Case Called Into Doubt by Judge 2026-09-15 MarketScreener Crypto data firm Kaiko secures $110 million funding round led by S&P Global 2026-09-14 Tech Times Morgan Stanley Upgrades Robinhood: Prediction Markets Tapped by Just 7% of Its Base 2026-09-04 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Probability Statistics Optimization Numerical Methods Quantitative Modeling Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Re",
+      "jd_excerpt": "Quantitative Systematic Trader – Master's: 2027 @ Susquehanna International Group | Jobright.ai SIGN IN JOIN NOW Quantitative Systematic Trader – Master's: 2027 jobs in United States Overview Company Apply on Employer Site APPLY NOW Susquehanna International Group · 1 month ago Quantitative Systematic Trader – Master's: 2027 New York, NY +1 more Full-time Onsite New Grad $300K/yr - $300K/yr 0+ years exp Susquehanna International Group hires a Quantitative Systematic Trader to build and refine data-driven, automated trading strategies. The role focuses on quantitative research, alpha monetization, execution efficiency, risk management, and monitoring live trading performance. Finance FinTech Venture Capital Financial Services Comp. & Benefits H1B Sponsored Responsibilities As a Quantitative Systematic Trader, you’ll combine quantitative research expertise with deep trading intuition to build and refine data-driven, fully automated trading strategies You’ll actively monitor real-time strategy performance and use market behavior and feedback to improve and optimize profitability Modelling: Apply probability theory, statistical analysis, and machine learning techniques to analyze and interpret market behavior Alpha Monetization: Blend quantitative signals with trading intuition and live market insights to optimize existing strategies or build new ones from the ground up Risk Management: Oversee the deployment and real-time operation of trading strategies, fine-tune parameters, and respond to anomalies as needed Education: Participate in a comprehensive education program and receive personalized mentorship from senior professionals to accelerate your growth Collaboration: Work in an open environment where you’ll collaborate with researchers and technologists to build parts of the execution engine Qualification Probability Statistics Optimization Numerical Methods Quantitative Modeling Python Large-Scale Data Analysis C++ Scientific Computing High-Performance Computing Market Microstructure Required A master's degree, graduating by Summer 2027, in computer science, economics, electrical engineering, mathematics, operations research, physics, statistics, or another highly quantitative discipline A strong foundation in probability, statistics, optimization, numerical methods, or quantitative modeling Experience developing research code in Python and working with large datasets Excellent problem-solving skills and an interest in using quantitative models that inform real trading decisions Strong communication skills and an interest in collaborating with traders, researchers, and engineers to refine ideas through discussion and experimentation A track record of intellectual curiosity and competitive drive demonstrated through coursework, independent projects, research, competitions, strategic games, or other analytical pursuits A strong interest in trading and the drive to develop a deep mental model of market microstructure and market intuition The ability to thrive in an environment that values creativity, evidence-based thinking, and continuous learning Preferred experience with C++, scientific computing, or high-performance computing is a plus Benefits Access to Susquehanna’s extensive proprietary datasets and large-scale computing infrastructure, including a rapidly growing cluster of thousands of high-end GPUs Participate in a comprehensive education program and receive personalized mentorship from senior professionals to accelerate your growth Company Susquehanna International Group Glassdoor 3.8 Global quantitative trading firm for financial markets. Founded in 1987 Bala Cynwyd, Pennsylvania, USA 1001-5000 employees https://www.sig.com H1B Sponsorship Susquehanna International Group has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 3 % Represents job field similar to this job Accounting and Finance Engineering and Development Management and Executive Customer Service and Support Marketing Trends of Total Sponsorships *2026 ( 89 ) 2025 ( 76 ) 2024 ( 59 ) 2023 ( 49 ) 2022 ( 49 ) 2021 ( 40 ) 2020 ( 36 ) Funding Current Stage Late Stage Leadership Team Michael Doherty CCO Recent News Bloomberg.com Susquehanna Insider Trading Case Called Into Doubt by Judge 2026-09-15 MarketScreener Crypto data firm Kaiko secures $110 million funding round led by S&P Global 2026-09-14 Tech Times Morgan Stanley Upgrades Robinhood: Prediction Markets Tapped by Just 7% of Its Base 2026-09-04 Company data provided by crunchbase Boost Your Interview Chances Improve Resume Match Score FREE ? Your Score - Top Applicants Must-Have Skills for This Role Probability Statistics Optimization Numerical Methods Quantitative Modeling Optimize my Resume Get Referral Via linkedIn FREE 3× Higher Re",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 28,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -757,13 +732,13 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/7846695?gh_jid=7846695",
-      "jd_excerpt": "Akuna Capital WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Research Quantitative Researcher - Prediction Markets Chicago Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Quantitative Researcher at Akuna: Akuna's Prediction Markets team is looking to add a Quantitative Researcher focused on sports related contracts. The successful candidate will play a crucial role in developing Akuna’s sports pricing capabilities, working closely with development and trading teams to refine and deploy these models alongside our strategies. This position offers the opportunity to make a direct impact on an exciting new desk at Akuna. The ideal candidate will possess strong programming and analytical skills, a creative mindset, and a passion for sports. In this role you will: Design and develop data capture pipelines to enable the pricing of a variety of sports contracts (match outcomes, player props, in-game events) Develop and calibrate pricing models using historical data in service of in-play quoting of sports contracts. Build and maintain internal tooling to facilitate all aspects of the research pipeline Work closely with trading and development to deploy models into production trading strategies, bridging the gap from research to production with an ownership mentality Qualities that make great candidates: Bachelor’s, Master’s, or PhD degree in a technical field, such as Engineering, Computer Science, Mathematics, or Physics (or a related subject) Proficient programming skills in Python (C++ is a plus) 1+ years of experience in a quantitative or programming role, preferably within the trading sector. Deep understanding of fields such as Linear Algebra, Numerical Methods, Statistics, Optimization, and Machine Learning Strong interest in sports and quantitative modeling. We are especially interested in high agency individuals who have practical experience in financial markets and see the recent rise in prediction markets as an opportunity to ply their trade to a new domain they find more dynamic and exciting: sports. If you are a working quant and a sports data nerd, we want to hear from you! In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations OMM Explained Work With Us Experienced Early Careers Internships Life at Akuna Options 101 Talent Community All Rights Reserved © 2011-2026 Akuna Technologies LLC - Terms and\n      Conditions - Privacy Policy Media Inquiries",
+      "jd_excerpt": "Akuna Capital Analytics cookies We use analytics cookies to improve the site and a security cookie to protect it. Change your analytics choice anytime in Cookie Preferences. About cookies Accept Accept once Decline About cookies We use analytics cookies to improve the site. We never use them for advertising. A security cookie protects the site and runs whatever you choose. Accept Analytics on. We remember your choice for six months. Accept once Analytics for this visit only. We'll ask again next time. Decline No analytics for six months. The security cookie still runs. Change your choice anytime in Cookie Preferences. See our Privacy Policy . Back WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Research Quantitative Researcher - Prediction Markets Chicago Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Quantitative Researcher at Akuna: Akuna's Prediction Markets team is looking to add a Quantitative Researcher focused on sports related contracts. The successful candidate will play a crucial role in developing Akuna’s sports pricing capabilities, working closely with development and trading teams to refine and deploy these models alongside our strategies. This position offers the opportunity to make a direct impact on an exciting new desk at Akuna. The ideal candidate will possess strong programming and analytical skills, a creative mindset, and a passion for sports. In this role you will: Design and develop data capture pipelines to enable the pricing of a variety of sports contracts (match outcomes, player props, in-game events) Develop and calibrate pricing models using historical data in service of in-play quoting of sports contracts. Build and maintain internal tooling to facilitate all aspects of the research pipeline Work closely with trading and development to deploy models into production trading strategies, bridging the gap from research to production with an ownership mentality Qualities that make great candidates: Bachelor’s, Master’s, or PhD degree in a technical field, such as Engineering, Computer Science, Mathematics, or Physics (or a related subject) Proficient programming skills in Python (C++ is a plus) 1+ years of experience in a quantitative or programming role, preferably within the trading sector. Deep understanding of fields such as Linear Algebra, Numerical Methods, Statistics, Optimization, and Machine Learning Strong interest in sports and quantitative modeling. We are especially interested in high agency individuals who have practical experience in financial markets and see the recent rise in prediction markets as an opportunity to ply their trade to a new domain they find more dynamic and exciting: sports. If you are a working quant and a sports data nerd, we want to hear from you! In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Trading Quantitative Operations O",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 29,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -788,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 30,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -813,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 31,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -838,32 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
-      "machine_score": 76,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: Python, Networking",
-      "company_priority": "",
-      "company": "Pangle",
-      "role": "Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start Technology - Infrastru[...]",
-      "category": "Infrastructure / Systems",
-      "location": "San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-09-03",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://bebee.com/us/jobs/infrastructure-delivery-engineer-graduate-server-delivery-2027-start-technology-infrastru-pangle-san--pureheal-28528_25298_0074608fe20d4f9b7005b13de2a448a9",
-      "jd_excerpt": "Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027… Skip to main content Jobs People Radar Services Academy Resume Builder Blog Radar United States Jobs Server Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start Technology - Infrastru[...] Back Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start Technology - Infrastru[...] Technology Pangle San Jose , United States 2 months ago Apply Adapt my CV to this job Job description Join us as we work together to inspire creativity and enrich life around the globe. Location San Jose Team Infrastructure Employment Type Regular Job Code A05264 Share this listing Responsibilities The Global Server Delivery team builds and scales the physical infrastructure that powers the next generation of AI. Every year, we deploy gigawatts (GW) of compute capacity across global data centers, delivering thousands of CPU and GPU servers to support large-scale AI and cloud services. Our team owns the end-to-end delivery lifecycle, including new platform introduction, infrastructure planning, power and cooling optimization, deployment execution, and operational readiness. We focus on maximizing power utilization, improving delivery efficiency, and ensuring the highest standards of quality and reliability. By combining engineering expertise with AI-driven analytics and automation, we continuously optimize infrastructure planning and operations at global scale. We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume. Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early. You will work at the intersection of AI infrastructure, large-scale server deployment, data center engineering, and intelligent operations. This role offers the opportunity to participate in the deployment of next-generation AI/GPU clusters that power large-scale cloud and AI services. Rather than focusing on a single discipline, you will collaborate with hardware, networking, facilities, supply chain, software, and operations teams to deliver thousands of servers into production efficiently and reliably. As AI becomes an essential engineering tool, you will also leverage AI technologies to automate planning, perform large-scale data analysis, generate operational insights, and improve engineering productivity. AI Infrastructure Delivery: Participate in the deployment of next-generation CPU and GPU server platforms. Learn server architecture, hardware components, power characteristics, and deployment requirements. Support new platform introduction (NPI), system compatibility validation, and deployment readiness. Assist in large-scale server rollout projects across global data centers. Capacity Planning & Engineering Analysis: Analyze server power consumption, rack capacity, cooling requirements, and infrastructure utilization. Support capacity planning for data centers based on electrical and thermal constraints. Build analytical models to optimize rack layouts, deployment efficiency, and resource utilization. Identify operational risks and recommend engineering improvements. Project & Operations Management: Coordinate cross-functional teams including engineering, supply chain, facilities, vendors, and operations. Track project schedules, deployment milestones, and delivery quality. Manage deployment readiness, installation progress, and engineering documentation. Support material planning and accessory management for large-scale deployments. AI-driven Engineering: Apply AI tools to improve engineering workflows. Use AI to automate data processing, reporting, documentation, and root cause analysis. Analyze millions of operational records to identify trends, anomalies, and optimization opportunities. Explore AI-assisted capacity forecasting, deployment planning, and intelligent operations. Qualifications Minimum Qualifications Individuals who are completing or have recently completed a Bachelor's or Master's degree in Computer Science, a similar technical field of study, or equivalent practical experience.- Strong analytical and problem-solving skills.- Curious mindset with willingness to learn complex systems.- Good communication and teamwork skills.- Comfortable working with data and solving engineering problems. Preferred Qualifications Experience in one or more of the following is a plus: Python, SQL, or scripting languages Excel data analysis and visualization AI tools Data center infrastructure Server hardware Cloud computing Job Information About Us Founded in ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 34,
+      "machine_rank": 32,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -888,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 33,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -913,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 34,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -938,32 +888,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
-      "machine_score": 69,
+      "machine_rank": 35,
+      "machine_score": 68,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
       "company_priority": "",
-      "company": "Kodiak",
-      "role": "Data Scientist",
+      "company": "Quotewell",
+      "role": "Applied AI Engineer",
       "category": "AI / Machine Learning",
-      "location": "Mountain View, CA",
-      "salary": "$130,000 - $150,000",
-      "salary_max_annual": 150000,
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
       "ng_confidence": "Uncertain",
       "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-11-20",
+      "posted_date": "2026-11-21",
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
-      "url": "https://boards.greenhouse.io/kodiak/jobs/4511215009",
-      "jd_excerpt": "Job Application for Data Scientist at Kodiak Back to jobs New Data Scientist Mountain View, CA Apply Kodiak AI, Inc. (Nasdaq: KDK), founded in 2018, is a leader in Physical AI, developing driverless technology that powers machines that move. Its Kodiak Driver is a vehicle-agnostic autonomous driving system that combines AI-powered software with modular hardware. Today it operates in long-haul trucking, industrial trucking, and defense. In 2024, Kodiak launched commercial Driver-as-a-Service operations with no one in the cab, and plans to launch driverless long-haul service between Dallas and Houston by the end of 2026. Kodiak has partnered with many of the biggest names in freight, including Bosch for scaled hardware production, AWS, and leading customers including Atlas Energy Solutions, IKEA, Bridgestone, Werner Enterprises, C.R. England, Roehl Transport, and General Dynamics Land Systems. We are looking for a Data Scientist with a background in data analysis, statistical modeling, data-centric research, and problem-solving. This person must understand the fundamentals of data interrogation frameworks, predictive analytics, and machine learning methods. The person in this role will be ensuring data cleanliness, eliminating statistical noise, and validating data metrics and dashboards to accelerate our engineering and commercial development. The role will work collaboratively across multiple teams to systematize data usage, analyze performance trends, and turn complex datasets into reliable, actionable insights. In this role, you will: Optimize and enhance existing metrics, dashboards, and data interrogation frameworks to support an efficient analytics process. Design and implement statistical and machine learning models to solve practical business problems and answer core product questions. Research and evaluate incoming datasets, distinguishing meaningful operational trends and conclusions from statistical noise. Facilitate the development of our data platform by ensuring data cleanliness, schema accuracy, and reliable underlying metrics. Collaborate with Software Engineers, Operations, and Autonomy teams to enable broad dissemination of data insights across the organization. Develop and maintain data visualization tools to ensure key findings are accessible and easily interpreted by all stakeholders. Serve as the domain expert across a broad range of data sources, monitoring real-time trends to maximize data utility over time. What you bring: Strong technical background as evidenced by a BS, MS, or PhD in Computer Science, Statistics, Operations Research, or a related quantitative field. 2+ years of academic or industry experience applying machine learning, mathematical optimization, and statistical modeling to practical business problems. Solid understanding of data aggregation, statistical interrogation metrics, and their underlying mathematical principles. Proficiency with Python, along with a willingness to learn C++. Experience with version control systems and modern software development workflows. Experience evaluating complex dataset releases (e.g., determining performance improvements in autonomy models vs. baseline). Familiarity with data platform infrastructure and ensuring dataset cleanliness. Bonus for experience in operations research or specialized quantitative modeling. Bonus for experience communicating insights to non-technical cross-functional teams. Bonus for experience in real-time data trend recognition and alerting. Great communicator; you must be capable of presenting clear, data-driven conclusions and writing concise documentation. Passion; you must be passionate about autonomous vehicles and their potential impact on humanity. What we offer: Competitive compensation package including equity and annual bonuses Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Cigna, and  MetLife (including a medical plan with infertility benefits) MetLife Legal Services, Identity & Fraud Protection, Hospital Indemnity Insurance, Accident Insurance, & Critical Illness Insurance Flexible PTO, 10 paid holidays, and generous parental leave policies Our office is centrally located in Mountain View, CA Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging Long Term Disability, Short Term Disability, Life Insurance Wellbeing Benefits - Headspace through Cigna, Calm through Kaiser, One Medical, Gympass, Spring Health through Cigna, Rula (mental health navigation) Fidelity 401(k) Commuter, FSA, Dependent Care FSA, HSA Various incentive programs (referral bonuses, patent bonuses, etc.) The pay range listed below reflects the base salary in our SF/Silicon Valley location, across several internal levels. Actual starting pay will be based on job-related factors including: work location, experience, relevant training, education, skill level and performance during interview. Total compensation at Kodiak includes base pay, equity, bonus and a competiti",
+      "url": "https://ats.rippling.com/quotewell/jobs/6e8e9170-74e3-4723-9069-ac3a83442dc9",
+      "jd_excerpt": "Applied AI Engineer Applied AI Engineer We started as a vertical SaaS company in insurance. We grew into operating our own wholesale brokerage and a programs group. Through that, we've lived the operational reality of applying AI in insurance — what works in production, what breaks, what compounds. We've just closed fresh funding to scale this operating model to retail insurance agencies across the country. Our CEO, Joey Bouchard, built and ran applied AI teams at Palantir. We bring that technical rigor together with years of hands-on insurance operations experience to help agencies deploy AI that works in the real world. ( Why insurance is worth this attention. ) Why this role exists Brokerage execution runs on heroics. Service quality depends on who owns the account, how overloaded they are, and what they happen to remember at the right moment. A submission gets marketed broadly, or it doesn't. A renewal gets the same rigor as new business, or it doesn't. A missing detail gets chased, or it stalls. We don't think that's inevitable. Brokerage execution can be made systematic: software, automation, and AI carrying disciplined follow-through alongside human experts, inside clear bounds, in a regulated environment. The hard part isn't the model call. It's governability — making AI accountable enough to trust with real deal flow. Who is the AI acting for? What is it allowed to do? What happens when it's wrong? In a regulated industry, those aren't side questions. They're the engineering problem. We've been answering them inside our own wholesale brokerage for years. That's where we test whether the model actually produces more reliable, scalable, and consistent service. If it doesn't work for us, it doesn't deserve to be packaged for the market. Now we're packaging it. The role Applied AI Engineers sit at the point where our platform, meets the messy reality of a customer's agency. You own the outcome at the customer. You also own the signal back to the rest of the company. A typical month: you're embedded at a retail agency, working alongside their operators. You're identifying the workflows where heroics break down — submissions, renewals, follow-up, the work that today depends on someone's memory — and you're building governed AI execution into those workflows on Terminal. You're calibrating where humans stay (judgment, relationships, accountability) and where the system carries the standard (follow-through, coordination, attention). The hardest and most interesting part: making it trustworthy. How AI decisions get reviewed, attributed, and defended. That work is what determines whether any of this can actually live in production. Then you bring it all back. Engineering, Product, and Design need to know what generalizes and what doesn't, so the platform compounds across every customer instead of fragmenting into one-offs. You're the conduit. What you'll do Embed at a retail agency and own customer-side execution end to end Build governed AI workflows on Terminal — integrating with AMS, carrier portals, email, and the systems an agency actually runs on Identify which parts of an agency's operation can be made system-governed without losing the judgment that has to stay with people Design the review, attribution, and override patterns that let a regulated business trust the system Carry field signal back to Engineering, Product, and Design so the platform scales rather than splinters Represent QuoteWell with customers — scope, troubleshoot, and reason about problems out loud, in their conference room Travel to customer sites ~25% of the time What we're looking for 1-5 years shipping production software (Python and/or TypeScript a plus) Strong engineering foundation — CS degree typical, talented dropouts welcome Hands-on experience with modern AI application patterns, or the aptitude and hunger to get there fast Someone we can trust in front of a customer: troubleshoot, scope, and reason out loud, in the room Genuine appetite to learn an industry deeply. Insurance is a financial supply chain puzzle, and we expect you to want to understand it Genuine hustle. The kind of person who walks into Monday with a working prototype of something they spotted on Friday Willingness to travel What you get A real production model to build on, not a slide deck. Our wholesale brokerage is the proof point — you're scaling something that already works. Direct mentorship from Joey, who built and ran applied AI at Palantir before this. A leadership trajectory. Hire #1 or #2 on Recon, with a clear path to Applied AI Lead and beyond as we scale. An industry that matters. Insurance is one of the largest financial markets in the world and one of the least systematized. These first few roles set the cultural tone for everything that comes after. If you want to understand what this role actually is, what it isn't, and what it likely means for your career — apply and reach out. Apply now Product Austin, TX Share on: Apply now Terms of se",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 36,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role, entry-level ML role",
@@ -988,32 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "All Options",
-      "role": "New Grad 2027: Quantitative Researcher",
-      "category": "Other",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-17",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/1B3",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 40,
+      "machine_rank": 37,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling; skills: Networking; new-grad: confirmed",
@@ -1038,32 +963,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 41,
+      "machine_rank": 38,
       "machine_score": 58,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
       "company_priority": "",
-      "company": "All Options",
-      "role": "Graduate Quantitative Researcher",
+      "company": "Bitdeer",
+      "role": "2027 US AI Engineering - New College Graduate",
       "category": "Other",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Quantitative",
+      "location": "San Jose, CA +1",
+      "salary": "$70,000 – $150,000",
+      "salary_max_annual": 150000,
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-11-17",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "posted_date": "2026-11-18",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
-      "url": "https://alloptions.bamboohr.com/careers/86",
+      "url": "https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 42,
+      "machine_rank": 39,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Linux, Distributed Systems, Networking; new-grad: confirmed",
@@ -1088,32 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 43,
-      "machine_score": 67,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "SambaNova",
-      "role": "New Grad: ML Infrastructure Engineer",
-      "category": "Infrastructure / Systems",
-      "location": "Austin, TX / San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-10",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/1qn",
-      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaRack SambaStack Technology RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers SambaCloud Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaRack SambaStack Technology RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers SambaCloud Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 44,
+      "machine_rank": 40,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1138,7 +1038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 41,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1163,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 42,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1188,7 +1088,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 43,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "All Options",
+      "role": "New Grad 2027: Quantitative Researcher",
+      "category": "Other",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-17",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://go.vansh.nyc/1B3",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 44,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1213,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 45,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: C++, Python, Networking",
@@ -1238,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 46,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1263,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 47,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1288,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 48,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1313,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 49,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1338,32 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "SambaNova",
-      "role": "New Grad: Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "Austin, TX / San Jose, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-10",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/1qm",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 54,
+      "machine_rank": 50,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1388,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 51,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1413,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 52,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1438,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 53,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1448,7 +1348,7 @@
       "category": "AI / Machine Learning",
       "location": "New York, NY",
       "salary": "$120 - 170K",
-      "salary_max_annual": 170000,
+      "salary_max_annual": "170000",
       "ng_confidence": "Uncertain",
       "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
@@ -1463,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 54,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1473,7 +1373,7 @@
       "category": "AI / Machine Learning",
       "location": "New York, NY",
       "salary": "$120 - 170K",
-      "salary_max_annual": 170000,
+      "salary_max_annual": "170000",
       "ng_confidence": "Uncertain",
       "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
@@ -1488,7 +1388,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 55,
+      "machine_score": 58,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
+      "company_priority": "",
+      "company": "All Options",
+      "role": "Graduate Quantitative Researcher",
+      "category": "Other",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Graduate Quantitative",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-17",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://alloptions.bamboohr.com/careers/86",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 56,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role",
@@ -1513,7 +1438,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 57,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "SambaNova",
+      "role": "New Grad: ML Infrastructure Engineer",
+      "category": "Infrastructure / Systems",
+      "location": "Austin, TX / San Jose, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-10",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://go.vansh.nyc/1qn",
+      "jd_excerpt": "Enterprise AI Career & Job Openings| SambaNova SambaNova Completes First Close of $1B Financing at $11B Valuation The First Disaggregated Inference Demo for AI Agents Is Live SambaNova & TEPCO Systems Partner to Deliver Energy-Efficient AI Infrastructure to Japan’s Power Sector Products SambaRack SambaStack Technology RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers SambaCloud Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us More results Contact Us Try It Now Start Building Contact Us Products SambaRack SambaStack Technology RDU Dataflow Solutions Neoclouds Sovereign AI AI Natives & Enterprises U.S. Public Sector Developers SambaCloud Developer Showcase Early Access Program Community Pricing Docs Resources Case Studies Blog Events Videos White Papers SambaAcademy Support Data Center Walkthrough Company About Us Team Awards & Recognition Newsroom Press Releases News Coverage Careers Contact Us Contact Us Start Building Available Positions SambaNova employs some of the greatest minds and talent in AI and machine learning. If you’d like to help lead the next generation of AI computing, we want to hear from you. SambaNova is proud to be an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. You may view SambaNova’s Pay Transparency Policy , Equal Employment Opportunity is the Law notice, and our EEO/AA Policy by clicking on their corresponding links. If you need assistance or accommodation due to a disability, you may contact us at recruiting@sambanova.ai or (650) 263-1153. Please note, this email is for accommodation requests only . We do not open attachments to this email. If you are interested in career opportunities with SambaNova, please apply directly through our careers page . Legal Legal Agreements Privacy Policy About Team Careers Awards & Recognition Contact Contact Us Subscribe Support Start Building © SambaNova, Inc. All Rights Reserved.",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 58,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 59,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1563,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 60,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1588,7 +1538,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 61,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1613,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 62,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1638,7 +1588,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 63,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "SambaNova",
+      "role": "New Grad: Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "Austin, TX / San Jose, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-10",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://go.vansh.nyc/1qm",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 64,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1663,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 65,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1688,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 66,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1713,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 67,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1738,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 68,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1763,32 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Networking; $200k+ stated ceiling",
-      "company_priority": "",
-      "company": "Clear Street",
-      "role": "DevOps Production Engineer",
-      "category": "Quantitative Finance",
-      "location": "New York City, NY",
-      "salary": "$150,000–$200,000",
-      "salary_max_annual": "200000",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-21",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8304159",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 71,
+      "machine_rank": 69,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems; role shape: early-career SWE; new-grad: confirmed",
@@ -1813,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 70,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1838,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 71,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1863,8 +1813,8 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
-      "machine_score": 68,
+      "machine_rank": 72,
+      "machine_score": 69,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
       "company_priority": "Tier B",
@@ -1888,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 73,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1913,7 +1863,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 74,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1938,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 75,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1963,7 +1913,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 76,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Old Mission",
+      "role": "Quantitative Trader – 2027 Graduate Program (February Start)",
+      "category": "Quantitative Finance",
+      "location": "United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says Campus Recruiting",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-08-23",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://talents.vaia.com/companies/old-mission/quantitative-trader-2027-graduate-program-february-start-146984897",
+      "jd_excerpt": "Quantitative Trader â 2027 Graduate Program (February Start) at Old Mission | Apply now! â Vaia â Talents Everything for your career Find a job Quantitative Trader â 2027 Graduate Program (February Start) Apply Now Job Board Companies Old Mission Quantitative Trader â 2027 Graduate Program (February Start) Quantitative Trader â 2027 Graduate Program (February Start) Full-Time On-site Apply Now O At a Glance Tasks: Join a team to trade mispriced securities and make impactful decisions. Company: Old Mission, a global trading firm with a focus on innovation and teamwork. Benefits: Competitive salary, full medical coverage, free meals, and tuition reimbursement. Other info: Fast-paced environment with opportunities for growth and learning. Why this job: Be part of a dynamic team and contribute to real-world trading strategies. Qualifications: Degree in a quantitative field and proficiency in Python or C++. Old Mission is a global proprietary trading firm that leverages stateâofâtheâart technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally curious individuals who thrive in a team environment and constantly strive for improvement. Old Mission does not seek capital from outside investors, allowing us the flexibility to aggressively invest in our team members and keep them engaged in the firmâs growth. About The Position Our traders work in teams to seek out and profitably trade mispriced securities. The junior traderâs job responsibilities will include disciplined decision making, risk management, derivative pricing, and researching new opportunities. If you are looking to be a valueâadded member to our team and have an immediate contribution in building out our business, feel free to apply today! Required Skills An undergraduate or an advanced degree in a quantitative field such as computer science, engineering, or one of the hard sciences Proficiency with at least one of the following languages: Python or C++ The ability to work and solve problems as part of a team, often in a highâpressure environment Proven trustworthiness and performance under the highest ethical standards A strong desire for knowledge and to understand how things work Superior written and verbal communication skills A strong work ethic and ability to adapt quickly in a fastâpaced environment Benefits and Perks Fully paid Medical, Dental, Vision, Disability, and Life Insurance Fully stocked kitchen; free breakfast and lunch every day onâsite Tuition Reimbursement Program 401(k) with employer match Flexible Spending Plan Commuter Benefit Program Base Salary $200,000 â Salaries are based on numerous factors such as skills, experience, and education. Our compensation package also includes a discretionary bonus and a comprehensive benefits program for fullâtime employees. Quantitative Trader â 2027 Graduate Program (February Start) employer: Old Mission Old Mission is an exceptional employer for aspiring legal professionals, offering a unique opportunity to gain hands-on experience in the financial services sector. With a commitment to fostering a collaborative work culture, interns receive regular feedback and mentorship from seasoned attorneys, ensuring meaningful professional growth. Located in a dynamic trading environment, this internship not only enhances your legal acumen but also immerses you in the complexities of corporate and regulatory practices on a global scale. O Contact Detail: Old Mission Recruiting Team View Old Mission Profile Vaia Expert Advice ð¤« We think this is how you could land Quantitative Trader â 2027 Graduate Program (February Start) â¨ Leverage Campus Recruiting Events Are you still in school or recently graduated? Keep an eye out for campus recruiting events! Many banks and financial services firms like to scout fresh talent right on campus. Attend these events to make connections and show off your enthusiasm for the industry! â¨ Join Finance-Related Communities Get involved in finance communities! Join organizations like the CFA Institute or local finance clubs. They often host workshops, networking events, and seminars that are perfect for building your network and learning from established professionals in banking. â¨ Follow Industry News and Trends Stay updated with the latest happenings in the financial world. Read financial news, subscribe to industry podcasts, and follow influential figures on social media. This not only helps in interviews but can also spark meaningful conversations with industry insiders. â¨ Apply Through Our Website! When you're ready to apply to positions like Quantitative Trader â 2027 Graduate Program (February Start) at Old Mission, make sure to submit your application directly through our website. This way, you'll stand out as a candidate who's genuinely interested in joining us in the banking a",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 77,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1988,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 78,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2007,6 +1982,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 79,
+      "machine_score": 65,
+      "machine_tier": "Consider",
+      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
+      "company_priority": "Quant",
+      "company": "Susquehanna International Group",
+      "role": "Quantitative Researcher - PhD: 2027",
+      "category": "Quantitative Finance",
+      "location": "New York, NY, United States",
+      "salary": "$300K/yr - $300K/yr",
+      "salary_max_annual": "300000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says New Grad",
+      "sponsorship": "Yes",
+      "phd_required": "Yes",
+      "posted_date": "2026-07-21",
+      "source": "GitHub:jobright-ai/2026-Data-Analysis-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6a42c124ff87fd527f9856fb",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -2243,6 +2243,31 @@
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
       "company_priority": "",
+      "company": "Aquatic Capital Management",
+      "role": "Quantitative Researcher, Early Career",
+      "category": "Other",
+      "location": "Chicago, New York",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Early Career",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-07-20",
+      "source": "GitHub:quant-scraper/Quant-Internships-New-Grad-2027:README.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 90,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
       "company": "Trexquant",
       "role": "Quantitative Researcher - Early Career - USA",
       "category": "Quantitative Finance",
@@ -2263,7 +2288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 91,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2288,7 +2313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 92,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2313,7 +2338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 93,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -2338,7 +2363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 94,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2363,7 +2388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 95,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2388,7 +2413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 96,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -2411,31 +2436,6 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 96,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Applied Intution",
-      "role": "Forward Deployed Engineer  New Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Sunnyvale, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-10",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.wayup.com/i-Technology-j-Forward-Deployed-Engineer-New-Grad-December-2026-Applied-Intution-759590041662601",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
     }
   ]
 }
