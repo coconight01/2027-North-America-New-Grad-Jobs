@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-19",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-19. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-21",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-21. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
+    {
+      "company": "Qube Research & Technologies (QRT)",
+      "role": "Early Careers role uncertain (application confirmation received 2026-11-20)",
+      "status": "Applied",
+      "applied_date": "2026-11-20",
+      "status_date": "2026-11-20",
+      "confidence": "Company-only; exact requisition uncertain",
+      "evidence": "Yuhan explicitly confirmed a QRT submission, and QRT Early Careers sent an official Greenhouse confirmation on 2026-11-20. The message names no role, requisition, office, or graduate/intern track, so it cannot be mapped to Software Engineer and Quantitative Developer (8617401002), Quantitative Research and Trading (8581570002), or another QRT role.",
+      "next_action": "Suppress the two currently relevant QRT Hong Kong/Singapore graduate requisitions from Apply Now until the candidate portal or a later exact-role email identifies the submitted role. Preserve company-level uncertainty."
+    },
+    {
+      "company": "River AI",
+      "role": "Software Engineer, Distributed Training (4402494009)",
+      "status": "Applied",
+      "applied_date": "2026-11-20",
+      "status_date": "2026-11-20",
+      "confidence": "Exact; user-confirmed",
+      "evidence": "Yuhan explicitly confirmed on 2026-11-20 that she submitted the River AI Software Engineer, Distributed Training role, exact requisition 4402494009.",
+      "next_action": "Wait for confirmation or assessment and suppress exact requisition 4402494009 from actionable recommendations. Keep the separate River AI Inference Systems application independent."
+    },
     {
       "company": "River AI",
       "role": "Software Engineer, Inference Systems (4402451009)",
@@ -1160,12 +1180,12 @@
     {
       "company": "NVIDIA",
       "role": "High-Performance LLM Training Engineer - New College Grad 2027 (JR2028237)",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": "2026-10-26",
-      "status_date": "2026-11-12",
+      "status_date": "2026-11-20",
       "confidence": "Exact",
-      "evidence": "NVIDIA HR advanced the exact High-Performance LLM Training Engineer - New College Grad 2027 requisition JR2028237 and scheduled the interview for 2026-11-13 at 9:15 AM Pacific / 11:15 AM Central. The interview date has passed, and no exact outcome email was found through November 14.",
-      "next_action": "Wait for an exact NVIDIA outcome; preserve Interview until evidence supports Interview, Rejected or Offer status change."
+      "evidence": "NVIDIA HR sent an exact-role rejection on 2026-11-20 after the interview, naming JR2028237 High-Performance LLM Training Engineer - New College Grad 2027. The message explicitly says the decision addresses only JR2028237 and does not represent the status of other NVIDIA applications.",
+      "next_action": "Close only JR2028237. Preserve every other NVIDIA requisition independently and do not infer a company-wide rejection."
     },
     {
       "company": "SambaNova Systems",
