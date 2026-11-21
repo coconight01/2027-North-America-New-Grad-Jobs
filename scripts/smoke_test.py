@@ -157,6 +157,32 @@ def test_application_dedupe() -> str:
     }
     assert build_review_queue([requisition_variant], profile, requisition_tracker) == []
 
+    micron = base_job("New College Grad - AI Innovation Research Engineer (JR108594)", "AI / Machine Learning")
+    micron.update({"company": "Micron", "personalized_score": 100})
+    micron_tracker = {
+        "applications": [{
+            "company": "Micron Technology",
+            "role": "New College Grad - AI Innovation Research Engineer",
+            "status": "Applied",
+            "confidence": "Exact",
+        }]
+    }
+    assert build_review_queue([micron], profile, micron_tracker) == []
+
+    qrt = base_job("2027 Graduate Software Engineer and Quantitative Developer")
+    qrt.update({"company": "Qube Research & Technologies", "personalized_score": 100})
+    qrt_tracker = {
+        "applications": [{
+            "company": "Qube Research & Technologies (QRT)",
+            "role": "Early Careers role uncertain",
+            "status": "Applied",
+            "confidence": "Company-only; exact requisition uncertain",
+        }]
+    }
+    qrt_queue = build_review_queue([qrt], profile, qrt_tracker)
+    assert len(qrt_queue) == 1, qrt_queue
+    assert qrt_queue[0]["application_match"] == "Company-only possible", qrt_queue[0]
+
     possible = base_job("Machine Learning Infrastructure Engineer")
     possible["company"] = "MaybeCo"
     possible["personalized_score"] = 100
@@ -327,10 +353,11 @@ def test_tracker_overlay_coverage() -> str:
         item for item in tracker.get("applications", [])
         if item.get("company") == "NVIDIA" and "JR2028237" in item.get("role", "")
     )
-    assert nvidia_llm.get("status") == "Interview", nvidia_llm
-    assert nvidia_llm.get("status_date") == "2026-11-12", nvidia_llm
+    assert nvidia_llm.get("status") == "Rejected", nvidia_llm
+    assert nvidia_llm.get("status_date") == "2026-11-20", nvidia_llm
     assert "High-Performance LLM Training Engineer" in nvidia_llm.get("evidence", ""), nvidia_llm
-    assert "2026-11-13 at 9:15 AM Pacific" in nvidia_llm.get("evidence", ""), nvidia_llm
+    assert "only JR2028237" in nvidia_llm.get("next_action", ""), nvidia_llm
+    assert "other NVIDIA applications" in nvidia_llm.get("evidence", ""), nvidia_llm
     assert nvidia_llm.get("confidence") == "Exact", nvidia_llm
     goaly = next(
         item for item in tracker.get("applications", [])

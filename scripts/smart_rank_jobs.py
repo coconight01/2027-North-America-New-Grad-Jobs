@@ -115,6 +115,10 @@ def company_group(value: object) -> str:
         return "sig"
     if company in {"citadel", "citadel securities", "citadel / citadel securities"}:
         return "citadel"
+    if company in {"micron", "micron technology"}:
+        return "micron"
+    if company in {"qube research technologies", "qube research technologies qrt", "qrt"}:
+        return "qrt"
     return company
 
 
@@ -178,7 +182,12 @@ def tracker_blocks(tracker: dict) -> tuple[set[str], set[str], set[str]]:
             or ("additional" in note and "on hold" in note)
         ):
             hold_groups.add(company)
-        if "exact" in confidence and company and role:
+        exact_confidence = (
+            confidence.startswith("exact")
+            or "user-confirmed exact" in confidence
+            or "exact role" in confidence
+        )
+        if exact_confidence and company and role:
             exact.add(company + "|" + role)
         elif company:
             possible_company.add(company)
