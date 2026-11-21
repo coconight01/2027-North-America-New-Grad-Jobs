@@ -29131,8 +29131,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a701a44f5953013637f727f": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -29142,7 +29142,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "256000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
@@ -29782,8 +29782,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a706e6ed4735b7dbbcce670": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -29793,7 +29793,7 @@
     "salary_min_annual": "123000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
@@ -30374,8 +30374,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a71a5dcee751e0c793446ad": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -30385,7 +30385,7 @@
     "salary_min_annual": "128000",
     "salary_max_annual": "317000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
@@ -36114,7 +36114,7 @@
     "salary_max_annual": 65000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-24",
+    "checked_at": "2026-11-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a8f5176a10ee661e24d7af8": {
@@ -43026,7 +43026,7 @@
     "salary_max_annual": 65000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-24",
+    "checked_at": "2026-11-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aa549f5654b2a9424cf3b8c": {
@@ -44157,12 +44157,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$80K/yr - $82K/yr",
-    "salary_min_annual": 80000,
-    "salary_max_annual": 82000,
+    "salary": "$87K/yr - $88K/yr",
+    "salary_min_annual": 87000,
+    "salary_max_annual": 88000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-22",
+    "checked_at": "2026-11-21",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aaaf9354be87a72913a26d2": {
@@ -80641,6 +80641,22 @@
     "checked_at": "2026-11-14",
     "parser_version": 4
   },
+  "https://www.amazon.jobs/en/jobs/10602707/robotics-sde-safe-autonomy-compass": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-21",
+    "parser_version": 4
+  },
   "https://www.amazon.jobs/en/jobs/10604970/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -93227,6 +93243,22 @@
     "checked_at": "2026-11-16",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/oracle-wsp-99799?s=gh-canada-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "2027 reference found, but new-grad eligibility is not explicit",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-21",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/phenom-bae-systems-130781BR?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -93246,6 +93278,22 @@
   "https://zapply.jobs/l/d/phenom-bae-systems-132559BR?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-21",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/phenom-kohl-s-R508782?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -97772,8 +97820,8 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-new-grad-software-engineering-jobs-2027": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry-Level",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -97783,8 +97831,8 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "source_fetched": false,
-    "checked_at": "2026-10-31",
+    "source_fetched": true,
+    "checked_at": "2026-11-21",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023496?s=gh-new-grad-jobs-2027": {
