@@ -391,6 +391,32 @@ def test_tracker_overlay_coverage() -> str:
     assert jane.get("status") == "Rejected", jane
     assert jane.get("status_date") == "2026-11-02", jane
     assert jane.get("confidence") == "Company-only", jane
+    minimax = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "MiniMax"
+        and item.get("role") == "机器学习系统研发工程师-2027届"
+    )
+    assert minimax.get("status") == "Rejected", minimax
+    assert "user-confirmed outcome" in minimax.get("confidence", ""), minimax
+    optiver = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Optiver"
+        and item.get("role") == "Graduate Software Engineer (2027 Start)"
+    )
+    assert optiver.get("status") == "Rejected", optiver
+    assert optiver.get("status_date") == "2026-08-14", optiver
+    marshall = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Marshall Wace"
+        and "New York" in item.get("role", "")
+    )
+    assert "one application across role and location" in marshall.get("next_action", ""), marshall
+    hrt = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Hudson River Trading"
+        and item.get("role") == "Software Engineer"
+    )
+    assert "does not allow multiple applications" in hrt.get("next_action", ""), hrt
     return "email/user overlays persist exact outcomes, company-only uncertainty, closures, and duplicate-repost guards"
 
 
