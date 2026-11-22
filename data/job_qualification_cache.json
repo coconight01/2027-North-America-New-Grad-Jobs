@@ -31714,7 +31714,7 @@
     "salary_max_annual": 150000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-10-31",
+    "checked_at": "2026-11-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a764b8367a1ad0bc53c9c3c": {
@@ -36530,7 +36530,7 @@
     "salary_max_annual": 223000,
     "reject_reason": "non-entry title/level: Manager",
     "source_fetched": true,
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a920d74d18f75674827b3af": {
@@ -44802,7 +44802,7 @@
     "salary_max_annual": 80000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-09-18",
+    "checked_at": "2026-11-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6aac6b993e3ce93970c7d737": {
@@ -48246,8 +48246,8 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab8f3543a2ec87116e28072": {
-    "ng_confidence": "Likely",
-    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -48257,7 +48257,7 @@
     "salary_min_annual": "218000",
     "salary_max_annual": "388000",
     "reject_reason": "",
-    "source_fetched": false,
+    "source_fetched": true,
     "checked_at": "2026-11-22",
     "parser_version": 4
   },
@@ -54162,7 +54162,7 @@
     "salary_max_annual": 91000,
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
-    "checked_at": "2026-10-30",
+    "checked_at": "2026-11-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6adf9a12c5c64fa3d9cbd6cf": {
@@ -56515,6 +56515,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-11-19",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6af2d767a1970b92dc7be393": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$60K/yr - $80K/yr",
+    "salary_min_annual": 60000,
+    "salary_max_annual": 80000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-11-22",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6af33d3af6053e296fc7a5ce": {
