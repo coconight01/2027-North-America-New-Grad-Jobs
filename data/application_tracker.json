@@ -285,12 +285,12 @@
     {
       "company": "MiniMax",
       "role": "机器学习系统研发工程师-2027届",
-      "status": "Interview",
+      "status": "Rejected",
       "applied_date": null,
-      "status_date": "2026-08-24",
-      "confidence": "Exact",
-      "evidence": "Official MiniMax interview invitation named the exact 2027 ML systems role; a post-interview satisfaction questionnaire received on 2026-08-24 confirms the interview was attended.",
-      "next_action": "Interview completed; wait for recruiting outcome."
+      "status_date": "2026-11-22",
+      "confidence": "Exact role + user-confirmed outcome",
+      "evidence": "Official MiniMax interview invitation named the exact 2027 ML systems role; a post-interview satisfaction questionnaire confirms the interview was attended. Yuhan explicitly confirmed on 2026-11-22 that this process ended in rejection.",
+      "next_action": "Closed; do not recommend this exact MiniMax requisition again."
     },
     {
       "company": "Applied Intuition",
@@ -383,7 +383,7 @@
       "status_date": "2026-08-16",
       "confidence": "Exact",
       "evidence": "Greenhouse rejection names the exact Software/Infrastructure Graduate - 2027 - New York role and says the application will not move forward",
-      "next_action": "Closed"
+      "next_action": "Closed. The 2027 graduate program permits only one application across role and location, so suppress the Hong Kong and Singapore variants for this recruiting cycle."
     },
     {
       "company": "ByteDance",
@@ -528,12 +528,12 @@
     {
       "company": "Optiver",
       "role": "Graduate Software Engineer (2027 Start)",
-      "status": "OA",
+      "status": "Rejected",
       "applied_date": "2026-08-08",
-      "status_date": "2026-08-11",
+      "status_date": "2026-08-14",
       "confidence": "Exact",
-      "evidence": "Application received + assessment invitation + Optiver confirmation that all assessments were completed",
-      "next_action": "Assessments completed; wait for review"
+      "evidence": "Official Optiver email names Graduate Software Engineer (2027 Start) and says that after the completed assessment the application will not proceed.",
+      "next_action": "Closed; suppress this exact 2027 GSE requisition."
     },
     {
       "company": "Maven Securities",
@@ -613,7 +613,7 @@
       "status_date": "2026-08-27",
       "confidence": "Exact",
       "evidence": "Official HRT rejection email on 2026-08-27 names the Software Engineer position and says the application will not proceed.",
-      "next_action": "Closed. HRT says this role has an application cooldown until the next recruiting cycle begins next fall."
+      "next_action": "Closed. HRT says it does not allow multiple applications and considers one application across available positions; the Software Engineer rejection also carries a cooldown until the next recruiting cycle begins next fall. Suppress all current HRT 2027 variants."
     },
     {
       "company": "Amira Learning",
