@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -27,11 +27,11 @@
       "fill": 0
     },
     "priority_company_candidates": 475,
-    "new_job_candidates": 196,
+    "new_job_candidates": 165,
     "high_potential_title_candidates": 507
   },
   "veto_counts": {
-    "non-full-time program title": 18,
+    "non-full-time program title": 17,
     "pure hardware role": 1,
     "explicit 2026-only title": 4
   },
@@ -439,6 +439,31 @@
     },
     {
       "machine_rank": 17,
+      "machine_score": 87,
+      "machine_tier": "Top",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Mercury",
+      "role": "AI Engineer I",
+      "category": "AI / Machine Learning",
+      "location": "California, United States",
+      "salary": "$83,670.00 to $161,815.00",
+      "salary_max_annual": 161815,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/7485/job?in_iframe=1",
+      "jd_excerpt": "AI Engineer I in California | Careers at Remote-CA Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Current Team Member? Please apply via our internal job portal: employees-mercuryinsurance.icims.com Returning Candidates Login AI Engineer I Location US-CA- ID 2026-7485 # of Openings 1 Job Family Data Position Type Remote Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for 2026! Position Summary : We're hiring an Artificial Intelligence (AI) Engineer I to help build and maintain our metric intelligence platform: the agents, skills, and backend services that turn governed business metrics into automated analysis for teams across the company. This position is part of the Enterprise Data Services Division--we own the company's metric definitions, the semantic layer that serves them, and an AI-powered analytics platform built on top. Metric logic lives in version-controlled code; agents and applications read from it rather than reinventing it. This is an engineering role, not a prompt-writing role. Most of the platform's skills are deterministic Python, with AI agents orchestrating them. You'll spend more time making things correct, tested, and reliable than making them clever. Geo-Salary Information An in-person interview may be required during the hiring process State specific pay scales for this role are as follows: $83,670.00 to $161,815.00 (NJ, NY, WA, HI, AK, MD, CT, RI, MA) $76,064 to $147,104 (NV, OR, AZ, CO, WY, TX, ND, MN, MO, IL, WI, FL, GA, MI, OH, VA, PA, DE, VT, NH, ME) $68,457 to $132,394 (UT, ID, MT, NM, SD, NE, KS, OK, IA, AR, LA, MS, AL, TN, KY, IN, SC, NC, WV) In CA: Typical hiring range is $98,194 - $153,428 The expected base salary for this position will vary depending on a number of factors, including relevant experience, skills and location. Responsibilities Essential Job Functions: Agents and skills management Build, test, and maintain the Python skills and AI agents that run on the platform. Keep a clean skills catalog: versioning, documentation, ownership, and retiring skills that are no longer used. Build evaluation and regression checks (test sets, validators, output-format rules) so agent quality is consistent from run to run. Monitor agent usage, cost, and failures, and fix the root cause rather than the symptom. Platform backend maintenance Maintain the platform's agent runtime, built on a TypeScript agent framework (Mastra): agent workflows, tool definitions, memory, and model configuration. Maintain MCP (Model Context Protocol) servers and connectors that link agents to the warehouse, semantic layer, BI tools, and other company systems. Keep the platform's API services, scheduled jobs, and data pipelines healthy; handle framework, SDK, and model version upgrades. Triage and resolve failed jobs, broken connectors, data-quality alerts, and user-reported issues. Improve CI/CD, logging, and monitoring so problems surface before users find them. Write runbooks so any teammate can operate the platform. Data foundation (working knowledge) Understand how the gold data layer and semantic models feed the platform, and make small, reviewed changes to them. Work with the metric tree, the map of how business metrics drive each other, to connect new metrics and their relationships to the platform. Trace a number from the platform back to its source data when something looks wrong. Qualifications Education: Minimum Bachelor’s degree in a relevant quantitative, technical, engineering, or business-related field, or equivalent combination of education and experience. Preferred Masters Degree in a quantitative field CS, engineering, math, or stats degree preferred Experience: Minimum Typically requires 2 years of relevant experience in AI native analytics Preferred Experience with native AI implementations in Insurance industry Knowledge and Skills: Programming Python: writes, tests, and debugs modular code independently. Deterministic Python TypeScript/JavaScript: can read and change an existing backend codebase. Mastra is TS-based, so this is required. SQL: joins, aggregations, and window functions against a warehouse; can sanity-check a metric's output. LLM and agent fundamentals Has built at least one working LLM application end to end, such as a tool-calling agent, a RAG app, or an MCP server. A shipped side project counts. Understands prompts versus tools versus retrieval, context limits, and why agent output is nondeterministic. Has an instinct for evaluation: tests agent output against expected answers instead of eyeballing it. Engineering hygiene Daily use of Git and GitHub: branches, PRs, code review Works with REST or JSON APIs and reads API documentation without direct supervision Data and domain basics (concepts only) Understands w",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 18,
       "machine_score": 85,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -463,7 +488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 18,
+      "machine_rank": 19,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -488,7 +513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 20,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -513,7 +538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -538,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 22,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Networking; role shape: systems/performance role",
@@ -563,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 23,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -588,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 24,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -611,31 +636,6 @@
       "application_match": "Company-only possible",
       "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
       "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 24,
-      "machine_score": 75,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
-      "company_priority": "",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "role": "2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation",
-      "category": "Infrastructure / Systems",
-      "location": "Laurel, Maryland, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "http://careers.jhuapl.edu/jobs/60057",
-      "jd_excerpt": "2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation in Laurel, Maryland | Johns Hopkins Applied Physics Laboratory 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation in Laurel, Maryland | Johns Hopkins Applied Physics Laboratory Skip to Main Content Toggle navigation Careers Home Areas of Interest Engineering AI, ML & DS Cyber Science Research & Analysis Doctoral Level Management Business, Operations & IT New Graduates Internships Log In All Job Listings Contact Us Main Campus 11100 Johns Hopkins Road, Laurel, Maryland 20723-6099 Phone: 240-228-5000 Directions to All APL Campuses Glassdoor PRIVACY NOTICE / LEGAL DISCLAIMER Contact US Remote Access © THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC. ALL RIGHTS RESERVED. Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous. Learn more about your rights on our Privacy Policy page. Okay x",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 25,
@@ -766,6 +766,31 @@
       "machine_rank": 30,
       "machine_score": 75,
       "machine_tier": "Strong",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
+      "company_priority": "",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation",
+      "category": "Infrastructure / Systems",
+      "location": "Laurel, Maryland, United States",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Likely",
+      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "http://careers.jhuapl.edu/jobs/60057",
+      "jd_excerpt": "2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation in Laurel, Maryland | Johns Hopkins Applied Physics Laboratory 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation in Laurel, Maryland | Johns Hopkins Applied Physics Laboratory Skip to Main Content Toggle navigation Careers Home Areas of Interest Engineering AI, ML & DS Cyber Science Research & Analysis Doctoral Level Management Business, Operations & IT New Graduates Internships Log In All Job Listings Contact Us Main Campus 11100 Johns Hopkins Road, Laurel, Maryland 20723-6099 Phone: 240-228-5000 Directions to All APL Campuses Glassdoor PRIVACY NOTICE / LEGAL DISCLAIMER Contact US Remote Access © THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC. ALL RIGHTS RESERVED. Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous. Learn more about your rights on our Privacy Policy page. Okay x",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 31,
+      "machine_score": 75,
+      "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
       "company_priority": "",
       "company": "Akuna Capital",
@@ -788,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 32,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -813,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 33,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -838,7 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 34,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: Python, Distributed Systems, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -863,7 +888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 35,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -888,7 +913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 36,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Linux, Distributed Systems, Networking; new-grad: confirmed",
@@ -911,31 +936,6 @@
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 36,
-      "machine_score": 66,
-      "machine_tier": "Consider",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Nuro",
-      "role": "Systems Engineering, New Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Mountain View, California (HQ)",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-12",
-      "source": "Greenhouse:nuro",
-      "official_source": true,
-      "url": "https://nuro.ai/careersitem?gh_jid=8360415",
-      "jd_excerpt": "Work at Nuro | Nuro Technology Solutions Company Safety Careers Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Nuro Lucid Uber Robotaxi Contact First Responders Follow LinkedIn X Instagram YouTube Facebook October 15, 2026 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion June 17, 2026 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027 May 19, 2026 Nuro Appoints Mike Mancini as Chief Financial Officer Page 1 of 3 01 Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Nuro Lucid Uber Robotaxi Contact First Responders Follow LinkedIn X Instagram YouTube Facebook October 15, 2026 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion June 17, 2026 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027 May 19, 2026 Nuro Appoints Mike Mancini as Chief Financial Officer Page 1 of 3 01 Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Contact First Responders Nuro Lucid Uber Robotaxi Follow LinkedIn X Instagram YouTube Facebook Stay connected Submit By clicking submit, you acknowledge that you have read and agree to the Nuro Privacy Policy. Privacy Policy • Terms of Use • Legal © 2026 Nuro, Inc.",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
     },
     {
       "machine_rank": 37,
@@ -1164,31 +1164,6 @@
     },
     {
       "machine_rank": 46,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "Booz Allen Hamilton",
-      "role": "Agentic AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "USA, VA, Arlington (1550 Crystal Dr Suite 300) non-client / Arlington, VA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-12",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/arlington-va/agentic-ai-engineer_r0253281",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 47,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1213,7 +1188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 47,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1238,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 48,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1263,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 49,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1288,32 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
-      "machine_score": 58,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "Empire State Realty Trust",
-      "role": "Applied AI Engineer",
-      "category": "AI / Machine Learning",
-      "location": "New York, New York, United States",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-12",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 52,
+      "machine_rank": 50,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1338,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 51,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1363,32 +1313,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
-      "machine_score": 67,
+      "machine_rank": 52,
+      "machine_score": 66,
       "machine_tier": "Consider",
-      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
       "company_priority": "",
-      "company": "GlobalFoundries",
-      "role": "AI/ML Systems Engineer New Grad",
+      "company": "Nuro",
+      "role": "Systems Engineering, New Grad 2027",
       "category": "Infrastructure / Systems",
-      "location": "Richardson, TX / USA - Texas - Richardson",
+      "location": "Mountain View, California (HQ)",
       "salary": "Not listed",
       "salary_max_annual": "",
       "ng_confidence": "Confirmed",
       "ng_evidence": "title says New Grad",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
+      "posted_date": "2026-11-12",
+      "source": "Greenhouse:nuro",
+      "official_source": true,
+      "url": "https://nuro.ai/careersitem?gh_jid=8360415",
+      "jd_excerpt": "Work at Nuro | Nuro Technology Solutions Company Safety Careers Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Nuro Lucid Uber Robotaxi Contact First Responders Follow LinkedIn X Instagram YouTube Facebook October 15, 2026 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion June 17, 2026 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027 May 19, 2026 Nuro Appoints Mike Mancini as Chief Financial Officer Page 1 of 3 01 Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Nuro Lucid Uber Robotaxi Contact First Responders Follow LinkedIn X Instagram YouTube Facebook October 15, 2026 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion June 17, 2026 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027 May 19, 2026 Nuro Appoints Mike Mancini as Chief Financial Officer Page 1 of 3 01 Technology Nuro Driver Nuro Toolkit Solutions Company Careers Safety Press Blog Contact First Responders Nuro Lucid Uber Robotaxi Follow LinkedIn X Instagram YouTube Facebook Stay connected Submit By clicking submit, you acknowledge that you have read and agree to the Nuro Privacy Policy. Privacy Policy • Terms of Use • Legal © 2026 Nuro, Inc.",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 53,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1413,32 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
-      "machine_score": 64,
-      "machine_tier": "Consider",
-      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "SambaNova Systems",
-      "role": "AI Performance Engineer New Grad",
-      "category": "Other",
-      "location": "Austin, TX +3",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://sambanova.ai/sambanova-available-positions?gh_jid=6224936004",
-      "jd_excerpt": "",
-      "application_match": "Company-only possible",
-      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
-      "review_status": "Needs semantic review + application check"
-    },
-    {
-      "machine_rank": 57,
+      "machine_rank": 54,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1463,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 55,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: C++, Python, Networking",
@@ -1488,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 56,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1513,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 58,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1563,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 59,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1588,132 +1513,57 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Adobe",
-      "role": "Machine Learning Engineer New Grad",
-      "category": "AI / Machine Learning",
-      "location": "Seattle, WA +6",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 64,
-      "machine_score": 61,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Quora",
-      "role": "Machine Learning Engineer New Grad",
-      "category": "AI / Machine Learning",
-      "location": "Remote in USA +3",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 65,
+      "machine_rank": 60,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
       "company_priority": "",
-      "company": "American Express",
-      "role": "Agentic AI Engineer - Core Platforms",
+      "company": "Booz Allen Hamilton",
+      "role": "Agentic AI Engineer",
       "category": "AI / Machine Learning",
-      "location": "New York, NY, United States",
+      "location": "USA, VA, Arlington (1550 Crystal Dr Suite 300) non-client / Arlington, VA",
       "salary": "Not listed",
       "salary_max_annual": "",
       "ng_confidence": "Uncertain",
       "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-10-23",
+      "posted_date": "2026-11-12",
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015091",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/arlington-va/agentic-ai-engineer_r0253281",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
-      "machine_score": 60,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "Qualcomm",
-      "role": "#Machine Learning Engineer – Agentic AI",
-      "category": "AI / Machine Learning",
-      "location": "San Diego, California, United States of America",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-23",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://careers.qualcomm.com/careers/job/446721159438",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 67,
+      "machine_rank": 61,
       "machine_score": 58,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
+      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role",
       "company_priority": "",
-      "company": "BlackEdge Capital",
-      "role": "Graduate Quantitative Researcher",
-      "category": "Other",
-      "location": "Chicago, IL",
+      "company": "Empire State Realty Trust",
+      "role": "Applied AI Engineer",
+      "category": "AI / Machine Learning",
+      "location": "New York, New York, United States",
       "salary": "Not listed",
       "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says Graduate Quantitative",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-10-23",
+      "posted_date": "2026-11-12",
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
-      "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005",
+      "url": "https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 62,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1738,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 63,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1763,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 64,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1788,7 +1638,32 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 65,
+      "machine_score": 67,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "GlobalFoundries",
+      "role": "AI/ML Systems Engineer New Grad",
+      "category": "Infrastructure / Systems",
+      "location": "Richardson, TX / USA - Texas - Richardson",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 66,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1813,7 +1688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 67,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1838,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 68,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1863,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 69,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1888,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 70,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1913,7 +1788,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 71,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "SambaNova Systems",
+      "role": "AI Performance Engineer New Grad",
+      "category": "Other",
+      "location": "Austin, TX +3",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://sambanova.ai/sambanova-available-positions?gh_jid=6224936004",
+      "jd_excerpt": "",
+      "application_match": "Company-only possible",
+      "application_note": "⚠ Possible prior application at this company; verify the applicant portal before applying.",
+      "review_status": "Needs semantic review + application check"
+    },
+    {
+      "machine_rank": 72,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1938,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 73,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1963,7 +1863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 74,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1988,7 +1888,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 75,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -2013,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 76,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -2038,7 +1938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 77,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: C++, Python, Linux; role shape: entry-level ML role",
@@ -2063,7 +1963,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 78,
+      "machine_score": 64,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Python, Linux, Distributed Systems, Networking",
+      "company_priority": "",
+      "company": "National Information Solutions Cooperative",
+      "role": "Cloud Networking & Infrastructure Developer",
+      "category": "Infrastructure / Systems",
+      "location": "Atlanta, GA +3",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-05",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8180806",
+      "jd_excerpt": "Jobs at NISC Current openings at NISC Create a Job Alert Level-up your career by having opportunities at NISC sent directly to your inbox. Create alert Search 17 jobs Engineering & Design Job Database Conversion (ETL) Programmer Mandan, ND or Lake Saint Louis, MO Quality Specialist Any NISC Location Quality Specialist Any NISC Location Internships Job Intern - Database Conversion Programming Lake Saint Louis, MO Intern - Database Conversion Programming Mandan, ND Intern - Platform Development (Systems Engineering) Lake Saint Louis, MO Intern - Platform Development (Systems Engineering) Mandan, ND Intern - Quality Engineer Lake Saint Louis, MO Intern - Quality Engineer Mandan, ND Intern - Software Development Cedar Rapids, IA Intern - Software Development Lake Saint Louis, MO Intern - Software Development Mandan, ND Intern - Technical (IT) Services Lake Saint Louis, MO Intern - Technical (IT) Services Mandan, ND Intern - Technical (IT) Services Cedar Rapids, IA Professional Services Job Implementation Project Manager - Communications Customer Care & Billing Software Any NISC Location Implementation Project Manager - Communications Customer Care & Billing Software Any NISC Location Powered by Greenhouse",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 79,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -2088,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 80,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; PhD requirement penalty; $200k+ stated ceiling",
@@ -2113,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 81,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -2138,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 82,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2163,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 83,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -2188,7 +2113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 84,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -2213,7 +2138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 85,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2238,7 +2163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 86,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2263,7 +2188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 87,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -2288,7 +2213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 88,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2313,7 +2238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 89,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2338,7 +2263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 90,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2363,7 +2288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 91,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -2388,7 +2313,57 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 92,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Adobe",
+      "role": "Machine Learning Engineer New Grad",
+      "category": "AI / Machine Learning",
+      "location": "Seattle, WA +6",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 93,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Quora",
+      "role": "Machine Learning Engineer New Grad",
+      "category": "AI / Machine Learning",
+      "location": "Remote in USA +3",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 94,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -2413,7 +2388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 95,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -2432,6 +2407,31 @@
       "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
       "official_source": false,
       "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Klaviyo",
+      "role": "AI Engineer I",
+      "category": "AI / Machine Learning",
+      "location": "Boston, MA",
+      "salary": "$104,000 - $156,000",
+      "salary_max_annual": "156000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Engineer I",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-09-24",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",

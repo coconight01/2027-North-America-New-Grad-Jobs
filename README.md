@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-22** · Open roles: **3769**
+> Last automated update: **2026-11-23** · Open roles: **3756**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,12 +18,12 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 256 |
+| **Big Tech & Frontier AI** | 255 |
 | **AI Infra / Systems** | 22 |
 | **Quant / HFT** | 120 |
 | **Other high-value tech** | 37 |
-| **ByteDance / TikTok** (separate) | 525 |
-| Other companies | 2809 |
+| **ByteDance / TikTok** (separate) | 529 |
+| Other companies | 2793 |
 
 ### Big Tech & Frontier AI
 
@@ -35,7 +35,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-22 | **Apple** | [AR/VR Software Engineer - Spatial System UI - Vision Products Software](https://jobs.apple.com/en-us/details/200696147-3956) | $153k/yr | Sunnyvale, CA | ❔ | ❔ Review | — |
 | 2026-11-21 | **Apple** | [Engineer, Evolve - an Apple Services Rotation Program / Engineering New Grads](https://jobs.apple.com/en-us/details/200695965-0836/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | Not listed | Cupertino | ❔ | ❔ Review | — |
 | 2026-11-16 | **Microsoft** | [Applied Sciences](https://go.vansh.nyc/1A4) | Not listed | Remote | ❔ | ❔ Review | — |
-| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
+| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Google** | [Software Engineer, Geo, Computer Vision](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
 | 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Not listed | Seattle, WA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-28 | **Anthropic** | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | $350,000–$500,000/year | San Francisco, CA / New York City, NY | ❔ | ❔ Review | — |
@@ -119,7 +119,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 ## ByteDance / TikTok
 
-<details><summary><b>525 active roles</b> — collapsed so one company does not dominate the README</summary>
+<details><summary><b>529 active roles</b> — collapsed so one company does not dominate the README</summary>
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
@@ -136,13 +136,13 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-12 | **TikTok Inc.** | [AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start / TikTok Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11397182) | Not listed | San Jose, CA | ❔ | ❔ Review | — |
 | 2026-11-11 | **TikTok** | [Backend Software Engineer - Offense & Defense - PDPO](https://lifeattiktok.com/search/7670384219637664053) | $202k/yr | San Jose, CA | ❔ | ❔ Review | — |
 
-_Showing 12 of 525 active roles. Use the Job Radar for all roles._
+_Showing 12 of 529 active roles. Use the Job Radar for all roles._
 
 </details>
 
 ## All roles
 
-The repository currently keeps **3769 active roles**. Featured groups account for **435** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3756 active roles**. Featured groups account for **434** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 
