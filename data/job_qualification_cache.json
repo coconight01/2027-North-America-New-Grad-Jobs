@@ -11793,6 +11793,22 @@
     "checked_at": "2026-11-24",
     "parser_version": 4
   },
+  "https://careers.jhuapl.edu/jobs/59691?lang=en-us": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
   "https://careers.jhuapl.edu/jobs/59967?icims=1": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -37446,19 +37462,19 @@
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a95e9e0cabc9f6703e1af24": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "no explicit new-grad language; retained for review",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Recent Grad",
     "experience_requirement": "",
-    "citizenship_required": "Yes",
-    "sponsorship": "No",
-    "visa_evidence": "No H1B",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
     "phd_required": "No",
-    "salary": "$80K/yr - $126K/yr",
-    "salary_min_annual": 80000,
-    "salary_max_annual": 126000,
-    "reject_reason": "citizenship/security-clearance requirement",
-    "source_fetched": true,
-    "checked_at": "2026-11-04",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a95f451f28891320e85f4a9": {
@@ -47874,7 +47890,7 @@
     "salary_max_annual": 202250,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-11-15",
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba": {
@@ -50109,12 +50125,12 @@
     "sponsorship": "Unknown",
     "visa_evidence": "",
     "phd_required": "No",
-    "salary": "Not listed",
-    "salary_min_annual": "",
-    "salary_max_annual": "",
+    "salary": "$146K/yr - $196K/yr",
+    "salary_min_annual": 146000,
+    "salary_max_annual": 196000,
     "reject_reason": "",
     "source_fetched": true,
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32": {
@@ -50962,7 +50978,7 @@
     "salary_max_annual": 162000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ac3e26c0e027c0f3b3a802a": {
@@ -58869,6 +58885,22 @@
     "checked_at": "2026-11-24",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6b05cba52835ccc63ff54e72": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$80K/yr - $80K/yr",
+    "salary_min_annual": 80000,
+    "salary_max_annual": 80000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6b05db3b63d280053ef859aa": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says New Grad",
@@ -59105,6 +59137,22 @@
     "salary_min_annual": 75000,
     "salary_max_annual": 83000,
     "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6b07115db624dcc57de7719a": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$29.57/hr - $43.99/hr",
+    "salary_min_annual": 61506,
+    "salary_max_annual": 91499,
+    "reject_reason": "no sponsorship",
     "source_fetched": true,
     "checked_at": "2026-11-25",
     "parser_version": 4
@@ -68165,6 +68213,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-21",
+    "parser_version": 4
+  },
+  "https://jobs.smartrecruiters.com/AbbVie/3743990017066596": {
+    "ng_confidence": "Likely",
+    "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+    "experience_requirement": "2 years of experience",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "USD 65500 - USD 125500",
+    "salary_min_annual": 65500,
+    "salary_max_annual": 125500,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://jobs.smartrecruiters.com/CRB/744000151124346-control-systems-developer-i?oga=true": {
@@ -93323,6 +93387,22 @@
     "checked_at": "2026-11-23",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/gem-nominal-am9icG9zdDoFP5uU7jgZ2aBuEwXN2-Vd?s=gh-new-grad-software-engineering-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpgt_L0hB_S2rbd-acejJJS?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -95083,6 +95163,22 @@
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
+  "https://zapply.jobs/l/d/phenom-bae-systems-128864BR?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
   "https://zapply.jobs/l/d/phenom-bae-systems-130781BR?s=gh-new-grad-jobs-2027": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "posting says Entry-Level",
@@ -95993,6 +96089,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-22",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-adobe-external-experienced-R173040?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Not NG",
+    "ng_evidence": "outside target technical roles: Account Executive",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "outside target technical roles: Account Executive",
+    "source_fetched": true,
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-adobe-external-experienced-R173280?s=gh-new-grad-software-engineering-jobs-2027": {
@@ -96920,6 +97032,22 @@
     "salary_max_annual": "",
     "reject_reason": "",
     "source_fetched": true,
+    "checked_at": "2026-11-25",
+    "parser_version": 4
+  },
+  "https://zapply.jobs/l/d/workday-cibc-search-2620327?s=gh-new-grad-jobs-2027": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": false,
     "checked_at": "2026-11-25",
     "parser_version": 4
   },
@@ -99836,8 +99964,8 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023489?s=gh-new-grad-jobs-2027": {
-    "ng_confidence": "Confirmed",
-    "ng_evidence": "posting says Entry-Level",
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -99847,8 +99975,8 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "source_fetched": true,
-    "checked_at": "2026-10-22",
+    "source_fetched": false,
+    "checked_at": "2026-11-25",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023491?s=gh-new-grad-jobs-2027": {
