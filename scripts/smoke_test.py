@@ -417,6 +417,21 @@ def test_tracker_overlay_coverage() -> str:
         and item.get("role") == "Software Engineer"
     )
     assert "does not allow multiple applications" in hrt.get("next_action", ""), hrt
+    qrt = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "Qube Research & Technologies (QRT)"
+    )
+    assert qrt.get("status") == "OA", qrt
+    assert qrt.get("status_date") == "2026-11-23", qrt
+    assert "exact requisition uncertain" in qrt.get("confidence", ""), qrt
+    assert "2026-12-07 04:11 GMT" in qrt.get("next_action", ""), qrt
+    nvidia_kernel = next(
+        item for item in tracker.get("applications", [])
+        if item.get("company") == "NVIDIA" and "JR2027337" in item.get("role", "")
+    )
+    assert nvidia_kernel.get("status") == "Rejected", nvidia_kernel
+    assert nvidia_kernel.get("status_date") == "2026-11-24", nvidia_kernel
+    assert "suppress only JR2027337" in nvidia_kernel.get("next_action", ""), nvidia_kernel
     return "email/user overlays persist exact outcomes, company-only uncertainty, closures, and duplicate-repost guards"
 
 

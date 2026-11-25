@@ -1,16 +1,56 @@
 {
-  "updated_at": "2026-11-21",
-  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-21. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
+  "updated_at": "2026-11-24",
+  "source_note": "Reconciled from exact Gmail and user-confirmed application/process evidence through 2026-11-24. The 2026-11-24 pass read only one of the three connected Gmail accounts; the other two were last reconciled through 2026-11-22. Company-level confirmations remain uncertain unless the exact requisition is named; exact-role deduplication only, with materially identical employer reposts held for manual review.",
   "applications": [
     {
-      "company": "Qube Research & Technologies (QRT)",
-      "role": "Early Careers role uncertain (application confirmation received 2026-11-20)",
+      "company": "NVIDIA",
+      "role": "Deep Learning Framework Communications Engineer - New College Grad 2026 (JR2026129)",
       "status": "Applied",
-      "applied_date": "2026-11-20",
-      "status_date": "2026-11-20",
+      "applied_date": "2026-11-24",
+      "status_date": "2026-11-24",
+      "confidence": "Exact",
+      "evidence": "NVIDIA Workday sent an exact application confirmation at 2026-11-25 01:05 UTC (2026-11-24 Central) naming JR2026129 Deep Learning Framework Communications Engineer - New College Grad 2026.",
+      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+    },
+    {
+      "company": "Gimlet Labs",
+      "role": "Member of Technical Staff - Distributed Systems",
+      "status": "Applied",
+      "applied_date": "2026-11-24",
+      "status_date": "2026-11-24",
+      "confidence": "Exact",
+      "evidence": "Ashby confirmation from the Gimlet Labs Hiring Team at 2026-11-25 01:09 UTC (2026-11-24 Central) names Member of Technical Staff - Distributed Systems.",
+      "next_action": "Wait for review; suppress this exact requisition."
+    },
+    {
+      "company": "DRW",
+      "role": "Role uncertain (application confirmation received 2026-11-24)",
+      "status": "Applied",
+      "applied_date": "2026-11-24",
+      "status_date": "2026-11-24",
       "confidence": "Company-only; exact requisition uncertain",
-      "evidence": "Yuhan explicitly confirmed a QRT submission, and QRT Early Careers sent an official Greenhouse confirmation on 2026-11-20. The message names no role, requisition, office, or graduate/intern track, so it cannot be mapped to Software Engineer and Quantitative Developer (8617401002), Quantitative Research and Trading (8581570002), or another QRT role.",
-      "next_action": "Suppress the two currently relevant QRT Hong Kong/Singapore graduate requisitions from Apply Now until the candidate portal or a later exact-role email identifies the submitted role. Preserve company-level uncertainty."
+      "evidence": "DRW Talent Acquisition sent a generic application-received email at 2026-11-25 01:07 UTC (2026-11-24 Central). It names no role, so it cannot be mapped to Quantitative Researcher (8030406) or AI Inference Platform Engineer (8230509). DRW's email also states that AI tools are not permitted at any interview stage unless authorized.",
+      "next_action": "Suppress both currently recommended DRW requisitions from Apply Now until Yuhan or the portal identifies the submitted role. Do not use AI tools in any DRW assessment or interview."
+    },
+    {
+      "company": "PDD",
+      "role": "AI Infra研发工程师（2027届）",
+      "status": "Applied",
+      "applied_date": "2026-11-24",
+      "status_date": "2026-11-24",
+      "confidence": "Exact",
+      "evidence": "The official PDD campus portal (careers.pddglobalhr.com, 研发专场, Shanghai) showed \"恭喜你，投递成功 拼多多集团-PDD校园招聘-AI Infra研发工程师\" on 2026-11-24 after the full application was saved. Accepts reassignment (服从调剂: 是); second choice 大模型算法工程师. Resume uploaded: the 11-18 Chinese AI Infra resume.",
+      "next_action": "Wait for PDD contact; progress is visible in the portal's 个人中心. Suppress this exact requisition from Apply Now."
+    },
+    {
+      "company": "Qube Research & Technologies (QRT)",
+      "role": "Early Careers role uncertain (application confirmation received 2026-11-20; QRT Campus 2027 - APAC assessment invited 2026-11-23)",
+      "status": "OA",
+      "applied_date": "2026-11-20",
+      "status_date": "2026-11-23",
+      "confidence": "Company-level + APAC campus assessment; exact requisition uncertain",
+      "evidence": "Yuhan explicitly confirmed a QRT submission, and QRT Early Careers sent an official Greenhouse confirmation on 2026-11-20. The message names no role, requisition, office, or graduate/intern track, so it cannot be mapped to Software Engineer and Quantitative Developer (8617401002), Quantitative Research and Trading (8581570002), or another QRT role. On 2026-11-23 (UTC) the QRT Hiring Team sent a HackerRank invitation for \"QRT Campus 2027 - APAC HackerRank\" (80 minutes, login closes 2026-12-07 04:11 GMT). The invitation confirms the APAC campus track but still names no exact requisition.",
+      "next_action": "Complete the 80-minute QRT Campus 2027 - APAC HackerRank in one sitting before 2026-12-07 04:11 GMT (2026-12-06 22:11 US Central). Keep the Hong Kong/Singapore graduate requisitions suppressed from Apply Now."
     },
     {
       "company": "River AI",
@@ -165,12 +205,12 @@
     {
       "company": "NVIDIA",
       "role": "Software Engineer, DL Kernel Libraries - New College Grad 2027 (JR2027337)",
-      "status": "Applied",
+      "status": "Rejected",
       "applied_date": "2026-10-16",
-      "status_date": "2026-10-16",
+      "status_date": "2026-11-24",
       "confidence": "Exact",
-      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-16 Central / 2026-10-17 UTC naming Software Engineer, DL Kernel Libraries - New College Grad 2027 (JR2027337).",
-      "next_action": "Wait for review; suppress this exact requisition from actionable recommendations."
+      "evidence": "NVIDIA Workday sent an exact application confirmation on 2026-10-16 Central / 2026-10-17 UTC naming Software Engineer, DL Kernel Libraries - New College Grad 2027 (JR2027337). NVIDIA Workday sent an exact decision email on 2026-11-24 UTC naming JR2027337 Software Engineer, DL Kernel Libraries - New College Grad 2027 and saying the application will not move forward; it states it does not represent the status of other NVIDIA applications.",
+      "next_action": "Closed; suppress only JR2027337. Other NVIDIA applications are unaffected."
     },
     {
       "company": "Mercor",
