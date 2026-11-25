@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-25",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,16 +26,16 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 479,
-    "new_job_candidates": 164,
-    "high_potential_title_candidates": 509
+    "priority_company_candidates": 481,
+    "new_job_candidates": 139,
+    "high_potential_title_candidates": 511
   },
   "veto_counts": {
-    "non-full-time program title": 17,
+    "non-full-time program title": 16,
     "pure hardware role": 1,
-    "explicit 2026-only title": 4
+    "explicit 2026-only title": 5
   },
-  "exact_tracked_jobs_removed": 25,
+  "exact_tracked_jobs_removed": 26,
   "candidates": [
     {
       "machine_rank": 1,
@@ -216,31 +216,6 @@
       "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
-      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
-      "company_priority": "Tier A",
-      "company": "NVIDIA",
-      "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
-      "category": "Infrastructure / Systems",
-      "location": "Santa Clara, CA, United States",
-      "salary": "$108K/yr - $178K/yr",
-      "salary_max_annual": "178000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New College Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "Yes",
-      "posted_date": "2026-09-22",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d",
-      "jd_excerpt": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 @ NVIDIA | Jobright.ai SIGN IN JOIN NOW Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 jobs in United States Overview Company This job has closed. APPLY to similar jobs NVIDIA · 1 month ago Compiler Engineer, Agentic Compilation Systems - New College Grad 2027 Santa Clara, CA Full-time Onsite New Grad $108K/yr - $178K/yr NVIDIA is a technology company advancing computer graphics, accelerated computing, and artificial intelligence. The company is seeking a new graduate Compiler Engineer to build agentic systems and compiler-aware tooling for code generation, optimization, debugging, validation, and developer assistance. The role involves improving agent quality and reliability while collaborating across compiler, CUDA, runtime, library, and hardware teams. Artificial Intelligence (AI) Transportation Cloud Computing Embedded Software Gaming Hardware Quantum Computing Semiconductor AI Infrastructure Autonomous Vehicles Embedded Systems Foundational AI Growth Opportunities H1B Sponsor Likely Responsibilities Build and improve coding-agent systems for tasks such as code generation, transformation, debugging, optimization, validation, and developer assistance Develop agent workflows involving tool use, planning, memory, execution, and feedback loops for software engineering and compiler-related tasks Help create training, evaluation, and verification environments to improve agent quality, correctness, robustness, and usefulness in real-world developer workflows Work on systems that reason about source code, intermediate representations, low-level performance behavior, and optimization opportunities across GPU-centric workloads Collaborate with compiler, CUDA, runtime, library, and hardware teams to develop and productize new agentic and compiler-aware capabilities Analyze failures, investigate correctness issues, and improve system reliability, scalability, and performance in production-oriented settings Qualification Coding Agents Python C C++ Compiler Development Program Analysis LLVM/MLIR CUDA GPU Programming Parallel Computing Performance Optimization AI Workflow Evaluation and Verification Required Bachelor's, Master's, or PhD degree in Computer Science, Electrical Engineering, Applied Mathematics, or a related field, or equivalent experience Academic, research, or internship experience in one or more of the following areas: coding agents, AI systems, machine learning systems, developer tools, compilers, programming systems, or high-performance computing Strong Python and C/C++ programming skills, with solid software engineering fundamentals; experience with Rust is a plus Strong interest in coding agents, agent systems, compiler automation, AI-assisted software engineering, or program analysis Exposure to one or more of the following is highly desirable: compilers, LLVM/MLIR, program analysis, code generation, CUDA, GPU programming, parallel computing, or performance optimization Strong problem-solving skills and the ability to work effectively across software layers and multidisciplinary teams Preferred Internship, research, or project experience building coding assistants, software engineering agents, autonomous developer tools, or AI-assisted programming workflows Experience with compiler infrastructure such as LLVM, MLIR, Triton, PTX, or related IR/codegen frameworks Experience with evaluation, testing, verification, or feedback systems for AI or agentic workflows Hands-on experience with CUDA, GPU systems, or performance tuning for parallel workloads Publications, open-source contributions, or strong academic projects in coding agents, AI systems, compilers, programming systems, or high-performance computing Benefits NVIDIA offers a comprehensive benefits package. You will also be eligible for equity. You will also be eligible for benefits. Company NVIDIA Glassdoor 4.6 Accelerated computing platforms for AI and compute-intensive workloads. Founded in 1993 Santa Clara, California, USA 10001+ employees https://www.nvidia.com H1B Sponsorship NVIDIA has a track record of offering H1B sponsorships. Please note that this does not\n              guarantee sponsorship for this specific role. Below presents additional info for your\n              reference. ( Data Powered by US Department of Labor) Distribution of Different Job Fields Receiving Sponsorship 89 % Represents job field similar to this job Engineering and Development Management and Executive Product Management Marketing Sales Accounting and Finance Customer Service and Support Creatives and Design Human Resources Arts and Entertainment Legal and Compliance Trends of Total Sponsorships *2026 ( 2427 ) 2025 ( 1865 ) 2024 ( 1352 ) 2023 ( 975 ) 2022 ( 835 ) 2021 ( 601 ) 2020 ( 529 ) Funding Current Stage Public Company Total Funding $29.09B Key Investors ARPA-E ARK Investment Management SoftBank Vision Fund 2026-06-15 Post Ipo Debt· $25B 2023-05-09 Grant· $5M 202",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 9,
-      "machine_score": 100,
-      "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
       "company_priority": "",
       "company": "Modern Intelligence",
@@ -263,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, Linux, Networking, Kubernetes; role shape: systems/performance role",
@@ -288,7 +263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -313,7 +288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 11,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -338,7 +313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 12,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -363,7 +338,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 13,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -383,6 +358,31 @@
       "official_source": true,
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
       "jd_excerpt": "Job Application for 2027 Early Career Systems Engineer at Anduril Industries 2027 Early Career Systems Engineer Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States Apply Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. WHAT YOU’LL DO Assist the systems engineer team in building out new products to satisfy customer requirements in new and challenging mission areas Contribute technical inputs to engineering execution plans Develop tools to be used in oversight to a multi-disciplinary team of engineers through all phases of program execution up to and including delivery and operation of capabilities on-orbit Assist in process development for mission and system level trade studies and analysis to balance risk, cost, and performance REQUIRED QUALIFICATIONS Must be pursuing or have recently completed a bachelor’s or master’s degree in Computer Science, Computer Engineering, Software Engineering, Mathematics, Physics, or a related field. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program. Able to start full time in 2027. PREFERRED QUALIFICATIONS Strong technical communication skills, providing the ability to deliver critical technical briefings and conclusions to technical leadership Strong technical fundamentals in an engineering discipline Working knowledge of systems engineering principles MATLAB experience Experience in Linux US Salary Range $100,000 - $130,000 USD The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Benefits At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits . Protecting Yourself from Recruitment Scams Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information. To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind: No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates. Please always verify communications: Direct from Anduril: If you receive an email from one of our recruiters, it will only come from an @anduril.com address. Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com . Exercise Caution with Unsolicited Outreach: If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links. What to Do If You Suspect Fraud: Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to contact@anduril.com . Your proactive caution is invaluable in protecting your personal information and upholding the security and tr",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 14,
+      "machine_score": 93,
+      "machine_tier": "Top",
+      "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
+      "company_priority": "Tier A",
+      "company": "NVIDIA",
+      "role": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Santa Clara, CA, United States",
+      "salary": "$108K/yr - $178K/yr",
+      "salary_max_annual": "178000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New College Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "Yes",
+      "posted_date": "2026-09-22",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6ab1adfcd43eb922ca0c089d",
+      "jd_excerpt": "Security check | Jobright Jobright ✓ One quick security check We’ll continue automatically when the security check is complete. If prompted, complete the check below. Preparing secure check… ✓ Security check complete Loading secure verification… You’ll continue automatically. Continue Retry JavaScript is required to complete this security check.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -514,31 +514,6 @@
     },
     {
       "machine_rank": 20,
-      "machine_score": 85,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, PyTorch; role shape: entry-level ML role",
-      "company_priority": "",
-      "company": "RZR Global",
-      "role": "Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-07-31",
-      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://job-boards.greenhouse.io/rzr/jobs/4217715009",
-      "jd_excerpt": "Job Application for Machine Learning Engineer  at RZR Global Inc. Back to jobs Machine Learning Engineer San Francisco Apply Who are we? RZR Global is an AI-driven company specializing in mobile advertising solutions designed to fuel revenue growth. We leverage AI to discover audiences in a privacy-first environment through trillions of contextual bidding signals and proprietary behavioral models. Our audience engagement platform includes creative strategy and execution. We handle 5 million mobile ad requests per second from over 10 billion devices, driving performance for both publishers and brands. We are headquartered in San Francisco, CA, with a global presence across the United States, EMEA, and APAC. Role Overview We are seeking a motivated and detail-oriented Machine Learning Engineer to join our team. As an ML Engineer, you will be involved in designing and implementing machine learning models and data pipelines to enhance our programmatic demand-side platform (DSP). You will work closely with Senior MLE and other team members to drive impactful machine learning projects and contribute to innovative solutions. Key Responsibilities Support the development of machine learning models to address challenges in programmatic advertising, such as predicting user responses, forecasting bid landscapes, and detecting fraud. Collaborate with senior data scientists and cross-functional teams (product, engineering, and analytics) to integrate models into production workflows. Analyze the impact of integrating new data sources and features into our models. Build and maintain data pipelines to process and prepare large datasets for model training and evaluation. Contribute ideas and assist in testing new tools, methodologies, and technologies to improve our machine learning capabilities. Document experiments, assumptions, and outcomes; maintain reproducibility Required Skills / Experience Bachelor’s or Master's degree in Mathematics, Physics, Computer Science, or a related technical field. At least 1 year of professional experience in machine learning, statistical analysis, and data analysis. Experience with machine learning techniques such as regression, classification, and clustering. Proficiency in Python and SQL and familiarity with big data tools (e.g., Spark) and ML libraries (e.g., TensorFlow, PyTorch, Scikit-Learn). Strong grasp of probability, statistics, and data analysis principles. Ability to work effectively in a team environment, with good communication skills to explain complex concepts to diverse stakeholders. Nice-to-Have Familiarity with system programming languages including C++ and Rust is a plus. Exposure to online inference systems, gRPC/REST model endpoints, or streaming features (Kafka/Flink) Ad-tech familiarity: auction dynamics, pacing, fraud signals, creative personalization. RZR is an equal opportunity employer RZR is a place where everyone can grow. However you identify, and whatever background you bring with you, we invite you to apply if this role excites you. RZR provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any kind. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile * How did you hear about this opportunity? Expected Salary ? * How soon can you join us? * Are you legally authorized to work in the United States? * Submit application Powered by Greenhouse",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 21,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -563,7 +538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 22,
+      "machine_rank": 21,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -588,7 +563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 23,
+      "machine_rank": 22,
       "machine_score": 76,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -613,7 +588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 24,
+      "machine_rank": 23,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Networking; role shape: systems/performance role",
@@ -638,7 +613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 25,
+      "machine_rank": 24,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -663,32 +638,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 26,
-      "machine_score": 76,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python",
-      "company_priority": "",
-      "company": "Scopely",
-      "role": "Software Engineer, Machine Learning (Master's)",
-      "category": "AI / Machine Learning",
-      "location": "San Francisco, CA / Santa Clara, CA / San Francisco, CA",
-      "salary": "$165,131 to $180,946 per year",
-      "salary_max_annual": "180946",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-27",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/AX",
-      "jd_excerpt": "Job Application for Software Engineer, Machine Learning at Scopely Back to jobs Software Engineer, Machine Learning US - San Francisco, California, United States APPLY Software Engineer, Machine Learning (Scopely Explore Inc Inc, fka Niantic Inc.; San Francisco, CA): Implement and maintain scalable infrastructure solutions for the deployment of Artificial Intelligence (AI) and Machine Learning (ML) models. Work closely with ML scientists to develop engineering solutions to integrate AI and ML models into products. Develop automation tools and processes to streamline model evaluation and deployment workflows. Optimize infrastructure performance to ensure efficient resource utilization and minimize latency in model inference. Implement and maintain monitoring and alerting systems to ensure the reliability and availability of ML infrastructure components. Troubleshoot and resolve issues related to ML infrastructure, working closely with stakeholders to identify root causes and implement solutions. Regularly participate in meetings with cross-functional teams to understand requirements and design engineering solutions that meet product requirements. Participate in code reviews, design discussions, and architecture planning sessions to maintain high-quality standards in software development practices. Telecommuting within the US permitted pursuant to company policy. Minimum requirements: Master’s degree or foreign equivalent in Computer Science, Computer Engineering, or related quantitative field, plus One (1) year of experience in the Job offered, as a Software Developer, Software Engineer Intern, Applied Research Intern, Teaching Assistant, or a related occupation. Must possess academic training and/or experience in each of the following: Python; Machine Learning;Generative AI; SQL; System programming; Cloud computing. Salary: $165,131 to $180,946 per year APPLY NOW Job Req ID: 00103420 To Apply: Any interested applicant may click on the APPLY NOW button above to apply for this position, or email your resume to employment@scopely.com For candidates in CA, CO, NJ, NY, and WA, the annual salary range is provided below. In addition to base pay, employees may be eligible for equity, bonuses, and a comprehensive benefits package, including healthcare benefits, retirement benefits, pet insurance, paid holidays, paid Scopely free days, and unlimited paid time off. Base pay offered may vary depending on job-related knowledge, skills, and experience. CA, CO, NJ, NY, and WA Annual Salary Range $165,131 - $180,946 USD About Scopely Scopely is a leading video game and global interactive entertainment company, home to many of the world’s most beloved and enduring experiences, including two of the most successful mobile games of all-time “MONOPOLY GO!” and “Pokémon GO,” along with “Stumble Guys,” “Star Trek™ Fleet Command,” “MARVEL Strike Force,” “WWE Champions,” the Scrabble® franchise, “Yahtzee® With Buddies,” and many others. Across mobile, web, PC, and console, Scopely creates, develops, publishes, and live-operates one of the most diversified and award-winning portfolios in the games industry — bringing hundreds of millions of players together through a shared love of play. Founded in 2011, Scopely is powered by its exceptional team — including thousands of world-class gamemakers around the globe, a distinctive tenet-driven culture, and its proprietary technology platform, Playgami. Together, these strengths have fueled Scopely’s position as the #1 mobile games company in the U.S. and #2 globally, generating more than $10 billion in lifetime revenue. Whether building global sensations like “MONOPOLY GO!” from the ground up, or expanding through strategic acquisitions, including the FoxNext, GSN, and Scopely Explore games businesses — Scopely consistently delivers experiences players love today and return to for years to come. Recognized multiple times as one of the \"100 Most Influential Companies in the World\" by TIME magazine and one of Fast Company's \"World's Most Innovative Companies\" and “Best Workplaces for Innovators,” Scopely believes that video games can be a force for good — creating meaningful connections, vibrant communities, and making life better through play. Scopely has global operations and partners across four continents in more than a dozen countries worldwide. For more information, visit: https://www.scopely.com/ . Notice to Candidates: Scopely will never request payment or financial information during the application or hiring process. Please apply only through our official website and verify that all Talent Partner communications come from an email address ending in @ scopely.com . Should you have any questions or encounter any fraudulent requests/emails/websites, please immediately contact recruiting@scopely.com. Our job applicant privacy policies are available here: California Privacy Notice and EEA/UK Privacy Notice . Employment at Scopely is based solely on a person's merit and qualifications. ",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 27,
+      "machine_rank": 25,
       "machine_score": 80,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -713,7 +663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 28,
+      "machine_rank": 26,
       "machine_score": 79,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: C++, Python",
@@ -738,7 +688,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 29,
+      "machine_rank": 27,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Tier A watchlist; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -763,7 +713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 30,
+      "machine_rank": 28,
       "machine_score": 78,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed",
@@ -788,7 +738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 31,
+      "machine_rank": 29,
       "machine_score": 77,
       "machine_tier": "Strong",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Networking; $200k+ stated ceiling",
@@ -813,7 +763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 32,
+      "machine_rank": 30,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Distributed / Systems; resume overlap: profiling / performance modeling, systems scheduling / planning; role shape: systems/performance role; new-grad: likely",
@@ -838,7 +788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 33,
+      "machine_rank": 31,
       "machine_score": 75,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: likely",
@@ -863,7 +813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 34,
+      "machine_rank": 32,
       "machine_score": 74,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -888,7 +838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 35,
+      "machine_rank": 33,
       "machine_score": 73,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -913,57 +863,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
-      "machine_score": 67,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Relativity Space",
-      "role": "New Grad 2027 - GNC Mission Design Engineer I",
-      "category": "Other",
-      "location": "Long Beach, California, United...",
-      "salary": "$110,000 - $164,000",
-      "salary_max_annual": 164000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-24",
-      "source": "GitHub:zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/greenhouse-relativity-8957609002?s=gh-new-grad-hardware-engineering-jobs-2027",
-      "jd_excerpt": "Job Application for New Grad 2027 - GNC Mission Design Engineer I at Relativity Space New New Grad 2027 - GNC Mission Design Engineer I Long Beach, California, United States Apply At Relativity Space, we’re building rockets to serve today’s needs and tomorrow’s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that’s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven’t been solved before, helping develop a rocket, a factory, and a business from the ground up. Whether you’re in propulsion, manufacturing, software, avionics, or a corporate function, you’ll collaborate across teams, shape decisions, and see your work come to life in record time. Relativity is a place where creativity and technical rigor go hand in hand, and your voice will help define the stories we’re writing together. Now is a unique moment in time where it’s early enough to leave your mark on the product, the process, and the culture, but far enough along that Terran R is tangible and picking up momentum. The most meaningful work of your career is waiting. Join us. About the Team: The Guidance, Navigation, and Control (GNC) and Performance teams are responsible for defining and analyzing how Terran R flies, from liftoff to landing. The work combines a variety of disciplines such as advanced modeling, orbital mechanics, software development, and dynamic systems to optimize every phase of flight. You’ll develop flight algorithms, simulate trajectories, and model Terran R’s dynamic behavior across mission profiles. Whether you're early in your career or a seasoned expert, you’ll have the opportunity to own critical pieces of the system, influence design, and see your work fly. The department is part of the Integrated Performance team, uniting key disciplines to drive performance at every stage of the mission. About the Role: Support trajectory design and analysis for customer missions throughout mission lifecycle, including conceptual design, flight safety analysis, and day of launch operations Develop and leverage software tooling for optimizing launch and orbital trajectories Lead interdisciplinary design trade analyses to inform key decisions about the vehicle, the mission trajectories, or the mission ConOps Define and maintain high-level vehicle and trajectory design requirements to inform the overall design process About You: Graduating in 2027 with undergraduate or graduate degree (BS/MS/PhD) in engineering or related discipline Ability to work in a fast-paced and intense start-up environment Ability to complete projects with ownership of end-to-end solutions with a high degree of independence Experience with Python, MATLAB, Julia, or similar Nice to haves, but not required: Prior experience working on GNC or trajectory design solutions in aerospace Prior work in a startup or agile development environment Strong physics and orbital mechanics background At Relativity Space, we are committed to transparency and fairness in our compensation practices. Actual compensation will be determined based on experience, qualifications, and other job-related factors. Compensation is only one part of our total rewards package. Relativity Space offers competitive salary and equity, a generous PTO and sick leave policy, parental leave, an annual learning and development stipend, and more! To see some of the benefits & perks we offer, please visit here. Hiring Range: $110,000 - $164,000 USD We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need a reasonable accommodation, please contact us at accommodations@relativityspace.com . Please note: Relativity Space does not accept unsolicited resumes, candidate profiles, or referrals from recruitment agencies or search firms. Any unsolicited submission - via email, our website, social media, or directly to an employee - will be deemed the property of Relativity Space, and no fee will be owed absent a current, fully executed agreement with Talent Acquisition that specifically authorizes submissions for the applicable role. Create a Job Alert Interested in building your career at Relativity Space? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Location (City) Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file t",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 37,
-      "machine_score": 64,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Relativity Space",
-      "role": "New Grad 2027 - Aerodynamics Engineer I",
-      "category": "Other",
-      "location": "Long Beach, California, United...",
-      "salary": "$90,000 - $136,000",
-      "salary_max_annual": 136000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-24",
-      "source": "GitHub:zapplyjobs/New-Grad-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/greenhouse-relativity-8957620002?s=gh-new-grad-jobs-2027",
-      "jd_excerpt": "Job Application for New Grad 2027 - Aerodynamics Engineer I at Relativity Space New New Grad 2027 - Aerodynamics Engineer I Long Beach, California, United States Apply At Relativity Space, we’re building rockets to serve today’s needs and tomorrow’s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity. But that’s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance science, exploration, and innovation, pioneering progress that reaches beyond the known. Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're solving problems that haven’t been solved before, helping develop a rocket, a factory, and a business from the ground up. Whether you’re in propulsion, manufacturing, software, avionics, or a corporate function, you’ll collaborate across teams, shape decisions, and see your work come to life in record time. Relativity is a place where creativity and technical rigor go hand in hand, and your voice will help define the stories we’re writing together. Now is a unique moment in time where it’s early enough to leave your mark on the product, the process, and the culture, but far enough along that Terran R is tangible and picking up momentum. The most meaningful work of your career is waiting. Join us. About the Team: The Integrated Performance team owns the holistic view of how Terran R comes together, ensuring that every system on the vehicle and ground is capable of achieving our ambitious objectives. The team works across the full launch system, from trajectory design and aerodynamics to reliability analysis and beyond, with direct influence on all parts of the product lifecycle, from conceptual design to post-flight data review. Beyond analysis, team members engage hands-on with hardware and operations, with the mission and authority to drive meaningful programmatic change. With a unique organizational structure, the integrated performance team spans multiple technical domains and embeds directly with partner teams to solve the hardest multi-disciplinary problems. The team operates with a rare scale: large enough to support complex development, yet small enough that individual contributors have meaningful impact. The Aerodynamics team shapes Relativity’s vehicle products by tackling intricate design challenges inherent to reusable launch vehicles. Drawing on a strong foundation in external and compressible flows, the team addresses a wide spectrum of aerodynamic challenges across all flight phases. Leveraging computational fluid dynamics (CFD), wind tunnel testing, reduced order modeling, and flight data, we take a proactive approach to supporting cross-disciplinary design initiatives. Our collaboration with hardware engineers further enables us to overcome design and integration hurdles, ensuring a seamless and efficient development process from concept and through launch. About the Role: Develop and execute CFD analyses to solve novel challenges in vehicle entry stability and control Validate CFD approaches and establish CFD best practices for ascent and entry phases of flight Scope and develop aerodynamics databases for ascent and entry including uncertainty quantification from CFD, wind tunnel, and empirical data sources Drive the design of major Terran R system elements – like fins, flaps, and primary structure – to meet criteria for control, stability, heating, and pressure Guide and mentor responsible hardware engineers to ensure hardware meets aerodynamics and system-level requirements Mature Relativity’s tools for developing and communicating aerodynamics data, including custom and commercial code, databases, and data processing tools To be successful in this role, you should be self-motivated, adaptable, and able to contribute significantly to a fast-paced, integrated vehicle program. You should also be able to resolve ambiguity and drive projects to completion. Ideally, you have significant compressible flow, CFD, and high-performance computing (HPC) experience, as well as a proven track record for completing projects successfully in a highly collaborative environment. On a weekly basis, you will be performing analysis, developing software tools, and supporting design teams. You will also use your strong organizational skills to properly manage the documentation and communication of your actions, recommendations, and decisions. About You: Undergraduate degree in engineering or related field Proficiency in compressible flow Practical engineering experience, e.g., from project teams, internships, or research labs Experience solving challenging technical problems in teams Familiarity with Python or another scripting language like Matlab Exposure to industry-standard CFD tools like FUN3D or Star-CCM+ Nice to haves but not required: Graduate degree in engineering or related field Fam",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 38,
+      "machine_rank": 34,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -982,6 +882,106 @@
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
       "url": "https://careers-mercuryinsurance.icims.com/jobs/7485/job?in_iframe=1",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 35,
+      "machine_score": 71,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Adobe",
+      "role": "2027 University Graduate - Machine Learning Engineer",
+      "category": "AI / Machine Learning",
+      "location": "California, PA",
+      "salary": "$102,400–$202,250/year",
+      "salary_max_annual": "202250",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Graduate",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-18",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.jobleads.com/us/job/2027-university-graduate-machine-learning-engineer--california--e48dfacd7317055027a02cef4b5a41814",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
+      "machine_score": 65,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Applied Intution",
+      "role": "Research Engineer  New Grad 2027",
+      "category": "AI / Machine Learning",
+      "location": "Sunnyvale, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-18",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.wayup.com/i-Technology-j-Research-Engineer-New-Grad-2027-Applied-Intution-21995240102288",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 37,
+      "machine_score": 65,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role, entry-level ML role",
+      "company_priority": "",
+      "company": "Qualcomm",
+      "role": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+      "category": "AI / Machine Learning",
+      "location": "Austin, TX +3",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Uncertain",
+      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-18",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 38,
+      "machine_score": 63,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "All Options",
+      "role": "New Grad 2027: Quantitative Researcher",
+      "category": "Other",
+      "location": "Austin, TX",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-17",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://go.vansh.nyc/1B3",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
@@ -1014,106 +1014,31 @@
     },
     {
       "machine_rank": 40,
-      "machine_score": 71,
+      "machine_score": 59,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: C++; downrank: generic CRUD/backend; new-grad: confirmed",
       "company_priority": "",
-      "company": "Adobe",
-      "role": "2027 University Graduate - Machine Learning Engineer",
-      "category": "AI / Machine Learning",
-      "location": "California, PA",
-      "salary": "$102,400–$202,250/year",
-      "salary_max_annual": "202250",
+      "company": "Flexi",
+      "role": "Junior Full-Stack Software Engineer",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
       "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Graduate",
+      "ng_evidence": "posting says entry-level",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-11-18",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.jobleads.com/us/job/2027-university-graduate-machine-learning-engineer--california--e48dfacd7317055027a02cef4b5a41814",
-      "jd_excerpt": "",
+      "posted_date": "2026-11-17",
+      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4589460",
+      "jd_excerpt": "Flexi - Junior Full-Stack Software Engineer In order to use this site, it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser . All Jobs > Flexi > Junior Full-Stack Software Engineer Flexi Apply Junior Full-Stack Software Engineer Atlanta, GA Apply Description Flexi Software is hiring Junior and entry-level Full-Stack Software Engineers to help build the next generation of our platform. You will work across C# services and modern web front ends built with Node.js, React, and Next.js, backed by Microsoft SQL Server, and you will build, test, and deliver enterprise-grade software for financial institutions. We are looking for engineers who embrace an AI-empowered software development lifecycle. At Flexi, AI is part of how we design, code, review, test, and document. You will work with agentic tools every day, and you will learn to direct them with good judgment, verify what they produce, and hold the result to the standards our banking, insurance, and financial services customers depend on. Your primary focus will be delivering our next-generation web platform. On a limited basis, you may also work on Flexi's legacy Windows desktop solutions in C++ and C#, which gives you broad exposure to how enterprise software evolves. This role is a strong starting point for an early-career engineer who wants to grow quickly, learn from experienced engineers, and ship real software at scale. This is a hybrid position, working in person with the team in our Atlanta, GA office. About Flexi Flexi Software has been a trusted provider of accounting solutions for over 30 years, offering both cloud-based and on-premise software purpose-built for organizations with the most complex accounting requirements — multi-entity and intercompany accounting at scale. Our comprehensive suite includes modules like General Ledger, Accounts Payable, Accounts Receivable, Purchasing, Fixed Asset Management, Project Accounting, Workflow Automation, Financial Reporting, and Budget Software. Serving industries including banking, insurance, financial services, credit unions, healthcare, and business process outsourcing, Flexi is renowned for its robust features, flexible deployment options, and exceptional customer support. In January 2025, Flexi was acquired by Quality Standard, a permanent capital holding company  that acquires and grows fintech and govtech software businesses with a long-term ownership  mindset.  Quality Standard is actively investing in Flexi's people, product, and operations. Flexi's office is located in Atlanta, GA. Quality Standard is headquartered in New York, NY. Roles and Responsibilities Build, test, and deliver full-stack features for Flexi's next-generation platform, working across C# back-end services and APIs and Node.js, React, and Next.js front ends Write clean, maintainable, well-tested code, including unit and integration tests, as part of every change you ship Work with Microsoft SQL Server: write queries and stored procedures, design tables, and learn to tune for application and      database performance Use AI coding assistants and agentic workflows daily across design, coding, code review, testing, and documentation, and learn      to direct them effectively Review and verify AI-generated code with care, owning correctness, security, and quality for everything you commit Take part in code reviews, both giving and receiving feedback, to build skill and uphold team standards Contribute to CI/CD pipelines, automated testing, and release practices so changes move to production safely and often Build with the security, reliability, and data integrity expected of enterprise financial software, including input validation, error handling, and audit-friendly design Investigate and resolve defects, tracing issues across the front end, services, and database Write and maintain technical documentation, including API documentation and developer notes Partner with Product, QA, and senior engineers to turn requirements into shipped customer-facing software Contribute on a limited basis to Flexi's legacy Windows desktop solutions in C++ and C#, while next-generation web platform      delivery remains your primary focus, and learn how the new platform integrates with these existing products and our DevOps environment Grow your skills through mentorship, pairing, and regular feedback, and share what you learn about AI-assisted development      with the team Requirements Bachelor's degree in Computer Science, Software Engineering, or a related technical field — or equivalent practical      experience, such as a bootcamp, internship, or substantial project work 0–3 years of professional software development experience; internships and strong personal or academic projects count Working knowledge of C# and the .NET platform, including object-oriented programming fundamentals, and a willingness to      work in legacy C++ and C# Windows desktop code on a limited basis Working know",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
     },
     {
       "machine_rank": 41,
-      "machine_score": 65,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Applied Intution",
-      "role": "Research Engineer  New Grad 2027",
-      "category": "AI / Machine Learning",
-      "location": "Sunnyvale, CA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-18",
-      "source": "Google Jobs via SerpAPI",
-      "official_source": true,
-      "url": "https://www.wayup.com/i-Technology-j-Research-Engineer-New-Grad-2027-Applied-Intution-21995240102288",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 42,
-      "machine_score": 65,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role, entry-level ML role",
-      "company_priority": "",
-      "company": "Qualcomm",
-      "role": "Machine Learning Compiler Engineer - Machine Learning Engineering",
-      "category": "AI / Machine Learning",
-      "location": "Austin, TX +3",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Uncertain",
-      "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-18",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 43,
-      "machine_score": 63,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
-      "company_priority": "",
-      "company": "All Options",
-      "role": "New Grad 2027: Quantitative Researcher",
-      "category": "Other",
-      "location": "Austin, TX",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-17",
-      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
-      "official_source": false,
-      "url": "https://go.vansh.nyc/1B3",
-      "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 44,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1138,7 +1063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 45,
+      "machine_rank": 42,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1163,7 +1088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 46,
+      "machine_rank": 43,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: Linux, Distributed Systems, Networking; new-grad: confirmed",
@@ -1188,7 +1113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 47,
+      "machine_rank": 44,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1213,7 +1138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 48,
+      "machine_rank": 45,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1238,7 +1163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 49,
+      "machine_rank": 46,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1263,7 +1188,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 50,
+      "machine_rank": 47,
       "machine_score": 66,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1288,7 +1213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 51,
+      "machine_rank": 48,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1313,7 +1238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 52,
+      "machine_rank": 49,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1338,7 +1263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 53,
+      "machine_rank": 50,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -1363,7 +1288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 54,
+      "machine_rank": 51,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; skills: C++, Python, Networking",
@@ -1388,7 +1313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 55,
+      "machine_rank": 52,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1413,7 +1338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 56,
+      "machine_rank": 53,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -1438,7 +1363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 57,
+      "machine_rank": 54,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -1463,7 +1388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 58,
+      "machine_rank": 55,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1488,7 +1413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 59,
+      "machine_rank": 56,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1513,7 +1438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 60,
+      "machine_rank": 57,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -1538,7 +1463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 61,
+      "machine_rank": 58,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1563,7 +1488,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 62,
+      "machine_rank": 59,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -1588,7 +1513,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 63,
+      "machine_rank": 60,
       "machine_score": 60,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -1613,7 +1538,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 64,
+      "machine_rank": 61,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1638,7 +1563,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 65,
+      "machine_rank": 62,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role",
@@ -1663,7 +1588,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 66,
+      "machine_rank": 63,
       "machine_score": 58,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role",
@@ -1688,7 +1613,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 67,
+      "machine_rank": 64,
       "machine_score": 72,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role; new-grad: confirmed",
@@ -1713,7 +1638,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 68,
+      "machine_rank": 65,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "Tier B watchlist; best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Compilers; role shape: early-career SWE; new-grad: confirmed",
@@ -1738,7 +1663,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 69,
+      "machine_rank": 66,
       "machine_score": 68,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -1763,7 +1688,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 70,
+      "machine_rank": 67,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: ML Systems / LLM Infrastructure; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1788,7 +1713,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 71,
+      "machine_rank": 68,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Linux, Distributed Systems; new-grad: confirmed",
@@ -1813,7 +1738,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 72,
+      "machine_rank": 69,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1838,7 +1763,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 73,
+      "machine_rank": 70,
       "machine_score": 67,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux; role shape: early-career SWE; new-grad: confirmed",
@@ -1863,7 +1788,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 74,
+      "machine_rank": 71,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
@@ -1888,7 +1813,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 75,
+      "machine_rank": 72,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; PhD requirement penalty; $200k+ stated ceiling",
@@ -1913,7 +1838,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 76,
+      "machine_rank": 73,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Performance / Runtime; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1938,7 +1863,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 77,
+      "machine_rank": 74,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -1963,7 +1888,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 78,
+      "machine_rank": 75,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
@@ -1988,7 +1913,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 79,
+      "machine_rank": 76,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Performance / Runtime; skills: Python, Linux, Compilers; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -2013,7 +1938,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 80,
+      "machine_rank": 77,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Distributed Systems, Networking; new-grad: confirmed",
@@ -2038,7 +1963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 81,
+      "machine_rank": 78,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -2063,7 +1988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 82,
+      "machine_rank": 79,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: C++, Python, Linux; role shape: entry-level ML role",
@@ -2088,7 +2013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 83,
+      "machine_rank": 80,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role",
@@ -2113,7 +2038,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 84,
+      "machine_rank": 81,
       "machine_score": 64,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; skills: C++, Python, Distributed Systems, Networking; role shape: systems/performance role; PhD requirement penalty; $200k+ stated ceiling",
@@ -2138,7 +2063,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 85,
+      "machine_rank": 82,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "resume overlap: systems scheduling / planning; skills: Python; role shape: early-career SWE; new-grad: confirmed",
@@ -2163,7 +2088,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 86,
+      "machine_rank": 83,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; new-grad: confirmed",
@@ -2188,7 +2113,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 87,
+      "machine_rank": 84,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -2213,7 +2138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 88,
+      "machine_rank": 85,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -2238,7 +2163,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 89,
+      "machine_rank": 86,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python; new-grad: likely; $200k+ stated ceiling",
@@ -2263,7 +2188,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 90,
+      "machine_rank": 87,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; role shape: entry-level ML role",
@@ -2288,7 +2213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 91,
+      "machine_rank": 88,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "Tier A watchlist; best track: ML Systems / LLM Infrastructure; resume overlap: LLM inference / serving; role shape: entry-level ML role",
@@ -2313,7 +2238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 92,
+      "machine_rank": 89,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Distributed / Systems; role shape: systems/performance role; new-grad: confirmed",
@@ -2338,7 +2263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 93,
+      "machine_rank": 90,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2363,7 +2288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 94,
+      "machine_rank": 91,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: likely",
@@ -2388,7 +2313,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 95,
+      "machine_rank": 92,
       "machine_score": 62,
       "machine_tier": "Consider",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Distributed / Systems; skills: Python; role shape: systems/performance role, entry-level ML role",
@@ -2413,7 +2338,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 96,
+      "machine_rank": 93,
       "machine_score": 61,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -2432,6 +2357,81 @@
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 94,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Quora",
+      "role": "Machine Learning Engineer New Grad",
+      "category": "AI / Machine Learning",
+      "location": "Remote in USA +3",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-23",
+      "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
+      "official_source": false,
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 95,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Quant / Performance SWE; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Applied Intution",
+      "role": "Forward Deployed Engineer  New Grad 2027",
+      "category": "Infrastructure / Systems",
+      "location": "Sunnyvale, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-10",
+      "source": "Google Jobs via SerpAPI",
+      "official_source": true,
+      "url": "https://www.wayup.com/i-Technology-j-Forward-Deployed-Engineer-New-Grad-December-2026-Applied-Intution-759590041662601",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 96,
+      "machine_score": 61,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "PhD University Grad Machine Learning Engineer - USA",
+      "category": "AI / Machine Learning",
+      "location": "San Francisco, CA +2",
+      "salary": "$191k/yr",
+      "salary_max_annual": "191000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-02",
+      "source": "GitHub:speedyapply/2027-AI-College-Jobs:NEW_GRAD_USA.md",
+      "official_source": false,
+      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
       "jd_excerpt": "",
       "application_match": "None",
       "application_note": "",
