@@ -4,7 +4,7 @@
 
 > 🇨🇳 [China high-value new-grad and early-career roles](CHINA.md)
 
-> Last automated update: **2026-11-25** · Open roles: **3808**
+> Last automated update: **2026-11-26** · Open roles: **3815**
 
 Default order is newest ATS posting date (or first-discovery date) first. Within the same date: confirmed/likely new-grad roles first, then non-PhD roles, then better-known compensation; personalized fit is only a later tie-breaker.
 
@@ -18,26 +18,26 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Group | Active roles |
 |---|---:|
-| **Big Tech & Frontier AI** | 261 |
+| **Big Tech & Frontier AI** | 258 |
 | **AI Infra / Systems** | 22 |
-| **Quant / HFT** | 122 |
-| **Other high-value tech** | 37 |
+| **Quant / HFT** | 123 |
+| **Other high-value tech** | 36 |
 | **ByteDance / TikTok** (separate) | 520 |
-| Other companies | 2846 |
+| Other companies | 2856 |
 
 ### Big Tech & Frontier AI
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-25 | **NVIDIA** | [NVIDIA 2027 Internships: Software Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-internships-2027) | Not listed | US, CA, Santa Clara | ❔ | ❔ Review | — |
 | 2026-11-25 | **Amazon** | [Front-End Engineer – 2027 (US)](https://jobright.ai/jobs/info/6b060baa45a65b5da366dc2a) | Not listed | Seattle, WA, United States | ❔ | ❔ Review | — |
 | 2026-11-25 | **Amazon** | [Research Scientist II - AMZ10563924](https://account.amazon.jobs/jobs/10612930/apply) | Not listed | Seattle, Washington, USA | ❔ | ❔ Review | — |
 | 2026-11-24 | **NVIDIA** | [Software Engineer, DL Kernel Libraries - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | Not listed | Santa Clara, CA / US, CA, Santa Clara | ❔ | ✅ Confirmed | — |
 | 2026-11-24 | **Apple** | [CV/ML Systems Integration Engineer](https://jobs.apple.com/en-us/details/200696418-3337) | $153k/yr | Seattle, WA | ❔ | ❔ Review | — |
 | 2026-11-22 | **Apple** | [AR/VR Software Engineer - Spatial System UI - Vision Products Software](https://jobs.apple.com/en-us/details/200696147-3956) | $153k/yr | Sunnyvale, CA | ❔ | ❔ Review | — |
 | 2026-11-16 | **Microsoft** | [Applied Sciences](https://go.vansh.nyc/1A4) | Not listed | Remote | ❔ | ❔ Review | — |
-| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
+| 2026-11-14 | **Google** | [Software Engineer, Generative Media AI, Apparel ML](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) | $147000 - $210000 | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | ❔ | ❔ Review | — |
 | 2026-11-14 | **Google** | [Software Engineer, Geo, Computer Vision](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) | $147000 - $210000 | Mountain View, CA, USA | ❔ | ❔ Review | — |
-| 2026-10-31 | **NVIDIA** | [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Not listed | Seattle, WA +3 | ❔ | ✅ Confirmed | — |
 | 2026-10-27 | **Microsoft** | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045516) | $168k/yr | Mountain View, CA | ❔ | ❔ Review | — |
 | 2026-10-23 | **OpenAI** | [Research Engineer / Scientist](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e) | Not listed | San Francisco, CA | ❔ | ❔ Review | — |
 | 2026-09-15 | **OpenAI** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | $242k/yr | San Francisco | ❔ | ❔ Review | — |
@@ -74,6 +74,7 @@ The README is intentionally company-diverse: at most two active roles per compan
 
 | Posted | Company | Role | Salary | Location | Visa | New grad? | PhD |
 |---|---|---|---|---|---|---|---|
+| 2026-11-26 | **Two Sigma** | [Quantitative Trader - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-23 | **Hudson River Trading** | [Campus Talent Community](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/3432773) | Not listed | New York, Chicago +5 | ❔ | ❔ Review | — |
 | 2026-11-23 | **Hudson River Trading** | [HRT Talent Community](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/3530960) | Not listed | New York, Chicago +5 | ❔ | ❔ Review | — |
 | 2026-11-21 | **Optiver** | [FutureFocus: Quants - Trading & Research 2027](https://www.optiver.com/join-us/jobs/8843445002?gh_jid=8843445002) | $201k/yr | Chicago, IL | ❔ | ✅ Confirmed | — |
@@ -89,7 +90,6 @@ The README is intentionally company-diverse: at most two active roles per compan
 | 2026-11-13 | **Jump Trading** | [Campus Quantitative Researcher / Trading Team PhD/Postdoc (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8209424) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Jump Trading** | [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008112) | Not listed | Chicago | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (Houston)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018) | Not listed | Houston | ❔ | ✅ Confirmed | — |
-| 2026-11-13 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Jane Street** | [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8621552002) | Not listed | New York | ❔ | ✅ Confirmed | — |
 | 2026-11-13 | **Citadel** | [Equities - Citadel Associate Program - Full Time Program 2027 (US)](https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2027-us) | Not listed | New York | ❔ | ◐ Likely | — |
 | 2026-11-13 | **D. E. Shaw** | [Cove MBA Associate- Summer 2027](https://www.deshaw.com/careers/Cove-MBA-Associate-Summer-2027-6283) | Not listed | New York | ❔ | ◐ Likely | — |
@@ -141,7 +141,7 @@ _Showing 12 of 520 active roles. Use the Job Radar for all roles._
 
 ## All roles
 
-The repository currently keeps **3808 active roles**. Featured groups account for **442** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
+The repository currently keeps **3815 active roles**. Featured groups account for **439** of them. Browse the full searchable list in the **[Job Radar](https://coconight01.github.io/2027-North-America-New-Grad-Jobs/)**, or use data/jobs.csv / data/jobs.json.
 
 ## New-grad semantics
 

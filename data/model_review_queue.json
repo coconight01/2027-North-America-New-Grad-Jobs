@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25",
+  "updated_at": "2026-11-26",
   "purpose": "Machine-generated recall queue for semantic review. Presence here is NOT an application recommendation.",
   "review_policy": "Final Apply Now decisions must come from semantic JD review against the candidate's actual resume, eligibility, application history, and role quality. Exact tracked applications are removed; company-only/likely application evidence is flagged, not suppressed. Priority-company roles receive dedicated JD-review quota so elite employers are not lost to weak titles.",
   "candidate_focus": [
@@ -26,14 +26,14 @@
       "exploration": 5,
       "fill": 0
     },
-    "priority_company_candidates": 480,
-    "new_job_candidates": 146,
-    "high_potential_title_candidates": 512
+    "priority_company_candidates": 482,
+    "new_job_candidates": 128,
+    "high_potential_title_candidates": 514
   },
   "veto_counts": {
-    "non-full-time program title": 19,
+    "non-full-time program title": 15,
     "pure hardware role": 1,
-    "explicit 2026-only title": 4
+    "explicit 2026-only title": 5
   },
   "exact_tracked_jobs_removed": 25,
   "candidates": [
@@ -116,31 +116,6 @@
       "machine_rank": 4,
       "machine_score": 100,
       "machine_tier": "Top",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Pinterest",
-      "role": "University Grad Machine Learning Engineer 2027 (Toronto)",
-      "category": "AI / Machine Learning",
-      "location": "Toronto, ON",
-      "salary": "$135,000—$162,000",
-      "salary_max_annual": "162000",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "title says University Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-10-01",
-      "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
-      "official_source": false,
-      "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027",
-      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Loading job search and filters Company Role Location Posted Level Category Apply Nvidia Software Engineer, Collective Communication and Network Performance Santa Clara, CA +1 more 1h ago Mid Level Software Engineering Apply Nvidia Senior AI Research Engineer, Agentic Systems Intelligence Santa Clara, CA +5 more 1h ago Senior Level Software Engineering Apply Nvidia Senior DSX Engineer Santa Clara, CA +2 more 1h ago Senior Level Software Engineering Apply Nvidia Senior Engineer, Open Source Software Tooling - DGX Cloud Santa Clara, CA +2 more 1h ago Senior Level Software Engineering Apply Baker Hughes Engineering Professional - Mechanical Tamil Nadu, IN 1h ago Not Specified Other Apply Thermo Fisher Scientific Project Assistant II Remote KY 1h ago Mid Level Healthcare Apply S&P Global Senior Program Manager, Customer Experience New York, NY 1h ago Senior Level Product Apply RTX Analyst - Contracts Ka, IN 1h ago Mid Level Other Apply Cadence Software Engineering Group Director AUSTIN 2h ago Senior Level Software Engineering Apply CVS Health Pharmacy Intern - Grad Corvallis, OR 2h ago Internship Healthcare Apply Nvidia 1h ago Software Engineer, Collective Communication and Network Performance Santa Clara, CA +1 more Mid Level Software Engineering Apply Now Nvidia 1h ago Senior AI Research Engineer, Agentic Systems Intelligence Santa Clara, CA +5 more Senior Level Software Engineering Apply Now Nvidia 1h ago Senior DSX Engineer Santa Clara, CA +2 more Senior Level Software Engineering Apply Now Nvidia 1h ago Senior Engineer, Open Source Software Tooling - DGX Cloud Santa Clara, CA +2 more Senior Level Software Engineering Apply Now Baker Hughes 1h ago Engineering Professional - Mechanical Tamil Nadu, IN Not Specified Other Apply Now Thermo Fisher Scientific 1h ago Project Assistant II KY Mid Level Healthcare Remote Apply Now S&P Global 1h ago Senior Program Manager, Customer Experience New York, NY Senior Level Product Apply Now RTX 1h ago Analyst - Contracts Ka, IN Mid Level Other Apply Now Cadence 2h ago Software Engineering Group Director AUSTIN Senior Level Software Engineering Apply Now CVS Health 2h ago Pharmacy Intern - Grad Corvallis, OR Internship Healthcare Apply Now Loading job results summary Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 5,
-      "machine_score": 100,
-      "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: LLM inference / serving, systems scheduling / planning; skills: C++, Python, Compilers; role shape: systems/performance role; new-grad: confirmed",
       "company_priority": "Tier A",
       "company": "NVIDIA",
@@ -163,7 +138,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 6,
+      "machine_rank": 5,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; best track: Applied LLM / Agents; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Kubernetes; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
@@ -188,7 +163,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 7,
+      "machine_rank": 6,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Quant watchlist; best track: Quant / Performance SWE; resume overlap: GPU communication / performance, distributed training / parallelism; skills: Python; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -213,7 +188,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 8,
+      "machine_rank": 7,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; new-grad: likely",
@@ -238,7 +213,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 9,
+      "machine_rank": 8,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "best track: Distributed / Systems; resume overlap: LLM inference / serving, profiling / performance modeling; skills: Python, Linux, Networking, Kubernetes; role shape: systems/performance role",
@@ -263,7 +238,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 10,
+      "machine_rank": 9,
       "machine_score": 100,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: GPU communication / performance, systems scheduling / planning; skills: C++, Python, Linux, CUDA; role shape: early-career SWE",
@@ -288,7 +263,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 11,
+      "machine_rank": 10,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Distributed / Systems; resume overlap: profiling / performance modeling, production LLM agents / tools; skills: C++, Python, Kubernetes; role shape: early-career SWE; new-grad: confirmed; $200k+ stated ceiling",
@@ -313,7 +288,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 12,
+      "machine_rank": 11,
       "machine_score": 95,
       "machine_tier": "Top",
       "machine_reason": "⚠ Possible prior application at this company; verify the applicant portal before applying.; Tier A watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python, Distributed Systems, Networking; role shape: early-career SWE; new-grad: confirmed; PhD requirement penalty",
@@ -338,7 +313,7 @@
       "review_status": "Needs semantic review + application check"
     },
     {
-      "machine_rank": 13,
+      "machine_rank": 12,
       "machine_score": 94,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: Linux, Networking; role shape: systems/performance role, early-career SWE; new-grad: confirmed",
@@ -363,7 +338,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 14,
+      "machine_rank": 13,
       "machine_score": 93,
       "machine_tier": "Top",
       "machine_reason": "Tier A watchlist; best track: Performance / Runtime; resume overlap: GPU communication / performance, production LLM agents / tools; skills: C++, Python, CUDA, Compilers; role shape: systems/performance role; new-grad: confirmed; PhD requirement penalty",
@@ -388,7 +363,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 15,
+      "machine_rank": 14,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "Tier B watchlist; best track: Distributed / Systems; resume overlap: systems scheduling / planning; skills: C++, Python, Networking; role shape: early-career SWE; new-grad: confirmed",
@@ -413,7 +388,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 16,
+      "machine_rank": 15,
       "machine_score": 91,
       "machine_tier": "Top",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: C++, Python, Linux, Networking; new-grad: confirmed",
@@ -438,32 +413,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 17,
-      "machine_score": 83,
-      "machine_tier": "Strong",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: Python; role shape: entry-level ML role; downrank: generic CRUD/backend; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Ryan",
-      "role": "Full Stack AI Engineer - May 2027 Grads",
-      "category": "AI / Machine Learning",
-      "location": "Atlanta, GA, United States",
-      "salary": "$150K/yr - $255K/yr",
-      "salary_max_annual": 255000,
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says New Grad",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-24",
-      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
-      "official_source": false,
-      "url": "https://jobright.ai/jobs/info/6b05db61d43f730eab596c67",
-      "jd_excerpt": "Full Stack AI Engineer - May 2027 Grads @ Ryan | Jobright.ai SIGN IN JOIN NOW Full Stack AI Engineer - May 2027 Grads jobs in United States Overview Company This job has closed. APPLY to similar jobs Ryan · 3 hours ago Full Stack AI Engineer - May 2027 Grads Atlanta, GA Full-time Onsite New Grad $150K/yr - $255K/yr Ryan is hiring an entry-level Full Stack AI Engineer to build and deploy end-to-end applications incorporating generative AI, large language models, and AI agents. The role works with clients and business stakeholders across the development lifecycle to deliver and improve software that addresses business challenges and produces measurable value. Legal Consulting Finance Property & Casualty Insurance Accounting Compliance Financial Services Risk Management Tax Consulting Growth Opportunities H1B Sponsor Likely Responsibilities Delivers AI-powered, full-stack software solutions in coordination with end users and business professionals Serves as a technical point of contact for clients, building strong relationships with both technical and non-technical stakeholders Shares insights and best practices from client engagements to improve internal tools, playbooks, and direction Collaborates with business professionals and customers to understand their needs and challenges, and to help identify high-value use cases for AI-powered software Contributes to the end-to-end delivery of AI-powered, full-stack software solutions, including discovery, scoping, system design, development, and rollout to real users Builds and deploys full-stack applications with generative AI engineered into the software, such as LLM-based workflows and agent-based systems within client infrastructure Works within client and business environments to support successful adoption, performance, and measurable business outcomes Delivers AI-powered software that serves real users, addresses real-world problems, and generates tangible ROI Supports continuous improvement by iterating on deployed solutions and optimizing performance and user adoption Balances speed, scope, and quality to ensure timely and effective delivery of high-impact projects Makes extensive use of AI-assisted coding and engineering workflows to deliver scalable, performant software May directly supervise employees and carry out supervisory responsibilities in accordance with the Firm's policies and applicable laws Qualification Full-Stack Development Python TypeScript/JavaScript React Node.js FastAPI HTTP/REST APIs Git System Architecture Generative AI and Large Language Models AI Agent Frameworks LangChain AI Agent Frameworks LangGraph AI Agent Frameworks AutoGen Required recent graduates with a strong foundation in software engineering and an interest in building real-world applications powered by generative AI recent graduates who are curious, self-motivated, and excited to work with emerging technologies in a fast-paced, collaborative environment Successful candidates will bring strong programming fundamentals, a problem-solving mindset, and an eagerness to learn A bachelor's or master's degree in computer science, Engineering, AI/ML, or a related field with a strong overall GPA A foundation in software engineering, with exposure to machine learning or solutions engineering environments Exposure to, or strong interest in, integrating generative AI including large language models and agent frameworks into applications that serve users Familiarity with, or demonstrated interest in, building agent-based solutions using frontier language models Proficiency in at least one general-purpose programming language, such as Python or TypeScript/JavaScript Demonstrated experience building a full-stack application end to end—for example, a component-based front end (such as React) backed by an API service (such as a Node/TypeScript or Python/FastAPI backend) A solid grasp of engineering fundamentals: HTTP/REST APIs, data modeling and databases, version control (Git), testing, and debugging Conceptual familiarity with system architecture and cloud platforms (e.g., AWS, Azure, or GCP), and a general understanding of what it takes to make an application available to real users - that is, serving people other than yourself, not just running on your own machine. Hands-on experience is not required Experience integrating, or a strong interest in integrating, generative AI into applications, including large language models, agent frameworks (e.g., LangChain, LangGraph, AutoGen, or similar), and vector databases Familiarity with AI-assisted (“agentic”) coding tools such as Claude Code or Codex Valid driver's license required Preferred Client-facing or consulting-style experience is a plus Benefits Hybrid and remote work options, depending on the role Health, dental, and vision coverage effective on your first day for you and your eligible dependents 14 weeks of 100% paid leave for new parents, including adoption, plus access to a fertility assistance program Generous paid time off E",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 18,
+      "machine_rank": 16,
       "machine_score": 85,
       "machine_tier": "Strong",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -488,7 +438,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 19,
+      "machine_rank": 17,
       "machine_score": 89,
       "machine_tier": "Top",
       "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: C++, Python; new-grad: confirmed; $200k+ stated ceiling",
@@ -513,7 +463,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 20,
+      "machine_rank": 18,
       "machine_score": 83,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: C++, Python; new-grad: confirmed",
@@ -538,7 +488,32 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 21,
+      "machine_rank": 19,
+      "machine_score": 82,
+      "machine_tier": "Strong",
+      "machine_reason": "best track: Applied LLM / Agents; resume overlap: systems scheduling / planning; skills: C++, Python, PyTorch; role shape: entry-level ML role; new-grad: confirmed",
+      "company_priority": "",
+      "company": "Pinterest",
+      "role": "University Grad Machine Learning Engineer 2027 (Toronto)",
+      "category": "AI / Machine Learning",
+      "location": "Toronto, ON",
+      "salary": "$135,000—$162,000",
+      "salary_max_annual": "162000",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says University Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-10-01",
+      "source": "GitHub:zapplyjobs/Canada-Jobs-2027:README.md",
+      "official_source": false,
+      "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8138065?s=gh-canada-jobs-2027",
+      "jd_excerpt": "Latest Entry-Level & New Grad Jobs â Apply in Seconds | Zapply Latest Jobs Community Need Help Blog Sign In Latest Jobs Community Need Help Blog Sign In Find Your Dream Job â Latest Entry-Level & New Grad Job Listings Find Your | Fresh opportunities updated daily. Step into the big leagues. Entry-level, new grad & internship roles from verified employers â updated daily.\n          Apply in seconds with our free Chrome extension . Loading job search and filters Company Role Location Posted Level Category Apply Controlled Contamination Services Data Center Day Porter Austin, TX Just now Not Specified Other Apply Northrop Grumman Sr. Staff Ground Segment Development Lead San Diego, CA Just now Senior Level Other Apply KLA Customer Support Engineer Richardson, TX 1h ago Mid Level Hardware Engineering Apply Google Senior Software Engineer, Gemini Inference United States 1h ago Senior Level Software Engineering Apply Abbott Assembler I Temecula, CA 1h ago Entry Level Other Apply Morgan Stanley Client Success Manager, Associate Sandy, UT 1h ago Senior Level Finance Apply Micron Technology Front End Procurement Supplier Development Manager - Technology Development Pathfinding Materials Boise, ID 1h ago Senior Level Supply Chain / Logistics Apply TD Bank Relationship Banker I - Morristown - Bilingual (Spanish) Morristown, NJ 1h ago Entry Level Finance Apply TD Bank Associate Banker I - Livingston (30 Hour) Livingston, NJ 1h ago Entry Level Finance Apply JLL Professional, Health, Safety, Security & Environment Chennai, TN 1h ago Senior Level Operations Apply Controlled Contamination Services Just now Data Center Day Porter Austin, TX Not Specified Other Apply Now Northrop Grumman Just now Sr. Staff Ground Segment Development Lead San Diego, CA Senior Level Other Apply Now KLA 1h ago Customer Support Engineer Richardson, TX Mid Level Hardware Engineering Apply Now Google 1h ago Senior Software Engineer, Gemini Inference United States Senior Level Software Engineering Apply Now Abbott 1h ago Assembler I Temecula, CA Entry Level Other Apply Now Morgan Stanley 1h ago Client Success Manager, Associate Sandy, UT Senior Level Finance Apply Now Micron Technology 1h ago Front End Procurement Supplier Development Manager - Technology Development Pathfinding Materials Boise, ID Senior Level Supply Chain / Logistics Apply Now TD Bank 1h ago Relationship Banker I - Morristown - Bilingual (Spanish) Morristown, NJ Entry Level Finance Apply Now TD Bank 1h ago Associate Banker I - Livingston (30 Hour) Livingston, NJ Entry Level Finance Apply Now JLL 1h ago Professional, Health, Safety, Security & Environment Chennai, TN Senior Level Operations Apply Now Loading job results summary Frequently Asked Questions What types of jobs does Zapply list? We list entry-level, new grad, and internship roles across tech, marketing, design, finance, and more. Our listings include positions at FAANG companies, Fortune 500s, and fast-growing startups. How often are new jobs added? Our job board is updated daily with fresh listings. We pull roles from verified sources and remove outdated or ghost postings to make sure every listing you see is real and active. Can I filter jobs by location or remote work? Yes. You can filter by company, location, experience level, category, and whether the role is remote. You can also search by keyword to find specific roles or companies. Do I need to create an account to browse jobs? No â you can browse and search all job listings without an account. You only need to sign up if you want to use the Zapply autofill extension to apply faster. How does the Zapply autofill extension work? Install the free Chrome extension, add your resume and profile details once, then click the Zapply icon on any job application page. It autofills the entire form in seconds â including custom questions and dropdown menus. Is Zapply free to use? Yes, Zapply is completely free for job seekers. Browsing jobs, using the autofill extension, and joining our community all cost nothing. Does Zapply support H-1B visa sponsorship filtering? Yes. You can filter job listings to show only roles from companies that offer H-1B visa sponsorship, making it easier to find opportunities if you need work authorization support. What makes Zapply different from other job boards? Zapply combines a curated job board with a one-click autofill extension. Instead of manually filling out the same information on every application, you apply in seconds. Plus, our community of students and new grads provides support and advice throughout your job search. Request an AI summary of Zapply Discover Dashboard Hot Jobs Community Blogs Behind the Scenes Our Story Join Our Team Need Help? Terms of Use Privacy Promise Sigma and all other company names and logos shown are trademarks of their respective owners, displayed only to demonstrate Zapply working on real application sites. No affiliation, sponsorship, or endorsement is implied. 2026 Zapply, all rights reserved",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 20,
       "machine_score": 82,
       "machine_tier": "Strong",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, profiling / performance modeling; skills: Python; new-grad: likely",
@@ -558,6 +533,31 @@
       "official_source": false,
       "url": "https://www.akunacapital.com/careers/job/8036541?gh_jid=8036541",
       "jd_excerpt": "Akuna Capital Analytics cookies We use analytics cookies to improve the site and a security cookie to protect it. Change your analytics choice anytime in Cookie Preferences. About cookies Accept Accept once Decline About cookies We use analytics cookies to improve the site. We never use them for advertising. A security cookie protects the site and runs whatever you choose. Accept Analytics on. We remember your choice for six months. Accept once Analytics for this visit only. We'll ask again next time. Decline No analytics for six months. The security cookie still runs. Change your choice anytime in Cookie Preferences. See our Privacy Policy . Back WHO WE ARE WHAT WE DO WORK WITH US EXPLORE CAREERS TECHNOLOGY TRADING QUANT OPERATIONS Akuna Capital is a leading proprietary trading firm specializing in options market making. WHAT WE DO → EXPERIENCED EARLY CAREERS INTERNSHIPS LIFE AT AKUNA OPTIONS 101 TALENT COMMUNITY We provide our employees with endless opportunities for individual growth and ownership. WORK WITH US → Who We Are What We Do What Akuna Does Technology Trading Quant Operations Work With Us Work With Akuna Experienced Early Careers Internships Life at Akuna Options 101 Talent Community EXPLORE CAREERS // Quant Junior Quantitative Researcher Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore. What you’ll do as a Junior Quantitative Researcher at Akuna: Akuna’s Quant team is looking to add Junior Quant Researchers to a team of mathematicians, statisticians, and technologists. This team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role you will: Develop trading strategies using statistical and machine learning algorithms. Design and implement optimization algorithms for portfolio construction. Develop quantitative models describing market behavior. Advance existing initiatives and explore opportunities for new research topics. Qualities that make great candidates: Bachelors, masters, or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject) must be completed upon employment Expertise in statistics and machine learning Experience building mathematical models for complex real-world problems Intermediate programming skills in Python The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Financial experience is not a requirement Must be graduating August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application for this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC. >_ Apply Now Who We Are What We Do Technology Tradin",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 21,
+      "machine_score": 77,
+      "machine_tier": "Strong",
+      "machine_reason": "Quant watchlist; best track: Quant / Performance SWE; resume overlap: profiling / performance modeling, systems scheduling / planning; skills: Python, Networking; new-grad: confirmed",
+      "company_priority": "Quant",
+      "company": "Two Sigma",
+      "role": "Quantitative Trader - Full-Time Campus Hire",
+      "category": "Quantitative Finance",
+      "location": "New York",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says Campus Hire",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-26",
+      "source": "GitHub:quant-scraper/Quant-Internships-New-Grad-2027:README.md",
+      "official_source": false,
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440",
+      "jd_excerpt": "Quantitative Trader - Full-Time Campus Hire - New York - Two Sigma Careers Open navigation Expanded hamburger menu for Two Sigma's site navigation Close navigation Search for Clear search About Us Businesses Investment Management Securities Real Estate Sightway Capital Insights Topics Data Science Engineering Markets & Economy News & Culture Careers Internships Engineering Quantitative Research & Data Science Open Roles Contact Us Investor Hub Skip to content Careers Portal Career Portal Open Roles Events Login Quantitative Trader - Full-Time Campus Hire Location NY New York United States Business Investment Management Function Quantitative Research Experience Level Early Careers Apply Share this job Email LinkedIn Position Summary Two Sigma is a financial sciences company, combining data analysis, invention, and rigorous inquiry to help solve the toughest challenges in investment management, insurance technology, securities, private equity, and venture capital. Our team of scientists, technologists, and academics looks beyond the traditional to develop creative solutions to some of the world’s most complex economic problems. Two Sigma Securities Two Sigma Securities brings a scientific approach to systematic trading and risk management to make markets more efficient. Two Sigma Securities is entering an exciting growth phase. We value the insights of our colleagues and encourage them to innovate and shape their own work agenda. New joiners use our proprietary platform to work on diverse projects. From building next generation trading technologies and researching novel AI and machine learning techniques to enhancing our strategies and deploying automation, our team is pushing the frontier in systematic trading. Your career at Two Sigma Securities will start with a combination of a rigorous training led by seasoned traders and engineers and on-desk experience working closely with other experienced professionals.  Throughout this process, you will learn about many different aspects of securities pricing, market structure, risk management, and overall quantitative trading approaches.  This role is a great opportunity for a self-starter to make a meaningful impact on the business. You will take on the following responsibilities: Continuously iterate and improve performance of our state of the art trading systems by: Oversee portfolio operations for the trading and research platforms supporting equity, futures, and ETF options. Work closely with quantitative researchers to better understand portfolio risks and develop systematic strategies for pricing and risk management Work with the Risk team to guide portfolio through market stress events Help build analytical tools to better understand our trading activities and the market opportunities Develop processes around data assimilation and analysis to create insight into the firm’s trading and generate ideas for system improvement Analyze low latency market microstructure data to gain insight into how our tactics interact with the market and how to improve them further Drive platform innovation and experimentation with emerging hardware and software solutions in order to improve performance and eliminate system bottlenecks Drive technology adoption across our networking, market data and FPGA teams, helping to direct and prioritize development work You should possess the following qualifications: A degree in an analytical or quantitative discipline such as statistics, mathematics, physics, electrical engineering, or computer science Excellent analytical and mathematical skills Ability to perform data analysis in Python or another quantitative programming environment Thrives in a highly dynamic and fast paced environment Displays an ability to manage uncertainty and has strong decision making skills even with sometimes incomplete information You will enjoy the following benefits: Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, competitive 401k match, employer-paid life & disability insurance Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms Learning: Tuition reimbursement, conference and training sponsorship Time Off: Generous vacation and unlimited sick days, competitive paid caregiver leaves The base pay for this role will be $250,000. This role may also be eligible for other forms of compensation and benefits, such as a discretionary bonus, health, dental and other wellness plans and 401(k) contributions. Discretionary bonus can be a significant portion of total compensation. Actual compensation for successful candidates will be carefully determined based on a number of factors, including their skills, qualifications and experience. We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a di",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -839,25 +839,25 @@
     },
     {
       "machine_rank": 33,
-      "machine_score": 64,
+      "machine_score": 61,
       "machine_tier": "Consider",
-      "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning, production LLM agents / tools; skills: Python; new-grad: likely",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role, early-career SWE; new-grad: confirmed",
       "company_priority": "",
-      "company": "AbbVie",
-      "role": "Associate Data Scientist II – Early Discovery Science",
+      "company": "Scout AI",
+      "role": "New Grad 2027: AI Engineer, AI/ML and Agent Harnessing",
       "category": "AI / Machine Learning",
-      "location": "North Chicago, IL",
-      "salary": "USD 65500 - USD 125500",
-      "salary_max_annual": 125500,
-      "ng_confidence": "Likely",
-      "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
+      "location": "Sunnyvale, CA",
+      "salary": "Not listed",
+      "salary_max_annual": "",
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "title says New Grad",
       "sponsorship": "Unknown",
       "phd_required": "No",
-      "posted_date": "2026-11-25",
+      "posted_date": "2026-11-26",
       "source": "GitHub:Tar-ive/ML_Newgrad_2027:README.md",
       "official_source": false,
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990017066596",
-      "jd_excerpt": "AbbVie Associate Data Scientist II – Early Discovery Science | SmartRecruiters Google Chrome Microsoft Edge Apple Safari Mozilla Firefox Associate Data Scientist II – Early Discovery Science Full-time Salary Min: 65500 Salary Max: 125500 Workday Global Grade: 14 Travel: Yes, 5% of the Time Compensation: USD 65500 - USD 125500 - yearly Company Description About AbbVie AbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com . Follow @abbvie on LinkedIn, Facebook , Instagram , X and YouTube. Job Description The Global Research, Informatics & Platform Solutions team within the Information Research (IR) Division partners with scientists and research organizations across AbbVie to unlock the value of scientific data. By enabling effective management, integration, and use of high-quality research data and delivering informatics platforms and decision-support capabilities, the team helps transform complex scientific information into actionable insights that accelerate discovery, strengthen scientific decision-making, and improve the efficiency and effectiveness of research and development. The role serves as a key bridge of expertise between laboratory scientists and technology teams and is responsible for defining, stewarding, and expanding our bioassay knowledge graph, translating scientific workflows into data solutions, and building data visualizations/AI-enabled solutions that accelerate drug discovery. Responsibilities: Perform assigned technical and analytic tasks using established methods and tools, select appropriate approaches for routine problems, document methods and results, and escalate novel or ambiguous issues. Execute defined data extraction, transformation, and loading tasks using established tools and scripts. Perform data cleaning and preprocessing on moderately complex datasets to prepare for analysis and modeling. Conduct basic exploratory data analysis, including generating summary statistics and visualizations to identify trends and anomalies. Assist in developing and validating simple statistical models and algorithms under guidance. Write and run SQL queries (basic queries, table creation, views, and reporting) to extract, join, and prepare data for analysis and reporting. Build dashboards, visualizations, and analyses in standard analytics platforms (e.g., Spotfire, Power BI, Tableau) using established templates and guidance. Apply statistical and data mining techniques to scientific datasets, including bioassay data, and interprets results under guidance. Support data flow and architecture work, including ETL pipelines, and helps troubleshoot workflows. Partner with R&D scientists to understand data needs, and support scientific engagement and user training on delivered solutions. Document data workflows, analysis procedures, and experimental results clearly and accurately for team review. Deliver reliable outputs for assigned work and small projects, ensure acceptance criteria and compliance, documents methods, communicate progress and escalate high‑impact issues to project leads. Qualifications Required: Bachelor's Degree and 2 years of experience; Master's Degree and 0 years of experience. Background in a life sciences industry and data science. Strong programming proficiency in Python required. SQL skills (basic queries, table creation, views, and reporting) Knowledge of statistical and data mining techniques Working knowledge of data flow/architecture and ETL Working knowledge of drug discovery and development process Ability to work independently and within timelines in a fast-paced environment, managing multiple priorities effectively. Addresses routine and some non-routine problems; communicates progress and results to supervisors. Outstanding verbal, written and interpersonal skills for cross-functional collaboration, including proofreading, editing, and formatting technical documentation, and documenting and presenting technical solutions to non-technical stakeholders. A self-motivated learner and thinker with a hands-on approach Preferred: Demonstrated technical proficiency in the pharmaceutical industry highly preferred. Familiarity with data visualization and pipelining tools such as Spotfire, Power BI, Tableau, or similar Working knowledge of bioassay analysis. Familiarity with GitHub or other version control tools. Additional Information Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it wi",
+      "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application",
+      "jd_excerpt": "AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) @ Scout AI You need to enable JavaScript to run this app.",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -889,6 +889,31 @@
     },
     {
       "machine_rank": 35,
+      "machine_score": 59,
+      "machine_tier": "Consider",
+      "machine_reason": "best track: Applied LLM / Agents; role shape: entry-level ML role; downrank: generic CRUD/backend; new-grad: confirmed; $200k+ stated ceiling",
+      "company_priority": "",
+      "company": "Ryan",
+      "role": "Full Stack AI Engineer - May 2027 Grads",
+      "category": "AI / Machine Learning",
+      "location": "Atlanta, GA, United States",
+      "salary": "$150K/yr - $255K/yr",
+      "salary_max_annual": 255000,
+      "ng_confidence": "Confirmed",
+      "ng_evidence": "posting says New Grad",
+      "sponsorship": "Unknown",
+      "phd_required": "No",
+      "posted_date": "2026-11-24",
+      "source": "GitHub:jobright-ai/2026-Engineering-New-Grad:README.md",
+      "official_source": false,
+      "url": "https://jobright.ai/jobs/info/6b05db61d43f730eab596c67",
+      "jd_excerpt": "",
+      "application_match": "None",
+      "application_note": "",
+      "review_status": "Needs semantic review"
+    },
+    {
+      "machine_rank": 36,
       "machine_score": 71,
       "machine_tier": "Consider",
       "machine_reason": "best track: Applied LLM / Agents; skills: Python; role shape: entry-level ML role; new-grad: confirmed; $200k+ stated ceiling",
@@ -913,7 +938,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 36,
+      "machine_rank": 37,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; skills: Python, PyTorch; role shape: early-career SWE; new-grad: confirmed",
@@ -938,7 +963,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 37,
+      "machine_rank": 38,
       "machine_score": 65,
       "machine_tier": "Consider",
       "machine_reason": "best track: Performance / Runtime; role shape: systems/performance role, entry-level ML role",
@@ -963,7 +988,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 38,
+      "machine_rank": 39,
       "machine_score": 63,
       "machine_tier": "Consider",
       "machine_reason": "best track: Quant / Performance SWE; resume overlap: systems scheduling / planning; role shape: early-career SWE; new-grad: confirmed",
@@ -988,7 +1013,7 @@
       "review_status": "Needs semantic review"
     },
     {
-      "machine_rank": 39,
+      "machine_rank": 40,
       "machine_score": 59,
       "machine_tier": "Consider",
       "machine_reason": "Quant watchlist; resume overlap: systems scheduling / planning; new-grad: confirmed; $200k+ stated ceiling",
@@ -1008,31 +1033,6 @@
       "official_source": false,
       "url": "https://www.optiver.com/join-us/jobs/8843445002?gh_jid=8843445002",
       "jd_excerpt": "",
-      "application_match": "None",
-      "application_note": "",
-      "review_status": "Needs semantic review"
-    },
-    {
-      "machine_rank": 40,
-      "machine_score": 59,
-      "machine_tier": "Consider",
-      "machine_reason": "best track: Applied LLM / Agents; resume overlap: production LLM agents / tools; skills: C++; downrank: generic CRUD/backend; new-grad: confirmed",
-      "company_priority": "",
-      "company": "Flexi",
-      "role": "Junior Full-Stack Software Engineer",
-      "category": "Software Engineering",
-      "location": "Atlanta, GA",
-      "salary": "Not listed",
-      "salary_max_annual": "",
-      "ng_confidence": "Confirmed",
-      "ng_evidence": "posting says entry-level",
-      "sponsorship": "Unknown",
-      "phd_required": "No",
-      "posted_date": "2026-11-17",
-      "source": "GitHub:speedyapply/2027-SWE-College-Jobs:NEW_GRAD_USA.md",
-      "official_source": false,
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4589460",
-      "jd_excerpt": "Flexi - Junior Full-Stack Software Engineer In order to use this site, it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser . All Jobs > Flexi > Junior Full-Stack Software Engineer Flexi Apply Junior Full-Stack Software Engineer Atlanta, GA Apply Description Flexi Software is hiring Junior and entry-level Full-Stack Software Engineers to help build the next generation of our platform. You will work across C# services and modern web front ends built with Node.js, React, and Next.js, backed by Microsoft SQL Server, and you will build, test, and deliver enterprise-grade software for financial institutions. We are looking for engineers who embrace an AI-empowered software development lifecycle. At Flexi, AI is part of how we design, code, review, test, and document. You will work with agentic tools every day, and you will learn to direct them with good judgment, verify what they produce, and hold the result to the standards our banking, insurance, and financial services customers depend on. Your primary focus will be delivering our next-generation web platform. On a limited basis, you may also work on Flexi's legacy Windows desktop solutions in C++ and C#, which gives you broad exposure to how enterprise software evolves. This role is a strong starting point for an early-career engineer who wants to grow quickly, learn from experienced engineers, and ship real software at scale. This is a hybrid position, working in person with the team in our Atlanta, GA office. About Flexi Flexi Software has been a trusted provider of accounting solutions for over 30 years, offering both cloud-based and on-premise software purpose-built for organizations with the most complex accounting requirements — multi-entity and intercompany accounting at scale. Our comprehensive suite includes modules like General Ledger, Accounts Payable, Accounts Receivable, Purchasing, Fixed Asset Management, Project Accounting, Workflow Automation, Financial Reporting, and Budget Software. Serving industries including banking, insurance, financial services, credit unions, healthcare, and business process outsourcing, Flexi is renowned for its robust features, flexible deployment options, and exceptional customer support. In January 2025, Flexi was acquired by Quality Standard, a permanent capital holding company  that acquires and grows fintech and govtech software businesses with a long-term ownership  mindset.  Quality Standard is actively investing in Flexi's people, product, and operations. Flexi's office is located in Atlanta, GA. Quality Standard is headquartered in New York, NY. Roles and Responsibilities Build, test, and deliver full-stack features for Flexi's next-generation platform, working across C# back-end services and APIs and Node.js, React, and Next.js front ends Write clean, maintainable, well-tested code, including unit and integration tests, as part of every change you ship Work with Microsoft SQL Server: write queries and stored procedures, design tables, and learn to tune for application and      database performance Use AI coding assistants and agentic workflows daily across design, coding, code review, testing, and documentation, and learn      to direct them effectively Review and verify AI-generated code with care, owning correctness, security, and quality for everything you commit Take part in code reviews, both giving and receiving feedback, to build skill and uphold team standards Contribute to CI/CD pipelines, automated testing, and release practices so changes move to production safely and often Build with the security, reliability, and data integrity expected of enterprise financial software, including input validation, error handling, and audit-friendly design Investigate and resolve defects, tracing issues across the front end, services, and database Write and maintain technical documentation, including API documentation and developer notes Partner with Product, QA, and senior engineers to turn requirements into shipped customer-facing software Contribute on a limited basis to Flexi's legacy Windows desktop solutions in C++ and C#, while next-generation web platform      delivery remains your primary focus, and learn how the new platform integrates with these existing products and our DevOps environment Grow your skills through mentorship, pairing, and regular feedback, and share what you learn about AI-assisted development      with the team Requirements Bachelor's degree in Computer Science, Software Engineering, or a related technical field — or equivalent practical      experience, such as a bootcamp, internship, or substantial project work 0–3 years of professional software development experience; internships and strong personal or academic projects count Working knowledge of C# and the .NET platform, including object-oriented programming fundamentals, and a willingness to      work in legacy C++ and C# Windows desktop code on a limited basis Working know",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
@@ -1073,7 +1073,7 @@
       "category": "Other",
       "location": "San Jose, CA +1",
       "salary": "$70,000 – $150,000",
-      "salary_max_annual": 150000,
+      "salary_max_annual": "150000",
       "ng_confidence": "Likely",
       "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
       "sponsorship": "Unknown",
@@ -1482,7 +1482,7 @@
       "source": "GitHub:quant-scraper/Quant-Internships-New-Grad-2027:README.md",
       "official_source": false,
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
-      "jd_excerpt": "",
+      "jd_excerpt": "job Careers AI/ML Technology Trading Signals Research & Programs Travel Grants Fellowship Program Join Our Team Join Us Open Position / Experienced Roles Student & New Grad Roles / Open Position Whoops. Error loading this job posting. ‍ Please contact info@jumptrading.com to confirm the role is still open and ensure we receive your application. Location Job Type Beware of Scams Emails from our team will always come from @ jumptrading.com . We’ll never ask for banking details or payment. If you’re unsure whether a message is legitimate, feel free to reach out at recruitingsecurity@jumptrading.com , we’re happy to confirm. We invest in what’s next. Then we build it. Join Our Team Contact info@jumptrading.com mediainquiries@jumptrading.com Research & Programs Conference Travel Grants Fellowship Program Our Work AI/ML Technology Trading Signals Careers Join Us Network Jump Crypto Jump Capital Fraud & Scam Alert Policies Disclosures Bug Bounties ©Jump Trading, All rights reserved",
       "application_match": "None",
       "application_note": "",
       "review_status": "Needs semantic review"
