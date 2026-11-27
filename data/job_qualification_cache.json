@@ -2563,6 +2563,38 @@
     "checked_at": "2026-11-20",
     "parser_version": 4
   },
+  "https://apply.careers.microsoft.com/careers/job/1970393557050055": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$168k/yr",
+    "salary_min_annual": "168000",
+    "salary_max_annual": "168000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393557053974": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$168k/yr",
+    "salary_min_annual": "168000",
+    "salary_max_annual": "168000",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://apply.workable.com/315/j/CAC111C86E": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -12321,6 +12353,22 @@
     "checked_at": "2026-11-20",
     "parser_version": 4
   },
+  "https://careers.qualcomm.com/careers/job/446721803210": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://careers.qualcomm.com/careers/job/446721916659": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -12335,6 +12383,38 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-11-20",
+    "parser_version": 4
+  },
+  "https://careers.qualcomm.com/careers/job/446722197774": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
+  "https://careers.qualcomm.com/careers/job/446722230518": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://careers.roblox.com/jobs/8072244?gh_jid=8072244": {
@@ -37922,7 +38002,7 @@
     "salary_max_annual": 123000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-11-05",
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6a95fac09fcec54423730908": {
@@ -47426,7 +47506,7 @@
     "salary_max_annual": 90000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-09-23",
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6ab30ac9326574570a004b41": {
@@ -53285,6 +53365,22 @@
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
+  "https://jobright.ai/jobs/info/6ad24915f04335fc70ed451f": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "title says Entry-Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$74K/yr - $76K/yr",
+    "salary_min_annual": 74000,
+    "salary_max_annual": 76000,
+    "reject_reason": "maximum stated annual salary below $100k",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://jobright.ai/jobs/info/6ad2598d83ada13a9da05506": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "no explicit new-grad language; retained for review",
@@ -54578,7 +54674,7 @@
     "salary_max_annual": 80000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-11-14",
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6adbad2b389e06bb41ad34ab": {
@@ -54659,6 +54755,22 @@
     "reject_reason": "maximum stated annual salary below $100k",
     "source_fetched": true,
     "checked_at": "2026-11-14",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6adbe458389e06bb41ad4b9c": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "no explicit new-grad language; retained for review",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "No",
+    "visa_evidence": "No H1B",
+    "phd_required": "No",
+    "salary": "$90K/yr - $90K/yr",
+    "salary_min_annual": 90000,
+    "salary_max_annual": 90000,
+    "reject_reason": "no sponsorship",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6adc1d8e0a4cc7090f97624c": {
@@ -55570,7 +55682,7 @@
     "salary_max_annual": 88000,
     "reject_reason": "no sponsorship",
     "source_fetched": true,
-    "checked_at": "2026-11-07",
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6adfdd335dc7953215a43bf0": {
@@ -57539,6 +57651,22 @@
     "reject_reason": "citizenship/security-clearance requirement",
     "source_fetched": true,
     "checked_at": "2026-11-10",
+    "parser_version": 4
+  },
+  "https://jobright.ai/jobs/info/6af38495769e9374033c73cb": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says New Grad",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://jobright.ai/jobs/info/6af3864c7c81de7a524c0897": {
@@ -65907,6 +66035,22 @@
     "checked_at": "2026-11-08",
     "parser_version": 4
   },
+  "https://jobs.bytedance.com/en/position/7623548379708197125/detail": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "$218400 - $387600 annually",
+    "salary_min_annual": 218400,
+    "salary_max_annual": 387600,
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://jobs.bytedance.com/en/position/7626928937260665093/detail": {
     "ng_confidence": "Likely",
     "ng_evidence": "entry-level title plus new-grad source and 2027-cycle evidence",
@@ -73297,6 +73441,22 @@
     "checked_at": "2026-11-21",
     "parser_version": 4
   },
+  "https://lockheedmartin.eightfold.ai/careers/job/996478143379": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says entry-level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://lplfinancial.wd1.myworkdayjobs.com/en-US/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1": {
     "ng_confidence": "Confirmed",
     "ng_evidence": "title says New Grad",
@@ -76273,6 +76433,22 @@
     "checked_at": "2026-11-22",
     "parser_version": 4
   },
+  "https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
+    "parser_version": 4
+  },
   "https://omegahires.applytojob.com/apply/JZRH7loe5n/AI-Data-Engineer": {
     "ng_confidence": "Uncertain",
     "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
@@ -76287,6 +76463,22 @@
     "reject_reason": "",
     "source_fetched": false,
     "checked_at": "2026-11-22",
+    "parser_version": 4
+  },
+  "https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer": {
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry Level",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://omegahires.applytojob.com/apply/NiyO6vtZ33/Java-Developer-Specialized-Platforms-And-Integrations": {
@@ -86681,6 +86873,22 @@
     "reject_reason": "",
     "source_fetched": true,
     "checked_at": "2026-11-24",
+    "parser_version": 4
+  },
+  "https://www.amazon.jobs/jobs/10610227/apply": {
+    "ng_confidence": "Uncertain",
+    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "experience_requirement": "",
+    "citizenship_required": "Unknown",
+    "sponsorship": "Unknown",
+    "visa_evidence": "",
+    "phd_required": "No",
+    "salary": "Not listed",
+    "salary_min_annual": "",
+    "salary_max_annual": "",
+    "reject_reason": "",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://www.amazon.jobs/jobs/10610327/apply": {
@@ -97692,8 +97900,8 @@
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-analogdevices-external-R266633?s=gh-new-grad-software-engineering-jobs-2027": {
-    "ng_confidence": "Uncertain",
-    "ng_evidence": "third-party new-grad-list presence only; employer eligibility not verified",
+    "ng_confidence": "Confirmed",
+    "ng_evidence": "posting says Entry-Level",
     "experience_requirement": "",
     "citizenship_required": "Unknown",
     "sponsorship": "Unknown",
@@ -97703,8 +97911,8 @@
     "salary_min_annual": "",
     "salary_max_annual": "",
     "reject_reason": "",
-    "source_fetched": false,
-    "checked_at": "2026-11-15",
+    "source_fetched": true,
+    "checked_at": "2026-11-27",
     "parser_version": 4
   },
   "https://zapply.jobs/l/d/workday-arrowstreetcapital-campus-careers-R1555?s=gh-new-grad-data-science-jobs-2027": {
